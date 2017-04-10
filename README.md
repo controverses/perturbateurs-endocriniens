@@ -91,7 +91,7 @@ footer {background: #aaa;color:white;}
   
 <p>Cliquer sur les différents lieux de la maison! </p>
 
-<img src="Solution.maison.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:400px;height:500px;">
+<img src="Maisonsolution.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:400px;height:500px;">
 
 <p><strong> Comment s'en protéger? <p></strong>
 
