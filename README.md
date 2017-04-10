@@ -188,6 +188,23 @@ Les propriétés antibactérienne et antifongique du parabène en font un conser
 Aujourd’hui, on constate qu’il n’existe pas suffisamment de recherches sur les produits de substitution et que la plupart de ceux qui existent sont souvent aussi dangereux que les produits de base.  Ce manque peut être expliqué par la mauvaise volonté des industriels mais aussi des parlementaires européens. En effet, comme d’autres facteurs environnementaux peuvent également expliquer l’augmentation de certaines pathologies, les lobbies industriels empêchent les législateurs d’instaurer une réglementation plus stricte. Il y a quelques années, les députés français souhaitent interdire tout simplement les produits contenant des phtalates et des parabènes mais l’idée fut abandonnée sous la pression des industrielles de la chimie et du plastique. De plus, tant qu’il n’existe pas de produits de substitution satisfaisant il est très dur d’invoquer le principe de précaution et d’interdire les produits dangereux car cela entraînerait de grave répercussions sur l’économie du pays. Or on constate que les industriels rechignent souvent à investir dans le secteur Recherche et Développement dans le but de se préparer à une prochaine interdiction car cela est très coûteux. De plus, pourquoi investir dans la recherche de produit moins toxiques mais beaucoup moins efficaces tant qu’il n’existe pas de réglementation stricte? </p>
 <img src="Cycle.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:300px;">
 
+
+<p><strong>Peut-on les supprimer? <p></strong>  <br />
+<p>
+Il existe de nombreuses méthodes pour éliminer les perturbateurs endocriniens contenus dans l’eau. Philippe Bréant, directeur du programme Eau Potable à Veolia expliquait dans une conférence en janvier 2012 les différentes méthodes actuellement utilisées. <br />
+
+Au sein de l’Union Européenne, seule une partie des produits chimiques sont actuellement contrôlés mais la législation s’intensifie d’années en années. Une cinquantaine de paramètres, comme les bactéries (indiquant une contamination fécale), les pesticides et les nitrates, sont donc à surveiller obligatoirement. <br />
+
+La clarification est l’étape du cycle de l’eau qui permet d’éliminer les principales matières organiques dissoutes d’une eau brute. En fonction des polluants présents dans l’eau, les méthodes utilisées diffèrent. L’épuration de l’eau se termine par la filtration, qui permet de supprimer la plupart des perturbateurs endocriniens. 3 matériaux sont fréquemment utilisés: le sable (à base de silice qui permet la rétention des particules), l’anthracite (à base de carbone obtenu par calcination de matière végétale) et le charbon actif (également à base de carbone). 
+Toutefois, la filtration se fait de plus en plus au moyen de membranes. Cette technique est plus efficace mais elle reste onéreuse. 
+Les membranes sont utilisés pour réaliser une osmose inverse. <br />
+
+Explication de l’osmose: <br />
+Supposons qu’une membrane fine et semi-perméable sépare deux liquides. Les concentrations des deux solutions ne sont pas identiques de chaque côté de la paroi, créant ainsi une pression osmotique.  On observe alors un transfert de solvant de la solution la moins concentrée vers la solution la plus concentrée. En effet, la membrane va laisser passer le solvant pour équilibrer les concentrations. 
+
+L’osmose inverse consiste à inverser le passage du solvant en appliquant une pression supérieure à la pression osmotique du côté de la solution à traiter, c’est à dire, dans notre cas, l’eau brute. Cette technique permet de contenir les polluants (perturbateurs endocriniens) à l'extérieur de la paroi (à droite sur le schéma de droite ci-dessous) et d’obtenir une eau filtrée à gauche. </p>
+
+
 </body>
 </html>
 
