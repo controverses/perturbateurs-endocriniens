@@ -105,7 +105,7 @@ footer {background: #aaa;color:white;}
    
    <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">Ici</a> </p>
    
-  <p><strong>→Alimentation: <p></strong><br /> <p>
+  <p><strong>→Alimentation: <p></strong> <p>
 - Ne pas consommer de poissons grands prédateurs comme requin, espadon, mérou…trop pollués, ne pas consommer plus d’une fois par semaine les moyens prédateurs comme le thon et la daurade <br />
 
 - Ne jamais consommer de foies ou d’abats de bêtes non biologiques et leurs dérivés (foie gras, pâtés…). <br />
@@ -117,14 +117,13 @@ footer {background: #aaa;color:white;}
 - Ne pas utiliser les verres en polystyrène (un dérivé benzénique) pour les boissons chaudes.<br /> </p>
 
 <p><strong>→Médicaments et cosmétiques <p></strong> 
-<br /> 
 - Ne pas acheter de cosmétiques contenant des parabènes. <br />
 
 - Eviter les médicaments gastro-résistants <br />
 
 - Refuser les médicaments contenant du toluène – aussi reprotoxique -, en particulier plusieurs présentations courantes en France de vitamine D. <br />
  </p>
-  <p><strong>→Vêtements, Logements, produits ménagers, d’entretien, désodorisants: <p></strong>  <p><br /> 
+  <p><strong>→Vêtements, Logements, produits ménagers, d’entretien, désodorisants: <p></strong>  <p>
 - Réduire au maximum les contreplaqués et moquettes, tissus, qui contiennent des retardateurs de flamme et émettent des poussières, les poussières étant des concentrateurs de perturbateurs endocriniens qui sont ainsi inhalés.<br /> 
 
 - S’il y a une moquette : la nettoyer une fois par mois à la vapeur<br />
@@ -133,7 +132,7 @@ footer {background: #aaa;color:white;}
 
 - Exiger des pompes à essence un bouchon hermétique qui empêche d’inhaler les vapeurs d’essence car elles contiennent encore en France 1% de benzène, qui est génotoxique et augmente les risques de leucémies. <br />
 
-<p><strong>→Travail <p></strong>  <br /> <p>
+<p><strong>→Travail <p></strong>  <p>
 - Se renseigner auprès de la Médecine du Travail sur la présence ou non de perturbateurs endocriniens sur son lieu de travail et obtenir la qualité d’aération et de protection adaptée. <br /> </p>
 
 <p><strong> Comment s'en protéger? <p></strong>
@@ -181,7 +180,7 @@ Les propriétés antibactérienne et antifongique du parabène en font un conser
 <p><a href="http://www.consoglobe.com/geogard-221-alternative-aux-parabens-cg ">Plus d'informations sur ce lien.</a> </p>
 
 <p><strong> Remarque:<p></strong> 
-<p>dans les cosmétiques en particulier, une mention “sans paraben” ne garantit pas de l’absence de substances tout aussi dangereuse comme le methylisothiazolinone. </p>
+<p>Dans les cosmétiques en particulier, une mention “sans paraben” ne garantit pas de l’absence de substances tout aussi dangereuse comme le methylisothiazolinone. </p>
 
 <p><strong> Conclusion: <p></strong>  
 <p>
