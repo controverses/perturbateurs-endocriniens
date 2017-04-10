@@ -159,13 +159,13 @@ L’entreprise travail maintenant en partenariat avec Véolia, et a mis sur le m
 <p> <a href="http://eur-lex.europa.eu/resource.html?uri=cellar:5c835afb-2ec6-4577-bdf8-756d3d694eeb.0001.02/DOC_1&format=PDF">Directive européenne 2000/60/CE:  </a> </p>
 
 
-<p><strong> Peut-on les remplacer? <p></strong>
+<p><strong> Peut-on les remplacer? <p></strong> 
 <p>La première méthode pour se protéger des perturbateurs endocriniens consiste évidemment en une modification de nos habitudes de consomations et d’autres gestes simples disponibles sur <a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">ce lien.</a> </p>
 
 <p>
 Toutefois, certaines molécules ont des propriétés particulières et essentiels dont on ne peut pas se passer. Les scientifiques sont donc à la recherche de solutions pour les remplacer par des molécules aux mêmes propriétés. 
 
-→Une alternative aux phtalates: 
+→Une alternative aux phtalates: <br />
 Les phtalates sont un groupe de produits chimiques utilisés principalement comme plastifiants des matières plastiques: il est donc ajouté aux matières plastiques comme le PVC pour le rendre plus souple, flexible et plus résistant. Ils sont essentiels à la fabrication des bottes, des textiles imperméables, des jouets ou encore des emballages alimentaires.. mais ils sont aussi utilisés dans les médicaments et les amalgames dentaires. 
 
 Des expériences sur les animaux ont prouvé que les phtalates en concentration élevés conduisent à une baisse de la fertilité, à une atrophie testiculaire ou encore à une réduction du poids du foetus. 
@@ -175,7 +175,7 @@ Des start-ups biotechnologiques comme Novance, Roquette ou Danisco proposent des
 Certaines industries ne préfèrent pas attendre une réglementation plus stricte de l’UE et se tournent dès maintenant vers la production et la vente de produits sans perturbateurs endocriniens. Ils basent leur stratégie marketing sur la dangerosité des phtalates, comme le montre la vidéo ci-dessous sur l’entreprise ayant lancé il y a peu une gamme de vaisselle jetable biodégradable en bambou ou en pulpe de canne à sucre. </p>
 
 <p>
-→ Une alternative aux parabènes: 
+→ Une alternative aux parabènes: <br />
 Les propriétés antibactérienne et antifongique du parabène en font un conservateur idéal pour les produits cosmétiques, les aliments et les médicaments. En 2010, leur utilisation est controversée : ils activent les récepteurs des oestrogènes, et agissent possiblement sur la fertilité et les tumeurs comme le cancer du sein. Le benzyl alcool DHA aussi appelé Cosgard ou Geogard 221 est un produit de substitution couramment utilisé. Il empêche notamment le développement de levures et moisissures dans les produits contenant de l’eau et ai certifié “écologiquement correctes” selon les normes de l’UE. </p>
 
 
