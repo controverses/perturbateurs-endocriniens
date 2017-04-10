@@ -178,15 +178,15 @@ Certaines industries ne préfèrent pas attendre une réglementation plus strict
 → Une alternative aux parabènes: <br />
 Les propriétés antibactérienne et antifongique du parabène en font un conservateur idéal pour les produits cosmétiques, les aliments et les médicaments. En 2010, leur utilisation est controversée : ils activent les récepteurs des oestrogènes, et agissent possiblement sur la fertilité et les tumeurs comme le cancer du sein. Le benzyl alcool DHA aussi appelé Cosgard ou Geogard 221 est un produit de substitution couramment utilisé. Il empêche notamment le développement de levures et moisissures dans les produits contenant de l’eau et ai certifié “écologiquement correctes” selon les normes de l’UE. </p>
 
-<a href="http://www.consoglobe.com/geogard-221-alternative-aux-parabens-cg ">Plus d'informations sur ce lien.</a> </p>
+<p><a href="http://www.consoglobe.com/geogard-221-alternative-aux-parabens-cg ">Plus d'informations sur ce lien.</a> </p>
 
-<p><strong> Remarque:<p></strong> <br />
+<p><strong> Remarque:<p></strong> 
 <p>dans les cosmétiques en particulier, une mention “sans paraben” ne garantit pas de l’absence de substances tout aussi dangereuse comme le methylisothiazolinone. </p>
 
-<p><strong> Conclusion: <p></strong>  <br />
+<p><strong> Conclusion: <p></strong>  
 <p>
 Aujourd’hui, on constate qu’il n’existe pas suffisamment de recherches sur les produits de substitution et que la plupart de ceux qui existent sont souvent aussi dangereux que les produits de base.  Ce manque peut être expliqué par la mauvaise volonté des industriels mais aussi des parlementaires européens. En effet, comme d’autres facteurs environnementaux peuvent également expliquer l’augmentation de certaines pathologies, les lobbies industriels empêchent les législateurs d’instaurer une réglementation plus stricte. Il y a quelques années, les députés français souhaitent interdire tout simplement les produits contenant des phtalates et des parabènes mais l’idée fut abandonnée sous la pression des industrielles de la chimie et du plastique. De plus, tant qu’il n’existe pas de produits de substitution satisfaisant il est très dur d’invoquer le principe de précaution et d’interdire les produits dangereux car cela entraînerait de grave répercussions sur l’économie du pays. Or on constate que les industriels rechignent souvent à investir dans le secteur Recherche et Développement dans le but de se préparer à une prochaine interdiction car cela est très coûteux. De plus, pourquoi investir dans la recherche de produit moins toxiques mais beaucoup moins efficaces tant qu’il n’existe pas de réglementation stricte? </p>
-<img src="Cycle.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:300px;">
+<img src="Cycle2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:300px;">
 
 
 <p><strong>Peut-on les supprimer? <p></strong>  <br />
@@ -199,11 +199,23 @@ La clarification est l’étape du cycle de l’eau qui permet d’éliminer les
 Toutefois, la filtration se fait de plus en plus au moyen de membranes. Cette technique est plus efficace mais elle reste onéreuse. 
 Les membranes sont utilisés pour réaliser une osmose inverse. <br />
 
-Explication de l’osmose: <br />
+Explication de l’osmose: 
 Supposons qu’une membrane fine et semi-perméable sépare deux liquides. Les concentrations des deux solutions ne sont pas identiques de chaque côté de la paroi, créant ainsi une pression osmotique.  On observe alors un transfert de solvant de la solution la moins concentrée vers la solution la plus concentrée. En effet, la membrane va laisser passer le solvant pour équilibrer les concentrations. 
 
 L’osmose inverse consiste à inverser le passage du solvant en appliquant une pression supérieure à la pression osmotique du côté de la solution à traiter, c’est à dire, dans notre cas, l’eau brute. Cette technique permet de contenir les polluants (perturbateurs endocriniens) à l'extérieur de la paroi (à droite sur le schéma de droite ci-dessous) et d’obtenir une eau filtrée à gauche. </p>
 
+
+<p><a href="http://www.fndae.fr/documentation/PDF/fndae14.pdf ">Plus d'informations sur ce lien.</a> </p> <br />
+
+<img src="Osmose.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:200px;">
+<p>De nombreuses chimistes travaillent aujourd’hui sur des solutions de traitement de l’eau plus rapides et efficaces. Nous avons rencontré Agnès Bée, directrice adjointe de l’UFR de Chimie de l’Université Pierre et Marie Curie, qui nous a présenté un prototype originale afin d’éliminer les perturbateurs endocriniens de notre eau. Layala Obeid, une de ces étudiantes à présenter récemment une thèse sur cette nouvelle méthode qui utilisent des nouveaux matériaux magnétiques appelés “magsorbants” pour extraire les polluants. 
+
+Ces “magsorbants” sont des billes magnétiques de taille millimétrique constituée d’alginate et de chitosane (bio-polymères végétales et de faibles coûts) dans lesquelles sont encapsulées des nanoparticules magnétiques.
+
+<img src="Billes.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:200px;">
+Ces polymères ont des propriétés absorbantes et permettent de capter les différents polluants présents dans l’eau. Les billes étant magnétiques elles peuvent être retirés du milieu à dépolluer très facilement au moyen d’un gradient de champ magnétique (ou plus simplement d’un aimant). </p> 
+
+<p><a href="https://tel.archives-ouvertes.fr/tel-01207492/document">Lien vers la thèse.</a> </p> <br />
 
 </body>
 </html>
