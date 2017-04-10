@@ -216,6 +216,33 @@ Ces polymères ont des propriétés absorbantes et permettent de capter les diff
 
 <p><a href="https://tel.archives-ouvertes.fr/tel-01207492/document">Lien vers la thèse.</a> </p> <br />
 
+
+<p><strong>Éliminer les perturbateurs endocriniens dans notre corps: <p></strong>  
+<p>
+1. Les perturbateurs endocriniens sont solubles dans les graisses (on dit qu’ils sont liposolubles). Un des moyens les plus efficace pour s’en prémunir est de limiter ou réduire le tissu adipeux de votre corps. Une pratique régulière du sport voir même un régime amaigrissant permet de limiter les lieux où ces substances se logent. 
+ 
+2. La prise de taurine (dérivé d’acide aminé découvert dans la bile de boeuf) permet de digérer plus rapidement les lipides et donc évacuer le cholestérol et les toxiques liposolubles (perturbateurs endocriniens) par les selles. Toutefois, sans une consommation suffisante en fibres, les toxiques risquent d’être réabsorbées dans le tube digestif avant d’atteindre le rectum. </p> 
+
+
+<p><strong> Mais peut on finalement réellement s’en passer? <p></strong>  
+
+<p>
+<p><strong>Barbara Demeneix : <p></strong>   «Ces substances sont présentes dans ce qu’on boit, ce qu’on mange, ce qu’on respire ou ce qu’on se met sur la peau. En clair, nous sommes tous exposés», alerte Barbara Demeneix, endocrinologue au Muséum national d’histoire naturelle et auteure de l’ouvrage le Cerveau endommagé - Comment la pollution altère notre intelligence et notre santé mentale (Odile Jacob, 2016). <br />
+
+<p><strong>Agnès Bée : <p></strong>   “Pour pouvoir éliminer les perturbateurs endocriniens, il faut trouver une solution pour les remplacer, ce qui n’est pas toujours facile. Interdire les PE n’est pas résoudre le problème.” <br />
+
+<p><a href="http://www.lexpress.fr/actualite/societe/sante/perturbateurs-endocriniens-et-cosmetiques-il-faut-aller-vers-plus-de-simplicite_1881543.html">Podcast disponible sur ce lien. </a> </p> <br />
+
+
+<p><strong>Marine Jobert <p></strong>  <p><a href="http://www.perturbateurs-endocriniens.fr/">Podcast disponible sur ce lien. </a> </p> 
+
+<p>
+ « Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. » <br />
+
+<p><strong>Dr Patrick Levy, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC)lors d’un débat avec Barbara Demeneix: <p></strong>  
+“La définition des perturbateurs endocrinien de l’OMS fait consensus pour les scientifiques mais pas consensus pour un contexte réglementaire, elle n’est pas suffisamment discriminante. Elle est beaucoup trop large. Elle ne permet pas de différencier des perturbateurs avérés et ceux qui n’ont qu’une activité biologique réversibles et sans effet durables. On ne peut pas faire cette discrimination. Nous souhaitons un cadre réglementaire efficace.” </p> 
+
+
 </body>
 </html>
 
