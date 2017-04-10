@@ -148,18 +148,42 @@ L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescente
 </p>
 
 <img src="Watchfrog2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
-
+<p>
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 Le laboratoire testent les échantillons envoyés par les entreprises et analyse sur le produit présente des perturbateurs endocriniens et si ces derniers sont à une dose réellement problématique et néfaste pour l’homme. Cette méthode est utilisée pour analyser l’eau mais également les aliments, les produits cosmétiques et les emballages. 
 
 L’entreprise travail maintenant en partenariat avec Véolia, et a mis sur le marché une FrogBox: une boîte avec des têtards directement utilisable par le client. La FrogBox est disponible auprès des municipalités. </p>
 
-
-</body>
-</html>
 <p>
 <a href="http://www.watchfrog.fr/">Site Watchfrog </a> </p>
 <p> <a href="http://eur-lex.europa.eu/resource.html?uri=cellar:5c835afb-2ec6-4577-bdf8-756d3d694eeb.0001.02/DOC_1&format=PDF">Directive européenne 2000/60/CE:  </a> </p>
+
+
+<p><strong> Peut-on les remplacer? <p></strong>
+<p>La première méthode pour se protéger des perturbateurs endocriniens consiste évidemment en une modification de nos habitudes de consomations et d’autres gestes simples disponibles sur <a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">ce lien.</a> </p>
+
+<p>
+Toutefois, certaines molécules ont des propriétés particulières et essentiels dont on ne peut pas se passer. Les scientifiques sont donc à la recherche de solutions pour les remplacer par des molécules aux mêmes propriétés. 
+
+→Une alternative aux phtalates: 
+Les phtalates sont un groupe de produits chimiques utilisés principalement comme plastifiants des matières plastiques: il est donc ajouté aux matières plastiques comme le PVC pour le rendre plus souple, flexible et plus résistant. Ils sont essentiels à la fabrication des bottes, des textiles imperméables, des jouets ou encore des emballages alimentaires.. mais ils sont aussi utilisés dans les médicaments et les amalgames dentaires. 
+
+Des expériences sur les animaux ont prouvé que les phtalates en concentration élevés conduisent à une baisse de la fertilité, à une atrophie testiculaire ou encore à une réduction du poids du foetus. 
+Depuis 2005, l’AGRICE finance un programme de recherches sur les alternatives possibles aux phtalates. Il existe en effet d’autres composés comme les monoglycerides acétylés, les esters d’acide gras, citrates d’alkyl (triéthyl citrate), l’adipate de di-2-éthylhexyle, les phosphates d’alkyle-aryle mais ces produits sont trop chers, ne permettent pas d’obtenir une souplesse aussi importante et peuvent pour la plupart être aussi néfaste que les phtalates. 
+Des start-ups biotechnologiques comme Novance, Roquette ou Danisco proposent des alternatives végétales qui pour l’instant semble remplir les caractéristiques souhaitées. 
+
+Certaines industries ne préfèrent pas attendre une réglementation plus stricte de l’UE et se tournent dès maintenant vers la production et la vente de produits sans perturbateurs endocriniens. Ils basent leur stratégie marketing sur la dangerosité des phtalates, comme le montre la vidéo ci-dessous sur l’entreprise ayant lancé il y a peu une gamme de vaisselle jetable biodégradable en bambou ou en pulpe de canne à sucre. </p>
+
+<p>
+→ Une alternative aux parabènes: 
+Les propriétés antibactérienne et antifongique du parabène en font un conservateur idéal pour les produits cosmétiques, les aliments et les médicaments. En 2010, leur utilisation est controversée : ils activent les récepteurs des oestrogènes, et agissent possiblement sur la fertilité et les tumeurs comme le cancer du sein. Le benzyl alcool DHA aussi appelé Cosgard ou Geogard 221 est un produit de substitution couramment utilisé. Il empêche notamment le développement de levures et moisissures dans les produits contenant de l’eau et ai certifié “écologiquement correctes” selon les normes de l’UE. </p>
+
+
+
+<a href="http://www.consoglobe.com/geogard-221-alternative-aux-parabens-cg ">Plus d'informations sur ce lien.</a> </p>
+
+</body>
+</html>
 
 
 
