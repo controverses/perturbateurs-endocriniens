@@ -20,9 +20,11 @@
     text-align: left;
 }
 
-/* Style The Dropdown Button */
+
+
+
 .dropbtn {
-    background-color: #0B3B39;
+    background-color: #4CAF50;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -30,44 +32,38 @@
     cursor: pointer;
 }
 
-/* The container <div> - needed to position the dropdown content */
 .dropdown {
     position: relative;
-    display: inline;
+    display: inline-block;
 }
 
-/* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: none;
+    background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
 
-/* Links inside the dropdown */
 .dropdown-content a {
-    color: white;
+    color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    position: relative;
 }
 
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: powderblue}
+.dropdown-content a:hover {background-color: #f1f1f1}
 
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
-    position: absolute;
 }
 
-/* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-    background-color: #0B3B39;
+    background-color: #3e8e41;
 }
+
+
 
 footer {background: #aaa;color:white;}
 
@@ -84,21 +80,21 @@ footer {background: #aaa;color:white;}
 <div class="flex-container">
 
 <div class="dropdown">
-<button class="dropbtn"><a href="#">Accueil</a></button>
+<button class="dropbtn"><a href="https://evespa97.github.io/Perturbateurs-Endocriniens/">Accueil</a></button>
     </div>
 </div>
   
 <div class="dropdown">
-  <button class="dropbtn">Un problème de santé publique</button>
+  <button class="dropbtn">Un problème de santé publique</button>
   <div class="dropdown-content">
-    <a href="#">Recherchers Scientifiques</a>
-    <a href="#">Classifications</a>
-    <a href="#">Fiches scandale</a>
+    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Recherches-Scientifiques">Recherches Scientifiques</a>
+    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Solution/">Classifications</a>
+    <a href="https://facebook.com">Fiches scandale</a>
     </div>  
 </div>
 
 <div class="dropdown">
-  <button class="dropbtn">Des intérêts confrontés</button>
+  <button class="dropbtn">Des intérêts confrontés</button>
   <div class="dropdown-content">
     <a href="#">Lobby</a>
     <a href="#">Assos</a>
@@ -107,13 +103,14 @@ footer {background: #aaa;color:white;}
 </div>
 
 <div class="dropdown">
-  <button class="dropbtn">Une législation difficile</button>
+  <button class="dropbtn">Une législation difficile</button>
   <div class="dropdown-content">
-    <a href="#">Comission Européenne</a>
+    <a href="#">Comission Européenne</a>
     <a href="#">Gouvernement Français</a>
-    <a href="#">Définition</a>
+    <a href="#">Définition</a>
+    <a href="https://github.com/evespa97/Perturbateurs-Endocriniens/blob/Solution/">Solution</a>
   </div>
-
+</div>
 
 <article class="article">
   <h1>Introduction</h1>
@@ -133,5 +130,10 @@ footer {background: #aaa;color:white;}
 <footer>Copyright &copy; The Best</footer>
 </div>
 
+
 </body>
 </html>
+
+
+
+
