@@ -173,7 +173,7 @@ Des start-ups biotechnologiques comme Novance, Roquette ou Danisco proposent des
 
 Certaines industries ne préfèrent pas attendre une réglementation plus stricte de l’UE et se tournent dès maintenant vers la production et la vente de produits sans perturbateurs endocriniens. Ils basent leur stratégie marketing sur la dangerosité des phtalates, comme le montre la vidéo ci-dessous sur l’entreprise ayant lancé il y a peu une gamme de vaisselle jetable biodégradable en bambou ou en pulpe de canne à sucre. </p>
 
-<iframe width="544" height="306" src="//embedftv-a.akamaihd.net/aae7c4daf3395f1ec02caf23135ffd8f" frameborder="0" scrolling="no" allowfullscreen></iframe><br /><a href="http://www.francetvinfo.fr/france/vaisselle-jetable-quelles-solutions-pour-remplacer-le-plastique_1836841.html" target="_blank">Vaisselle jetable : quelles solutions pour remplacer le plastique ?</a>
+<embed width="544" height="306" src="//embedftv-a.akamaihd.net/aae7c4daf3395f1ec02caf23135ffd8f">
 
 <p>
 → Une alternative aux parabènes: <br />
