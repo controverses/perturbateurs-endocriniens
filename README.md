@@ -178,9 +178,15 @@ Certaines industries ne préfèrent pas attendre une réglementation plus strict
 → Une alternative aux parabènes: <br />
 Les propriétés antibactérienne et antifongique du parabène en font un conservateur idéal pour les produits cosmétiques, les aliments et les médicaments. En 2010, leur utilisation est controversée : ils activent les récepteurs des oestrogènes, et agissent possiblement sur la fertilité et les tumeurs comme le cancer du sein. Le benzyl alcool DHA aussi appelé Cosgard ou Geogard 221 est un produit de substitution couramment utilisé. Il empêche notamment le développement de levures et moisissures dans les produits contenant de l’eau et ai certifié “écologiquement correctes” selon les normes de l’UE. </p>
 
-
-
 <a href="http://www.consoglobe.com/geogard-221-alternative-aux-parabens-cg ">Plus d'informations sur ce lien.</a> </p>
+
+<p><strong> Remarque:<p></strong> <br />
+<p>dans les cosmétiques en particulier, une mention “sans paraben” ne garantit pas de l’absence de substances tout aussi dangereuse comme le methylisothiazolinone. </p>
+
+<p><strong> Conclusion: <p></strong>  <br />
+<p>
+Aujourd’hui, on constate qu’il n’existe pas suffisamment de recherches sur les produits de substitution et que la plupart de ceux qui existent sont souvent aussi dangereux que les produits de base.  Ce manque peut être expliqué par la mauvaise volonté des industriels mais aussi des parlementaires européens. En effet, comme d’autres facteurs environnementaux peuvent également expliquer l’augmentation de certaines pathologies, les lobbies industriels empêchent les législateurs d’instaurer une réglementation plus stricte. Il y a quelques années, les députés français souhaitent interdire tout simplement les produits contenant des phtalates et des parabènes mais l’idée fut abandonnée sous la pression des industrielles de la chimie et du plastique. De plus, tant qu’il n’existe pas de produits de substitution satisfaisant il est très dur d’invoquer le principe de précaution et d’interdire les produits dangereux car cela entraînerait de grave répercussions sur l’économie du pays. Or on constate que les industriels rechignent souvent à investir dans le secteur Recherche et Développement dans le but de se préparer à une prochaine interdiction car cela est très coûteux. De plus, pourquoi investir dans la recherche de produit moins toxiques mais beaucoup moins efficaces tant qu’il n’existe pas de réglementation stricte? </p>
+<img src="Cycle.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:300px;">
 
 </body>
 </html>
