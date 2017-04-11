@@ -1,5 +1,5 @@
 
-
+<!DOCTYPE html>
 <html>
 <head>
 <style> 
@@ -19,7 +19,7 @@
 }
 
 .article {
-    text-align: left;
+    text-align: justify;
 }
 
 /* Style The Dropdown Button */
@@ -137,7 +137,7 @@ footer {background: #aaa;color:white;}
 
 <p><strong> Comment s'en protéger? <p></strong>
 
-<p style="text-align:center;">    WatchFrog: La biologie au service de la détection des perturbateurs endocriniens</p>
+<p style="text-align:center;">WatchFrog: La biologie au service de la détection des perturbateurs endocriniens</p>
 
 <img src="LogoWatchFrog.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
@@ -252,8 +252,6 @@ Ces polymères ont des propriétés absorbantes et permettent de capter les diff
 <footer>Copyright &copy; The Best</footer>
 
 
-
-<body>
 
 
 
