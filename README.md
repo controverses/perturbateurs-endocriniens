@@ -158,11 +158,11 @@ Toutefois, certaines molécules ont des propriétés particulières et essentiel
 
 →Une alternative aux phtalates: <br />
 <p align="justify"> Les phtalates sont un groupe de produits chimiques utilisés principalement comme plastifiants des matières plastiques: il est donc ajouté aux matières plastiques comme le PVC pour le rendre plus souple, flexible et plus résistant. Ils sont essentiels à la fabrication des bottes, des textiles imperméables, des jouets ou encore des emballages alimentaires.. mais ils sont aussi utilisés dans les médicaments et les amalgames dentaires. -
-
+ <p align="justify"> 
 Des expériences sur les animaux ont prouvé que les phtalates en concentration élevés conduisent à une baisse de la fertilité, à une atrophie testiculaire ou encore à une réduction du poids du foetus. 
 Depuis 2005, l’AGRICE finance un programme de recherches sur les alternatives possibles aux phtalates. Il existe en effet d’autres composés comme les monoglycerides acétylés, les esters d’acide gras, citrates d’alkyl (triéthyl citrate), l’adipate de di-2-éthylhexyle, les phosphates d’alkyle-aryle mais ces produits sont trop chers, ne permettent pas d’obtenir une souplesse aussi importante et peuvent pour la plupart être aussi néfaste que les phtalates. 
 Des start-ups biotechnologiques comme Novance, Roquette ou Danisco proposent des alternatives végétales qui pour l’instant semble remplir les caractéristiques souhaitées.
-
+<p align="justify"> 
 Certaines industries ne préfèrent pas attendre une réglementation plus stricte de l’UE et se tournent dès maintenant vers la production et la vente de produits sans perturbateurs endocriniens. Ils basent leur stratégie marketing sur la dangerosité des phtalates, comme le montre la vidéo ci-dessous sur l’entreprise ayant lancé il y a peu une gamme de vaisselle jetable biodégradable en bambou ou en pulpe de canne à sucre. </p>
 
 <iframe width="544" height="306" src="//embedftv-a.akamaihd.net/aae7c4daf3395f1ec02caf23135ffd8f" frameborder="0" scrolling="no" allowfullscreen></iframe><br /><a href="http://www.francetvinfo.fr/france/vaisselle-jetable-quelles-solutions-pour-remplacer-le-plastique_1836841.html" target="_blank">Vaisselle jetable : quelles solutions pour remplacer le plastique ?</a>
@@ -184,54 +184,54 @@ Aujourd’hui, on constate qu’il n’existe pas suffisamment de recherches sur
 
 <p><strong>Peut-on les supprimer? <p></strong>  <br />
 <p align="justify">
-Il existe de nombreuses méthodes pour éliminer les perturbateurs endocriniens contenus dans l’eau. Philippe Bréant, directeur du programme Eau Potable à Veolia expliquait dans une conférence en janvier 2012 les différentes méthodes actuellement utilisées. <br />
-
-Au sein de l’Union Européenne, seule une partie des produits chimiques sont actuellement contrôlés mais la législation s’intensifie d’années en années. Une cinquantaine de paramètres, comme les bactéries (indiquant une contamination fécale), les pesticides et les nitrates, sont donc à surveiller obligatoirement. <br />
-
+Il existe de nombreuses méthodes pour éliminer les perturbateurs endocriniens contenus dans l’eau. Philippe Bréant, directeur du programme Eau Potable à Veolia expliquait dans une conférence en janvier 2012 les différentes méthodes actuellement utilisées. <br /> </p>
+<p align="justify">
+Au sein de l’Union Européenne, seule une partie des produits chimiques sont actuellement contrôlés mais la législation s’intensifie d’années en années. Une cinquantaine de paramètres, comme les bactéries (indiquant une contamination fécale), les pesticides et les nitrates, sont donc à surveiller obligatoirement. <br /></p>
+<p align="justify"> 
 La clarification est l’étape du cycle de l’eau qui permet d’éliminer les principales matières organiques dissoutes d’une eau brute. En fonction des polluants présents dans l’eau, les méthodes utilisées diffèrent. L’épuration de l’eau se termine par la filtration, qui permet de supprimer la plupart des perturbateurs endocriniens. 3 matériaux sont fréquemment utilisés: le sable (à base de silice qui permet la rétention des particules), l’anthracite (à base de carbone obtenu par calcination de matière végétale) et le charbon actif (également à base de carbone). 
 Toutefois, la filtration se fait de plus en plus au moyen de membranes. Cette technique est plus efficace mais elle reste onéreuse. 
 Les membranes sont utilisés pour réaliser une osmose inverse. <br /></p>
 
 Explication de l’osmose: 
-<p align="justify"> Supposons qu’une membrane fine et semi-perméable sépare deux liquides. Les concentrations des deux solutions ne sont pas identiques de chaque côté de la paroi, créant ainsi une pression osmotique.  On observe alors un transfert de solvant de la solution la moins concentrée vers la solution la plus concentrée. En effet, la membrane va laisser passer le solvant pour équilibrer les concentrations. 
-
+<p align="justify"> Supposons qu’une membrane fine et semi-perméable sépare deux liquides. Les concentrations des deux solutions ne sont pas identiques de chaque côté de la paroi, créant ainsi une pression osmotique.  On observe alors un transfert de solvant de la solution la moins concentrée vers la solution la plus concentrée. En effet, la membrane va laisser passer le solvant pour équilibrer les concentrations. </p>
+<p align="justify"> 
 L’osmose inverse consiste à inverser le passage du solvant en appliquant une pression supérieure à la pression osmotique du côté de la solution à traiter, c’est à dire, dans notre cas, l’eau brute. Cette technique permet de contenir les polluants (perturbateurs endocriniens) à l'extérieur de la paroi (à droite sur le schéma de droite ci-dessous) et d’obtenir une eau filtrée à gauche. </p>
 
 
 <p><a href="http://www.fndae.fr/documentation/PDF/fndae14.pdf ">Plus d'informations sur ce lien.</a> </p> <br />
 
 <img src="Osmose.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:200px;">
-<p align="justify"> De nombreuses chimistes travaillent aujourd’hui sur des solutions de traitement de l’eau plus rapides et efficaces. Nous avons rencontré Agnès Bée, directrice adjointe de l’UFR de Chimie de l’Université Pierre et Marie Curie, qui nous a présenté un prototype originale afin d’éliminer les perturbateurs endocriniens de notre eau. Layala Obeid, une de ces étudiantes à présenter récemment une thèse sur cette nouvelle méthode qui utilisent des nouveaux matériaux magnétiques appelés “magsorbants” pour extraire les polluants. 
+<p align="justify"> De nombreuses chimistes travaillent aujourd’hui sur des solutions de traitement de l’eau plus rapides et efficaces. Nous avons rencontré Agnès Bée, directrice adjointe de l’UFR de Chimie de l’Université Pierre et Marie Curie, qui nous a présenté un prototype originale afin d’éliminer les perturbateurs endocriniens de notre eau. Layala Obeid, une de ces étudiantes à présenter récemment une thèse sur cette nouvelle méthode qui utilisent des nouveaux matériaux magnétiques appelés “magsorbants” pour extraire les polluants.  </p>
 
 Ces “magsorbants” sont des billes magnétiques de taille millimétrique constituée d’alginate et de chitosane (bio-polymères végétales et de faibles coûts) dans lesquelles sont encapsulées des nanoparticules magnétiques.
 
 <img src="Billes.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:250px;height:100px;">
-Ces polymères ont des propriétés absorbantes et permettent de capter les différents polluants présents dans l’eau. Les billes étant magnétiques elles peuvent être retirés du milieu à dépolluer très facilement au moyen d’un gradient de champ magnétique (ou plus simplement d’un aimant). </p> 
+<p align="justify"> Ces polymères ont des propriétés absorbantes et permettent de capter les différents polluants présents dans l’eau. Les billes étant magnétiques elles peuvent être retirés du milieu à dépolluer très facilement au moyen d’un gradient de champ magnétique (ou plus simplement d’un aimant). </p> 
 
 <p><a href="https://tel.archives-ouvertes.fr/tel-01207492/document">Lien vers la thèse.</a> </p> <br />
 
 
 <p><strong>Éliminer les perturbateurs endocriniens dans notre corps: <p></strong>  
 <p align="justify">
-1. Les perturbateurs endocriniens sont solubles dans les graisses (on dit qu’ils sont liposolubles). Un des moyens les plus efficace pour s’en prémunir est de limiter ou réduire le tissu adipeux de votre corps. Une pratique régulière du sport voir même un régime amaigrissant permet de limiter les lieux où ces substances se logent. 
- 
+1. Les perturbateurs endocriniens sont solubles dans les graisses (on dit qu’ils sont liposolubles). Un des moyens les plus efficace pour s’en prémunir est de limiter ou réduire le tissu adipeux de votre corps. Une pratique régulière du sport voir même un régime amaigrissant permet de limiter les lieux où ces substances se logent. </p> 
+ <p align="justify">
 2. La prise de taurine (dérivé d’acide aminé découvert dans la bile de boeuf) permet de digérer plus rapidement les lipides et donc évacuer le cholestérol et les toxiques liposolubles (perturbateurs endocriniens) par les selles. Toutefois, sans une consommation suffisante en fibres, les toxiques risquent d’être réabsorbées dans le tube digestif avant d’atteindre le rectum. </p> 
 
 
 <p><strong> Mais peut on finalement réellement s’en passer? <p></strong>  
 
 <p align="justify">
-<p><strong>Barbara Demeneix : <p></strong>   «Ces substances sont présentes dans ce qu’on boit, ce qu’on mange, ce qu’on respire ou ce qu’on se met sur la peau. En clair, nous sommes tous exposés», alerte Barbara Demeneix, endocrinologue au Muséum national d’histoire naturelle et auteure de l’ouvrage le Cerveau endommagé - Comment la pollution altère notre intelligence et notre santé mentale (Odile Jacob, 2016). <br />
+<p><strong>Barbara Demeneix : <p></strong> <p align="justify">  «Ces substances sont présentes dans ce qu’on boit, ce qu’on mange, ce qu’on respire ou ce qu’on se met sur la peau. En clair, nous sommes tous exposés», alerte Barbara Demeneix, endocrinologue au Muséum national d’histoire naturelle et auteure de l’ouvrage le Cerveau endommagé - Comment la pollution altère notre intelligence et notre santé mentale (Odile Jacob, 2016). <br /></p> 
 
-<p><strong>Agnès Bée : <p></strong>   “Pour pouvoir éliminer les perturbateurs endocriniens, il faut trouver une solution pour les remplacer, ce qui n’est pas toujours facile. Interdire les PE n’est pas résoudre le problème.” <br />
+<p><strong>Agnès Bée : <p></strong> <p align="justify">   “Pour pouvoir éliminer les perturbateurs endocriniens, il faut trouver une solution pour les remplacer, ce qui n’est pas toujours facile. Interdire les PE n’est pas résoudre le problème.” <br /> </p>
 
 
 <p><strong>Marine Jobert <p></strong>  <p><a href="http://www.perturbateurs-endocriniens.fr/">Podcast disponible sur ce lien. </a> </p> 
 
 <p align="justify">
- « Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. » <br />
+ « Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. » <br /> </p>
 
-<p><strong>Dr Patrick Levy, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC) lors d’un débat avec Barbara Demeneix: <p></strong>  
+<p><strong>Dr Patrick Levy, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC) lors d’un débat avec Barbara Demeneix: <p></strong>  <p align="justify">  
 “La définition des perturbateurs endocrinien de l’OMS fait consensus pour les scientifiques mais pas consensus pour un contexte réglementaire, elle n’est pas suffisamment discriminante. Elle est beaucoup trop large. Elle ne permet pas de différencier des perturbateurs avérés et ceux qui n’ont qu’une activité biologique réversibles et sans effet durables. On ne peut pas faire cette discrimination. Nous souhaitons un cadre réglementaire efficace.” </p> 
 
 
