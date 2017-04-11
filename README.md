@@ -113,20 +113,15 @@ footer {background: #aaa;color:white;}
 - Ne pas utiliser les verres en polystyrène (un dérivé benzénique) pour les boissons chaudes.<br /> </p>
 
 <p><strong>→Médicaments et cosmétiques <p></strong> 
-- Ne pas acheter de cosmétiques contenant des parabènes. <br />
-
-- Eviter les médicaments gastro-résistants <br />
-
-- Refuser les médicaments contenant du toluène – aussi reprotoxique -, en particulier plusieurs présentations courantes en France de vitamine D. <br />
+-Ne pas acheter de cosmétiques contenant des parabènes. <br />
+-Eviter les médicaments gastro-résistants <br />
+-Refuser les médicaments contenant du toluène – aussi reprotoxique -, en particulier plusieurs présentations courantes en France de vitamine D. <br />
  </p>
   <p><strong>→Vêtements, Logements, produits ménagers, d’entretien, désodorisants: <p></strong>  <p>
-- Réduire au maximum les contreplaqués et moquettes, tissus, qui contiennent des retardateurs de flamme et émettent des poussières, les poussières étant des concentrateurs de perturbateurs endocriniens qui sont ainsi inhalés.<br /> 
-
-- S’il y a une moquette : la nettoyer une fois par mois à la vapeur<br />
-
-- Ne pas utiliser d’insecticides chimiques. <br />
-
-- Exiger des pompes à essence un bouchon hermétique qui empêche d’inhaler les vapeurs d’essence car elles contiennent encore en France 1% de benzène, qui est génotoxique et augmente les risques de leucémies. <br />
+-Réduire au maximum les contreplaqués et moquettes, tissus, qui contiennent des retardateurs de flamme et émettent des poussières, les poussières étant des concentrateurs de perturbateurs endocriniens qui sont ainsi inhalés.<br /> 
+-S’il y a une moquette : la nettoyer une fois par mois à la vapeur<br />
+-Ne pas utiliser d’insecticides chimiques. <br />
+-Exiger des pompes à essence un bouchon hermétique qui empêche d’inhaler les vapeurs d’essence car elles contiennent encore en France 1% de benzène, qui est génotoxique et augmente les risques de leucémies. <br />
 
 <p><strong>→Travail <p></strong>  <p>
 - Se renseigner auprès de la Médecine du Travail sur la présence ou non de perturbateurs endocriniens sur son lieu de travail et obtenir la qualité d’aération et de protection adaptée. <br /> </p>
