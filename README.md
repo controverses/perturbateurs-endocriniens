@@ -137,7 +137,7 @@ footer {background: #aaa;color:white;}
 
 <p><strong> Comment s'en protéger? <p></strong>
 
-<p>             WatchFrog: La biologie au service de la détection des perturbateurs endocriniens <p>
+<p style="text-align:center;">    WatchFrog: La biologie au service de la détection des perturbateurs endocriniens</p>
 
 <img src="LogoWatchFrog.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
