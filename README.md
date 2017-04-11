@@ -106,14 +106,10 @@ footer {background: #aaa;color:white;}
    <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">Ici</a> </p>
    
   <p><strong>→Alimentation: <p></strong> <p>
-- Ne pas consommer de poissons grands prédateurs comme requin, espadon, mérou…trop pollués, ne pas consommer plus d’une fois par semaine les moyens prédateurs comme le thon et la daurade <br />
-
-- Ne jamais consommer de foies ou d’abats de bêtes non biologiques et leurs dérivés (foie gras, pâtés…). <br />
-
-- Préférer les produits bios (les trois produits non bio les plus riches en perturbateurs endocriniens sont les laitues, les tomates, les concombre). <br />
-
-- Les agressions thermiques, en particulier au barbecue, peuvent aussi engendrer des perturbateurs endocriniens carcinogènes comme le benzopyrène. Il faut éviter le contact avec les braises qui devraient être non pas sous les aliments à cuire, mais à côté (barbecues verticaux)<br />
-
+-Ne pas consommer de poissons grands prédateurs comme requin, espadon, mérou…trop pollués, ne pas consommer plus d’une fois par semaine les moyens prédateurs comme le thon et la daurade 
+-Ne jamais consommer de foies ou d’abats de bêtes non biologiques et leurs dérivés (foie gras, pâtés…). 
+-Préférer les produits bios (les trois produits non bio les plus riches en perturbateurs endocriniens sont les laitues, les tomates, les concombre). 
+-Les agressions thermiques, en particulier au barbecue, peuvent aussi engendrer des perturbateurs endocriniens carcinogènes comme le benzopyrène. Il faut éviter le contact avec les braises qui devraient être non pas sous les aliments à cuire, mais à côté (barbecues verticaux)
 - Ne pas utiliser les verres en polystyrène (un dérivé benzénique) pour les boissons chaudes.<br /> </p>
 
 <p><strong>→Médicaments et cosmétiques <p></strong> 
