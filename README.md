@@ -86,7 +86,7 @@ footer {background: #aaa;color:white;}
 
 <article class="article">
   <h1>Peut-on vraiment se passer des perturbateurs endocriniens?</h1>
-  <p><mark>Les perturbateurs endocriniens sont partout</mark><p>
+  <p><strong>Les perturbateurs endocriniens sont partout <p></strong>
  <DIV STYLE="text-align:justify;">Dans une étude publiée fin avril, l’UFC-Que choisir insiste sur l’omniprésence des perturbateurs endocriniens dans notre environnement. Comme l’explique le docteur Gérald Kierzek «la protection n’est pas simple puisque les perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens seraient présents dans plus de 400 produits du quotidien  (aliments, médicaments, produits ménagers, cosmétiques...).</DIV> 
   
 <p>Cliquer sur les différents lieux de la maison! </p>
@@ -130,7 +130,7 @@ footer {background: #aaa;color:white;}
 
 <p style="text-align:center;">WatchFrog: La biologie au service de la détection des perturbateurs endocriniens</p>
 
-<img src="LogoWatchFrog.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
+<img src="LogoWatchFrog.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:200px;height:200px;">
 
 <p DIV STYLE="text-align:justify;"> 
 La directive 2000/60/CE appliquée par l’Union Européenne depuis le 22 octobre 2000 a pour objectif de “mettre fin à la détérioration de l’état des masses d’eau pour parvenir au bon état des rivières et eaux souterraines”. En particulier, cette directive impose à chaque état d'analyser l’eau de leur bassin et d’élaborer des stratégies pour l’améliorer. Compte tenu de l’importance accrue du problème des perturbateurs endocriniens, il a donc fallu créer des tests pour les détecter. 
@@ -138,7 +138,7 @@ Ainsi en 2006, deux chercheurs du CNRS (Barbara Demeneix et Grégory Lemkine) cr
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 </p>
 
-<img src="Watchfrog2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
+<img src="Watchfrog2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:200px;height:200px;">
 <p>
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 Le laboratoire testent les échantillons envoyés par les entreprises et analyse sur le produit présente des perturbateurs endocriniens et si ces derniers sont à une dose réellement problématique et néfaste pour l’homme. Cette méthode est utilisée pour analyser l’eau mais également les aliments, les produits cosmétiques et les emballages. 
@@ -205,7 +205,7 @@ L’osmose inverse consiste à inverser le passage du solvant en appliquant une 
 
 Ces “magsorbants” sont des billes magnétiques de taille millimétrique constituée d’alginate et de chitosane (bio-polymères végétales et de faibles coûts) dans lesquelles sont encapsulées des nanoparticules magnétiques.
 
-<img src="Billes.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:200px;">
+<img src="Billes.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:250px;height:100px;">
 Ces polymères ont des propriétés absorbantes et permettent de capter les différents polluants présents dans l’eau. Les billes étant magnétiques elles peuvent être retirés du milieu à dépolluer très facilement au moyen d’un gradient de champ magnétique (ou plus simplement d’un aimant). </p> 
 
 <p><a href="https://tel.archives-ouvertes.fr/tel-01207492/document">Lien vers la thèse.</a> </p> <br />
