@@ -85,11 +85,11 @@ footer {background: #aaa;color:white;}
 </div>
   
 <div class="dropdown">
-  <button class="dropbtn">Un problème de santé publique</button>
+  <button class="dropbtn">De l'espace scientifique au domaine public</button>
   <div class="dropdown-content">
-    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Recherches-Scientifiques">Recherches Scientifiques</a>
-    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Solution/">Classifications</a>
-    <a href="https://facebook.com">Fiches scandale</a>
+    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Recherches-Scientifiques">Découvertes scientifiques</a>
+    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Solution/">Un problème de santé publique</a>
+    <a href="https://facebook.com">Émergence dans le débat public</a>
     </div>  
 </div>
 
