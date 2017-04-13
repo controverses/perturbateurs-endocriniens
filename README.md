@@ -85,27 +85,27 @@ footer {background: #aaa;color:white;}
 </div>
   
 <div class="dropdown">
-  <button class="dropbtn">De l'espace scientifique au domaine pubic</button>
+  <button class="dropbtn">De l'espace scientifique au domaine public</button>
   <div class="dropdown-content">
     <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Recherches-Scientifiques">Découvertes scientifiques</a>
-    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Solution/">Problème de santé publique</a>
+    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Solution/">Un problème de santé publique</a>
     <a href="https://facebook.com">Émergence dans le débat public</a>
     </div>  
 </div>
 
 <div class="dropdown">
-  <button class="dropbtn">Des intérêts confrontés</button>
+  <button class="dropbtn">Les actions du gouvernement français</button>
   <div class="dropdown-content">
-    <a href="#">Lobby</a>
-    <a href="#">Assos</a>
-    <a href="#">Consommateurs</a>
+    <a href="#">Réglementation</a>
+    <a href="#">Programme de recherches</a>
+    <a href="#">Influence sur l'UE</a>
   </div>
 </div>
 
 <div class="dropdown">
   <button class="dropbtn">Une législation difficile</button>
   <div class="dropdown-content">
-    <a href="#">Comission Européenne</a>
+    <a href="#">Les lo</a>
     <a href="#">Gouvernement Français</a>
     <a href="#">Définition</a>
     <a href="https://github.com/evespa97/Perturbateurs-Endocriniens/blob/Solution/">Solution</a>
