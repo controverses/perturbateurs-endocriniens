@@ -126,6 +126,10 @@ footer {background: #aaa;color:white;}
 <p><strong>→Travail <p></strong>  <p>
 - Se renseigner auprès de la Médecine du Travail sur la présence ou non de perturbateurs endocriniens sur son lieu de travail et obtenir la qualité d’aération et de protection adaptée. <br /> </p>
 
+ <p><strong>Effet cocktail des perturbateurs endocriniens: <p></strong> 
+<p>Il est de plus en plus difficile de se protéger des perturbateurs endocriniens car on ne connaît pas tous leur danger. Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais il a été prouvé qu’une fois ces substances réunies dans un même milieu, leur effet peut être décuplé voir centuplé. Il s’agit de l’effet cocktail. 
+L'Institut de recherche en cancérologie de Montpellier a ainsi étudié l’effet de 40 molécules  sur le récepteur humain PXR  (qui contrôle la toxicité dans l’organisme). Les résultats ont montré que prises deux à deux, les composés chimiques ont une action 100 fois supérieur à leurs actions individuelles. C’est le cas pour le trans-nonachlor (présente dans le pesticide chlordane) et l'éthinylestradiol (présent dans les pilules contraceptives).Cette découverte remet en cause les différents seuils de toxicité en vigueur. <p> <br />
+
 <p><strong> Comment s'en protéger? <p></strong>
 
 <p style="text-align:center;">WatchFrog: La biologie au service de la détection des perturbateurs endocriniens</p>
