@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style> 
+<head>  
 <body style="background-color:powderblue;">
 <div class="flex-container">
 <article class="article">
