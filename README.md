@@ -142,12 +142,6 @@ Face à ce fourmillement dans le débat d’idée autour de multiples acteurs, i
 </article>
 
 <footer>Copyright &copy; The Best</footer>
-</div>
-
 
 </body>
 </html>
-
-
-
-
