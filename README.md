@@ -96,7 +96,7 @@ footer {background: #aaa;color:white;}
 <div class="dropdown">
   <button class="dropbtn">Les actions du gouvernement français</button>
   <div class="dropdown-content">
-    <a href="#">Réglementation</a>
+    <a href="https://controverses.github.io/perturbateurs-endocriniens/réglementation.html">Réglementation</a>
     <a href="#">Programme de recherches</a>
     <a href="#">Influence sur l'UE</a>
   </div>
