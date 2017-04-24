@@ -3,7 +3,7 @@
 <style> 
 
 .article {
-    text-align: left;
+    text-align: justify;
 }
 
 .dropbtn {
@@ -60,30 +60,20 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
-footer {background: #aaa;color:white;}
-
-@media all and (min-width: 768px) {
-    .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
-    footer {-webkit-order:3;order:3;}
-}
-
 </style>
 </head>
 
 <body style="background-color:powderblue;">
 
-<div class="flex-container">
-
 <article class="article">
-  <h1>Définition</h1>
+  <h1>Définitions</h1>
   
   <p align="justify">
 ... </p> 
    
 </article>
 
-</div>
-
 
 </body>
 </html>
+
