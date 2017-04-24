@@ -10,6 +10,7 @@
     margin-bottom: 1rem;
     background-color: rgba(255, 255, 255, 0.08);
     color: rgba(255, 255, 255, 0.7);
+    height: 150px
     border-color: rgba(255, 255, 255, 0.2);
     border-style: solid;
     border-width: 1px;
@@ -103,7 +104,7 @@ footer {background: #aaa;color:white;}
 <div class="flex-container">
 
 <article class="article">
-  <h1>IntrAduction</h1>
+  <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
