@@ -29,7 +29,6 @@
     border-width: 1px;
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-    padding: 16px;
     font-size: 16px;
     cursor: pointer;
 }
@@ -67,7 +66,7 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: rgba(255, 255, 255, 0.08);
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -84,14 +83,17 @@
     display: block;
 }
 
-.dropdown-content a:hover {background-color: rgba(255, 255, 255, 0.08)}
+.dropdown-content a:hover {background-color: rgba(255, 255, 255, 0.2)}
 
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
 .dropdown:hover .dropbtn {
-    background-color: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
 }
 
 footer {background: #aaa;color:white;}
