@@ -108,7 +108,7 @@ footer {background: #aaa;color:white;}
     <a href="#">Les lo</a>
     <a href="#">Gouvernement Français</a>
     <a href="#">Définition</a>
-    <a href="https://controverses.github.io/perturbateurs-endocriniens/solution.html">Solution</a>
+    <a href="https://controverses.github.io/perturbateurs-endocriniens/solutions.html">Solution</a>
   </div>
 </div>
 
