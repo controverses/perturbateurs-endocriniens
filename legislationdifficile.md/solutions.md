@@ -75,7 +75,7 @@ footer {background: #aaa;color:white;}
 <div class="flex-container">
 
 <article class="article">
-  <h1>Gouvernement Français</h1>
+  <h1>Solutions</h1>
   
   <p align="justify">
 ... </p> 
