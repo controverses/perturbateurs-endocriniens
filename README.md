@@ -52,7 +52,7 @@
     padding: 0.75rem;
     font-size: 0.9rem;
 
-    + .btn {
+    + .dropbtn {
       margin-top: 1rem;
       margin-left: 0;
     }
