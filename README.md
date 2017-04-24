@@ -2,20 +2,6 @@
 <head>
 <style> 
 
-.flex-container {
-    display: -webkit-flex;
-    display: flex;  
-    -webkit-flex-flow: row wrap;
-    flex-flow: row wrap;
-    text-align: center;
-}
-
-.flex-container > * {
-    padding: 15px;
-    -webkit-flex: 1 100%;
-    flex: 1 100%;
-}
-
 .article {
     text-align: left;
 }
@@ -86,7 +72,7 @@ footer {background: #aaa;color:white;}
 <div class="flex-container">
 
 <article class="article">
-  <h1>Introduction</h1>
+  <h1>IntrAduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
