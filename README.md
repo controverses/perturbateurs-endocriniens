@@ -16,7 +16,7 @@
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     cursor: pointer;
-    padding: 0.75rem 2rem; 
+    padding: 0.75rem 1rem; 
 }  
 
 .dropdown {
@@ -35,7 +35,7 @@
     border-style: solid;
     border-width: 1px;
     border-radius: 0.3rem;
-    padding: 0.75rem 1rem;
+    padding: 0.75rem 1,5rem;
 } 
 
 .dropdown-content a {
