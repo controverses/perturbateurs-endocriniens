@@ -27,7 +27,7 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgba(255, 255, 255, 0.08);
+    background-color: #81DAF5;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -45,7 +45,7 @@
     display: block;
 }
 
-.dropdown-content a:hover {background-color: rgba(255, 255, 255, 0.2)}
+.dropdown-content a:hover {background-color: rgba(105, 216, 243, 0.2)}
 
 .dropdown:hover .dropdown-content {
     display: block;
