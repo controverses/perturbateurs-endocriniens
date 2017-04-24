@@ -22,7 +22,6 @@
 .dropdown {
     position: relative;
     display: inline-block;
-    padding: 0.75rem 1rem;
 }
 
 .dropdown-content {
@@ -50,6 +49,7 @@
 
 .dropdown:hover .dropdown-content {
     display: block;
+    padding: 0.75rem 1rem;
 }
 
 .dropdown:hover .dropbtn {
@@ -74,7 +74,7 @@ footer {background: #aaa;color:white;}
 <div class="flex-container">
 
 <article class="article">
-  <h1>IntrAduction</h1>
+  <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
