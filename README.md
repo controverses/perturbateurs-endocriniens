@@ -35,6 +35,7 @@
     border-style: solid;
     border-width: 1px;
     border-radius: 0.3rem;
+    padding: 0.75rem 1rem;
     
   @include large {
     padding: 0.75rem 1rem;
