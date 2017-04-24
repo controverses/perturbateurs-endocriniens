@@ -82,7 +82,6 @@ footer {background: #aaa;color:white;}
    
 </article>
 
-<footer>Copyright &copy; The Best</footer>
 </div>
 
 
