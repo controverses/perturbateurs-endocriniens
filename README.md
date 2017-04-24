@@ -21,6 +21,7 @@
 }
 
 .dropbtn {
+    margin-bottom: 1rem;
     background-color: rgba(255, 255, 255, 0.08);
     color: rgba(255, 255, 255, 0.7);
     border-color: rgba(255, 255, 255, 0.2);
@@ -30,9 +31,33 @@
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     padding: 16px;
     font-size: 16px;
-    border: none;
     cursor: pointer;
 }
+
+  + .dropbtn {
+    margin-left: 1rem;
+  }
+  
+  @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .btn {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
 
 .dropdown {
     position: relative;
