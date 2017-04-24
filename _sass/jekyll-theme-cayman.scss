@@ -90,7 +90,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: "https://s-media-cache-ak0.pinimg.com/736x/eb/7b/d0/eb7bd0e6b1696b9e9ac7b7ca638fd04b.jpg";
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   }
   
   @include large {
