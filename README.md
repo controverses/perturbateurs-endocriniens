@@ -35,24 +35,7 @@
     border-style: solid;
     border-width: 1px;
     border-radius: 0.3rem;
-    padding: 0.75rem;
-    font-size: 0.9rem;
-    
-  @include large {
     padding: 0.75rem 1rem;
-  }
-
-  @include medium {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
-  }
-
-  @include small {
-    display: block;
-    width: 100%;
-    padding: 0.75rem;
-    font-size: 0.9rem;
-  }
 } 
 
 .dropdown-content a {
