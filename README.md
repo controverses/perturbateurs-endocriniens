@@ -1,43 +1,8 @@
 <html>
 <body style="background-color:powderblue;">
 
-<div class="flex-container">
-
-<div class="dropdown">
-<button class="dropbtn"><a href="https://controverses.github.io/perturbateurs-endocriniens/">Accueil</a></button>
-    </div>
-</div>
-  
-<div class="dropdown">
-  <button class="dropbtn">De l'espace scientifique au domaine public</button>
-  <div class="dropdown-content">
-    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution.md">Découvertes scientifiques</a>
-    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution.md">Un problème de santé publique</a>
-    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution.md">Émergence dans le débat public</a>
-    </div>  
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn">Les actions du gouvernement français</button>
-  <div class="dropdown-content">
-    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solutions.html">Réglementation</a>
-    <a href="#">Programme de recherches</a>
-    <a href="#">Influence sur l'UE</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn">Une législation difficile</button>
-  <div class="dropdown-content">
-    <a href="#">Les lo</a>
-    <a href="#">Gouvernement Français</a>
-    <a href="#">Définition</a>
-    <a href="https://controverses.github.io/perturbateurs-endocriniens/solutions.html">Solution</a>
-  </div>
-</div>
-
 <article class="article">
-  <h1>IntrAduction</h1>
+  <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
