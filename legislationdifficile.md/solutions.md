@@ -3,7 +3,7 @@
 <style> 
 
 .article {
-    text-align: left;
+    text-align: justify;
 }
 
 .dropbtn {
