@@ -30,23 +30,6 @@
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     cursor: pointer;
-    
-      @include large {
-    padding: 0.75rem 1rem;
-  }
-
-  @include medium {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
-  }
-
-  @include small {
-    display: block;
-    width: 100%;
-    padding: 0.75rem;
-    font-size: 0.9rem;
-}
-
 
 .dropdown {
     position: relative;
@@ -65,21 +48,6 @@
     border-width: 1px;
     border-radius: 0.3rem;
     
-      @include large {
-    padding: 0.75rem 1rem;
-  }
-
-  @include medium {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
-  }
-
-  @include small {
-    display: block;
-    width: 100%;
-    padding: 0.75rem;
-    font-size: 0.9rem;
-}
 
 .dropdown-content a {
     color: black;
