@@ -227,5 +227,7 @@ Ces “magsorbants” sont des billes magnétiques de taille millimétrique cons
 <p><strong>Dr Patrick Levy, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC) lors d’un débat avec Barbara Demeneix: </strong><p>  <p align="justify">  
 “La définition des perturbateurs endocrinien de l’OMS fait consensus pour les scientifiques mais pas consensus pour un contexte réglementaire, elle n’est pas suffisamment discriminante. Elle est beaucoup trop large. Elle ne permet pas de différencier des perturbateurs avérés et ceux qui n’ont qu’une activité biologique réversibles et sans effet durables. On ne peut pas faire cette discrimination. Nous souhaitons un cadre réglementaire efficace.” </p> 
 
+</article>
+
 </body>
 </html>
