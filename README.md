@@ -20,12 +20,14 @@
     text-align: left;
 }
 
-
-
-
 .dropbtn {
     background-color: rgba(255, 255, 255, 0.08);
     color: rgba(255, 255, 255, 0.7);
+    border-color: rgba(255, 255, 255, 0.2);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -44,6 +46,10 @@
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    border-color: rgba(255, 255, 255, 0.2);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
 }
 
 .dropdown-content a {
