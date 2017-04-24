@@ -87,9 +87,9 @@ footer {background: #aaa;color:white;}
 <div class="dropdown">
   <button class="dropbtn">De l'espace scientifique au domaine public</button>
   <div class="dropdown-content">
-    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution.html">Découvertes scientifiques</a>
-    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution.html">Un problème de santé publique</a>
-    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution.html">Émergence dans le débat public</a>
+    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution.md">Découvertes scientifiques</a>
+    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution.md">Un problème de santé publique</a>
+    <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution.md">Émergence dans le débat public</a>
     </div>  
 </div>
 
