@@ -77,6 +77,34 @@ footer {background: #aaa;color:white;}
 }
 
 <body style="background-color:powderblue;">
+  
+  <div class="dropdown">
+    <button class="dropbtn">De l'espace scientifique au domaine public</button>
+    <div class="dropdown-content">
+      <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution">Découvertes scientifiques</a>
+      <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution">Un problème de santé publique</a>
+      <a href="https://controverses.github.io/perturbateurs-endocriniens/Solution">Émergence dans le débat public</a>
+      </div>  
+  </div> 
+  
+   <div class="dropdown">
+     <button class="dropbtn">Les actions du gouvernement français</button>
+     <div class="dropdown-content">
+       <a href="https://controverses.github.io/perturbateurs-endocriniens/Solutions.html" >Réglementation</a>
+       <a href="#" >Programme de recherches</a>
+       <a href="#" >Influence sur l'UE</a>
+       </div>
+  </div> 
+  
+  <div class="dropdown">
+      <button class="dropbtn">Une législation difficile</button>
+      <div class="dropdown-content">
+        <a href="#">Les lobbyes</a>
+        <a href="#">Gouvernement Français</a>
+        <a href="#">Définition</a>
+        <a href="https://controverses.github.io/perturbateurs-endocriniens/solutions.html">Solution</a>
+     </div>
+</div>
 
 <article class="article">
   <h1>Introduction</h1>
