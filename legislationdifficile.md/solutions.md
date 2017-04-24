@@ -74,7 +74,7 @@ footer {background: #aaa;color:white;}
   
   <article class="article">
   <h1>Peut-on vraiment se passer des perturbateurs endocriniens?</h1>
-  <p><strong>Les perturbateurs endocriniens sont partout <p></strong>
+  <p><strong>Les perturbateurs endocriniens sont partout<p></strong>
  <p align="justify"> Dans une étude publiée fin avril, l’UFC-Que choisir insiste sur l’omniprésence des perturbateurs endocriniens dans notre environnement. Comme l’explique le docteur Gérald Kierzek «la protection n’est pas simple puisque les 
 perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens seraient présents dans plus de 400 produits du quotidien  (aliments, médicaments, produits ménagers, cosmétiques...).</p>
   
@@ -82,7 +82,7 @@ perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens serai
 
 <img src="Capture d’écran 2017-04-09 à 16.40.47.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:400px;height:500px;">
 
-<p><strong> Comment s'en protéger? <p></strong>
+<p><strong> Comment s'en protéger?<p></strong>
 
 <p>Barbara Demeneix s'intéresse particulièrement à l’impact des perturbateurs endocriniens sur les femmes enceintes et prouve la manière dont il impact le développement du cerveau de leurs enfants. Elle conseille à ces femmes de: <br />
 - manger bio<br />
@@ -94,19 +94,19 @@ perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens serai
    
    <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">Ici</a> </p>
    
-  <p><strong>→Alimentation: <p></strong> <p> 
+  <p><strong>→Alimentation:<p></strong> <p> 
 -Ne pas consommer de poissons grands prédateurs comme requin, espadon, mérou…trop pollués, ne pas consommer plus d’une fois par semaine les moyens prédateurs comme le thon et la daurade <br />
 -Ne jamais consommer de foies ou d’abats de bêtes non biologiques et leurs dérivés (foie gras, pâtés…). <br />
 -Préférer les produits bios (les trois produits non bio les plus riches en perturbateurs endocriniens sont les laitues, les tomates, les concombre). <br />
 -Les agressions thermiques, en particulier au barbecue, peuvent aussi engendrer des perturbateurs endocriniens carcinogènes comme le benzopyrène. Il faut éviter le contact avec les braises qui devraient être non pas sous les aliments à cuire, mais à côté (barbecues verticaux)<br />
 - Ne pas utiliser les verres en polystyrène (un dérivé benzénique) pour les boissons chaudes.<br /> </p>
 
-<p><strong>→Médicaments et cosmétiques <p></strong> 
+<p><strong>→Médicaments et cosmétiques<p></strong> 
 -Ne pas acheter de cosmétiques contenant des parabènes. <br />
 -Eviter les médicaments gastro-résistants <br />
 -Refuser les médicaments contenant du toluène – aussi reprotoxique -, en particulier plusieurs présentations courantes en France de vitamine D. <br />
  </p>
-  <p><strong>→Vêtements, Logements, produits ménagers, d’entretien, désodorisants: <p></strong>  <p>
+  <p><strong>→Vêtements, Logements, produits ménagers, d’entretien, désodorisants:<p></strong>  <p>
 -Réduire au maximum les contreplaqués et moquettes, tissus, qui contiennent des retardateurs de flamme et émettent des poussières, les poussières étant des concentrateurs de perturbateurs endocriniens qui sont ainsi inhalés.<br /> 
 -S’il y a une moquette : la nettoyer une fois par mois à la vapeur<br />
 -Ne pas utiliser d’insecticides chimiques. <br />
