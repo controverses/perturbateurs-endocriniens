@@ -17,7 +17,7 @@
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     cursor: pointer;
     
-      @include large {
+  @include large {
     padding: 0.75rem 1rem;
   }
 
