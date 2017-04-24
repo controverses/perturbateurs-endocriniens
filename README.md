@@ -29,7 +29,6 @@
     border-width: 1px;
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-    font-size: 16px;
     cursor: pointer;
 }
 
@@ -111,7 +110,7 @@ footer {background: #aaa;color:white;}
 <div class="flex-container">
 
 <article class="article">
-  <h1>IntrAduction</h1>
+  <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
