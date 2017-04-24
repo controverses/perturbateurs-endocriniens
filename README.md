@@ -24,8 +24,8 @@
 
 
 .dropbtn {
-    background-color: #4CAF50;
-    color: white;
+    background-color: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.7);
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -53,17 +53,15 @@
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: rgba(255, 255, 255, 0.08)}
 
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+    background-color: rgba(255, 255, 255, 0.08);
 }
-
-
 
 footer {background: #aaa;color:white;}
 
@@ -80,7 +78,7 @@ footer {background: #aaa;color:white;}
 <div class="flex-container">
 
 <article class="article">
-  <h1>IntrAduction</h1>
+  <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
