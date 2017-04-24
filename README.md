@@ -30,13 +30,8 @@
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     cursor: pointer;
-}
-
-  + .dropbtn {
-    margin-left: 1rem;
-  }
-  
-  @include large {
+    
+      @include large {
     padding: 0.75rem 1rem;
   }
 
@@ -50,12 +45,8 @@
     width: 100%;
     padding: 0.75rem;
     font-size: 0.9rem;
+}
 
-    + .dropbtn {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
-  }
 
 .dropdown {
     position: relative;
@@ -73,6 +64,21 @@
     border-style: solid;
     border-width: 1px;
     border-radius: 0.3rem;
+    
+      @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
 }
 
 .dropdown-content a {
@@ -115,10 +121,10 @@ footer {background: #aaa;color:white;}
   <p><strong>Venez découvrir la controverse!</strong></p>
   
   <p align="justify">
-Dans notre corps, certains organes comme le pancréas, le rein ou la thyroïde sécrètent des hormones, qui sont des molécules destinées à agir sur d’autres organes en étant transportées par le sang. L’ensemble de ces organes compose le système endocrinien. Il est primordial car la sécrétion d’hormones permet de réguler notre métabolisme, notre croissance et notre reproduction. Aussi, il est à la base du fonctionnement de notre corps. Par exemple, l’insuline et le glucagon, deux hormones, agissent sur la régulation de la glycémie, l’adrénaline sur la contraction musculaire, les oestrogènes sur la reproduction, … En temps normal, il s’auto-régule : le taux de sécrétion d’une hormone est déterminé par d’autres hormones agissant en amont, la plupart du temps provenant du complexe hypothalamo-hypophysaire de notre cerveau, mais également par un rétrocontrôle des hormones sur lesquelles elle influe. </p> <br /> 
+Dans notre corps, certains organes comme le pancréas, le rein ou la thyroïde sécrètent des hormones, qui sont des molécules destinées à agir sur d’autres organes en étant transportées par le sang. L’ensemble de ces organes compose le système endocrinien. Il est primordial car la sécrétion d’hormones permet de réguler notre métabolisme, notre croissance et notre reproduction. Aussi, il est à la base du fonctionnement de notre corps. Par exemple, l’insuline et le glucagon, deux hormones, agissent sur la régulation de la glycémie, l’adrénaline sur la contraction musculaire, les oestrogènes sur la reproduction, … En temps normal, il s’auto-régule : le taux de sécrétion d’une hormone est déterminé par d’autres hormones agissant en amont, la plupart du temps provenant du complexe hypothalamo-hypophysaire de notre cerveau, mais également par un rétrocontrôle des hormones sur lesquelles elle influe. </p> 
 
   <p align="justify">
-Pourtant, il existe des molécules peuvent perturber ce fonctionnement en remplaçant une hormone et en imitant ou bloquant son effet. Ces entités chimiques sont appelées perturbateurs endocriniens. </p> <br />
+Pourtant, il existe des molécules peuvent perturber ce fonctionnement en remplaçant une hormone et en imitant ou bloquant son effet. Ces entités chimiques sont appelées perturbateurs endocriniens. </p> 
 
  <p align="justify">
 Les perturbateurs provoquent différents problèmes de santé chez les personnes concernées ainsi que des dérèglements environnementaux importants. Or, ils prennent une place de plus en plus importante dans notre quotidien, à tel point qu’ils sont semblent aujourd’hui être omniprésents : on en retrouve dans les cosmétiques, les pesticides, mais aussi l’alimentation et les plastiques.
