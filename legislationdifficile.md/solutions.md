@@ -102,22 +102,23 @@ perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens serai
 - Ne pas utiliser les verres en polystyrène (un dérivé benzénique) pour les boissons chaudes.<br /> </p>
 
 <p><strong>→Médicaments et cosmétiques</strong></p>
+<p> 
 -Ne pas acheter de cosmétiques contenant des parabènes. <br />
 -Eviter les médicaments gastro-résistants <br />
 -Refuser les médicaments contenant du toluène – aussi reprotoxique -, en particulier plusieurs présentations courantes en France de vitamine D. <br />
  </p>
-  <p><strong>→Vêtements, Logements, produits ménagers, d’entretien, désodorisants:<p></strong>  <p>
+  <p><strong>→Vêtements, Logements, produits ménagers, d’entretien, désodorisants:</strong> </p> <p>
 -Réduire au maximum les contreplaqués et moquettes, tissus, qui contiennent des retardateurs de flamme et émettent des poussières, les poussières étant des concentrateurs de perturbateurs endocriniens qui sont ainsi inhalés.<br /> 
 -S’il y a une moquette : la nettoyer une fois par mois à la vapeur<br />
 -Ne pas utiliser d’insecticides chimiques. <br />
--Exiger des pompes à essence un bouchon hermétique qui empêche d’inhaler les vapeurs d’essence car elles contiennent encore en France 1% de benzène, qui est génotoxique et augmente les risques de leucémies. <br />
+-Exiger des pompes à essence un bouchon hermétique qui empêche d’inhaler les vapeurs d’essence car elles contiennent encore en France 1% de benzène, qui est génotoxique et augmente les risques de leucémies. <br /> </p>
 
 <p><strong>→Travail </strong></p>  <p>
 - Se renseigner auprès de la Médecine du Travail sur la présence ou non de perturbateurs endocriniens sur son lieu de travail et obtenir la qualité d’aération et de protection adaptée. <br /> </p>
 
  <p><strong>Effet cocktail des perturbateurs endocriniens: </strong> </p>
 <p>Il est de plus en plus difficile de se protéger des perturbateurs endocriniens car on ne connaît pas tous leur danger. Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais il a été prouvé qu’une fois ces substances réunies dans un même milieu, leur effet peut être décuplé voir centuplé. Il s’agit de l’effet cocktail. 
-L'Institut de recherche en cancérologie de Montpellier a ainsi étudié l’effet de 40 molécules  sur le récepteur humain PXR  (qui contrôle la toxicité dans l’organisme). Les résultats ont montré que prises deux à deux, les composés chimiques ont une action 100 fois supérieur à leurs actions individuelles. C’est le cas pour le trans-nonachlor (présente dans le pesticide chlordane) et l'éthinylestradiol (présent dans les pilules contraceptives).Cette découverte remet en cause les différents seuils de toxicité en vigueur. <p> <br />
+L'Institut de recherche en cancérologie de Montpellier a ainsi étudié l’effet de 40 molécules  sur le récepteur humain PXR  (qui contrôle la toxicité dans l’organisme). Les résultats ont montré que prises deux à deux, les composés chimiques ont une action 100 fois supérieur à leurs actions individuelles. C’est le cas pour le trans-nonachlor (présente dans le pesticide chlordane) et l'éthinylestradiol (présent dans les pilules contraceptives).Cette découverte remet en cause les différents seuils de toxicité en vigueur. </p> <br />
 
 <p><strong> Comment s'en protéger? </strong></p>
 
