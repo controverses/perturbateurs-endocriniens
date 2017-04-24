@@ -36,6 +36,7 @@
     border-width: 1px;
     border-radius: 0.3rem;
     padding: 0.75rem 1,5rem;
+    min-width: 400px
 } 
 
 .dropdown-content a {
