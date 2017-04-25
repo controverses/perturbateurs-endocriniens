@@ -93,7 +93,7 @@ Face à ce fourmillement dans le débat d’idée autour de multiples acteurs, i
   <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
 
-<img src='http://cdn1-doctissimo.ladmedia.fr/var/doctissimo/storage/images/fr/www/sante/perturbateur-endocrinien/perturbateur-endocrinien-liste/391088-1-fre-FR/perturbateur-endocrinien-liste1.jpg' style='position:fixed;top:0px;left:0px;width:100%;height:100%;z-index:-1;'>
+<img src='http://cdn1-doctissimo.ladmedia.fr/var/doctissimo/storage/images/fr/www/sante/perturbateur-endocrinien/perturbateur-endocrinien-liste/391088-1-fre-FR/perturbateur-endocrinien-liste1.jpg' style='right:0px;left:0px;width:100%;height:auto;z-index:-1;'>
    
 </article>
 
