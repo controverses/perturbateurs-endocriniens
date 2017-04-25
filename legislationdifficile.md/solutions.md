@@ -87,31 +87,11 @@ perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens serai
    
    <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">Ici</a> </p>
    
-  <p><strong>→Alimentation:</strong></p> <p> 
--Ne pas consommer de poissons grands prédateurs comme requin, espadon, mérou…trop pollués, ne pas consommer plus d’une fois par semaine les moyens prédateurs comme le thon et la daurade <br />
--Ne jamais consommer de foies ou d’abats de bêtes non biologiques et leurs dérivés (foie gras, pâtés…). <br />
--Préférer les produits bios (les trois produits non bio les plus riches en perturbateurs endocriniens sont les laitues, les tomates, les concombre). <br />
--Les agressions thermiques, en particulier au barbecue, peuvent aussi engendrer des perturbateurs endocriniens carcinogènes comme le benzopyrène. Il faut éviter le contact avec les braises qui devraient être non pas sous les aliments à cuire, mais à côté (barbecues verticaux)<br />
-- Ne pas utiliser les verres en polystyrène (un dérivé benzénique) pour les boissons chaudes.<br /> </p>
-
-<p><strong>→Médicaments et cosmétiques</strong></p>
-<p> 
--Ne pas acheter de cosmétiques contenant des parabènes. <br />
--Eviter les médicaments gastro-résistants <br />
--Refuser les médicaments contenant du toluène – aussi reprotoxique -, en particulier plusieurs présentations courantes en France de vitamine D. <br />
- </p>
-  <p><strong>→Vêtements, Logements, produits ménagers, d’entretien, désodorisants:</strong> </p> <p>
--Réduire au maximum les contreplaqués et moquettes, tissus, qui contiennent des retardateurs de flamme et émettent des poussières, les poussières étant des concentrateurs de perturbateurs endocriniens qui sont ainsi inhalés.<br /> 
--S’il y a une moquette : la nettoyer une fois par mois à la vapeur<br />
--Ne pas utiliser d’insecticides chimiques. <br />
--Exiger des pompes à essence un bouchon hermétique qui empêche d’inhaler les vapeurs d’essence car elles contiennent encore en France 1% de benzène, qui est génotoxique et augmente les risques de leucémies. <br /> </p>
-
-<p><strong>→Travail </strong></p>  <p>
-- Se renseigner auprès de la Médecine du Travail sur la présence ou non de perturbateurs endocriniens sur son lieu de travail et obtenir la qualité d’aération et de protection adaptée. <br /> </p>
-
  <p><strong>Effet cocktail des perturbateurs endocriniens: </strong> </p>
-<p>Il est de plus en plus difficile de se protéger des perturbateurs endocriniens car on ne connaît pas tous leur danger. Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais il a été prouvé qu’une fois ces substances réunies dans un même milieu, leur effet peut être décuplé voir centuplé. Il s’agit de l’effet cocktail. 
-L'Institut de recherche en cancérologie de Montpellier a ainsi étudié l’effet de 40 molécules  sur le récepteur humain PXR  (qui contrôle la toxicité dans l’organisme). Les résultats ont montré que prises deux à deux, les composés chimiques ont une action 100 fois supérieur à leurs actions individuelles. C’est le cas pour le trans-nonachlor (présente dans le pesticide chlordane) et l'éthinylestradiol (présent dans les pilules contraceptives).Cette découverte remet en cause les différents seuils de toxicité en vigueur. </p> <br />
+<p>Il est de plus en plus difficile de se protéger des perturbateurs endocriniens car on ne connaît pas tous leurs dangers. Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais il a été prouvé qu’une fois ces substances réunies dans un même milieu, leur effet peut être décuplé voir centuplé. Il s’agit de l’effet cocktail.
+L'Institut de recherche en cancérologie de Montpellier a ainsi étudié l’effet de 40 molécules  sur le récepteur humain PXR (qui contrôle la toxicité dans l’organisme). Les résultats ont montré que prises deux à deux, les composés chimiques ont une action 100 fois supérieure à leur action individuelle. C’est le cas pour le transnonachlor (présent dans le pesticide chlordane) et l'éthinylestradiol (présent dans les pilules contraceptives).Cette découverte remet en cause les différents seuils de toxicité en vigueur et pose des problèmes fondamentaux.
+Tout d’abord, il devient quasiment impossible de se protéger de ces substances puisqu’on ne connaît même pas les risques que l’on encourt au contact de plusieurs de ces produits. De plus, les substituts créés par les chimistes, formés d’un mélange de produits chimique aux propriétés semblables à celles du produit de base, sont parfois plus dangereux que ce dernier. 
+Enfin, il devient très difficile d’instaurer une législation claire se basant sur les seuils de toxicité puisque nous ne les connaissons pas tous et qu’il diffère selon le mélange de substances dans l’objet. Cette découverte a induit un déplacement du centre de gravité de la controverse. </p> <br />
 
 <p><strong> Comment s'en protéger? </strong></p>
 
@@ -125,8 +105,9 @@ La directive 2000/60/CE appliquée par l’Union Européenne depuis le 22 octobr
 Ainsi en 2006, deux chercheurs du CNRS (Barbara Demeneix et Grégory Lemkine) créent une méthode unique et innovante pour détecter les perturbateurs endocriniens et fondent alors une start-up, WatchFrog. 
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 </p>
-
-<img src="Watchfrog2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:200px;height:200px;">
+<div style="text-align: center">
+<img src="Watchfrog2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:100px;"/>
+</div>
 <p align="justify"> 
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 Le laboratoire testent les échantillons envoyés par les entreprises et analyse sur le produit présente des perturbateurs endocriniens et si ces derniers sont à une dose réellement problématique et néfaste pour l’homme. Cette méthode est utilisée pour analyser l’eau mais également les aliments, les produits cosmétiques et les emballages. 
@@ -167,8 +148,10 @@ Certaines industries ne préfèrent pas attendre une réglementation plus strict
 <p><strong> Conclusion: </strong> </p>
 <p align="justify">
 Aujourd’hui, on constate qu’il n’existe pas suffisamment de recherches sur les produits de substitution et que la plupart de ceux qui existent sont souvent aussi dangereux que les produits de base.  Ce manque peut être expliqué par la mauvaise volonté des industriels mais aussi des parlementaires européens. En effet, comme d’autres facteurs environnementaux peuvent également expliquer l’augmentation de certaines pathologies, les lobbies industriels empêchent les législateurs d’instaurer une réglementation plus stricte. Il y a quelques années, les députés français souhaitent interdire tout simplement les produits contenant des phtalates et des parabènes mais l’idée fut abandonnée sous la pression des industrielles de la chimie et du plastique. De plus, tant qu’il n’existe pas de produits de substitution satisfaisant il est très dur d’invoquer le principe de précaution et d’interdire les produits dangereux car cela entraînerait de grave répercussions sur l’économie du pays. Or on constate que les industriels rechignent souvent à investir dans le secteur Recherche et Développement dans le but de se préparer à une prochaine interdiction car cela est très coûteux. De plus, pourquoi investir dans la recherche de produit moins toxiques mais beaucoup moins efficaces tant qu’il n’existe pas de réglementation stricte? </p>
-<img src="Cycle2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:300px;">
 
+<div style="text-align: center">
+<img src="Cycle2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:300px;"/>
+</div>
 
 <p><strong>Peut-on les supprimer? </strong> </p> <br />
 <p align="justify">
@@ -188,7 +171,10 @@ L’osmose inverse consiste à inverser le passage du solvant en appliquant une 
 
 <p><a href="http://www.fndae.fr/documentation/PDF/fndae14.pdf ">Plus d'informations sur ce lien.</a> </p> <br />
 
-<img src="Osmose.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:200px;">
+<div style="text-align: center">
+<img src="Osmose.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:200px;"/>
+</div>
+
 <p align="justify"> De nombreuses chimistes travaillent aujourd’hui sur des solutions de traitement de l’eau plus rapides et efficaces. Nous avons rencontré Agnès Bée, directrice adjointe de l’UFR de Chimie de l’Université Pierre et Marie Curie, qui nous a présenté un prototype originale afin d’éliminer les perturbateurs endocriniens de notre eau. Layala Obeid, une de ces étudiantes à présenter récemment une thèse sur cette nouvelle méthode qui utilisent des nouveaux matériaux magnétiques appelés “magsorbants” pour extraire les polluants.  </p>
 
 Ces “magsorbants” sont des billes magnétiques de taille millimétrique constituée d’alginate et de chitosane (bio-polymères végétales et de faibles coûts) dans lesquelles sont encapsulées des nanoparticules magnétiques.
