@@ -72,7 +72,7 @@
 perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens seraient présents dans plus de 400 produits du quotidien  (aliments, médicaments, produits ménagers, cosmétiques...).</p>
   
 <div style="text-align: center">
-<img src="MaisonPE.pxm" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;"/>
+<img src="maisonpe.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;"/>
 </div>
 
 
