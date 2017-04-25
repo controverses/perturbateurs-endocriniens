@@ -79,31 +79,29 @@ perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens serai
 <p><strong>1.) Médicaments : </strong></p>
 <p align="justify"> L’INSERM a montré le rôle potentiel de perturbateurs endocriniens des antalgiques (comme le paracétamol, les anti-inflammatoires non stéroïdiens tels que l’aspirine et l’indométacine). 
 Conséquences possibles: cryptorchidie chez le foetus ( absence de descente des testicules), baisse de la production de testostérone. </p>
-<br/>
 <p><a href="http://www.inserm.fr/actualites/rubriques/actualites-recherche/les-antalgiques-sur-le-banc-des-perturbateurs-endocriniens">Cliquez ici pour plus de renseignements </a> </p>
-<br/>
 
 <p><strong>2.) Cosmétiques: </strong></p>
 <p align="justify">
 L’UFC-Que-Choisir a dressé en février 2016 la liste des produits cosmétiques contenant des perturbateurs endocriniens. Maquillage, parfums, vernis, déodorant, produit pour nourrisson, une liste inquiétante qui a doublé depuis sa création. </p>
 
 <p><a href=" https://www.quechoisir.org/comparatif-ingredients-indesirables-n941/">Liste des 400 produits à éviter </a> </p>
-<br/>
+
 <p><strong>3.) Jouets en plastique: </strong></p>
 <p align="justify">
 La plupart des jouets en PVC (polychlorure de vinyle: une des matières plastiques les plus utilisés au monde), contiennent des perturbateurs endocriniens notamment du phtalates. 
 Conséquences possibles : infertilité, mauvais développement des organes génitaux, cancer.
 Réglementation : l’UE réglemente l’utilisation de phtalates dans les jouets depuis 2005, leur présence est limitée à 0,1%. </p>
-<br/>
+
 <p><a href="http://benhur.teluq.uquebec.ca/SPIP/pe/spip.php?article36">Pour plus de renseignements cliquez ici</a> </p> <br/>
 <p><a href="http://www.wecf.eu/download/2009/November/W.163Franceimpresion.pdf ">Liste de conseils aux parents </a> </p>
-<br/>
+
 <p><strong>4.) Meubles et produits ménagers /Moquette/ Air intérieur : </strong></p> 
 <p align="justify">
 Les vernis utilisés pour les meubles, la vaisselle en plastique, les ustensiles de cuisines, les produits ménagers peuvent contenir du Bisphénol A, des phtalates, benzène et bien d’autres. Même s'ils ne sont pas ingérés de manière directe, nos aliments s’en imprègnent, en particulier quand ils sont chauffés. Le Plan de la qualité de l’air intérieur publié en 2013 témoigne de l’omniprésence des ces molécules volatiles à l’intérieur d’une maison. </p> 
 
 <p><a href=" http://www.ouest-france.fr/monde/perturbateurs-endocriniens-quand-vos-meubles-polluent-votre-sante-3706746">Pour plus de renseignements cliquez ici</a> </p>
-<br/>
+
 <p><strong>5.) L’eau du robinet : </strong></p>
 <p align="justify">
 L’association génération future publie un rapport en 2016 qui témoigne de la présence de perturbateurs endocriniens inquiétants dans l’eau du robinet (glyphosate et atrazine). Ce rapport met également en avant la présence de résidus médicamenteux à des niveaux faibles dans l’eau du robinet. On peut également insister sur la présence de l’herbicide atrazine produit par Monsanto, interdit depuis 2003 mais qui reste toujours la molécule la plus présente dans les nappes phréatiques.
@@ -112,7 +110,6 @@ Conséquences potentiels : cancer
 Réglementation: en 2010 la réglementation autorise une eau 5 fois polluée qu’auparavant.
 L’eau en bouteille n’est pas une solution à cause des plastifiants utilisées comme contenant. </p> 
 <p><a href=" http://www.liberation.fr/futurs/2017/01/13/les-perturbateurs-endocriniens-poison-dans-l-eau-du-robinet_1540972">Pour plus de renseignements cliquez ici</a> </p>
-<br/>
 
 <p><strong>6.) Fruits et Légumes : </strong></p>
 <p align="justify">
@@ -133,10 +130,12 @@ Conséquences possibles : cancers, obésité, diabète </p>
    
    <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">Ici</a> </p>
    
- <p><strong>Effet cocktail des perturbateurs endocriniens: </strong> </p>
- <div style="text-align: center">
-<img src="effetcocktail.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:100px;height:100px;"/>
+   <div style="text-align: center">
+<img src="effetcocktail.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:200px;height:150px;"/>
 </div>
+
+ <p><strong>Effet cocktail des perturbateurs endocriniens: </strong> </p>
+ 
 <p>Il est de plus en plus difficile de se protéger des perturbateurs endocriniens car on ne connaît pas tous leurs dangers. Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais il a été prouvé qu’une fois ces substances réunies dans un même milieu, leur effet peut être décuplé voir centuplé. Il s’agit de l’effet cocktail.
 L'Institut de recherche en cancérologie de Montpellier a ainsi étudié l’effet de 40 molécules  sur le récepteur humain PXR (qui contrôle la toxicité dans l’organisme). Les résultats ont montré que prises deux à deux, les composés chimiques ont une action 100 fois supérieure à leur action individuelle. C’est le cas pour le transnonachlor (présent dans le pesticide chlordane) et l'éthinylestradiol (présent dans les pilules contraceptives).Cette découverte remet en cause les différents seuils de toxicité en vigueur et pose des problèmes fondamentaux.
 Tout d’abord, il devient quasiment impossible de se protéger de ces substances puisqu’on ne connaît même pas les risques que l’on encourt au contact de plusieurs de ces produits. De plus, les substituts créés par les chimistes, formés d’un mélange de produits chimique aux propriétés semblables à celles du produit de base, sont parfois plus dangereux que ce dernier. 
@@ -155,7 +154,7 @@ Ainsi en 2006, deux chercheurs du CNRS (Barbara Demeneix et Grégory Lemkine) cr
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 </p>
 <div style="text-align: center">
-<img src="Watchfrog2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:250px;"/>
+<img src="Watchfrog2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:450px;height:250px;"/>
 </div>
 <p align="justify"> 
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
@@ -173,8 +172,8 @@ L’entreprise travail maintenant en partenariat avec Véolia, et a mis sur le m
 
 <p align="justify"> 
 Toutefois, certaines molécules ont des propriétés particulières et essentiels dont on ne peut pas se passer. Les scientifiques sont donc à la recherche de solutions pour les remplacer par des molécules aux mêmes propriétés. </p>
-
-→Une alternative aux phtalates: <br />
+<U>
+→Une alternative aux phtalates: <br /></U>
 <p align="justify"> Les phtalates sont un groupe de produits chimiques utilisés principalement comme plastifiants des matières plastiques: il est donc ajouté aux matières plastiques comme le PVC pour le rendre plus souple, flexible et plus résistant. Ils sont essentiels à la fabrication des bottes, des textiles imperméables, des jouets ou encore des emballages alimentaires.. mais ils sont aussi utilisés dans les médicaments et les amalgames dentaires. -
  <p align="justify"> 
 Des expériences sur les animaux ont prouvé que les phtalates en concentration élevés conduisent à une baisse de la fertilité, à une atrophie testiculaire ou encore à une réduction du poids du foetus. 
@@ -182,11 +181,11 @@ Depuis 2005, l’AGRICE finance un programme de recherches sur les alternatives 
 Des start-ups biotechnologiques comme Novance, Roquette ou Danisco proposent des alternatives végétales qui pour l’instant semble remplir les caractéristiques souhaitées.
 <p align="justify"> 
 Certaines industries ne préfèrent pas attendre une réglementation plus stricte de l’UE et se tournent dès maintenant vers la production et la vente de produits sans perturbateurs endocriniens. Ils basent leur stratégie marketing sur la dangerosité des phtalates, comme le montre la vidéo ci-dessous sur l’entreprise ayant lancé il y a peu une gamme de vaisselle jetable biodégradable en bambou ou en pulpe de canne à sucre. </p>
-
+<div style="text-align: center">
 <iframe width="544" height="306" src="//embedftv-a.akamaihd.net/aae7c4daf3395f1ec02caf23135ffd8f" frameborder="0" scrolling="no" allowfullscreen></iframe><br /><a href="http://www.francetvinfo.fr/france/vaisselle-jetable-quelles-solutions-pour-remplacer-le-plastique_1836841.html" target="_blank">Vaisselle jetable : quelles solutions pour remplacer le plastique ?</a>
-
-<p>
-→ Une alternative aux parabènes: <br/> </p>
+</div>
+<p><U> 
+→ Une alternative aux parabènes: <br/> </U> </p> 
 <p align="justify">Les propriétés antibactérienne et antifongique du parabène en font un conservateur idéal pour les produits cosmétiques, les aliments et les médicaments. En 2010, leur utilisation est controversée : ils activent les récepteurs des oestrogènes, et agissent possiblement sur la fertilité et les tumeurs comme le cancer du sein. Le benzyl alcool DHA aussi appelé Cosgard ou Geogard 221 est un produit de substitution couramment utilisé. Il empêche notamment le développement de levures et moisissures dans les produits contenant de l’eau et ai certifié “écologiquement correctes” selon les normes de l’UE. </p>
 
 <p><a href="http://www.consoglobe.com/geogard-221-alternative-aux-parabens-cg ">Plus d'informations sur ce lien.</a> </p>
