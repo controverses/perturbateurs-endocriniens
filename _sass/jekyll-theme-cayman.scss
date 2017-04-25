@@ -91,7 +91,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: rgba(202,30,179,0,8)
+  background-image: url ("fond_decran.png");
   }
   
   @include large {
