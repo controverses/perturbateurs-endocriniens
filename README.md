@@ -60,14 +60,6 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
-
-<div id="nav">
-     <ul>
-         <li><a href="#introduction">Introduction</a></li>
-         <li><a href="#carteinteractive">Carte intéractive</a></li>
-     </ul>
-</div>
-
 </style>
 </head>
 
@@ -75,8 +67,6 @@
 
 <article class="article">
 
-<div id="page1">
-  <a id="introduction" class="smooth"></a>
   <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
@@ -103,12 +93,10 @@ Face à ce fourmillement dans le débat d’idée autour de multiples acteurs, i
 <map name="pertumap">
   <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
-</div>
- 
-<div id="page2">
-  <a id="carteinteractive" class="smooth"></a>
+
+
 <img src='http://cdn1-doctissimo.ladmedia.fr/var/doctissimo/storage/images/fr/www/sante/perturbateur-endocrinien/perturbateur-endocrinien-liste/391088-1-fre-FR/perturbateur-endocrinien-liste1.jpg' style='right:0px;left:0px;width:100%;height:auto;z-index:-1;'>
-</div>
+
  
    
 </article>
