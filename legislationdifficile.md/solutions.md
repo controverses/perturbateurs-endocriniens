@@ -118,7 +118,7 @@ Conséquences possibles : cancers, obésité, diabète </p>
 
 <p><a href="https://www.sciencesetavenir.fr/sante/des-perturbateurs-endocriniens-dans-les-mueslis-aux-fruits-faut-il-s-inquieter_107363">Pour plus de renseignements cliquez ici</a> </p>
 
-<p><strong>Comment s'en protéger?</strong></p>
+<h2>Comment s'en protéger?</h2>
 
 <p>Barbara Demeneix s'intéresse particulièrement à l’impact des perturbateurs endocriniens sur les femmes enceintes et prouve la manière dont il impact le développement du cerveau de leurs enfants. Elle conseille à ces femmes de: <br />
 - manger bio<br />
@@ -134,14 +134,14 @@ Conséquences possibles : cancers, obésité, diabète </p>
 <img src="effetcocktail.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:200px;height:150px;"/>
 </div>
 
- <p><strong>Effet cocktail des perturbateurs endocriniens: </strong> </p>
+ <h2>Effet cocktail des perturbateurs endocriniens:</h2>
  
 <p>Il est de plus en plus difficile de se protéger des perturbateurs endocriniens car on ne connaît pas tous leurs dangers. Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais il a été prouvé qu’une fois ces substances réunies dans un même milieu, leur effet peut être décuplé voir centuplé. Il s’agit de l’effet cocktail.
 L'Institut de recherche en cancérologie de Montpellier a ainsi étudié l’effet de 40 molécules  sur le récepteur humain PXR (qui contrôle la toxicité dans l’organisme). Les résultats ont montré que prises deux à deux, les composés chimiques ont une action 100 fois supérieure à leur action individuelle. C’est le cas pour le transnonachlor (présent dans le pesticide chlordane) et l'éthinylestradiol (présent dans les pilules contraceptives).Cette découverte remet en cause les différents seuils de toxicité en vigueur et pose des problèmes fondamentaux.
 Tout d’abord, il devient quasiment impossible de se protéger de ces substances puisqu’on ne connaît même pas les risques que l’on encourt au contact de plusieurs de ces produits. De plus, les substituts créés par les chimistes, formés d’un mélange de produits chimique aux propriétés semblables à celles du produit de base, sont parfois plus dangereux que ce dernier. 
 Enfin, il devient très difficile d’instaurer une législation claire se basant sur les seuils de toxicité puisque nous ne les connaissons pas tous et qu’il diffère selon le mélange de substances dans l’objet. Cette découverte a induit un déplacement du centre de gravité de la controverse. </p> <br />
 
-<p><strong> Comment s'en protéger? </strong></p>
+<h2> Comment les détecter? </h2>
 
 <p style="text-align:center;">WatchFrog: La biologie au service de la détection des perturbateurs endocriniens</p>
 
@@ -167,7 +167,7 @@ L’entreprise travail maintenant en partenariat avec Véolia, et a mis sur le m
 <p> <a href="http://eur-lex.europa.eu/resource.html?uri=cellar:5c835afb-2ec6-4577-bdf8-756d3d694eeb.0001.02/DOC_1&format=PDF">Directive européenne 2000/60/CE:  </a> </p>
 
 
-<p><strong> Peut-on les remplacer? </strong> </p>
+<h2> Peut-on les remplacer? </h2>
 <p align="justify"> La première méthode pour se protéger des perturbateurs endocriniens consiste évidemment en une modification de nos habitudes de consomations et d’autres gestes simples disponibles sur <a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">ce lien.</a> </p>
 
 <p align="justify"> 
@@ -201,7 +201,7 @@ Aujourd’hui, on constate qu’il n’existe pas suffisamment de recherches sur
 <img src="Cycle2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:300px;"/>
 </div>
 
-<p><strong>Peut-on les supprimer? </strong> </p> <br />
+<h2>Peut-on les supprimer? </h2>
 <p align="justify">
 Il existe de nombreuses méthodes pour éliminer les perturbateurs endocriniens contenus dans l’eau. Philippe Bréant, directeur du programme Eau Potable à Veolia expliquait dans une conférence en janvier 2012 les différentes méthodes actuellement utilisées. <br /> </p>
 <p align="justify">
@@ -242,7 +242,7 @@ Ces “magsorbants” sont des billes magnétiques de taille millimétrique cons
 2. La prise de taurine (dérivé d’acide aminé découvert dans la bile de boeuf) permet de digérer plus rapidement les lipides et donc évacuer le cholestérol et les toxiques liposolubles (perturbateurs endocriniens) par les selles. Toutefois, sans une consommation suffisante en fibres, les toxiques risquent d’être réabsorbées dans le tube digestif avant d’atteindre le rectum. </p> 
 
 
-<p><strong> Mais peut on finalement réellement s’en passer? </strong> </p>  
+<h2>Mais peut on finalement réellement s’en passer? </h2>
 
 <p align="justify">
 <p><strong>Barbara Demeneix : </strong><p> <p align="justify">  «Ces substances sont présentes dans ce qu’on boit, ce qu’on mange, ce qu’on respire ou ce qu’on se met sur la peau. En clair, nous sommes tous exposés», alerte Barbara Demeneix, endocrinologue au Muséum national d’histoire naturelle et auteure de l’ouvrage le Cerveau endommagé - Comment la pollution altère notre intelligence et notre santé mentale (Odile Jacob, 2016). <br /> </p> 
