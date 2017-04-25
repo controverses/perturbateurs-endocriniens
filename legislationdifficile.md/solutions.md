@@ -72,7 +72,7 @@
 perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens seraient présents dans plus de 400 produits du quotidien  (aliments, médicaments, produits ménagers, cosmétiques...).</p>
   
 <div style="text-align: center">
-<img src="maisonpe.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;"/>
+<img src="maisonpe.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
 </div>
 
 
@@ -226,8 +226,10 @@ L’osmose inverse consiste à inverser le passage du solvant en appliquant une 
 <p align="justify"> De nombreuses chimistes travaillent aujourd’hui sur des solutions de traitement de l’eau plus rapides et efficaces. Nous avons rencontré Agnès Bée, directrice adjointe de l’UFR de Chimie de l’Université Pierre et Marie Curie, qui nous a présenté un prototype originale afin d’éliminer les perturbateurs endocriniens de notre eau. Layala Obeid, une de ces étudiantes à présenter récemment une thèse sur cette nouvelle méthode qui utilisent des nouveaux matériaux magnétiques appelés “magsorbants” pour extraire les polluants.  </p>
 
 Ces “magsorbants” sont des billes magnétiques de taille millimétrique constituée d’alginate et de chitosane (bio-polymères végétales et de faibles coûts) dans lesquelles sont encapsulées des nanoparticules magnétiques.
-
-<img src="Billes.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:250px;height:100px;">
+<br/>
+<div style="text-align: center">
+<img src="Billes.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:150px;"/>
+</div>
 <p align="justify"> Ces polymères ont des propriétés absorbantes et permettent de capter les différents polluants présents dans l’eau. Les billes étant magnétiques elles peuvent être retirés du milieu à dépolluer très facilement au moyen d’un gradient de champ magnétique (ou plus simplement d’un aimant). </p> 
 
 <p><a href="https://tel.archives-ouvertes.fr/tel-01207492/document">Lien vers la thèse.</a> </p> <br />
