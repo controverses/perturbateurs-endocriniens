@@ -60,10 +60,123 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
+        <title>SCIENCE/SPOT</title>
+        <meta name="viewport" content="initial-scale=1.0">
+        <meta charset="utf-8">
+        <link rel="icon" type="image/png" href="https://tomfevrier.github.io/sciencespot/media/icon.png" />
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <link rel="stylesheet" href="https://tomfevrier.github.io/sciencespot/libraries/powerange.css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Work+Sans:900" rel="stylesheet">
+        <script src="https://d3js.org/d3.v4.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="CSVParsing.js"></script>
+        <script type="text/javascript" src="map.js"></script>
+        <script type="text/javascript" src="sidebar.js"></script>
+        <script src="https://tomfevrier.github.io/sciencespot/libraries/smooth-scroll.js"></script>
+        <script>
+            smoothScroll.init({speed: 1500});
+        </script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJDvuny3q2sl3IhKzqN2o6Ctja9AWfGzc" async defer></script>
+
 </style>
 </head>
 
-<body style="background-color:powderblue;">
+    <body onload='initMap()'>
+        <header>
+            <h1>SCIENCE/SPOT</h1>
+            <h2>Indicateur du logement sciences-piste idéal</h2>
+            <p>Découvre ton quartier idéal selon tes propres critères</p>
+            <div id='domains'>
+                <div class='domain-with-name'>
+                    <img src='media/coutDeLaVie.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Coût de la vie</p>
+                </div>
+                <div class='domain-with-name'>
+                    <img src='media/transport.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Transport</p>
+                </div>
+                <div class='domain-with-name'>
+                    <img src='media/cadreDeVie.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Cadre de vie</p>
+                </div>
+                <div class='domain-with-name'>
+                    <img src='media/sorties.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Sorties</p>
+                </div>
+                <div class='domain-with-name'>
+                    <img src='media/culture.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Culture</p>
+                </div>
+            </div>
+            <a data-scroll id='toInterface' href="#interface"><p align="center"><img src="media/arrow.png"></p><a>
+        </header>
+        <div id='interface'>
+            <div id="map"></div>
+            <div id='sidebar'>
+                <div id='instruction'>Note les différents critères en fonction de l'importance que tu y accordes</div>
+                <div class='slider-wrapper'>
+    				<input type="text" id="coutDeLaVie" />
+                </div>
+                <div class='slider-wrapper'>
+                    <input type="text" id="transport" />
+                </div>
+                <div class='slider-wrapper'>
+                    <input type="text" id="cadreDeVie" />
+                </div>
+                <div class='slider-wrapper'>
+                    <input type="text" id="sorties" />
+                </div>
+                <div class='slider-wrapper'>
+                    <input type="text" id="culture" />
+                </div>
+                <section class='viewMap'>
+                    <button id='viewMap'>VALIDER</button>
+                </section>
+                <div id='info'>
+                    <p>Ton quartier idéal est...<p>
+                    <div id='quartierIdeal'></div>
+                    <div id='infosIdeal'>Sélectionne tes critères pour le savoir !</div>
+                </div>
+                <div id='linkPlus'></div>
+            </div>
+        </div>
+
+
+        <div id='credits'>
+            <div id='columns'>
+                <div id='details-index'>
+                    <h2>En détails</h2>
+                    <div class='details-domain'>
+                        <img src='media/coutDeLaVie.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Niveau moyen des loyers par quartier pour un logement étudiant type&nbsp;&nbsp;&nbsp;<b>70 %</b></p>
+                        <p>Prix du panier moyen par arrondissement&nbsp;&nbsp;&nbsp;<b>30 %</b></p>
+                    </div>
+                    <div class='details-domain'>
+                        <img src='media/transport.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Nombre de stations de Vélib par quartier&nbsp;&nbsp;&nbsp;<b>14 %</b></p>
+                        <p>Temps de trajet en transports en commun entre chaque quartier et Sciences Po&nbsp;&nbsp;&nbsp;<b>86 %</b></p>
+                    </div>
+                    <div class='details-domain'>
+                        <img src='media/cadreDeVie.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Proportion d'espaces verts par arrondissement&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                        <p>Proportion de vols et de violences crapuleuses par arrondissement&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                    </div>
+                    <div class='details-domain'>
+                        <img src='media/sorties.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Prix moyen de la pinte de bière par quartier&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                        <p>Nombre de soirées sciences-pistes ayant eu lieu par arrondissement&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                    </div>
+                    <div class='details-domain'>
+                        <img src='media/culture.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Nombre de cinémas par quartier &nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                        <p>Nombre de musées par quartier&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                    </div>
+                </div>
+
+                </div>
+    
+    	<script src="https://tomfevrier.github.io/sciencespot/libraries/powerange.js"></script>
+        <script src="sliders.js"></script>
 
 <article class="article">
 
@@ -98,7 +211,6 @@ Face à ce fourmillement dans le débat d’idée autour de multiples acteurs, i
 <img src='http://cdn1-doctissimo.ladmedia.fr/var/doctissimo/storage/images/fr/www/sante/perturbateur-endocrinien/perturbateur-endocrinien-liste/391088-1-fre-FR/perturbateur-endocrinien-liste1.jpg' style='right:0px;left:0px;width:100%;height:auto;z-index:-1;'>
 
  
-   
 </article>
 
 </body>
