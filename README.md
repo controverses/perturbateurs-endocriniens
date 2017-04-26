@@ -96,7 +96,7 @@ Face à ce fourmillement dans le débat d’idée autour de multiples acteurs, i
 </map>
 
 
-<img src='http://cdn1-doctissimo.ladmedia.fr/var/doctissimo/storage/images/fr/www/sante/perturbateur-endocrinien/perturbateur-endocrinien-liste/391088-1-fre-FR/perturbateur-endocrinien-liste1.jpg' style='right:0px;left:0px;width:100%;height:auto;z-index:-1;'>
+<img src='http://cdn1-doctissimo.ladmedia.fr/var/doctissimo/storage/images/fr/www/sante/perturbateur-endocrinien/perturbateur-endocrinien-liste/391088-1-fre-FR/perturbateur-endocrinien-liste1.jpg' style='right:0px;left:0px;max-width:100%;height:auto;z-index:-1;'>
 
  
    
