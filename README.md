@@ -60,57 +60,71 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
-        <title>SCIENCE/SPOT</title>
-        <meta name="viewport" content="initial-scale=1.0">
-        <meta charset="utf-8">
-        <link rel="icon" type="image/png" href="https://tomfevrier.github.io/sciencespot/media/icon.png" />
-        <link rel="stylesheet" type="text/css" href="main.css">
-        <link rel="stylesheet" href="https://tomfevrier.github.io/sciencespot/libraries/powerange.css" />
-        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Work+Sans:900" rel="stylesheet">
-        <script src="https://d3js.org/d3.v4.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script type="text/javascript" src="CSVParsing.js"></script>
-        <script type="text/javascript" src="map.js"></script>
-        <script type="text/javascript" src="sidebar.js"></script>
-        <script src="https://tomfevrier.github.io/sciencespot/libraries/smooth-scroll.js"></script>
-        <script>
-            smoothScroll.init({speed: 1500});
-        </script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJDvuny3q2sl3IhKzqN2o6Ctja9AWfGzc" async defer></script>
-
 </style>
 </head>
 
-    <body onload='initMap()'>
+    <body>
         <header>
-            <h1>SCIENCE/SPOT</h1>
+            <h1>Les Perturbateurs endocriniens</h1>
             <h2>Indicateur du logement sciences-piste idéal</h2>
             <p>Découvre ton quartier idéal selon tes propres critères</p>
             <div id='domains'>
-                <div class='domain-with-name'>
-                    <img src='media/coutDeLaVie.png' style='width: 5vmin; height: 5vmin; align: center;'/>
-                    <p>Coût de la vie</p>
-                </div>
-                <div class='domain-with-name'>
-                    <img src='media/transport.png' style='width: 5vmin; height: 5vmin; align: center;'/>
-                    <p>Transport</p>
-                </div>
-                <div class='domain-with-name'>
-                    <img src='media/cadreDeVie.png' style='width: 5vmin; height: 5vmin; align: center;'/>
-                    <p>Cadre de vie</p>
-                </div>
-                <div class='domain-with-name'>
-                    <img src='media/sorties.png' style='width: 5vmin; height: 5vmin; align: center;'/>
-                    <p>Sorties</p>
-                </div>
-                <div class='domain-with-name'>
-                    <img src='media/culture.png' style='width: 5vmin; height: 5vmin; align: center;'/>
-                    <p>Culture</p>
-                </div>
+                   <section class="page-header">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+       <div class="btn">
+        <a href="https://controverses.github.io/perturbateurs-endocriniens/">Accueil</a>
+       </div>
+      
+      <div class="dropdown">
+          <button class="dropbtn">De l'espace scientifique au domaine public</button>
+          <div class="dropdown-content">
+            <a href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/decouvertesscientifiques.html" >Découvertes scientifiques</a>
+            <a href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/santepublique.html" >Un problème de santé publique</a>
+            <a href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/debatpublic.html" >Émergence dans le débat public</a>
+         </div>
+    </div>
+          
+      <div class="dropdown">
+         <button class="dropbtn">Les actions du gouvernement français</button>
+         <div class="dropdown-content">
+            <a href="https://controverses.github.io/perturbateurs-endocriniens/gouvernementfrancais.md/reglementation.html" >Réglementation</a>
+            <a href="https://controverses.github.io/perturbateurs-endocriniens/gouvernementfrancais.md/recherches.html" >Programme de recherches</a>
+            <a href="https://controverses.github.io/perturbateurs-endocriniens/gouvernementfrancais.md/unioneuropeenne.html" >Influence sur l'UE</a>
+         </div>
+      </div>
+      
+       <div class="dropdown">
+         <button class="dropbtn">Une législation difficile</button>
+         <div class="dropdown-content">
+           <a href="https://controverses.github.io/perturbateurs-endocriniens/legislationdifficile.md/lobbies.html">Les lobbies</a>
+           <a href="https://controverses.github.io/perturbateurs-endocriniens/legislationdifficile.md/gouvernementfrancais.html">Gouvernement Français</a>
+           <a href="https://controverses.github.io/perturbateurs-endocriniens/legislationdifficile.md/definition.html">Définition</a>
+           <a href="https://controverses.github.io/perturbateurs-endocriniens/legislationdifficile.md/solutions.html">Solution</a>
+          </div>
+       </div>
+      
+        <div class="dropdown">
+         <button class="dropbtn">Tous concernés ?</button>
+         <div class="dropdown-content">
+           <a href="https://controverses.github.io/perturbateurs-endocriniens/legislationdifficile.md/lobbies.html">Comment s'en protéger ?</a>
+           <a href="https://controverses.github.io/perturbateurs-endocriniens/legislationdifficile.md/gouvernementfrancais.html">Substitus ou suppression </a>
+           <a href="https://controverses.github.io/perturbateurs-endocriniens/legislationdifficile.md/definition.html">Peut-on s'en passer ? </a>
+          </div>
+       </div>
+   
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+      {% endif %}
+    </section>
+
             </div>
-            <a data-scroll id='toInterface' href="#interface"><p align="center"><img src="media/arrow.png"></p><a>
+            <a data-scroll id='toIntroduction' href="#introduction"><p align="center"><img src="arrow.png"></p></a>
         </header>
-        <div id='interface'>
+        <div id='Introduction'>
             <div id="map"></div>
             <div id='sidebar'>
                 <div id='instruction'>Note les différents critères en fonction de l'importance que tu y accordes</div>
