@@ -125,74 +125,7 @@
             <a data-scroll id='toIntroduction' href="#introduction"><p align="center"><img src="arrow.png"></p></a>
         </header>
         <div id='Introduction'>
-            <div id="map"></div>
-            <div id='sidebar'>
-                <div id='instruction'>Note les différents critères en fonction de l'importance que tu y accordes</div>
-                <div class='slider-wrapper'>
-    				<input type="text" id="coutDeLaVie" />
-                </div>
-                <div class='slider-wrapper'>
-                    <input type="text" id="transport" />
-                </div>
-                <div class='slider-wrapper'>
-                    <input type="text" id="cadreDeVie" />
-                </div>
-                <div class='slider-wrapper'>
-                    <input type="text" id="sorties" />
-                </div>
-                <div class='slider-wrapper'>
-                    <input type="text" id="culture" />
-                </div>
-                <section class='viewMap'>
-                    <button id='viewMap'>VALIDER</button>
-                </section>
-                <div id='info'>
-                    <p>Ton quartier idéal est...<p>
-                    <div id='quartierIdeal'></div>
-                    <div id='infosIdeal'>Sélectionne tes critères pour le savoir !</div>
-                </div>
-                <div id='linkPlus'></div>
-            </div>
-        </div>
-
-
-        <div id='credits'>
-            <div id='columns'>
-                <div id='details-index'>
-                    <h2>En détails</h2>
-                    <div class='details-domain'>
-                        <img src='media/coutDeLaVie.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
-                        <p>Niveau moyen des loyers par quartier pour un logement étudiant type&nbsp;&nbsp;&nbsp;<b>70 %</b></p>
-                        <p>Prix du panier moyen par arrondissement&nbsp;&nbsp;&nbsp;<b>30 %</b></p>
-                    </div>
-                    <div class='details-domain'>
-                        <img src='media/transport.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
-                        <p>Nombre de stations de Vélib par quartier&nbsp;&nbsp;&nbsp;<b>14 %</b></p>
-                        <p>Temps de trajet en transports en commun entre chaque quartier et Sciences Po&nbsp;&nbsp;&nbsp;<b>86 %</b></p>
-                    </div>
-                    <div class='details-domain'>
-                        <img src='media/cadreDeVie.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
-                        <p>Proportion d'espaces verts par arrondissement&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
-                        <p>Proportion de vols et de violences crapuleuses par arrondissement&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
-                    </div>
-                    <div class='details-domain'>
-                        <img src='media/sorties.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
-                        <p>Prix moyen de la pinte de bière par quartier&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
-                        <p>Nombre de soirées sciences-pistes ayant eu lieu par arrondissement&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
-                    </div>
-                    <div class='details-domain'>
-                        <img src='media/culture.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
-                        <p>Nombre de cinémas par quartier &nbsp;&nbsp;&nbsp;<b>50 %</b></p>
-                        <p>Nombre de musées par quartier&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
-                    </div>
-                </div>
-
-                </div>
-    
-    	<script src="https://tomfevrier.github.io/sciencespot/libraries/powerange.js"></script>
-        <script src="sliders.js"></script>
-
-<article class="article">
+            <article class="article">
 
   <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
@@ -211,21 +144,16 @@ Cependant, la véritable prise de conscience de l’enjeu de santé publique qu�
 
  <p align="justify">
 Face à ce fourmillement dans le débat d’idée autour de multiples acteurs, il nous est apparu nécessaire de faire un état des lieux et une analyse de la controverse autour de l’enjeu de la régulation des perturbateurs endocriniens au niveaux français et européen. Sans prendre aucun parti, nous établirons les actions et les positions de chacun, avant de proposer une réflexion sur la possibilité de se passer des perturbateurs endocriniens au jour d’aujourd’hui. </p> 
-
-  
-<p>Cliquer sur les produits pour les voir de plus près:</p>
-
-<img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
-
-<map name="pertumap">
-  <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
+            </article>
+            
+        <div id='Sommaire'>
+            <p>Cliquer sur les produits pour les voir de plus près:</p>
+                <img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
+                <map name="pertumap"> <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
+            </div>
+        </div>
 
-
-<img src='http://cdn1-doctissimo.ladmedia.fr/var/doctissimo/storage/images/fr/www/sante/perturbateur-endocrinien/perturbateur-endocrinien-liste/391088-1-fre-FR/perturbateur-endocrinien-liste1.jpg' style='right:0px;left:0px;width:100%;height:auto;z-index:-1;'>
-
- 
-</article>
 
 </body>
 </html>
