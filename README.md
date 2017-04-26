@@ -62,8 +62,9 @@
 
 </style>
 </head>
+<body>
 
-    <body>
+<div class="main">
         <header>
             <h1>Les Perturbateurs endocriniens</h1>
             <h2>Indicateur du logement sciences-piste idéal</h2>
@@ -154,6 +155,6 @@ Face à ce fourmillement dans le débat d’idée autour de multiples acteurs, i
             </div>
         </div>
 
-
+</div>
 </body>
 </html>
