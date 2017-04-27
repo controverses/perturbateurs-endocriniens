@@ -31,7 +31,7 @@
     background-color: rgba(105, 216, 243, 0.2);
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
+    z-index: 2;
     border-color: rgba(255, 255, 255, 0.2);
     border-style: solid;
     border-width: 1px;
@@ -69,7 +69,7 @@
 <div class="main">
 <article class="article">
 
-  <h1>Introduction</h1>
+  <h1>IntrAduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
