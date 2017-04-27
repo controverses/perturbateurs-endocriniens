@@ -46,7 +46,13 @@
     display: block;
 }
 
-.dropdown-content a:hover {background-color: rgba(105, 216, 243, 0.2)}
+.dropdown-content a:hover {
+    background-color: rgba(105, 216, 243, 0.2)
+    border-color: rgba(255, 255, 255, 0.2);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
@@ -68,7 +74,7 @@
 <div class="main">
 <article class="article">
 
-  <h1>Introduction</h1>
+  <h1>IntrAduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
