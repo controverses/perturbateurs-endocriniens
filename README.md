@@ -107,7 +107,7 @@
 
 <h1> Citations</h1>
 
-<a data-scroll id='tointroduction' href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p align="center"><img src="arrow.png"></p></a>
+<a data-scroll id='tointroduction' href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p align="center" style="width:75px;height:50px;" ><img src="arrow.png"></p></a>
 
 </section>
 
