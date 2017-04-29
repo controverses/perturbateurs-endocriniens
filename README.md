@@ -79,6 +79,12 @@
     color: black
 }
 
+#tointroduction img {
+	width: 10vmin;
+	height: 10vmin;
+	margin-top: 3vmin;
+}
+
 #introduction {
 	min-height: 100vh;
 	display: flex;
