@@ -70,7 +70,8 @@
 #accueil {
 	display: flex;
 	margin: 1vmin 1vmin 1.5vmin;
-    background-color: white
+        background-color: white
+	min-height: 100vh
 }
 
 
@@ -79,13 +80,13 @@
 }
 
 #introduction {
-	height: 100vh;
+	min-height: 100vh;
 	display: flex;
 	flex-direction: row;
 }
 
 #sommaire {
-	height: 100vh;
+	min-height: 100vh;
 	display: flex;
 	flex-direction: row;
 }
@@ -102,13 +103,15 @@
 <div class="main">
 <article class="article">
 
-<div id='accueil'>
+<section id='accueil'>
 
 <h1> Citations</h1>
 
-</div>
+<a data-scroll id='tointroduction' href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p align="center"><img src="arrow.png"></p></a>
 
-<div id: 'introduction' >
+</section>
+
+<section id: 'introduction' >
 
   <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
@@ -116,9 +119,11 @@
   <p align="justify">
 Dans notre corps, certains organes comme le pancréas, le rein ou la thyroïde sécrètent des hormones, qui sont des molécules destinées à agir sur d’autres organes en étant transportées par le sang. L’ensemble de ces organes compose le système endocrinien. Il est primordial car la sécrétion d’hormones permet de réguler notre métabolisme, notre croissance et notre reproduction. Aussi, il est à la base du fonctionnement de notre corps. Par exemple, l’insuline et le glucagon, deux hormones, agissent sur la régulation de la glycémie, l’adrénaline sur la contraction musculaire, les oestrogènes sur la reproduction, … En temps normal, il s’auto-régule : le taux de sécrétion d’une hormone est déterminé par d’autres hormones agissant en amont, la plupart du temps provenant du complexe hypothalamo-hypophysaire de notre cerveau, mais également par un rétrocontrôle des hormones sur lesquelles elle influe. </p> 
 
-</div>
+<a href="https://controverses.github.io/perturbateurs-endocriniens/#sommaire">Sommaire</a>
 
-<div id:'sommaire'>
+</section>
+
+<section id:'sommaire'>
 
 <img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap">
 
@@ -126,7 +131,7 @@ Dans notre corps, certains organes comme le pancréas, le rein ou la thyroïde s
   <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
  
- </div> 
+ </section>
    
 </article>
 </div>
