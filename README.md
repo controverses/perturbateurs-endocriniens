@@ -70,7 +70,7 @@
 .section-accueil {
 	display: flex;
 	flex-direction: row;
-	min-height: 100vh;
+	mheight: calc(100vh - 150px);
 }
 
 #accueil {
