@@ -63,7 +63,7 @@
 </style>
 </head>
 
-<body style="background-color:powderblue;">
+<body style="background-color:rgb(222, 66, 38);">
 
 <article class="article">
   <h1>Débat Public</h1>
