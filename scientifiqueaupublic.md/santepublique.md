@@ -46,7 +46,7 @@
     display: block;
 }
 
-.dropdown-content a:hover {background-color: rgb(222, 66, 38)}
+.dropdown-content a:hover {background-color: rgb(222, 66, 38);}
 
 .dropdown:hover .dropdown-content {
     display: block;
