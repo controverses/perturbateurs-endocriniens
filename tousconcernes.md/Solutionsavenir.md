@@ -63,7 +63,7 @@
 </style>
 </head>
 
-<body style="background-color:rgb(255, 124, 109);">
+<body style="background-color:rgb(139, 201, 222);">
   
   <article class="article">
   
