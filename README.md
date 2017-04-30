@@ -114,12 +114,6 @@
 </div>
 
 <div id= "sommaire" class="section-accueil">
-
-<img src="Schéma-STS.jpg" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
-
-<map name="sommairemap">
-  <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
-</map>
  
  </div>
    
