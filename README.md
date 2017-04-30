@@ -80,7 +80,7 @@
 }
 
 #introduction {
-       background-color: rgb(139, 201, 222);
+       background-color: rgb(44, 195, 161);
 }
 
 .newspaper {
