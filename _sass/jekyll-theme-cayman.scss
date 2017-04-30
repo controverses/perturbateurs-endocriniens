@@ -194,8 +194,7 @@ a {
   h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-weight: normal;
-    color: $section-headings-color;
+    font-weight: bold;
   }
 
   p {
@@ -293,7 +292,7 @@ a {
 
   table {
     display: block;
-    width: 100%;
+    width: 90%;
     overflow: auto;
     word-break: normal;
     word-break: keep-all; // For Firefox to horizontally scroll wider tables.
