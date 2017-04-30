@@ -72,7 +72,7 @@
 }
 
 #accueil {
-       background-color: #977E70;
+       background-color: rgb(255, 124, 109);
 }
 
 #accueil p {
@@ -80,7 +80,7 @@
 }
 
 #introduction {
-       background-color: #DC8858;
+       background-color: rgb(139, 201, 222);
 }
 
 .newspaper {
