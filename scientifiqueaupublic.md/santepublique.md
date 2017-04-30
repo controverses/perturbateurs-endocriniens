@@ -63,7 +63,7 @@
 </style>
 </head>
 
-<body style="background-color:powderblue;">
+<body style="background-color:de4226;">
 
 <article class="article">
   <h1>Santé Publique</h1>
