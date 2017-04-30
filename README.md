@@ -115,7 +115,7 @@ Les perturbateurs endocriniens sont des substances chimiques d’origine naturel
 
 <div id= "sommaire" class="section-accueil">
 
-<img src="Schéma-STS.jpg" alt="Schéma-STS" usemap="#sommairemap" style="min-width:100vh;hight:auto;">
+<img src="Schéma-STS.jpg" alt="Schéma-STS" usemap="#sommairemap" style="width:auto;hight:calc(100vh - 150px);">
 
 <map name="sommairemap">
   <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
