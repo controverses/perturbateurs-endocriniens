@@ -37,7 +37,7 @@
     border-width: 1px;
     border-radius: 0.3rem;
     padding: 0.75rem 1,5rem;
-    width: 100%
+    width: 100%;
 } 
 
 .dropdown-content a {
@@ -48,7 +48,7 @@
 }
 
 .dropdown-content a:hover {
-    background-color: rgba(105, 216, 243, 0.2)
+    background-color: rgba(105, 216, 243, 0.2;
     border-color: rgba(255, 255, 255, 0.2);
     border-style: solid;
     border-width: 1px;
@@ -67,22 +67,26 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
-#accueil {
-	display: flex;
-	margin: 1vmin 1vmin 1.5vmin;
-        background-color: white;
+.section-acceuil {
 	min-height: 100vh;
+	display: flex;
+	flex-direction: row;
 }
 
 
+#accueil {
+        background-color: white;
+}
+
 #accueil p {
-    color: black
+    color: black;
 }
 
 #tointroduction img {
 	width: 10vmin;
 	height: 10vmin;
 	margin-top: 3vmin;
+	position: center;
 }
 
 #introduction {
@@ -99,7 +103,7 @@
 
 #sommaire img {
 	height: 100%;
-	width: 100%
+	width: 100%;
 }
 
 </style>
@@ -109,15 +113,15 @@
 <div class="main">
 <article class="article">
 
-<section id="accueil">
+<div id="accueil">
 
 <h1> Citations</h1>
 
 <a data-scroll id='tointroduction' href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p align="center" style="width:75px;height:50px;" ><img src="arrow.png"></p></a>
 
-</section>
+</div>
 
-<section id: "introduction" >
+<div id: "introduction" >
 
   <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
@@ -127,9 +131,9 @@ Dans notre corps, certains organes comme le pancréas, le rein ou la thyroïde s
 
 <a href="https://controverses.github.io/perturbateurs-endocriniens/#sommaire">Sommaire</a>
 
-</section>
+</div>
 
-<section id: "sommaire">
+<div id: "sommaire">
 
 <img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap">
 
@@ -137,7 +141,7 @@ Dans notre corps, certains organes comme le pancréas, le rein ou la thyroïde s
   <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
  
- </section>
+ </div>
    
 </article>
 </div>
