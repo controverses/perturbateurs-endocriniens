@@ -87,9 +87,9 @@
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
-    -webkit-column-gap: 15px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 15px; /* Firefox */
-    column-gap: 15px;
+    -webkit-column-gap: 30px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 30px; /* Firefox */
+    column-gap: 30px;
     -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */
     -moz-column-rule-style: solid; /* Firefox */
     column-rule-style: solid;
