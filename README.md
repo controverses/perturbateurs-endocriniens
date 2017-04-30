@@ -68,9 +68,9 @@
 }
 
 .section-accueil {
-	min-height: 100vh;
 	display: flex;
 	flex-direction: row;
+	min-height: 100vh;
 }
 
 
@@ -80,30 +80,6 @@
 
 #accueil p {
     color: black;
-}
-
-#tointroduction img {
-	width: 10vmin;
-	height: 10vmin;
-	margin-top: 3vmin;
-	position: center;
-}
-
-#introduction {
-	min-height: 100vh;
-	display: flex;
-	flex-direction: row;
-}
-
-#sommaire {
-	min-height: 100vh;
-	display: flex;
-	flex-direction: row;
-}
-
-#sommaire img {
-	height: 100%;
-	width: 100%;
 }
 
 </style>
@@ -117,7 +93,9 @@
 
 <h1> Citations</h1>
 
-<a data-scroll id='tointroduction' href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p align="center" style="width:75px;height:50px;" ><img src="arrow.png"></p></a>
+<p>"La question des perturbateurs endocriniens est une question majeure de santé publique."François Veillerette, fondateur de l'association Générations Futures</p>
+
+<a data-scroll id='tointroduction' href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p align="center" style="width:75px;height:50px;"><img src="arrow.png"></p></a>
 
 </div>
 
