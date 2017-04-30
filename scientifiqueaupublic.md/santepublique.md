@@ -46,7 +46,7 @@
     display: block;
 }
 
-.dropdown-content a:hover {background-color: rgb(222, 66, 38);}
+.dropdown-content a:hover {background-color: rgba(105, 216, 243, 0.2)}
 
 .dropdown:hover .dropdown-content {
     display: block;
@@ -60,10 +60,11 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
+
 </style>
 </head>
 
-<body style="background-color:de4226;">
+<body style="background-color:rgb(222, 66, 38);">
 
 <article class="article">
   <h1>Santé Publique</h1>
@@ -76,4 +77,3 @@
 
 </body>
 </html>
-
