@@ -82,6 +82,12 @@
     color: black;
 }
 
+#tonextsection img {
+	width: 10vmin;
+	height: 10vmin;
+	margin-top: 3vmin;
+}
+
 #sommaire {
   background-color: white;
 }
@@ -99,21 +105,24 @@
 
 <p>"La question des perturbateurs endocriniens est une question majeure de santé publique."François Veillerette, fondateur de l'association Générations Futures</p>
 
+<a data-scroll id="tonextsection" href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p text-align="center"><img src="arrow.png"></p></a>
+
+
 </div>
 
 <div id= "introduction" class="section-accueil" >
   <h1 style="text-align:center;">Introduction</h1><br>
   
   <p align="justify">
-  Les perturbateurs endocriniens sont des substances chimiques d’origine naturelle ou anthropologique (issues des activités humaines) qui viennent interférer avec le système endocrinien des animaux et des Hommes, c’est-à-dire l’ensemble des organes qui sécrètent et régulent les hormones de l’organisme. Les hormones sont des molécules destinées à  transmettre des messages chimiques à l’organisme afin d’assurer son bon fonctionnement, celles-ci sont principalement transportées par la circulation sanguine. Ainsi, les perturbateurs endocriniens en imitant, en bloquant ou en perturbant l’action des hormones naturelles peuvent avoir des effets néfastes sur l’organisme et provoquer des anomalies métaboliques ou comportementales. Les hormones sont des molécules qui agissent à très faibles doses et ainsi, les perturbateurs endocriniens aussi ce qui en font des substances d’autant plus nocives. Avec le boom de l’industrie chimique des années 50 et l’explosion de notre utilisation de produits chimiques, les perturbateurs endocriniens sont aujourd’hui présents dans tous les écosystèmes de la planète et posent des problèmes importants tant pour les espèces animales que pour les Hommes. </p> 
+  Les perturbateurs endocriniens sont des substances chimiques d’origine naturelle ou anthropologique (issues des activités humaines) qui viennent interférer avec le système endocrinien des animaux et des Hommes, c’est-à-dire l’ensemble des organes qui sécrètent et régulent les hormones de l’organisme. Les hormones sont des molécules destinées à  transmettre des messages chimiques à l’organisme afin d’assurer son bon fonctionnement, celles-ci sont principalement transportées par la circulation sanguine. Ainsi, les perturbateurs endocriniens en imitant, en bloquant ou en perturbant l’action des hormones naturelles peuvent avoir des effets néfastes sur l’organisme et provoquer des anomalies métaboliques ou comportementales. Les hormones sont des molécules qui agissent à très faibles doses et ainsi, les perturbateurs endocriniens aussi ce qui en font des substances d’autant plus nocives. Avec le boom de l’industrie chimique des années 50 et l’explosion de notre utilisation de produits chimiques, les perturbateurs endocriniens sont aujourd’hui présents dans tous les écosystèmes de la planète et posent des problèmes importants tant pour les espèces animales que pour les Hommes. </p><br>
 
-<a href="https://controverses.github.io/perturbateurs-endocriniens/#sommaire" style="text-align:center;">Sommaire</a>
+<a data-scroll id="tonextsection" href="https://controverses.github.io/perturbateurs-endocriniens/#sommaire"><p text-align="center"><img src="arrow.png"></p></a>
 
 </div>
 
 <div id= "sommaire" class="section-accueil">
 
-<img src="Schéma-STS.jpg" alt="Schéma-STS" style="hight:calc(100vh-150px); width:100vh;" usemap="#sommairemap" >
+<img src="Schéma-STS.jpg" alt="Schéma-STS" style="hight:calc(100vh-150px); width:auto;" usemap="#sommairemap" >
 
 <map name="sommairemap">
   <area shape="rect" coords="485,30,890,194" alt="Perturbateurs endocriniens" href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/decouvertesscientifiques.html">
