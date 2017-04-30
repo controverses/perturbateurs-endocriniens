@@ -37,7 +37,6 @@
     border-width: 1px;
     border-radius: 0.3rem;
     padding: 0.75rem 1,5rem;
-    width: 100%;
 } 
 
 .dropdown-content a {
