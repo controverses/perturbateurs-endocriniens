@@ -73,13 +73,16 @@
 	min-height: 100vh;
 }
 
-
 #accueil {
-        background-color: white;
+        background-color: pink;
 }
 
 #accueil p {
     color: black;
+}
+
+#sommaire {
+  background-color: white;
 }
 
 </style>
@@ -95,7 +98,7 @@
 
 <p>"La question des perturbateurs endocriniens est une question majeure de santé publique."François Veillerette, fondateur de l'association Générations Futures</p>
 
-<a data-scroll id='tointroduction' href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p align="center" style="width:75px;height:50px;"><img src="arrow.png"></p></a>
+<a data-scroll id='tointroduction' href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p text-align="center" style="width:50px;height:50px;"><img src="arrow.png"></p></a>
 
 </div>
 
@@ -113,9 +116,9 @@ Dans notre corps, certains organes comme le pancréas, le rein ou la thyroïde s
 
 <div id= "sommaire" class="section-accueil">
 
-<img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap">
+<img src="Schéma-STS.pdf" alt="Schéma-STS" usemap="#sommairemap" style="min-width:100%;hight:auto;">
 
-<map name="pertumap">
+<map name="sommairemap">
   <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
  
