@@ -113,7 +113,7 @@
 
 <div id= "sommaire" class="section-accueil">
 
-<img src="Schéma-STS.jpg" alt="Schéma-STS" style="hight:100vh; width:100vh;" usemap="#sommairemap" >
+<img src="Schéma-STS.jpg" alt="Schéma-STS" style="hight:calc(100vh-150px); width:100vh;" usemap="#sommairemap" >
 
 <map name="sommairemap">
   <area shape="rect" coords="485,30,890,194" alt="Perturbateurs endocriniens" href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/decouvertesscientifiques.html">
