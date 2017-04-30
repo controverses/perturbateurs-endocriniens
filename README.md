@@ -70,7 +70,7 @@
 .section-accueil {
 	display: flex;
 	flex-direction: row;
-	min-height: 100vh;
+	min-height: calc(100vh-150px);
 	min-width: 100vh;
 }
 
@@ -112,6 +112,13 @@
 </div>
 
 <div id= "sommaire" class="section-accueil">
+
+<img src="Schéma-STS.jpg" alt="Schéma-STS" style="hight:calc(100vh - 150px); width:auto;" usemap="#sommairemap" >
+
+<map name="sommairemap">
+  <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
+</map>
+
  
  </div>
    
