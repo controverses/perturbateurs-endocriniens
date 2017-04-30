@@ -113,10 +113,10 @@
 
 <div id= "sommaire" class="section-accueil">
 
-<img src="Schéma-STS.jpg" alt="Schéma-STS" style="hight:calc(100vh - 150px); width:auto;" usemap="#sommairemap" >
+<img src="Schéma-STS.jpg" alt="Schéma-STS" style="hight:100vh; width:100vh;" usemap="#sommairemap" >
 
 <map name="sommairemap">
-  <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
+  <area shape="rect" coords="485,30,890,194" alt="Perturbateurs endocriniens" href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/decouvertesscientifiques.html">
 </map>
 
  
