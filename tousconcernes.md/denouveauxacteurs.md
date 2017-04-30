@@ -63,7 +63,7 @@
 </style>
 </head>
 
-<body style="background-color:powderblue;">
+<body style="background-color:rgb(255, 124, 109);">
   
   <article class="article">
   <h1>De nouveaux acteurs dans la controverse? </h1>
