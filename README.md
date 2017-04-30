@@ -3,7 +3,7 @@
 <style> 
 
 .article {
-    text-align: left;
+    text-align: justify;
 }
 
 .dropbtn {
@@ -17,13 +17,11 @@
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     cursor: pointer;
     padding: 0.75rem 1rem; 
-    z-index: 1;
 }  
 
 .dropdown {
     position: relative;
     display: inline-block;
-    z-index: 1;
 }
 
 .dropdown-content {
@@ -31,12 +29,14 @@
     position: absolute;
     background-color: rgba(105, 216, 243, 0.2);
     min-width: 160px;
+    z-index: 1;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     border-color: rgba(255, 255, 255, 0.2);
     border-style: solid;
     border-width: 1px;
     border-radius: 0.3rem;
     padding: 0.75rem 1,5rem;
+    width: 100%;
 } 
 
 .dropdown-content a {
