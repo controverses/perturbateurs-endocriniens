@@ -106,6 +106,7 @@ a {
 .page-header {
   color: #403226;
   text-align: center;
+  background-color:#403226;
 }
   
   @include large {
@@ -124,7 +125,7 @@ a {
 .project-name {
   margin-top: 0.1rem;
   margin-bottom: 0.1rem;
-  font-size: small;
+  font-size: medium;
 }
 
 .project-tagline {
