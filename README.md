@@ -83,6 +83,23 @@
        background-color: #DC8858;
 }
 
+.newspaper {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-gap: 15px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 15px; /* Firefox */
+    column-gap: 15px;
+    -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */
+    -moz-column-rule-style: solid; /* Firefox */
+    column-rule-style: solid;
+    -webkit-column-rule-width: 1px; /* Chrome, Safari, Opera */
+    -moz-column-rule-width: 1px; /* Firefox */
+    column-rule-width: 1px;
+    -webkit-column-rule-color: lightblue; /* Chrome, Safari, Opera */
+    -moz-column-rule-color: lightblue; /* Firefox */
+    column-rule-color: lightblue;
+
 
 #sommaire {
   background-color: white;
@@ -116,8 +133,10 @@
 <div id= "introduction" class="section-accueil" >
   <h1 style="text-align:center;">IntrAduction</h1><br>
   
-  <p align="justify">
-  Les perturbateurs endocriniens sont des substances chimiques d’origine naturelle ou anthropologique (issues des activités humaines) qui viennent interférer avec le système endocrinien des animaux et des Hommes, c’est-à-dire l’ensemble des organes qui sécrètent et régulent les hormones de l’organisme. Les hormones sont des molécules destinées à  transmettre des messages chimiques à l’organisme afin d’assurer son bon fonctionnement, celles-ci sont principalement transportées par la circulation sanguine. Ainsi, les perturbateurs endocriniens en imitant, en bloquant ou en perturbant l’action des hormones naturelles peuvent avoir des effets néfastes sur l’organisme et provoquer des anomalies métaboliques ou comportementales. Les hormones sont des molécules qui agissent à très faibles doses et ainsi, les perturbateurs endocriniens aussi ce qui en font des substances d’autant plus nocives. Avec le boom de l’industrie chimique des années 50 et l’explosion de notre utilisation de produits chimiques, les perturbateurs endocriniens sont aujourd’hui présents dans tous les écosystèmes de la planète et posent des problèmes importants tant pour les espèces animales que pour les Hommes. </p>
+  <div class="newspaper" align="justify">
+  Les perturbateurs endocriniens sont des substances chimiques d’origine naturelle ou anthropologique (issues des activités humaines) qui viennent interférer avec le système endocrinien des animaux et des Hommes, c’est-à-dire l’ensemble des organes qui sécrètent et régulent les hormones de l’organisme. Les hormones sont des molécules destinées à  transmettre des messages chimiques à l’organisme afin d’assurer son bon fonctionnement, celles-ci sont principalement transportées par la circulation sanguine. Ainsi, les perturbateurs endocriniens en imitant, en bloquant ou en perturbant l’action des hormones naturelles peuvent avoir des effets néfastes sur l’organisme et provoquer des anomalies métaboliques ou comportementales. Les hormones sont des molécules qui agissent à très faibles doses et ainsi, les perturbateurs endocriniens aussi ce qui en font des substances d’autant plus nocives. Avec le boom de l’industrie chimique des années 50 et l’explosion de notre utilisation de produits chimiques, les perturbateurs endocriniens sont aujourd’hui présents dans tous les écosystèmes de la planète et posent des problèmes importants tant pour les espèces animales que pour les Hommes. 
+  
+  </div>
 
 <a data-scroll id="tonextsection" href="https://controverses.github.io/perturbateurs-endocriniens/#sommaire"><p text-align="center"><img src="arrow.png"></p></a>
 
