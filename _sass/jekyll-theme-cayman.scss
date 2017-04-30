@@ -107,6 +107,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: #403226;
+}
   
   @include large {
     padding: 5rem 6rem;
@@ -119,7 +120,6 @@ a {
   @include small {
     padding: 2rem 1rem;
   }
-}
 
 
 .project-name {
