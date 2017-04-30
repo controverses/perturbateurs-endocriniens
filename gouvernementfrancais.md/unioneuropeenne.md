@@ -63,7 +63,7 @@
 </style>
 </head>
 
-<body style="background-color:powderblue;">
+<body style="background-color:rgb(102, 90, 152);">
 
 <article class="article">
   <h1>UE</h1>
