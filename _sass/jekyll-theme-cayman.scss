@@ -104,9 +104,8 @@ a {
 }
 
 .page-header {
-  color: $header-heading-color;
+  color: #403226;
   text-align: center;
-  background-color: #403226;
 }
   
   @include large {
@@ -126,18 +125,6 @@ a {
   margin-top: 0.1rem;
   margin-bottom: 0.1rem;
   font-size: small;
-
-  @include large {
-    font-size: 3.25rem;
-  }
-
-  @include medium {
-    font-size: 2.25rem;
-  }
-
-  @include small {
-    font-size: 1.75rem;
-  }
 }
 
 .project-tagline {
