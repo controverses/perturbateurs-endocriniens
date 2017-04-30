@@ -70,8 +70,8 @@
 #accueil {
 	display: flex;
 	margin: 1vmin 1vmin 1.5vmin;
-        background-color: white
-	min-height: 100vh
+        background-color: white;
+	min-height: 100vh;
 }
 
 
@@ -109,7 +109,7 @@
 <div class="main">
 <article class="article">
 
-<section id='accueil'>
+<section id="accueil">
 
 <h1> Citations</h1>
 
@@ -117,7 +117,7 @@
 
 </section>
 
-<section id: 'introduction' >
+<section id: "introduction" >
 
   <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
@@ -129,7 +129,7 @@ Dans notre corps, certains organes comme le pancréas, le rein ou la thyroïde s
 
 </section>
 
-<section id:'sommaire'>
+<section id: "sommaire">
 
 <img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap">
 
