@@ -73,7 +73,6 @@
     
 <body style="background-color:F5A593;">
 
-<div class="main">
 <article class="article">
 
 <h1>De l’espace scientifique au débat public</h1>
@@ -257,7 +256,7 @@ Colloques
 
 <h2>Articles</h2
 
-<ul>
+<ol>
 
 <li>Commission des Communautés Européennes (2001) Communication sur la mise en oeuvre stratégie communautaire concernant les perturbateurs endocriniens, [en ligne], consulté le 3 mars 2017. Disponible sur http://ec.europa.eu/transparency/regdoc/rep/1/2001/FR/1-2001-262-FR-F1-1.Pdf</li><br>
 
@@ -298,7 +297,7 @@ http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-toll
 
 <li>OECD (2001). Work related to Endocrine Disrupters, [en ligne], consulté le 13 mars 2017. Disponible sur http://www.oecd.org/fr/env/ess/essais/oecdworkrelatedtoendocrinedisrupters.htm</li>
 
-</ul>
+</ol>
 
 <h2>Sites web</h2>
 
@@ -358,9 +357,9 @@ http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-toll
 
 <li>Générations Futures (2017). Exposition aux perturbateurs endocriniens, [en ligne], consulté le 8 mars 2017. Disponible sur http://www.generations-futures.fr/2011generations/wp-content/uploads/2017/02/EXPPERT-9-FV-220216.pdf</li><br>
 
-<li>LEFEVRE, J. (2016). Notre dialogue spécial “les perturbateurs endocriniens”. Association Santé Environnement France, [en ligne], consulté le 17 février 2017. Disponible sur http://www.asef-asso.fr/production/les-dialogues-de-lasef-special-perturbateurs-endocriniens/?back=ok&filter=2</li><br>
+<li>LEFEVRE, J. (2016). Notre dialogue spécial “les perturbateurs endocriniens”. Association Santé Environnement France, [en ligne], consulté le 17 février 2017. Disponible sur http://www.asef-asso.fr/production/les-dialogues-de-lasef-special-perturbateurs-endocriniens/?back=ok=2</li><br>
 
-<li>Officiel Prévention - Santé et sécurité au travail (2014). La prévention des risques professionnels des perturbateurs endocriniens, [en ligne], consulté le 11 avril 2017. Disponible sur http://www.officiel-prevention.com/protections-collectives-organisation-ergonomie/risque-chimique/detail_dossier_CHSCT.php?rub=38&ssrub=69&dossid=507</li><br>
+<li>Officiel Prévention - Santé et sécurité au travail (2014). La prévention des risques professionnels des perturbateurs endocriniens, [en ligne], consulté le 11 avril 2017. Disponible sur http://www.officiel-prevention.com/protections-collectives-organisation-ergonomie/risque-chimique/detail_dossier_CHSCT.php?rub=38=69=507</li><br>
 
 <li>SCHILLINGER, P., VASSELLE, A. (2017). Les perturbateurs endocriniens: un enjeu de santé publique. Sénat, [en ligne], consulté le 26 février 2017. Disponible sur http://www.senat.fr/notice-rapport/2016/r16-293-notice.html</li><br>
 
@@ -376,7 +375,7 @@ http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-toll
 
 <ul>
 
-<li>Directive 2000/60/CE du du Parlement Européen et du Conseil du 23 octobre 2000. Journal Officiel des communautés européennes, [en ligne], consulté le 8 mars 2017. Disponible sur  http://eur-lex.europa.eu/resource.html?uri=cellar:5c835afb-2ec6-4577-bdf8-756d3d694eeb.0001.02/DOC_1&format=PDF</li>
+<li>Directive 2000/60/CE du du Parlement Européen et du Conseil du 23 octobre 2000. Journal Officiel des communautés européennes, [en ligne], consulté le 8 mars 2017. Disponible sur  http://eur-lex.europa.eu/resource.html?uri=cellar:5c835afb-2ec6-4577-bdf8-756d3d694eeb.0001.02/DOC_1=PDF</li>
 
 </ul>
 
@@ -425,6 +424,5 @@ http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-toll
 </ul>
 
 </article>
-</div>
 </body>
 </html>
