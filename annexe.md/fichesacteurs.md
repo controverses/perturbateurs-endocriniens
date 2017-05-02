@@ -144,16 +144,16 @@ Elle est également conseillée par un groupe d’experts indépendant, le Scien
     </p> 
     
     <h2>L’industrie / Les entreprises</h2>
-    <p><strong>MEDEF  </strong> organisation patronale ayant participé au groupe de travail sur la stratégie nationale sur les PE
+    <p><strong>MEDEF  </strong> organisation patronale ayant participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens.
     </p> <br/>
     
-    <p><strong>Union des Industries Chimiques : </strong> organisation professionnelle française ayant participé au groupe de travail sur la stratégie nationale sur les PE. Elle est très active pour défendre les intérêts de l’industrie chimique face à la réglementation sur les PE.
+    <p><strong>Union des Industries Chimiques : </strong> organisation professionnelle française ayant participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. Elle est très active pour défendre les intérêts de l’industrie chimique face à la réglementation sur les perturbateurs endocriniens.
     </p> <br/>
     
       <p><strong>Patrick Levy :  </strong> médecin conseil de l’UIC et président du groupe Santé-Environnement du MEDEF. Il a participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. Il est très présent dans les médias pour défendre les intérêts de l’industrie.
     </p> <br/>
     
-    <p><strong>BASF :  </strong> groupe chimique allemand, sponsor du colloque Adebiotech sur les PE </p> <br/>
+    <p><strong>BASF :  </strong> groupe chimique allemand, sponsor du colloque Adebiotech sur les perturbateurs endocriniens </p> <br/>
     
     <p><strong>Suez (anciennement Suez environnement) :  </strong> groupe français de gestion de l’eau et des déchets</p> <br/>
     
@@ -265,7 +265,7 @@ Elle est également conseillée par un groupe d’experts indépendant, le Scien
           <h2> Les journalistes</h2>
          
   
-<p><strong>Stéphane Horel</strong>, journaliste spécialiste du sujet. Elle a d’abord écrit pour le journal Le Monde avant de devenir une journaliste indépendante. Elle s’intéresse plus particulièrement dans son travail de recherches au pouvoir des lobbies industriels sur les tentatives de réglementation des PE qui sont organisées à l’échelle européenne. Elle a publié en 2015 le livre Intoxication: Perturbateurs endocriniens, lobbyistes et eurocrates: une bataille d’influence contre la santé. Elle a également réalisé en 2010 un documentaire avec France 5, qui cherche à faire un état des lieux de la situation, considérée comme grave, tout en faisant le choix d’aborder le sujet avec beaucoup de second degré. 
+<p><strong>Stéphane Horel</strong>, journaliste spécialiste du sujet. Elle a d’abord écrit pour le journal Le Monde avant de devenir une journaliste indépendante. Elle s’intéresse plus particulièrement dans son travail de recherches au pouvoir des lobbies industriels sur les tentatives de réglementation des perturbateurs endocriniens qui sont organisées à l’échelle européenne. Elle a publié en 2015 le livre Intoxication: Perturbateurs endocriniens, lobbyistes et eurocrates: une bataille d’influence contre la santé. Elle a également réalisé en 2010 un documentaire avec France 5, qui cherche à faire un état des lieux de la situation, considérée comme grave, tout en faisant le choix d’aborder le sujet avec beaucoup de second degré. 
 https://www.youtube.com/watch?v=RxktDSeVAWQ</p><br>
 
 <p><strong>Stéphane Foucart</strong> est un journaliste du Monde sur les sciences de l’environnement.</p><br>
