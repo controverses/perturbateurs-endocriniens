@@ -80,7 +80,10 @@
  <br/>
 
 <p align="justify"> Nous sommes aujourd’hui entourés au quotidien de produits chimiques qui, selon les recherches scientifiques, nuisent à notre santé et à celles des futures générations. Le nombre de nouvelles substances chimiques, avec des effets potentiels sur notre santé, augmente chaque année. Il apparaît difficile de s’en débarrasser puisque, d’après une étude réalisée par Générations Futures en février 2017 sur les cheveux de certaines personnalités françaises, on retrouve encore aujourd’hui des perturbateurs endocriniens dont la commercialisation est interdite depuis des dizaines d’années. Cela signifie que, même si on arrêtait totalement la production de perturbateurs endocriniens, on ne sait pas pendant combien de temps il sera encore possible d’en trouver partout dans la nature.</p> 
+<p align="justify"> De plus, certains produits fortement suspectés de contenir des perturbateurs endocriniens sont devenus indispensables à notre vie quotidienne, comme le paracétamol. On se retrouve face à un choix difficile : soit se passer d’évolutions majeures de notre société pour éviter de subir des dysfonctionnements endocriniens, soit conserver ces produits mais avec des risques sur la santé sur le long terme qui sont encore très mal connus.</p>
 <p align="justify"> L’effet cocktail, un principe tout à fait nouveau, rajoute encore à la difficulté de mettre en œuvre des solutions concrètes pour se protéger des perturbateurs endocriniens. En effet, Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais, une fois ces substances sont réunies dans un même milieu, leur effet peut être décuplé. Or, les scientifiques n’ont pas les moyens d’étudier les effets de chaque combinaison de différents perturbateurs endocriniens. De plus, les substituts créés par les chimistes sont parfois plus dangereux que le produit de base. Ils peuvent également créer avec le produit qu’ils remplacent un effet cocktail nouveau, encore plus dangereux que l’effet du premier produit. </p> 
+
+
 
 <br/>
 <p align="justify"> 
