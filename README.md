@@ -114,7 +114,6 @@
 
 
 </div>
-
 <div id= "introduction" class="section-accueil" >
   <h1 style="text-align:center; align:justify;">Introduction</h1><br>
 
@@ -138,7 +137,6 @@
 <a data-scroll id="tonextsection" href="https://controverses.github.io/perturbateurs-endocriniens/#sommaire"><p text-align="center"><img src="arrow.png"></p></a>
 
 </div>
-
 <div id= "sommaire" class="section-accueil">
 
 <p align="center"><strong>Comparaison de la proportion de recherche entre le mot « endocrine disrupters » (en rouge) et le mot « perturbateurs endocriniens » (en bleu) pour pouvoir comparer l’intérêt en France à l’intérêt dans d’autres pays (en particulier les Etats Unis)</strong></p>
