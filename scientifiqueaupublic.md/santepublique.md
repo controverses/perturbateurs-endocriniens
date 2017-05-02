@@ -67,7 +67,7 @@
 <body style="background-color:#FCB559;">
 
 <article class="article">
-  <h1 align="center";>Un problème de santé publique</h1>
+  <h1>Un problème de santé publique</h1>
   
 <p>Les humains sont exposés aux perturbateurs endocriniens “par de multiples voies (ingestion, inhalation, contact cutané) et de multiples milieux (eaux, aliments, produits ou articles de consommation, dispositifs médicaux…).” d’après l’Anses, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail. En effet, les perturbateurs endocriniens sont omniprésents dans notre quotidien d’individus de pays industrialisés mais c’est aussi le cas pour des populations très éloignées des zones initiales de pollution.</p> 
 
