@@ -77,7 +77,7 @@ ul {
 li a {
     display: block;
     color: rgb(96, 108, 113);
-    padding: 0px 16px;
+    padding:0;
     text-decoration: none;
     text-align: left;
     border-left: 0.1rem solid #FFFFFF;
