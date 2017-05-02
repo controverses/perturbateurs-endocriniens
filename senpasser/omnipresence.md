@@ -91,7 +91,7 @@ Face à ce manque de réglementation des politiques et des gouvernements, de nou
 <h2>De nouveaux acteurs dans la controverse</h2>
 
 <h3>Comment s'en protéger à l'échelle individuelle? </h3>
-<img ALIGN="left" src="Demeinex.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:200px;height:300px;"/><p align="justify"> Les scientifiques et les professionnels de santé ont diffusé à travers les médias, et parfois par le biais d’associations de consommateurs, des conseils aux individus pour éviter au maximum l’exposition à des perturbateurs endocriniens.
+<p align="justify"> <img ALIGN="left" src="Demeinex.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:200px;height:300px;"/> Les scientifiques et les professionnels de santé ont diffusé à travers les médias, et parfois par le biais d’associations de consommateurs, des conseils aux individus pour éviter au maximum l’exposition à des perturbateurs endocriniens.
 Par exemple, Barbara Demeneix s'intéresse à l’impact des perturbateurs endocriniens sur les femmes enceintes. En effet, d’après ses recherches, les perturbateurs endocriniens, auxquels les femmes enceintes s’exposent, ont des impacts sur le développement du cerveau des enfants. Dans une émission radio sur RFI intitulé « Cerveau, santé et pollution » (juillet 2016), elle a notamment conseillé aux femmes enceintes de manger des produits biologiques ou de ne pas utiliser des crèmes et cosmétique qui contiennent du parabène et des phtalates.
 
 La première méthode pour se protéger des perturbateurs endocriniens est donc individuelle et consiste en une modification des habitudes de consommation et d’autres gestes simples disponibles sur <a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html. ">Ce lien</a> </p>
@@ -128,16 +128,17 @@ Finalement, les associations permettent de médiatiser le problème et l’impac
 
 <h3>Médias</h3>
 
-<p align="justify"> Les journalistes se sont d’abord intéressés aux perturbateurs endocriniens lors des différents scandales liés au changement de sexe de certains poissons (https://www.youtube.com/watch?v=IF46GJ0qOcQ) et au bisphénol A présents notamment dans les tétines en plastique des biberons. 
+<p align="justify"> Les journalistes se sont d’abord intéressés aux perturbateurs endocriniens lors des différents scandales liés au changement de sexe de certains poissons (https://www.youtube.com/watch?v=IF46GJ0qOcQ) et au bisphénol A présents notamment dans les tétines en plastique des biberons. </p>
 
 <div style="text-align: center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/IF46GJ0qOcQ" frameborder="0" allowfullscreen></iframe>
 
-Cet intérêt s’est accru depuis 2013, année à partir de laquelle la Commission Européenne a commencé à débattre de ce sujet. Cette évolution s’est renforcée lorsque Benoît Hamon, alors candidat au primaire de la gauche, a fait des perturbateurs endocriniens un des points clefs de son programme. 
+<p align="justify">
+Cet intérêt s’est accru depuis 2013, année à partir de laquelle la Commission Européenne a commencé à débattre de ce sujet. Cette évolution s’est renforcée lorsque Benoît Hamon, alors candidat au primaire de la gauche, a fait des perturbateurs endocriniens un des points clefs de son programme.
 
-La conférence donnée par le journaliste pour Le Monde, Stéphane Foucart, sur “ Les Perturbateurs Endocriniens et les médias : un rendez-vous manqué ?” a permis de fournir de nombreuses clefs pour comprendre la place des médias dans la controverse sur les perturbateurs endocriniens. 
+La conférence donnée par le journaliste pour Le Monde, Stéphane Foucart, sur “ Les Perturbateurs Endocriniens et les médias : un rendez-vous manqué ?” a permis de fournir de nombreuses clefs pour comprendre la place des médias dans la controverse sur les perturbateurs endocriniens. </p>
 
-
+<p align="justify">
 1.	En faisant une analyse du nombre d’articles scientifiques comparés aux nombres d’articles de journaux au cours du temps, on s’aperçoit qu’il y a un écart de plus d’une décennie entre le moment où la communauté scientifique commence à produire des connaissances (milieu des années 1990) et le moment où les journalistes commencent à parler de ce sujet. Les médias ont mis un temps considérable à s’intéresser au sujet. 
 2.	Il souligne la présence d’un biais énorme : le tiers de la totalité des articles publiés dans le New York Times sur le sujet des Perturbateurs Endocriniens est le fait d’un seul journaliste. C’est « inquiétant » selon lui que, dans un grand journal, le tiers de la couverture de cette question importante repose sur un seul journaliste. En effet, si on enlève de la rédaction les personnes qui s’y intéressent, le sujet disparaît
 3.	La majorité des articles sur les Perturbateurs Endocriniens sont écrits juste après qu’une régulation soit mise en place, et non pas quand un danger réel est mis au jour. L’intuition de base serait que les médias mettent le sujet sur l’agenda des politiques, mais c’est au contraire les politiques qui font que le sujet est abordé dans les médias. Par exemple, les scientifiques ont mis au jour que les canapés contiennent des perturbateurs endocriniens mais, comme il n’y a pas eu de réglementation sur le sujet, les journaux n’en parlent pas
