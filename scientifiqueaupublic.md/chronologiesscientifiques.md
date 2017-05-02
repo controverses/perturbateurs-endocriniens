@@ -116,7 +116,7 @@ La dioxine est une substance perturbatrice endocrinienne. Il y a pour le moment 
 <h2>Vers une position scientifique déterminée</h2> 
 
 <p>L'événement clef de la découverte du phénomène de perturbation endocrinienne est la conférence de Wingspread qui s’est tenue du 26 au 28 juillet 1991 et qui a rassemblé 21 chercheurs sur le thème de l’action des produits chimiques sur le système endocrinien. Cette conférence aboutit à une déclaration signée notamment par 20 chercheurs, parmi lesquels Theo Colborn.
-La déclaration est disponible <a href="http://reseau-environnement-sante.fr/wp-content/uploads/2016/01/LA_DECLARATION_DE_WINGSPREAD.pdf" ici> (traduite en français) : <p>
+La déclaration est disponible <a href="http://reseau-environnement-sante.fr/wp-content/uploads/2016/01/LA_DECLARATION_DE_WINGSPREAD.pdf"> ici </a> (traduite en français) : <p>
 
 <p>Cette conférence, à l’initiative de Theo Colborn, acte véritablement de la découverte de ce fait scientifique et fait état, à l’époque, d’un consensus entre les scientifiques majeurs dans ce domaine. Le terme même de perturbateurs endocriniens, que nous employions dans nos précédents paragraphes de manière anachronique, a été inventé durant la conférence de Wingspread. Ainsi, au sein de la déclaration de Wingspread, les scientifiques témoignent des avancées scientifiques sur le sujet dans une première et une troisième partie, ils écrivent ainsi :</p>
 
