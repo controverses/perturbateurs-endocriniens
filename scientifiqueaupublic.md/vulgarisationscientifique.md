@@ -76,7 +76,7 @@
 
 <p>C’est dans cette même veine que l’américaine Theo Colborn a écrit en 1996 son livre <em>L’Homme en voie de disparition</em> (en langue originale, <em>Our Stolen Future</em>). Ce livre retrace l’enquête qu’elle a menée en tant que chercheuse sur la piste de la perturbation endocrinienne. Elle tire ainsi la sonnette d’alarme quant aux conséquences sur l’Homme et l’environnement de notre pollution aux produits chimiques. Le livre a eu un impact relativement important aux Etats-Unis, car premier en son genre mais aussi grâce à la préface signée par le vice-président américain alors en fonction, Al Gore.</p>
 
-<img src="media/livres.png" alt="Livres" style="width:100%;height:auto;"> <p>Un aperçu des couvertures des livres sur le thème des perturbateurs endocriniens qui ont été publiés</p>
+<img src="livres.png" alt="Livres" style="width:100%;height:auto;"> <p>Un aperçu des couvertures des livres sur le thème des perturbateurs endocriniens qui ont été publiés</p>
 
 <p>En 2015, le fondateur de Générations Futures a co-écrit avec la journaliste Marine Jobert un livre intitulé <em>Perturbateurs endocriniens, la menace invisible.</em> Dans une interview diffusée sur le site internet du livre, la co-auteur Marine Jobert explique indirectement pourquoi avoir choisi d’écrire un livre pour changer les choses, plutôt qu’un autre moyen. Selon elle, “cette révolution sur notre dépendance à la chimie qu’il faut, selon moi, opérer ne trouvera pas sa source chez les politiques, et encore moins dans les entreprises. Ce sont les gens qui doivent exiger de ne plus être empoisonnés par des perturbateurs endocriniens quand ils se livrent à des actes aussi anodins que manger, boire, se vêtir, se soigner, ou tout simplement respirer.” Le livre est la solution qu’elle a trouvée comme étant la plus efficace pour toucher un grand public, qui à ses yeux, s’il se mobilise, peut avoir une action forte et efficace contre les perturbateurs endocriniens.<p> 
 
@@ -112,7 +112,7 @@ Cette affaire du distilbène eut des retentissements importants, car elle concer
 
 <p>Les perturbateurs endocriniens étant un sujet qui est revenu à plusieurs reprises dans cette campagne présidentielle, 60 Millions de consommateurs a posé une question à tous les candidats à ce sujet : “Envisagez-vous des mesures pour limiter l’exposition des consommateurs aux perturbateurs endocriniens ?” Leur réponse se trouvent dans l'infographie ci-dessous :</p> 
  
-<img src="media/politique.png" alt="Avis des Candidats à la présidentielle" style="width:100%;height:auto;border-radius: 0.3rem;"><p>Réalisée par nos soins, d’après les réponses des candidats au magazine 60 Millions de Consommateurs</p>
+<img src="politique.png" alt="Avis des Candidats à la présidentielle" style="width:100%;height:auto;border-radius: 0.3rem;"><p>Réalisée par nos soins, d’après les réponses des candidats au magazine 60 Millions de Consommateurs</p>
 
 <p><em>N.B. À la date de publication de cet article, trois des onze candidats n'ont pas répondu : François Asselineau (Union populaire républicaine), Jacques Cheminade (Solidarité et progrès), Jean Lassalle (Résistons !).</em></p>
 
