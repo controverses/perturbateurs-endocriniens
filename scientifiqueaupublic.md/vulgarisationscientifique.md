@@ -112,7 +112,7 @@ Cette affaire du distilbène eut des retentissements importants, car elle concer
 
 <p>Les perturbateurs endocriniens étant un sujet qui est revenu à plusieurs reprises dans cette campagne présidentielle, 60 Millions de consommateurs a posé une question à tous les candidats à ce sujet : “Envisagez-vous des mesures pour limiter l’exposition des consommateurs aux perturbateurs endocriniens ?” Leur réponse se trouvent dans l'infographie ci-dessous :</p> 
  
-<img src="media.md/politique.png" alt="Avis des Candidats à la présidentielle" style="width:100%;height:auto;"><p>Réalisée par nos soins, d’après les réponses des candidats au magazine 60 Millions de Consommateurs</p>
+<img src="media/politique.png" alt="Avis des Candidats à la présidentielle" style="width:100%;height:auto;border-radius: 0.3rem;"><p>Réalisée par nos soins, d’après les réponses des candidats au magazine 60 Millions de Consommateurs</p>
 
 <p><em>N.B. À la date de publication de cet article, trois des onze candidats n'ont pas répondu : François Asselineau (Union populaire républicaine), Jacques Cheminade (Solidarité et progrès), Jean Lassalle (Résistons !).</em></p>
 
