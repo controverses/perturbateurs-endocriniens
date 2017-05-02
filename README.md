@@ -131,12 +131,26 @@
 </div>
 
 <div id= "introduction" class="section-accueil" >
-  <h1 style="text-align:center;">Introduction</h1><br>
-  
-  <div class="newspaper" align="justify">
-  Les perturbateurs endocriniens sont des substances chimiques d’origine naturelle ou anthropologique (issues des activités humaines) qui viennent interférer avec le système endocrinien des animaux et des Hommes, c’est-à-dire l’ensemble des organes qui sécrètent et régulent les hormones de l’organisme. Les hormones sont des molécules destinées à  transmettre des messages chimiques à l’organisme afin d’assurer son bon fonctionnement, celles-ci sont principalement transportées par la circulation sanguine. Ainsi, les perturbateurs endocriniens en imitant, en bloquant ou en perturbant l’action des hormones naturelles peuvent avoir des effets néfastes sur l’organisme et provoquer des anomalies métaboliques ou comportementales. Les hormones sont des molécules qui agissent à très faibles doses et ainsi, les perturbateurs endocriniens aussi ce qui en font des substances d’autant plus nocives. Avec le boom de l’industrie chimique des années 50 et l’explosion de notre utilisation de produits chimiques, les perturbateurs endocriniens sont aujourd’hui présents dans tous les écosystèmes de la planète et posent des problèmes importants tant pour les espèces animales que pour les Hommes. 
-  
-  </div>
+  <h1 style="text-align:center; align:justify;">Introduction</h1><br>
+
+<p>Dr Patrick Levy, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC) a expliqué lors d’un <a href="http://www.rfi.fr/emission/20160705-cerveau-pollution">débat avec Barbara Demeneix:</a></p>
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+<p><cite>La définition des perturbateurs endocrinien de l’OMS fait consensus pour les scientifiques mais pas consensus pour un contexte réglementaire, elle n’est pas suffisamment discriminante. Elle est beaucoup trop large. Elle ne permet pas de différencier des perturbateurs avérés et ceux qui n’ont qu’une activité biologique réversibles et sans effet durables. On ne peut pas faire cette discrimination. Nous souhaitons un cadre réglementaire efficace.”</cite></p>
+
+<p>Les perturbateurs endocriniens sont des substances chimiques d’origine naturelle ou anthropologique (issues des activités humaines) qui viennent interférer avec le système endocrinien des animaux et des Hommes, c’est-à-dire l’ensemble des organes qui sécrètent et régulent les hormones de l’organisme. Les hormones sont des molécules destinées à transmettre des messages chimiques à l’organisme afin d’assurer son bon fonctionnement, celles-ci sont principalement transportées par la circulation sanguine. Ainsi, les perturbateurs endocriniens en imitant, en bloquant ou en perturbant l’action des hormones naturelles peuvent avoir des effets néfastes sur l’organisme et provoquer des anomalies métaboliques ou comportementales. Les hormones sont des molécules qui agissent à très faibles doses et ainsi, les perturbateurs endocriniens aussi, ce qui en font des substances d’autant plus nocives. Avec le boom de l’industrie chimique des années 50 et l’explosion de notre utilisation de produits chimiques, les perturbateurs endocriniens sont aujourd’hui présents dans tous les écosystèmes de la planète et posent d’ importants problèmes tant pour les espèces animales que pour les Hommes.</p>
+
+<p> Si l’émergence du fait scientifique des perturbateurs endocriniens date de la fin des années 1980 aux États-Unis, et du milieu des années 1990 pour la France, la prise de conscience des enjeux sanitaires qu’ils posent ne survient réellement qu’à partir du milieu des années 1990 voire du début des années 2000. Si les recherches scientifiques sur le sujet se poursuivent, il y a consensus scientifique quant à l’existence, la définition scientifique et les mécanismes d’action des perturbateurs endocriniens. En revanche, la controverse entourant les perturbateurs endocriniens se situe au niveau de la réglementation de ceux-ci. En effet, face aux dangers que posent les perturbateurs endocriniens, une réglementation de leur production, de leur utilisation afin de protéger l’environnement et les populations de leur exposition semble indispensable, pourtant l’Union Européenne, dont la France, rencontre des difficultés à légiférer sur la question. Le gouvernement français, bien qu’il soit un des pays moteurs en termes de législation et de recherche sur les perturbateurs endocriniens, doit souvent modérer ses prises de position, en prenant en compte les intérêts des entreprises.</p> 
+
+<p>Ces difficultés à réglementer la question des perturbateurs endocriniens sont issues des problématiques scientifiques que ces substances ont posées. En effet, les perturbateurs endocriniens sont un sujet très complexe et éloigné des standards scientifiques qui a nécessité et nécessite un renouveau des principes de base de la toxicologie. Ainsi, les institutions ne peuvent plus s’appuyer sur les normes scientifiques traditionnelles sur lesquelles ils ont longtemps basé leur réglementation en matière de protection des populations et de l'environnement. Ainsi, nous pouvons nous demander :</p>
+
+<p><strong>Dans quelle mesure les perturbateurs endocriniens ont-ils remis en question la réglementation sanitaire basée sur les principes traditionnels de la science ?</strong></p> 
+
+
+<p>Dans un premier temps, nous retracerons l’établissement du fait scientifique des perturbateurs endocriniens et son émergence dans l’espace public. Ensuite nous analyserons les difficultés qu’a rencontré et rencontre  l’Union européenne quant à la réglementation de ces substances chimiques. Nous ferons également l’état de la controverse et des acteurs de celle-ci au niveau français. Enfin, nous étudierons comment cette controverse s’inscrit au sein de la société civile et comment celle-ci se l’est ré-appropriée face aux échecs des institutions réglementaires.</p>
 
 <a data-scroll id="tonextsection" href="https://controverses.github.io/perturbateurs-endocriniens/#sommaire"><p text-align="center"><img src="arrow.png"></p></a>
 
