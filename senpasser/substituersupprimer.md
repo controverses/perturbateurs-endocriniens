@@ -194,8 +194,6 @@ Ces polymères ont des propriétés absorbantes et permettent de capter les diff
 </div>
  <br><br>
  
-
-
 </div>
 
   </article>
