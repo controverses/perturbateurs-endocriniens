@@ -254,9 +254,9 @@ Colloques
 
 <h1>Le débat à l’échelle française<h1>
 
-<h2>Articles</h2
+<h2>Articles</h2>
 
-
+<ul>
 
 <li>Commission des Communautés Européennes (2001) Communication sur la mise en oeuvre stratégie communautaire concernant les perturbateurs endocriniens, [en ligne], consulté le 3 mars 2017. Disponible sur http://ec.europa.eu/transparency/regdoc/rep/1/2001/FR/1-2001-262-FR-F1-1.Pdf</li><br>
 
@@ -297,6 +297,7 @@ http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-toll
 
 <li>OECD (2001). Work related to Endocrine Disrupters, [en ligne], consulté le 13 mars 2017. Disponible sur http://www.oecd.org/fr/env/ess/essais/oecdworkrelatedtoendocrinedisrupters.htm</li>
 
+</ul>
 
 <h2>Sites web</h2>
 
