@@ -151,7 +151,7 @@ td, th
        <td> <a href="http://amades.hypotheses.org/6294">Lien vers le site internet</a></td>
        <td>Colloque à l’ENS, 45 rue d’ULM</td>
        <td>21/04/2017</td>
-       <td><p> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.html">Lien vers le compte-rendu</a>
+       <td><p> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/colloque.html">Lien vers le compte-rendu</a>
       </p></td>
       </tr>
     
