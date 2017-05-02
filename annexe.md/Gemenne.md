@@ -67,7 +67,7 @@
   
   <article class="article">
   
-  <h1> </h1>
+  <h1> Rendez-vous avec François Gemenne </h1>
   
   <p align="justify"> Benoît Hamon a commencé à s'intéresser aux perturbateurs endocriniens, à la suite de sa rencontre avec l’épistémologue, Alfred Spira, chercheur à l’INSERM. Il en a ensuite fait un axe de santé publique de son programme, qu’il considère comme un enjeu majeur de santé publique. 
 
