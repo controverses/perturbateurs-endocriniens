@@ -81,6 +81,7 @@ li a {
     padding:0;
     text-decoration: none;
     text-align: left;
+    margin-left:3px;
 }
 
 li a.active {
@@ -96,9 +97,9 @@ li a.active {
 
 <ul>
   <li><a href="#apogée">L'apogée de l'industrie chimique</a></li>
-  <li><a href="#émergence"> Impacts et études des produits chimiques</a></li><br>
+  <li><a href="#impacts"> Impacts et études des produits chimiques</a></li><br>
   <li><a href="#position">Vers une position scientifique déterminée</a></li><br>
-  <li><a href="#impacts">L’émergence du fait scientifique</a></li><br>
+  <li><a href="#émergence">L’émergence du fait scientifique</a></li><br>
   
 </ul>
 
