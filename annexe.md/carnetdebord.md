@@ -83,7 +83,7 @@ td, th
 </style>
 </head>
     
-<body style="background-color:rgb(255, 124, 109);">
+<body style="background-color:F5A593;">
   
   <article class="article">
   
