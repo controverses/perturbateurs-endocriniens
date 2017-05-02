@@ -71,7 +71,7 @@
 </style>
 </head>
     
-<body style="background-color:F5A593;">
+<body style="background-color:#F5A593;">
 
 <article class="article">
 
