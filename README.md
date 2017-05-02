@@ -84,7 +84,7 @@
 
 
 #sommaire {
-  background-color: white;
+  background-color: rgb(139, 201, 222);
 }
 
 
