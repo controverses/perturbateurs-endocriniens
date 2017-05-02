@@ -67,7 +67,7 @@
 .section-accueil {
 	display: block;
 	min-height: calc(100vh-150px);
-	min-width: 100vh;
+	min-width: 100%;
 }
 
 #accueil {
