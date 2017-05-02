@@ -60,12 +60,43 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
+ul {
+    list-style-type: none;
+    margin-left:-20px;
+    padding: 0;
+    width: 25%;
+    background-color: none;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: rgb(96, 108, 113);
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    color: white;
+}
+
 </style>
 </head>
 
 <body style="background-color:#FCB559;">
 
 <article class="article">
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+
   <h1 align="center">La découverte scientifique de la perturbation endocrinienne</h1>  
 
 <p>Les perturbateurs endocriniens relèvent aujourd’hui d’une controverse de législation à la vue de l’enjeu de santé publique qu’ils posent. Cependant, avant d’être une controverse de réglementation, la découverte de ces substances et de leurs effets a été l’objet de découvertes scientifiques controversées pendant près d’un demi-siècle.</p> 
@@ -160,8 +191,9 @@ Ainsi, les perturbateurs endocriniens peuvent avoir des actions directes en emp�
 
 <p>De manière plus affirmée, l’Endocrine Society, société savante dédiée à la recherche en endocrinologie, dans son rapport de 2015 écrit il n’y a plus “aucun doute sur la contribution des perturbateurs endocriniens au fardeau croissant des maladies chroniques liées à l’obésité, au diabète, à la reproduction, à la thyroïde, aux cancers et aux fonctions neuroendocriniennes et neurodéveloppementales”.</p> 
 
-<p>Ainsi, il ne faut pas oublier que les perturbateurs endocriniens restent un sujet de recherche complexe dont les scientifiques ne connaissent pas encore tous les ressorts. Cependant, on peut aujourd’hui dire que l’existence de perturbateurs endocriniens n’est plus remise en question tout comme le fait qu’ils aient des conséquences néfastes sur les écosystèmes et les Hommes. Ainsi, la controverse basée aujourd’hui sur les perturbateurs endocriniens n’est pas de nature scientifique mais bel et bien de nature réglementaire comme nous le verrons dans la deuxième partie.</p> 
+<p>Ainsi, il ne faut pas oublier que les PE restent le sujet de nombreuses études scientifiques actuelles comme le montre le graphique ci-contre relatant de l'évolution du nombre de publications scientifiques sur le sujet depuis 1992.Cependant, on peut aujourd’hui dire que l’existence de perturbateurs endocriniens n’est plus remise en question tout comme le fait qu’ils aient des conséquences néfastes sur les écosystèmes et les Hommes. Ainsi, la controverse basée aujourd’hui sur les perturbateurs endocriniens n’est pas de nature scientifique mais bel et bien de nature réglementaire comme nous le verrons dans la deuxième partie.</p> 
 
+<h1>GRAPHIQUE DE MARGOTTTT</h1>
    
 </article>
 
