@@ -190,6 +190,7 @@ a {
 
   p {
     margin-bottom: 1em;
+    color: #FFFFFF;
   }
 
   code {
@@ -269,8 +270,8 @@ a {
   blockquote {
     padding: 0 1rem;
     margin-left: 0;
-    color: $blockquote-text-color;
-    border-left: 0.3rem solid $border-color;
+    color: #FFFFFF;
+    border-left: 0.3rem solid #FFFFFF;
 
     > :first-child {
       margin-top: 0;
@@ -283,7 +284,7 @@ a {
 
   table {
     display: block;
-    width: 90%;
+    width: 100%;
     overflow: auto;
     word-break: normal;
     word-break: keep-all; // For Firefox to horizontally scroll wider tables.
@@ -329,7 +330,7 @@ a {
   padding-top: 2rem;
   badding-bottom: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px $hr-border-color;
+  border-top: solid 1px #FFFFFF;
   text-align: center;
 
   @include large {
@@ -351,5 +352,5 @@ a {
 }
 
 .site-footer-credits {
-  color: $blockquote-text-color;
+  color: #FFFFFF;
 }
