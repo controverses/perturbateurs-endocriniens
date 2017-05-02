@@ -67,6 +67,17 @@
   
   <article class="article">
   <h1>De nouveaux acteurs dans la controverse? </h1>
+  <h2>Un constat </h2>
+  
+ <p align="justify"> <strong> Barbara Demeneix, endocrinologue au Muséum national d’histoire naturelle et auteur de l’ouvrage Le Cerveau endommagé (2016) : </strong> <i> « Ces substances sont présentes dans ce qu’on boit, ce qu’on mange, ce qu’on respire ou ce qu’on se met sur la peau. En clair, nous sommes tous exposés » </i> </p> 
+ 
+<p align="justify"> <strong> Agnès Bee, chercheuse à l’Université Pierre et Marie Curie :</strong> <i> “Pour pouvoir éliminer les perturbateurs endocriniens, il faut trouver une solution pour les remplacer, ce qui n’est pas toujours facile. Interdire les Perturbateurs endocriniens n’est pas résoudre le problème.”</i> </p>
+
+<p align="justify"> <strong> Marine Jobert, journaliste, auteur de Les Perturbateurs endocriniens (2015) :</strong> <i> « Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. »</i> </p> 
+
+
+
+  
   
   </article>
   </body>
