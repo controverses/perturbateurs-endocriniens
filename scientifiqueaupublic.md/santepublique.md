@@ -60,6 +60,33 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
+ul {
+    list-style-type: none;
+    margin-left:840px;
+    margin-top:20px;
+    padding: 0;
+    width: 25%;
+    background-color: none;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    font-size: 12px;
+    line-height: 1.5;
+    border-left: 0.1rem solid #FFFFFF;
+}
+
+li a {
+    display: block;
+    color: rgb(96, 108, 113);
+    padding:0;
+    text-decoration: none;
+    text-align: left;
+    margin-left:3px;
+}
+
+li a.active {
+    color: white;
+}
 
 </style>
 </head>
@@ -67,7 +94,18 @@
 <body style="background-color:#FCB559;">
 
 <article class="article">
+
+<ul>
+  <li><a href="#exposition">Une exposition omniprésente et quotidienne</a></li>
+  <li><a href="#mécanismes">Les mécanismes d’exposition aux perturbateurs endocriniens</a></li><br>
+  <li><a href="#approche">Une nouvelle approche de la toxicologie</a></li><br>
+  <li><a href="#dangers">Quels dangers pour l'Homme ?</a></li><br>
+  
+</ul>
+
   <h1 align="center">Un problème de santé publique</h1>
+  
+<div id= "exposition">
   
 <p>Les humains sont exposés aux perturbateurs endocriniens “par de multiples voies (ingestion, inhalation, contact cutané) et de multiples milieux (eaux, aliments, produits ou articles de consommation, dispositifs médicaux…).” d’après l’Anses, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail. En effet, les perturbateurs endocriniens sont omniprésents dans notre quotidien d’individus de pays industrialisés mais c’est aussi le cas pour des populations très éloignées des zones initiales de pollution.</p> 
 
@@ -90,6 +128,10 @@ Meubles et produits ménagers /Moquette/ Air intérieur
 
 <h4> L’eau du robinet </h4> 
 <p>L’association Générations futures  a publié un rapport en 2016 qui témoigne de la présence de perturbateurs endocriniens inquiétants dans l’eau du robinet (glyphosate et atrazine). Ce rapport met également en avant la présence de résidus médicamenteux à des niveaux faibles dans l’eau du robinet. On peut également insister sur la présence de l’herbicide atrazine produit par Monsanto, interdit depuis 2003 mais qui reste toujours la molécule la plus présente dans les nappes phréatiques.</p>
+
+</div>
+
+<div id= "mécanismes">
 
 <h4> Fruits et Légumes</h4>  
 <p>Les pesticides présents sur les fruits et légumes représentent les perturbateurs endocriniens les plus importants (pyriméthanil, Iprodione...). L’association Générations futures a montré notamment la présence de 9,4 résidus de pesticide en moyenne dans les mueslis non bio. Un chiffre alarmant qui ne tient pas compte de “l’effet cocktail nocif” dû à la présence de cette multitude de perturbateurs.</p> 
@@ -118,6 +160,10 @@ En effet, le PCB en tant que perturbateur endocrinien est une molécule stable, 
 
 Les inuits furent particulièrement touchés par la pollution au PCB car ceux-ci ont un régime alimentaire traditionnel basé principalement sur la chasse et la pêche. Or, on a vu que le PCB a une forte affinité pour les graisses donc comme tous les perturbateurs endocriniens sa proportion augmente le long de la chaîne alimentaire et les inuits ayant un régime particulièrement carnivore, ils ont donc accumulé dans leurs graisses des doses de PCB très importantes. Les chercheurs ont ainsi  montré que les nouveau-nés inuits ingèrent à travers l’allaitement 7 fois plus de PCB que leurs homologues américains ou canadiens. Cette contamination eu notamment des conséquences sur les systèmes immunitaires des Inuits qui furent affaiblis les rendant plus vulnérables aux maladies infectieuses.</p> 
 
+</div>
+
+<div id="approche">
+
 <h2>Une nouvelle approche de la toxicologie</h2>
 
 <p>Les perturbateurs endocriniens sont des substances qui ont nécessité et nécessitent encore un renouvellement des principes des sciences traditionnelles car ils ont des caractéristiques différentes des autres substances nocives pour les écosystèmes et les humains. C’est par ailleurs une des raisons qui font que les perturbateurs endocriniens posent aujourd’hui des difficultés en ce qui concerne leur réglementation. En effet, les perturbateurs endocriniens remettent en question les principes traditionnels de la toxicologie. </p>
@@ -136,6 +182,10 @@ Robert Barouki propose une définition de la perturbation endocrinienne par le b
   
   <h1>METTREEEE ICCIIIII LE GRAPHIQUE !!!!!!!</h1> 
   
+  </div>
+  
+  <div id="dangers">
+  
 <p>Par exemple, la courbe A peut être expliquée par le fait qu’un perturbateur endocrinien particulier ait pour cibles deux récepteurs différents et aux effets antagonistes l’un de l’autre. Le premier étant activé à faibles doses et la deuxième s’activant à fortes doses, ainsi l’effet diminue avec la dose à partir d’un certain point critique.</p> 
 
 <p>Ainsi, les perturbateurs endocriniens ont provoqué le renouvellement des concepts toxicologiques qui ont été remis en cause face à des substances ne satisfaisant pas les principes traditionnels.</p> 
@@ -149,6 +199,8 @@ Robert Barouki propose une définition de la perturbation endocrinienne par le b
 <h1>ICIIIII LA SUITEEE DE MARGOOOOTTT</h1>
 
 <p>Ainsi, de nombreuses maladies peuvent aujourd’hui être considérées comme causées par l’exposition aux perturbateurs endocriniens. Et cela pose des problèmes sanitaires importants qui ont poussé les scientifiques à faire émerger la problématique des perturbateurs endocriniens au sein de l’espace public.</p> 
+
+</div>
 
    
 </article>
