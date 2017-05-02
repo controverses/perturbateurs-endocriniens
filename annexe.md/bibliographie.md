@@ -107,7 +107,7 @@
 
 <li>DENHEZ, F. (2016). Perturbateurs endocriniens, déni et pensée magique des industriels et des médecins. Signs of the time. [en ligne], consulté le 16 février 2017. Disponible sur https://fr.sott.net/article/28839-Perturbateurs-endocriniens-deni-et-pensee-magique-des-industriels-et-des-medecins</li><br>
 
-<li>NALBONE, G., CICOLELLA, A., LAOT-CABON, S. (2013). Perturbateurs endocriniens et maladies métaboliques: un défi majeur en santé publique. Santé Publique. [en ligne], consulté le 25 mars 2017. Disponible sur https://www.cairn.info/revue-sante-publique-2013-1-page-45.htm</li><br>
+<li>NALBONE, G., CICOLELLA, A., LAOT-CABON, S. (2013). Perturbateurs endocriniens et maladies métaboliques: un défi majeur en santé publique. Santé Publique. [en ligne], consulté le 25 mars 2017. Disponible sur https://www.cairn.info/revue-sante-publique-2013-1-page-45.htm</li>
 
 </ul>
 
@@ -119,7 +119,7 @@ Colloques
 
 <li>Académie des Sciences, INSERM, Université Paris Descartes (29 novembre 2016), Colloque Perturbateurs endocriniens. Les perturbateurs endocriniens et la nouvelle toxicologie, BAROUKI, R., Paris, [en ligne], disponible sur http://public.weconext.eu/academie-sciences/2016-11-29/video_id_003/index.html</li><br>
 
-<li>Federal Institute for Risk Assessment, (2016). International Expert Meeting on Endocrine Disruptors. Berlin. </li><br>
+<li>Federal Institute for Risk Assessment, (2016). International Expert Meeting on Endocrine Disruptors. Berlin. </li>
 
 </ul>
 
@@ -129,7 +129,7 @@ Colloques
 
 <li>ANKLEY, G., et al. (2002). Chapter 1: Executive summary. In: DAMSTRA, T., BARLOW, S., BERGMAN, A., KAVLOCK, R., VAN DER KRAAK, G. Global assessment of the state-of-science of endocrine disruptors. World Health Organization, 1-3.</li><br> 
 
-<li>COLBORN, T., DUMANOSKI, D., MYERS, J.P. (1998). L’Homme en voie de disparition. Terre Vivante Editions, 316p. </li><br>
+<li>COLBORN, T., DUMANOSKI, D., MYERS, J.P. (1998). L’Homme en voie de disparition. Terre Vivante Editions, 316p. </li>
 
 </ul>
 
@@ -137,7 +137,7 @@ Colloques
 
 <ul>
 
-<li>HOREL S. (2010). La grande invasion. In: France 5. [52 mn 21 secondes] [en ligne], consulté le 8 février 2017. Disponible sur  https://www.youtube.com/watch?v=RxktDSeVAWQ</li><br>
+<li>HOREL S. (2010). La grande invasion. In: France 5. [52 mn 21 secondes] [en ligne], consulté le 8 février 2017. Disponible sur  https://www.youtube.com/watch?v=RxktDSeVAWQ</li>
 
 </ul>
 
@@ -159,7 +159,7 @@ Colloques
 
 <li>DEMENEIX, B. (2013). Perturbateurs endocriniens: l’EFSA botte en touche. Pour la Science, [en ligne], consulté le 2 février 2017. Disponible sur http://www.pourlascience.fr/ewb_pages/a/article-perturbateurs-endocriniens-l-efsa-botte-en-touche-31501.php</li><br>
 
-<li>European Commission (2016). What is the existing approach in European Community ? [en ligne], consulté le 30 mars 2017. Disponible sur http://ec.europa.eu/environment/chemicals/endocrine/strategy/euapproach_en.htm>
+<li>European Commission (2016). What is the existing approach in European Community ? [en ligne], consulté le 30 mars 2017. Disponible sur http://ec.europa.eu/environment/chemicals/endocrine/strategy/euapproach_en.htm></li><br>
 
 <li>MOLANDER, S. et al. (2013). The 203 Berlaymont declaration on endocrine disrupters, [en ligne], consulté le 15 avril 2017. Disponible sur http://www.brunel.ac.uk/__data/assets/pdf_file/0005/300200/The_Berlaymont_Declaration_on_Endocrine_Disrupters.pdf></li><br>
 
@@ -185,174 +185,214 @@ Colloques
 
 <li>European Food Safety Authority (2014). Scientific opinion on the risks to public health related to the presence of BPA in foodstuffs, [en ligne], consulté le 24 mars 2017. Disponible sur http://www.efsa.europa.eu/en/efsajournal/pub/3978</li><br>
 
-<li>ANSES, (2017). Bisphénol A: travaux de l’ANSES sur les usages et effets, recommandations, [en ligne], consulté le 18 février 2017. Disponible sur <https://www.anses.fr/fr/content/bisphénol>
+<li>ANSES, (2017). Bisphénol A: travaux de l’ANSES sur les usages et effets, recommandations, [en ligne], consulté le 18 février 2017. Disponible sur https://www.anses.fr/fr/content/bisphénol</li><br>
 
-<li>AFP (2015). Bisphénol A: Ségolène Royal s’interroge sur le “poids des lobbys”. Libération, [en ligne], consulté le 1er mars 2017. Disponible sur <http://www.liberation.fr/france/2015/01/21/bisphenol-a-segolene-royal-s-interroge-sur-le-poids-des-lobbies_1185726>
+<li>AFP (2015). Bisphénol A: Ségolène Royal s’interroge sur le “poids des lobbys”. Libération, [en ligne], consulté le 1er mars 2017. Disponible sur http://www.liberation.fr/france/2015/01/21/bisphenol-a-segolene-royal-s-interroge-sur-le-poids-des-lobbies_1185726</li><br>
 
-<li>European Commission (2016). Criteria to identify endocrine disruptors for plant protection products, [en ligne], consulté le 23 mars 2017. Disponible sur <http://ec.europa.eu/info/law/better-regulation/initiatives/ares-2016-3071834_en>
+<li>European Commission (2016). Criteria to identify endocrine disruptors for plant protection products, [en ligne], consulté le 23 mars 2017. Disponible sur http://ec.europa.eu/info/law/better-regulation/initiatives/ares-2016-3071834_en</li><br>
 
-<li>HOREL, S. (2015). A toxic affair: how the chemical lobby blocked action on hormone disrupting chemicals, [en ligne], consulté le 2 avril 2017. Disponible sur <https://corporateeurope.org/sites/default/files/toxic_lobby_edc.pdf>
+<li>HOREL, S. (2015). A toxic affair: how the chemical lobby blocked action on hormone disrupting chemicals, [en ligne], consulté le 2 avril 2017. Disponible sur https://corporateeurope.org/sites/default/files/toxic_lobby_edc.pdf</li><br>
 
-<li>Corporate Europe Observatory (2005).  Brussels, the EU quarter: Explore the corporate lobbying paradise, [en ligne], consulté le 12 avril 2017. Disponible sur <http://archive.corporateeurope.org/docs/lobbycracy/lobbyplanet.pdf>
+<li>Corporate Europe Observatory (2005).  Brussels, the EU quarter: Explore the corporate lobbying paradise, [en ligne], consulté le 12 avril 2017. Disponible sur http://archive.corporateeurope.org/docs/lobbycracy/lobbyplanet.pdf</li><br>
 
-<li>Corporate Europe Observatory (2016). Revolving Door Watch, [en ligne], consulté le 13 avril 2017. Disponible sur <https://www.corporateeurope.org/revolvingdoorwatch>
+<li>Corporate Europe Observatory (2016). Revolving Door Watch, [en ligne], consulté le 13 avril 2017. Disponible sur https://www.corporateeurope.org/revolvingdoorwatch</li><br>
 
-<li>Pesticide Action Network. PAN Europe reconstruction of the downfall of the EU endocrine policy, [en ligne], consulté le 27 mars 2017. Disponible sur <http://www.pan-europe.info/old/News/PR/150520_Disloyalty_of_EU_Health_DG_SANCO_terminates_endocrine_policy_-_PAN_analysis.pdf>
+<li>Pesticide Action Network. PAN Europe reconstruction of the downfall of the EU endocrine policy, [en ligne], consulté le 27 mars 2017. Disponible sur http://www.pan-europe.info/old/News/PR/150520_Disloyalty_of_EU_Health_DG_SANCO_terminates_endocrine_policy_-_PAN_analysis.pdf</li><br>
 
-<li>Novethic (2015). Perturbateurs endocriniens! les coulisses du lobbying à Bruxelles, [en ligne], consulté le 28 mars 2017. Disponible sur <http://www.novethic.fr/empreinte-terre/sante-environnementale/isr-rse/perturbateurs-endocriniens-les-coulisses-du-lobbying-a-bruxelles-143341.html>
+<li>Novethic (2015). Perturbateurs endocriniens! les coulisses du lobbying à Bruxelles, [en ligne], consulté le 28 mars 2017. Disponible sur http://www.novethic.fr/empreinte-terre/sante-environnementale/isr-rse/perturbateurs-endocriniens-les-coulisses-du-lobbying-a-bruxelles-143341.html</li><br>
 
-<li>BERGMAN, A. et al. (2013). Science and policy on endocrine disrupters must not be mixed: a reply to a “common sense” intervention by toxicology journal editors. Environmental Health, [en ligne], consulté le 15 mars 2017. Disponible sur <https://ehjournal.biomedcentral.com/articles/10.1186/1476-069X-12-69>
+<li>BERGMAN, A. et al. (2013). Science and policy on endocrine disrupters must not be mixed: a reply to a “common sense” intervention by toxicology journal editors. Environmental Health, [en ligne], consulté le 15 mars 2017. Disponible sur https://ehjournal.biomedcentral.com/articles/10.1186/1476-069X-12-69</li><br>
 
-<li>RIVASI, M. (2013). Lettre au président de la Commission Européenne Barroso sur les perturbateurs endocriniens, [en ligne], consulté le 11 mars 2017. Disponible sur <http://www.michele-rivasi.eu/au-parlement/lettre-au-president-de-la-commission-europeenne-barroso-sur-les-perturbateurs-endocriniens/>
+<li>RIVASI, M. (2013). Lettre au président de la Commission Européenne Barroso sur les perturbateurs endocriniens, [en ligne], consulté le 11 mars 2017. Disponible sur http://www.michele-rivasi.eu/au-parlement/lettre-au-president-de-la-commission-europeenne-barroso-sur-les-perturbateurs-endocriniens/</li><br>
 
-<li>REINERT, M. (2015). Perturbateurs endocriniens: un coût d’au moins 150 milliards d’euros pour l’Europe. Novethic, [en ligne], consulté le 23 février 2017. Disponible sur <http://www.novethic.fr/empreinte-terre/sante-environnementale/isr-rse/perturbateurs-endocriniens-un-cout-d-au-moins-150-milliards-d-euros-pour-l-europe-143135.html>
+<li>REINERT, M. (2015). Perturbateurs endocriniens: un coût d’au moins 150 milliards d’euros pour l’Europe. Novethic, [en ligne], consulté le 23 février 2017. Disponible sur http://www.novethic.fr/empreinte-terre/sante-environnementale/isr-rse/perturbateurs-endocriniens-un-cout-d-au-moins-150-milliards-d-euros-pour-l-europe-143135.html</li><br>
 
-<li>CHEMSEC, (2015). Cry Wolf: Predicted costs by industry in the face of new environmental regulations, [en ligne], consulté le 12 mars 2017. Disponible sur <http://chemsec.org/wp-content/uploads/2016/03/Chemsec_Cry-wolf_150701.pdf>
+<li>CHEMSEC, (2015). Cry Wolf: Predicted costs by industry in the face of new environmental regulations, [en ligne], consulté le 12 mars 2017. Disponible sur http://chemsec.org/wp-content/uploads/2016/03/Chemsec_Cry-wolf_150701.pdf</li><br>
 
-<li>KETTLITZ, B. (2015). Potential impacts on the food industry. FoodDrink Europe, [en ligne], consulté le 23 février 2017. Disponible sur <http://ec.europa.eu/health//sites/health/files/endocrine_disruptors/docs/ev_20150601_co03_01_en.pdf>
+<li>KETTLITZ, B. (2015). Potential impacts on the food industry. FoodDrink Europe, [en ligne], consulté le 23 février 2017. Disponible sur http://ec.europa.eu/health//sites/health/files/endocrine_disruptors/docs/ev_20150601_co03_01_en.pdf</li><br>
 
-<li>European Commission. Public Health - Endocrine Disruptors, [en ligne], consulté le 3 avril 2017. Disponible sur <https://ec.europa.eu/health/endocrine_disruptors/next_steps_en>
+<li>European Commission. Public Health - Endocrine Disruptors, [en ligne], consulté le 3 avril 2017. Disponible sur https://ec.europa.eu/health/endocrine_disruptors/next_steps_en</li><br>
 
-<li>BARROSO, J.M.D (2013). Statement by President Barroso on the EU-US trade agreement with US President Barack Obama, the President of the European Council Herman Van Rompuy and UK Prime Ministrr David Cameron. European Commission, [en ligne], consulté le 18 mars 2017. Disponible sur <http://europa.eu/rapid/press-release_SPEECH-13-544_en.htm></li>
+<li>BARROSO, J.M.D (2013). Statement by President Barroso on the EU-US trade agreement with US President Barack Obama, the President of the European Council Herman Van Rompuy and UK Prime Ministrr David Cameron. European Commission, [en ligne], consulté le 18 mars 2017. Disponible sur http://europa.eu/rapid/press-release_SPEECH-13-544_en.htm</li><br>
 
-<li>Government of Canada. Consultation on regulations identifying criteria for endocrine disruptors. Potential trade impacts: Canada, [en ligne], consulté le 11 avril 2017. Disponible sur <http://ec.europa.eu/health//sites/health/files/endocrine_disruptors/docs/ev_20150601_co04_03_en.pdf></li>
+<li>Government of Canada. Consultation on regulations identifying criteria for endocrine disruptors. Potential trade impacts: Canada, [en ligne], consulté le 11 avril 2017. Disponible sur http://ec.europa.eu/health//sites/health/files/endocrine_disruptors/docs/ev_20150601_co04_03_en.pdf</li><br>
 
-<li>US Government (2015). European Commission’s public consultation on defining criteria for identifying endocrine disruptors in the context of the implementation of the plant protection product regulation and biocidal products regulation, comments of the US government, [en ligne], consulté le 16 avril 2017. Disponible sur <http://www.usda-eu.org/wp-content/uploads/2015/01/United-States-Submission-Endocrine-Disrupters-2015-01-20.pdf></li>
+<li>US Government (2015). European Commission’s public consultation on defining criteria for identifying endocrine disruptors in the context of the implementation of the plant protection product regulation and biocidal products regulation, comments of the US government, [en ligne], consulté le 16 avril 2017. Disponible sur http://www.usda-eu.org/wp-content/uploads/2015/01/United-States-Submission-Endocrine-Disrupters-2015-01-20.pdf></li><br>
 
-<li>United States Trade Representative (2014). Report on technical barriers to trade, [en ligne], consulté le 20 avril 2017. Disponible sur <https://ustr.gov/sites/default/files/2014%20TBT%20Report.pdf></li>
+<li>United States Trade Representative (2014). Report on technical barriers to trade, [en ligne], consulté le 20 avril 2017. Disponible sur https://ustr.gov/sites/default/files/2014%20TBT%20Report.pdf></li><br>
 
-<li>GLOVER, A. et al. (2013). Minutes of the expert meeting on endocrine disruptors. European Commission, [en ligne], consulté le 22 mars 2017. Disponible sur <http://ec.europa.eu/archives/commission_2010-2014/president/chief-scientific-adviser/documents/minutes_endocrine_disruptors_meeting_241013_final.pdf></li>
+<li>GLOVER, A. et al. (2013). Minutes of the expert meeting on endocrine disruptors. European Commission, [en ligne], consulté le 22 mars 2017. Disponible sur http://ec.europa.eu/archives/commission_2010-2014/president/chief-scientific-adviser/documents/minutes_endocrine_disruptors_meeting_241013_final.pdf></li><br>
 
-<li>CARDENES, J. (2013). Perturbateurs endocriniens: où en est la législation ? Doctissimo, [en ligne], consulté le 25 février 2017. Disponible sur <http://www.doctissimo.fr/html/dossiers/perturbateur-endocrinien/16088-perturbateur-endocrinien-legislation.htm#></li>
+<li>CARDENES, J. (2013). Perturbateurs endocriniens: où en est la législation ? Doctissimo, [en ligne], consulté le 25 février 2017. Disponible sur http://www.doctissimo.fr/html/dossiers/perturbateur-endocrinien/16088-perturbateur-endocrinien-legislation.htm#></li>
+
+</ul>
 
 <h2>Sites web</h2>
 
-<li>Reasonable Debate. Making sense of endocrine disruption, [en ligne], consulté le 9 mars 2017. Disponible sur <http://www.reasonabledebate.eu/></li>
+<ul>
 
-<li>Stéphane Horel - Journaliste documentaire, [en ligne], consulté le 14 mars 2017. Disponible sur <http://www.stephanehorel.fr/></li>
+<li>Reasonable Debate. Making sense of endocrine disruption, [en ligne], consulté le 9 mars 2017. Disponible sur http://www.reasonabledebate.eu/</li><br>
+
+<li>Stéphane Horel - Journaliste documentaire, [en ligne], consulté le 14 mars 2017. Disponible sur http://www.stephanehorel.fr/</li>
+
+</ul>
 
 <h2>Réglementation</h2>
 
-<li>Parlement Européen et Conseil de l’Union Européenne (2009). Règlement concernant la mise sur le marché des produits phytopharmaceutiques. Journal officiel de l’Union européenne, [en ligne], consulté le 12 avril 2017. Disponible sur <http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ%3AL%3A2009%3A309%3A0001%3A0050%3AFR%3APDF></li>
+<ul>
+
+<li>Parlement Européen et Conseil de l’Union Européenne (2009). Règlement concernant la mise sur le marché des produits phytopharmaceutiques. Journal officiel de l’Union européenne, [en ligne], consulté le 12 avril 2017. Disponible sur http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ%3AL%3A2009%3A309%3A0001%3A0050%3AFR%3APDF</li>
+
+</ul>
 
 <h2>Colloques</h2>
 
-<li>FUNES, G. (2015). Conference: Endocrine disruptors: criteria for identification and related impacts. Session 4: Potential impacts on trade. Bruxelles, [en ligne], disponible sur <http://ec.europa.eu/health//sites/health/files/endocrine_disruptors/docs/ev_20150601_co04_02_en.pdf></li>
+<ul>
+
+<li>FUNES, G. (2015). Conference: Endocrine disruptors: criteria for identification and related impacts. Session 4: Potential impacts on trade. Bruxelles, [en ligne], disponible sur http://ec.europa.eu/health//sites/health/files/endocrine_disruptors/docs/ev_20150601_co04_02_en.pdf></li>
+
+</ul>
 
 <h1>Le débat à l’échelle française<h1>
 
 <h2>Articles</h2
 
-<li>Commission des Communautés Européennes (2001). Communication sur la mise en oeuvre stratégie communautaire concernant les perturbateurs endocriniens, [en ligne], consulté le 3 mars 2017. Disponible sur <http://ec.europa.eu/transparency/regdoc/rep/1/2001/FR/1-2001-262-FR-F1-1.Pdf></li>
+<ul>
 
-<li>ROUSSEL, F. (2016). Perturbateurs endocriniens: la Commission Européenne met sur la table une définition à double tranchant. Actu Environnement, [en ligne], consulté le 3 mars 2017. Disponible sur <https://www.actu-environnement.com/ae/news/perturbateurs-endocriniens-definition-commission-europeenne-risque-danger-exposition-27005.php4></li>
+<li>Commission des Communautés Européennes (2001) Communication sur la mise en oeuvre stratégie communautaire concernant les perturbateurs endocriniens, [en ligne], consulté le 3 mars 2017. Disponible sur http://ec.europa.eu/transparency/regdoc/rep/1/2001/FR/1-2001-262-FR-F1-1.Pdf</li><br>
 
-<li>HOREL, S. (2016). Perturbateurs endocriniens: tollé contre Bruxelles. Le Monde, [en ligne], consulté le 5 mars 2017. Disponible sur <
-http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-tolle-contre-bruxelles_4951900_3244.html>
+<li>ROUSSEL, F. (2016). Perturbateurs endocriniens: la Commission Européenne met sur la table une définition à double tranchant. Actu Environnement, [en ligne], consulté le 3 mars 2017. Disponible sur https://www.actu-environnement.com/ae/news/perturbateurs-endocriniens-definition-commission-europeenne-risque-danger-exposition-27005.php</li><br>
 
-<li>HOREL, S. (2016). Nouvel échec européen sur les perturbateurs endocriniens. Le Monde, [en ligne], consulté le 5 mars 2017. Disponible sur <http://www.lemonde.fr/planete/article/2016/12/22/nouvel-echec-europeen-sur-les-perturbateurs-endocriniens_5052870_3244.html></li>
+<li>HOREL, S. (2016). Perturbateurs endocriniens: tollé contre Bruxelles. Le Monde, [en ligne], consulté le 5 mars 2017. Disponible sur
+http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-tolle-contre-bruxelles_4951900_3244.html</li><br>
 
-<li>FOUCART, S., HOREL, S. (2017). Perturbateurs endocriniens: nouvel échec de Bruxelles. Le Monde, [en ligne], consulté le 28 mars 2017. Disponible sur <http://www.lemonde.fr/planete/article/2017/02/28/perturbateurs-endocriniens-nouvel-echec-a-bruxelles_5087021_3244.html></li>
+<li>HOREL, S. (2016). Nouvel échec européen sur les perturbateurs endocriniens. Le Monde, [en ligne], consulté le 5 mars 2017. Disponible sur http://www.lemonde.fr/planete/article/2016/12/22/nouvel-echec-europeen-sur-les-perturbateurs-endocriniens_5052870_3244.html</li><br>
 
-<li>COHEN., V (2017). Les perturbateurs endocriniens divisent l’Union Européenne. RFI, [en ligne], consulté le 3 avril 2017. Disponible sur <http://www.rfi.fr/europe/20170228-perturbateurs-endocriniens-debat-commission-europeenne></li>
+<li>FOUCART, S., HOREL, S. (2017). Perturbateurs endocriniens: nouvel échec de Bruxelles. Le Monde, [en ligne], consulté le 28 mars 2017. Disponible sur http://www.lemonde.fr/planete/article/2017/02/28/perturbateurs-endocriniens-nouvel-echec-a-bruxelles_5087021_3244.html</li><br>
 
-<li>PATTEE, E. (2016). Perturbateurs endocriniens: la réglementation proposée par l’UE ne convainc pas. Libération, [en ligne], consulté le 22 mars 2017. Disponible sur <http://www.liberation.fr/planete/2016/12/21/perturbateurs-endocriniens-la-reglementation-proposee-par-l-ue-ne-convainc-pas_1536691></li>
+<li>COHEN., V (2017). Les perturbateurs endocriniens divisent l’Union Européenne. RFI, [en ligne], consulté le 3 avril 2017. Disponible sur http://www.rfi.fr/europe/20170228-perturbateurs-endocriniens-debat-commission-europeenne</li><br>
 
-<li>GABRIEL, O. (2017). Perturbateurs endocriniens: la Commission Européenne n’a toujours pas trouvé de définition. 20 minutes, [en ligne], consulté le 22 mars 2017. Disponible sur <http://www.20minutes.fr/sante/2022091-20170228-perturbateurs-endocriniens-commission-europeenne-toujours-trouve-definition></li>
+<li>PATTEE, E. (2016). Perturbateurs endocriniens: la réglementation proposée par l’UE ne convainc pas. Libération, [en ligne], consulté le 22 mars 2017. Disponible sur http://www.liberation.fr/planete/2016/12/21/perturbateurs-endocriniens-la-reglementation-proposee-par-l-ue-ne-convainc-pas_1536691</li><br>
 
-<li>PRIAL, J. (2015). Perturbateurs endocriniens: la Commission européenne condamnée. Pourquoi Docteur, [en ligne], consulté le 31 mars 2017. Disponible sur <https://www.pourquoidocteur.fr/Articles/Question-d-actu/13302-Perturbateurs-endocriniens-la-Commission-europenne-condamnee> </li>
+<li>GABRIEL, O. (2017). Perturbateurs endocriniens: la Commission Européenne n’a toujours pas trouvé de définition. 20 minutes, [en ligne], consulté le 22 mars 2017. Disponible sur http://www.20minutes.fr/sante/2022091-20170228-perturbateurs-endocriniens-commission-europeenne-toujours-trouve-definition</li><br>
 
-<li>Agir pour l’environnement. (2013). Réglementation européenne: la France peut faire la différence si elle garde le cap, [en ligne], consulté le 4 avril 2017. Disponible sur <http://www.agirpourlenvironnement.org/campagne/arguments/03-reglementation-europeenne-la-france-peut-faire-la-difference-si-elle-ga></li>
+<li>PRIAL, J. (2015). Perturbateurs endocriniens: la Commission européenne condamnée. Pourquoi Docteur, [en ligne], consulté le 31 mars 2017. Disponible sur https://www.pourquoidocteur.fr/Articles/Question-d-actu/13302-Perturbateurs-endocriniens-la-Commission-europenne-condamnee</li><br>
 
-<li>BAROUKI, R. (2015). Les perturbateurs endocriniens. INSERM, [en ligne], consulté le 9 mars 2017. Disponible sur <http://www.inserm.fr/index.php/thematiques/sante-publique/dossiers-d-information/les-perturbateurs-endocriniens  ></li>
+<li>Agir pour l’environnement. (2013). Réglementation européenne: la France peut faire la différence si elle garde le cap, [en ligne], consulté le 4 avril 2017. Disponible sur http://www.agirpourlenvironnement.org/campagne/arguments/03-reglementation-europeenne-la-france-peut-faire-la-difference-si-elle-ga</li><br>
 
-<li>Ministère des Affaires sociales et de la Santé (2015). Perturbateurs endocriniens, [en ligne], consulté le 25 février 2017. Disponible sur <http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens  ></li>
+<li>BAROUKI, R. (2015). Les perturbateurs endocriniens. INSERM, [en ligne], consulté le 9 mars 2017. Disponible sur http://www.inserm.fr/index.php/thematiques/sante-publique/dossiers-d-information/les-perturbateurs-endocriniens</li>
 
-<li>Ministère de l’Ecologie, du développement durable et de l’énergie et al. (2014). Rapport au Parlement relatif aux perturbateurs endocriniens. La documentation française, [en ligne], consulté le 17 mars 2017. Disponible sur <http://www.ladocumentationfrancaise.fr/rapports-publics/144000689/index.shtml  ></li>
+<li>Ministère des Affaires sociales et de la Santé (2015). Perturbateurs endocriniens, [en ligne], consulté le 25 février 2017. Disponible sur http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens</li><br>
 
-<li>BAPT, G. et al. Rapport du groupe de travail: propositions pour une stratégie nationale sur les perturbateurs endocriniens, [en ligne], consulté le 14 mars 2017. Disponible sur <http://www.consultations-publiques.developpement-durable.gouv.fr/IMG/pdf/snpe_projetconsultationpublique.pdf></li>
+<li>Ministère de l’Ecologie, du développement durable et de l’énergie et al. (2014). Rapport au Parlement relatif aux perturbateurs endocriniens. La documentation française, [en ligne], consulté le 17 mars 2017. Disponible sur http://www.ladocumentationfrancaise.fr/rapports-publics/144000689/index.shtml</li><br>
 
-<li>Conseil Constitutionnel (2015). Communiqué de presse, QPC du 17 septembre 2015 relatif à l’Association Plastics Europe, [en ligne], consulté le 6 avril 2017. Disponible sur <http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2015/2015-480-qpc/communique-de-presse.144364.html#></li>
+<li>BAPT, G. et al. Rapport du groupe de travail: propositions pour une stratégie nationale sur les perturbateurs endocriniens, [en ligne], consulté le 14 mars 2017. Disponible sur http://www.consultations-publiques.developpement-durable.gouv.fr/IMG/pdf/snpe_projetconsultationpublique.pdf></li><br>
 
-<li>VINDIMIAN, E. et al. Contributions écrites des membres du groupe de travail, [en ligne], consulté le 28 mars 2017. Disponible sur <http://www.consultations-publiques.developpement-durable.gouv.fr/IMG/pdf/annexe3-contributions-gt.pdf></li>
+<li>Conseil Constitutionnel (2015). Communiqué de presse, QPC du 17 septembre 2015 relatif à l’Association Plastics Europe, [en ligne], consulté le 6 avril 2017. Disponible sur http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2015/2015-480-qpc/communique-de-presse.144364.html#</li><br>
 
-<li>Assemblée Nationale (2012). Rapport au nom de la commission des affaires sociales sur la proposition de loi visant à la suspension de la fabrication, de l’importation, de l’exportation et de la mise sur le marché de tout conditionnement à vocation alimentaire contenant du BPA, [en ligne], consulté le 20 mars 2017. Disponible sur <http://www.assemblee-nationale.fr/14/pdf/rapports/r0434.pdf ></li>
+<li>VINDIMIAN, E. et al. Contributions écrites des membres du groupe de travail, [en ligne], consulté le 28 mars 2017. Disponible sur http://www.consultations-publiques.developpement-durable.gouv.fr/IMG/pdf/annexe3-contributions-gt.pdf</li><br>
 
-<li>INERIS (2016). Information réglementaire, [en ligne], consulté le 12 février 2017. Disponible sur <https://substitution-bp.ineris.fr/fr/information-reglementaire></li>
+<li>Assemblée Nationale (2012). Rapport au nom de la commission des affaires sociales sur la proposition de loi visant à la suspension de la fabrication, de l’importation, de l’exportation et de la mise sur le marché de tout conditionnement à vocation alimentaire contenant du BPA, [en ligne], consulté le 20 mars 2017. Disponible sur http://www.assemblee-nationale.fr/14/pdf/rapports/r0434.pdf</li><br>
 
-<li>OECD (2001). Work related to Endocrine Disrupters, [en ligne], consulté le 13 mars 2017. Disponible sur <http://www.oecd.org/fr/env/ess/essais/oecdworkrelatedtoendocrinedisrupters.htm></li>
+<li>INERIS (2016). Information réglementaire, [en ligne], consulté le 12 février 2017. Disponible sur https://substitution-bp.ineris.fr/fr/information-reglementaire</li><br>
+
+<li>OECD (2001). Work related to Endocrine Disrupters, [en ligne], consulté le 13 mars 2017. Disponible sur http://www.oecd.org/fr/env/ess/essais/oecdworkrelatedtoendocrinedisrupters.htm</li>
+
+</ul>
 
 <h2>Sites web</h2>
 
-<li>Programme National de Recherche sur les Perturbateurs Endocriniens, [en ligne], consulté le 27 février 2017. Disponible sur <http://www.pnrpe.fr></li>
+<ul>
 
-<li>Suez, [en ligne], consulté le 15 mars 2017. Disponible sur <https://www.suez.com/fr>
+<li>Programme National de Recherche sur les Perturbateurs Endocriniens, [en ligne], consulté le 27 février 2017. Disponible sur http://www.pnrpe.fr</li><br>
 
-<li>Stratégie nationale sur les Perturbateurs Endocriniens, [en ligne], consulté le 26 février 2017. Disponible sur <https://www.pnrpe.fr/IMG/pdf/ART_137___2014-04-29_Strategie_Nationale_Perturbateurs_Endocriniens.pdf ></li>
+<li>Suez, [en ligne], consulté le 15 mars 2017. Disponible sur https://www.suez.com/fr</li><br>
 
-<li>Laboratoire Watchfrog, [en ligne], consulté le 16 février 2017. Disponible sur <http://www.watchfrog.fr/></li>
+<li>Stratégie nationale sur les Perturbateurs Endocriniens, [en ligne], consulté le 26 février 2017. Disponible sur https://www.pnrpe.fr/IMG/pdf/ART_137___2014-04-29_Strategie_Nationale_Perturbateurs_Endocriniens.pdf </li><br>
 
-<li>Centre on Endocrine disruptors, [en ligne], consulté le 19 mars 2017. Disponible sur <http://eng.mst.dk/topics/chemicals/endocrine-disruptors/centre-on-endocrine-disruptors/></li>
+<li>Laboratoire Watchfrog, [en ligne], consulté le 16 février 2017. Disponible sur http://www.watchfrog.fr/</li><br>
+
+<li>Centre on Endocrine disruptors, [en ligne], consulté le 19 mars 2017. Disponible sur http://eng.mst.dk/topics/chemicals/endocrine-disruptors/centre-on-endocrine-disruptors/</li>
+
+</ul>
 
 <h2>Colloques</h2>
 
-<li>TISSERAND, B. et al. Perturbateurs endocriniens: Enjeux industriels, de santé et d’environnement. Colloque Adebiotech: Romainville, [en ligne]. Disponible sur <http://www.adebiotech.org/pert/images/PERT_livret.pdf></li>
+<ul>
+
+<li>TISSERAND, B. et al. Perturbateurs endocriniens: Enjeux industriels, de santé et d’environnement. Colloque Adebiotech: Romainville, [en ligne]. Disponible sur http://www.adebiotech.org/pert/images/PERT_livret.pdf</li>
+
+</ul>
 
 <h1>Tous concernés</h1>
 
 <h2>Articles</h2>
 
-<li>INSERM, (2013). Les antalgiques sur le banc des perturbateurs endocriniens. [en ligne], consulté le 25 mars 2017. Disponible sur <http://www.inserm.fr/actualites/rubriques/actualites-recherche/les-antalgiques-sur-le-banc-des-perturbateurs-endocriniens></li>
+<ul>
 
-<li>Que Choisir, (MàJ 2017). Comparatif substances toxiques dans les cosmétiques. UFC-Que Choisir, [en ligne], consulté le 29 janvier 2017. Disponible sur  <https://www.quechoisir.org/comparatif-ingredients-indesirables-n941/></li>
+<li>INSERM, (2013). Les antalgiques sur le banc des perturbateurs endocriniens. [en ligne], consulté le 25 mars 2017. Disponible sur http://www.inserm.fr/actualites/rubriques/actualites-recherche/les-antalgiques-sur-le-banc-des-perturbateurs-endocriniens></li><br>
 
-<li>PILORGET-REZZOUK, C., (2017). Perturbateurs endocriniens et cosmétiques: “il faut aller vers plus de simplicité”. L’Express, [en ligne], consulté le 22 février 2017. Disponible sur  <http://www.lexpress.fr/actualite/societe/sante/perturbateurs-endocriniens-et-cosmetiques-il-faut-aller-vers-plus-de-simplicite_1881543.html></li>
+<li>Que Choisir, (MàJ 2017). Comparatif substances toxiques dans les cosmétiques. UFC-Que Choisir, [en ligne], consulté le 29 janvier 2017. Disponible sur  https://www.quechoisir.org/comparatif-ingredients-indesirables-n941</li><br>
 
-<li>Votre exposition. Sabotage Hormonal, [en ligne], consulté le 24 mars 2017. Disponible sur  <http://benhur.teluq.uquebec.ca/SPIP/pe/spip.php?rubrique3></li>
+<li>PILORGET-REZZOUK, C., (2017). Perturbateurs endocriniens et cosmétiques: “il faut aller vers plus de simplicité”. L’Express, [en ligne], consulté le 22 février 2017. Disponible sur  http://www.lexpress.fr/actualite/societe/sante/perturbateurs-endocriniens-et-cosmetiques-il-faut-aller-vers-plus-de-simplicite_1881543.html</li><br>
 
-<li>Protéger les enfants en évitant les substances toxiques. Women in Europe for a Common Future, [en ligne], consulté le 24 mars 2017. Disponible sur  <http://www.wecf.eu/download/2009/November/W.163Franceimpresion.pdf ></li>
+<li>Votre exposition. Sabotage Hormonal, [en ligne], consulté le 24 mars 2017. Disponible sur  http://benhur.teluq.uquebec.ca/SPIP/pe/spip.php?rubrique3</li><br>
 
-<li>Perturbateurs Endocriniens. Quand vos meubles polluent votre santé. Ouest France (2015), [en ligne], consulté le 7 février 2017. Disponible sur  <http://www.ouest-france.fr/monde/perturbateurs-endocriniens-quand-vos-meubles-polluent-votre-sante-3706746></li>
+<li>Protéger les enfants en évitant les substances toxiques. Women in Europe for a Common Future, [en ligne], consulté le 24 mars 2017. Disponible sur  http://www.wecf.eu/download/2009/November/W.163Franceimpresion.pdf </li><br>
 
-<li>LEVRAULT, O., (2017). Les perturbateurs endocriniens, poison dans l’eau du robinet. Libération, [en ligne], consulté le 18 mars 2017. Disponible sur   <http://www.liberation.fr/futurs/2017/01/13/les-perturbateurs-endocriniens-poison-dans-l-eau-du-robinet_1540972></li>
+<li>Perturbateurs Endocriniens. Quand vos meubles polluent votre santé. Ouest France (2015), [en ligne], consulté le 7 février 2017. Disponible sur  http://www.ouest-france.fr/monde/perturbateurs-endocriniens-quand-vos-meubles-polluent-votre-sante-3706746</li><br>
 
-<li>LOUME, L., (2016). Des pesticides retrouvés dans les mueslis: faut-il s’inquiéter ?. Sciences et avenir, [en ligne], consulté le 27 mars 2017. Disponible sur  <https://www.sciencesetavenir.fr/sante/des-perturbateurs-endocriniens-dans-les-mueslis-aux-fruits-faut-il-s-inquieter_107363></li>
+<li>LEVRAULT, O., (2017). Les perturbateurs endocriniens, poison dans l’eau du robinet. Libération, [en ligne], consulté le 18 mars 2017. Disponible sur   http://www.liberation.fr/futurs/2017/01/13/les-perturbateurs-endocriniens-poison-dans-l-eau-du-robinet_1540972</li><br>
 
-<li>CURTAY, J-P., (2015). Les perturbateurs endocriniens sont partout: comment les éliminer de nos vies ? We Demain, [en ligne], consulté le 2 mars 2017. Disponible sur  <https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ></li>
+<li>LOUME, L., (2016). Des pesticides retrouvés dans les mueslis: faut-il s’inquiéter ?. Sciences et avenir, [en ligne], consulté le 27 mars 2017. Disponible sur  https://www.sciencesetavenir.fr/sante/des-perturbateurs-endocriniens-dans-les-mueslis-aux-fruits-faut-il-s-inquieter_107363</li><br>
 
-<li>Annabelle, (2013). Le Geogard 221, une alternative aux parabens. Consoglobe, [en ligne], consulté le 6 avril 2017. Disponible sur  <http://www.consoglobe.com/geogard-221-alternative-aux-parabens-cg></li>
+<li>CURTAY, J-P., (2015). Les perturbateurs endocriniens sont partout: comment les éliminer de nos vies ? We Demain, [en ligne], consulté le 2 mars 2017. Disponible sur  https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html </li><br>
 
-<li>BERLAND, J-M., JUERY, C., (2002). Les procédés membranaires pour le traitement de l’eau.  [en ligne], consulté le 22 mars 2017. Disponible sur  <http://www.fndae.fr/documentation/PDF/fndae14.pdf ></li>
+<li>Annabelle, (2013). Le Geogard 221, une alternative aux parabens. Consoglobe, [en ligne], consulté le 6 avril 2017. Disponible sur  http://www.consoglobe.com/geogard-221-alternative-aux-parabens-cg></li><br>
 
-<li>Générations Futures. Un peu d’histoire [en ligne], consulté le 14 avril 2017. Disponible sur <https://www.generations-futures.fr/generations-futures/un-peu-dhistoire/></li>
+<li>BERLAND, J-M., JUERY, C., (2002). Les procédés membranaires pour le traitement de l’eau.  [en ligne], consulté le 22 mars 2017. Disponible sur  http://www.fndae.fr/documentation/PDF/fndae14.pdf </li><br>
 
-<li>Semaine pour les alternatives aux pesticides [en ligne], consulté le 2 avril 2017. Disponible sur <http://www.semaine-sans-pesticides.fr/decouvrir-levenement/presentation-2/></li>
+<li>Générations Futures. Un peu d’histoire [en ligne], consulté le 14 avril 2017. Disponible sur https://www.generations-futures.fr/generations-futures/un-peu-dhistoire/></li><br>
 
-<li>Générations Futures (2017). Exposition aux perturbateurs endocriniens, [en ligne], consulté le 8 mars 2017. Disponible sur <http://www.generations-futures.fr/2011generations/wp-content/uploads/2017/02/EXPPERT-9-FV-220216.pdf></li>
+<li>Semaine pour les alternatives aux pesticides [en ligne], consulté le 2 avril 2017. Disponible sur http://www.semaine-sans-pesticides.fr/decouvrir-levenement/presentation-2/</li><br>
 
-<li>LEFEVRE, J. (2016). Notre dialogue spécial “les perturbateurs endocriniens”. Association Santé Environnement France, [en ligne], consulté le 17 février 2017. Disponible sur <http://www.asef-asso.fr/production/les-dialogues-de-lasef-special-perturbateurs-endocriniens/?back=ok&filter=2></li>
+<li>Générations Futures (2017). Exposition aux perturbateurs endocriniens, [en ligne], consulté le 8 mars 2017. Disponible sur http://www.generations-futures.fr/2011generations/wp-content/uploads/2017/02/EXPPERT-9-FV-220216.pdf</li><br>
 
-<li>Officiel Prévention - Santé et sécurité au travail (2014). La prévention des risques professionnels des perturbateurs endocriniens, [en ligne], consulté le 11 avril 2017. Disponible sur <http://www.officiel-prevention.com/protections-collectives-organisation-ergonomie/risque-chimique/detail_dossier_CHSCT.php?rub=38&ssrub=69&dossid=507></li>
+<li>LEFEVRE, J. (2016). Notre dialogue spécial “les perturbateurs endocriniens”. Association Santé Environnement France, [en ligne], consulté le 17 février 2017. Disponible sur http://www.asef-asso.fr/production/les-dialogues-de-lasef-special-perturbateurs-endocriniens/?back=ok&filter=2</li><br>
 
-<li>SCHILLINGER, P., VASSELLE, A. (2017). Les perturbateurs endocriniens: un enjeu de santé publique. Sénat, [en ligne], consulté le 26 février 2017. Disponible sur <http://www.senat.fr/notice-rapport/2016/r16-293-notice.html></li>
+<li>Officiel Prévention - Santé et sécurité au travail (2014). La prévention des risques professionnels des perturbateurs endocriniens, [en ligne], consulté le 11 avril 2017. Disponible sur http://www.officiel-prevention.com/protections-collectives-organisation-ergonomie/risque-chimique/detail_dossier_CHSCT.php?rub=38&ssrub=69&dossid=507</li><br>
 
-<li>Collectif (2016). Perturbateurs endocriniens: halte à la manipulation de la science. Le Monde, [en ligne], consulté le 9 mars 2017. Disponible sur <http://www.lemonde.fr/idees/article/2016/11/29/halte-a-la-manipulation-de-la-science_5039860_3232.html></li>
+<li>SCHILLINGER, P., VASSELLE, A. (2017). Les perturbateurs endocriniens: un enjeu de santé publique. Sénat, [en ligne], consulté le 26 février 2017. Disponible sur http://www.senat.fr/notice-rapport/2016/r16-293-notice.html</li><br>
 
-<li>Jos (2013). La déclaration de Berlaymont. Alerte des médecins sur les pesticides, [en ligne], consulté le 16 avril 2017. Disponible sur <http://www.alerte-medecins-pesticides.fr/?p=2852></li>
+<li>Collectif (2016). Perturbateurs endocriniens: halte à la manipulation de la science. Le Monde, [en ligne], consulté le 9 mars 2017. Disponible sur http://www.lemonde.fr/idees/article/2016/11/29/halte-a-la-manipulation-de-la-science_5039860_3232.html</li><br>
 
-<li>Pr. KORTENKAMP (2013). Perturbateurs endocriniens: à la reconquête de la santé publique. Sénat, [en ligne], consulté le 27 mars 2017. Disponible sur <http://reseau-environnement-sante.fr/wp-content/uploads/2015/12/Dossier_Conf_Kortenkamp.pdf></li>
+<li>Jos (2013). La déclaration de Berlaymont. Alerte des médecins sur les pesticides, [en ligne], consulté le 16 avril 2017. Disponible sur http://www.alerte-medecins-pesticides.fr/?p=2852</li><br>
+
+<li>Pr. KORTENKAMP (2013). Perturbateurs endocriniens: à la reconquête de la santé publique. Sénat, [en ligne], consulté le 27 mars 2017. Disponible sur http://reseau-environnement-sante.fr/wp-content/uploads/2015/12/Dossier_Conf_Kortenkamp.pdf></li><br>
+
+</ul>
 
 <h2>Réglementation</h2>
 
-<li>Directive 2000/60/CE du du Parlement Européen et du Conseil du 23 octobre 2000. Journal Officiel des communautés européennes, [en ligne], consulté le 8 mars 2017. Disponible sur  <http://eur-lex.europa.eu/resource.html?uri=cellar:5c835afb-2ec6-4577-bdf8-756d3d694eeb.0001.02/DOC_1&format=PDF></li>
+<ul>
+
+<li>Directive 2000/60/CE du du Parlement Européen et du Conseil du 23 octobre 2000. Journal Officiel des communautés européennes, [en ligne], consulté le 8 mars 2017. Disponible sur  http://eur-lex.europa.eu/resource.html?uri=cellar:5c835afb-2ec6-4577-bdf8-756d3d694eeb.0001.02/DOC_1&format=PDF</li>
+
+</ul>
 
 <h2>Thèses</h2>
 
+<ul>
+
 <li>OBEID, L., (2014). Synthèse et caractérisation de matériaux magnétiques pour l’absorption de polluants présents dans les eaux. Thèse de doctorat: Physicochimie des Electrolytes et nanosystèmes interfaciaux / Colloïdes inorganiques. Paris: Université Pierre et Marie Curie. 244p.</li>
+
+</ul>
 
 <h2>Sites web</h2>
 
-<li>Générations Futures. Perturbateurs endocriniens, la menace invisible [en ligne], consulté le 7 février 2017. Disponible sur <http://www.perturbateurs-endocriniens.fr/ ></li>
+<ul>
+
+<li>Générations Futures. Perturbateurs endocriniens, la menace invisible [en ligne], consulté le 7 février 2017. Disponible sur http://www.perturbateurs-endocriniens.fr/</li><br>
 
 <li>Agir pour l’environnement [en ligne], consulté le 15 février 2017. Disponible sur <http://www.agirpourlenvironnement.org/></li>
 
@@ -360,19 +400,25 @@ http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-toll
 
 <li>60 millions de consommateurs, [en ligne], consulté le 25 février 2017. Disponible sur <http://www.60millions-mag.com/></li>
 
-<li>Réseau Environnement Santé, [en ligne], consulté le 14 mars 2017. Disponible sur <http://www.reseau-environnement-sante.fr/le-res/></li>
+<li>Réseau Environnement Santé, [en ligne], consulté le 14 mars 2017. Disponible sur http://www.reseau-environnement-sante.fr/le-res/</li>
+
+</ul>
 
 <h2>Vidéos</h2>
 
-<li>BEN JANNETTE, Y. (2011). Alerte aux perturbateurs endocriniens. In: Arte. [9 mn 37 secondes], [en ligne], disponible sur <https://www.youtube.com/watch?v=IF46GJ0qOcQ></li>
+<ul>
+
+<li>BEN JANNETTE, Y. (2011). Alerte aux perturbateurs endocriniens. In: Arte. [9 mn 37 secondes], [en ligne], disponible sur https://www.youtube.com/watch?v=IF46GJ0qOcQ</li><br>
+
+</ul>
 
 <h2>Ouvrages</h2>
 
 <ul>
 
-<li>COLBORN, T., DUMANOSKI, D., MYERS, J.P. (1998). L’Homme en voie de disparition. Terre Vivante Editions, 316p. </li>
+<li>COLBORN, T., DUMANOSKI, D., MYERS, J.P. (1998). L’Homme en voie de disparition. Terre Vivante Editions, 316p. </li><br>
 
-<li>JOBERT, M., VEILLEREITTE, F. (2015). La menace invisible. Buchet Castel, 144p.</li>
+<li>JOBERT, M., VEILLEREITTE, F. (2015). La menace invisible. Buchet Castel, 144p.</li><br>
 
 <li>CARSON, R. (2009). Le printemps silencieux. Wildproject Editions, 288p.</li>
 
