@@ -66,7 +66,7 @@ body {
 
 ul {
     list-style-type: none;
-    margin-left:0;
+    margin-left:-20px;
     padding: 0;
     width: 25%;
     background-color: none;
