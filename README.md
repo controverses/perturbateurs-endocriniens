@@ -116,7 +116,8 @@
 
 <p>Dr Patrick Levy, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC) a expliqué lors d’un <a href="http://www.rfi.fr/emission/20160705-cerveau-pollution">débat avec Barbara Demeneix:</a></p>
 
-<p><blockquote cite="http://www.rfi.fr/emission/20160705-cerveau-pollution">La définition des perturbateurs endocrinien de l’OMS fait consensus pour les scientifiques, mais <strong>pas consensus pour un contexte réglementaire</strong>, elle n’est pas suffisamment discriminante. Elle est beaucoup trop large. Elle ne permet pas de différencier les perturbateurs avérés de ceux qui n’ont qu’une activité biologique réversible et sans effet durable. On ne peut pas faire cette discrimination. Nous souhaitons un cadre réglementaire efficace.”</blockquote></p> 
+
+<p><blockquote>cite="http://www.rfi.fr/emission/20160705-cerveau-pollution">La définition des perturbateurs endocrinien de l’OMS fait consensus pour les scientifiques, mais <strong>pas consensus pour un contexte réglementaire</strong>, elle n’est pas suffisamment discriminante. Elle est beaucoup trop large. Elle ne permet pas de différencier les perturbateurs avérés de ceux qui n’ont qu’une activité biologique réversible et sans effet durable. On ne peut pas faire cette discrimination. Nous souhaitons un cadre réglementaire efficace.”</blockquote></p>
 
 <p>Les perturbateurs endocriniens sont des <strong>substances chimiques</strong> d’origine naturelle ou anthropologique (issues des activités humaines) qui viennent interférer avec le <strong>système endocrinien</strong> des animaux et des Hommes, c’est-à-dire l’ensemble des organes qui sécrètent et régulent les hormones de l’organisme. Les hormones sont des molécules destinées à transmettre des messages chimiques à l’organisme afin d’assurer son bon fonctionnement, celles-ci sont principalement transportées par la circulation sanguine. Ainsi, les perturbateurs endocriniens <strong>en imitant, en bloquant ou en perturbant</strong> l’action des hormones naturelles peuvent avoir des effets néfastes sur l’organisme et provoquer des anomalies métaboliques ou comportementales.</p> 
 
@@ -137,13 +138,15 @@
 
 <div id= "sommaire" class="section-accueil">
 
-<img src="Schéma-STS.jpg" alt="Schéma-STS" style="hight:calc(100vh-150px); width:auto;" usemap="#sommairemap" >
+<p align="center"><strong>Comparaison de la proportion de recherche entre le mot « endocrine disrupters » (en rouge) et le mot « perturbateurs endocriniens » (en bleu) pour pouvoir comparer l’intérêt en France à l’intérêt dans d’autres pays (en particulier les Etats Unis)</strong></p>
 
-<map name="sommairemap">
-  <area shape="rect" coords="485,30,890,194" alt="Perturbateurs endocriniens" href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/decouvertesscientifiques.html">
-</map>
+  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script>
+  <script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"perturbateurs endocriniens","geo":"","time":"all"},{"keyword":"endocrine disruptors","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=perturbateurs%20endocriniens,endocrine%20disruptors","guestPath":"https://trends.google.fr:443/trends/embed/"});
+  </script>
 
- 
+<p>On observe que les récents problèmes de définition au sein de la Commission Européenne a très certainement augmenté le nombre de recherches sur le sujet puisque le sujet était plus prégnant dans les médias. Il y a notamment un pic en Février 2017, date à laquelle la Commission Européenne devait parvenir à une définition.</p>
+
  </div>
    
 </article>
