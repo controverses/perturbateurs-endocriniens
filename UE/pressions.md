@@ -100,7 +100,7 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 
 <p> Le problème selon l’institution provient des règles d’embauche de l’agence : </p>
 
-<p><blockquote> <em> « N’importe quel scientifique ayant des liens avec le secteur commercial peut toujours être accepté du moment que ceux-ci ne sont pas en relation avec le sujet sur lequel il travaille ». </blockquote>
+<p><blockquote> « N’importe quel scientifique ayant des liens avec le secteur commercial peut toujours être accepté du moment que ceux-ci ne sont pas en relation avec le sujet sur lequel il travaille ». </blockquote></p>
 
 <h2> Conflit endocrinien, perturbateurs d’intérêts : quels conflits d’intérêts autour de la Commission ?</h2> 
 
