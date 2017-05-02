@@ -63,13 +63,15 @@
 ul {
     list-style-type: none;
     margin-left:-260px;
-    margin-right:40px;
+    margin-right:-20px;
     padding: 0;
     width: 25%;
     background-color: none;
     position: fixed;
     height: 100%;
     overflow: auto;
+    font-size: 10px;
+    line-height: 1.5;
 }
 
 li a {
