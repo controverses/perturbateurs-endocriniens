@@ -77,7 +77,7 @@
 
 </style>
 </head>
-<body background-color:rgb(139, 201, 222);>
+<body style="background-color:rgb(139, 201, 222);">
 
 <article class="article">
 
