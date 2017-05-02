@@ -70,7 +70,7 @@ ul {
     position: fixed;
     height: 100%;
     overflow: auto;
-    font-size: 12px;
+    font-size: 13px;
     line-height: 1.5;
 }
 
@@ -79,7 +79,7 @@ li a {
     color: rgb(96, 108, 113);
     padding: 8px 16px;
     text-decoration: none;
-    text-align: left;
+    text-align: right;
 }
 
 li a.active {
@@ -94,11 +94,11 @@ li a.active {
 <article class="article">
 
 <ul>
+  <li><a href="#apogée">Vers une position scientifique déterminée</a></li>
   <li><a href="#home">L'apogée de l'industrie chimique</a></li>
   <li><a href="#contact">Impacts et études des produits chimiques</a></li>
   <li><a href="#about">L’émergence du fait scientifique </a></li>
   <li><a href="#apogée">Vers une position scientifique déterminée</a></li>
-  
   
 </ul>
 
