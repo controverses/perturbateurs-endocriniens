@@ -116,7 +116,7 @@ Suite à cela, le 22 juin 2011, MM. Gérard BAPT , Jean-Marc Ayrault et Jean-Lou
 <p style="text-align:center;"> <i>Composition du groupe de travail (institutions et personnalités pertinentes)</i></p>
 
 
-<div class="zoom" style="text-align: center">
+<div style="text-align: center">
  <p>
   <img src="composition.png" alt="Perturbateurs endocriniens"  style="width:500px;height:500px;" />
  </p>
@@ -128,7 +128,7 @@ Suite à cela, le 22 juin 2011, MM. Gérard BAPT , Jean-Marc Ayrault et Jean-Lou
 
 <div id="texte">
 
-<div class="zoom" style="text-align: center">
+<div style="text-align: center">
 <img src="tableau.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
 </div>
 
