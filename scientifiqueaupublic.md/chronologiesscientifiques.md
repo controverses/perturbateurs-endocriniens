@@ -63,6 +63,7 @@
 ul {
     list-style-type: none;
     margin-left:-260px;
+    margin-right:-25;
     padding: 0;
     width: 25%;
     background-color: none;
@@ -76,6 +77,7 @@ li a {
     color: rgb(96, 108, 113);
     padding: 8px 16px;
     text-decoration: none;
+    text-align: left;
 }
 
 li a.active {
