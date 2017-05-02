@@ -60,9 +60,6 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
-<html>
-<head>
-<style>
 body {
     margin: 0;
 }
@@ -72,7 +69,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 25%;
-    background-color: #f1f1f1;
+    background-color: none;
     position: fixed;
     height: 100%;
     overflow: auto;
@@ -103,59 +100,16 @@ li a.active {
     trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"perturbateurs endocriniens","geo":"","time":"all"},{"keyword":"endocrine disruptors","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=perturbateurs%20endocriniens,endocrine%20disruptors","guestPath":"https://trends.google.fr:443/trends/embed/"});
   </script>
 
-   
-</article>
-
-
-</body>
-</html>
-
-<html>
-<head>
-<style>
-body {
-    margin: 0;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 25%;
-    background-color: #f1f1f1;
-    position: fixed;
-    height: 100%;
-    overflow: auto;
-}
-
-li a {
-    display: block;
-    color: #000;
-    padding: 8px 16px;
-    text-decoration: none;
-}
-
-li a.active {
-    background-color: #4CAF50;
-    color: white;
-}
-
-li a:hover:not(.active) {
-    background-color: #555;
-    color: white;
-}
-</style>
-</head>
-<body>
-
-<ul>
+  <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
 
-  <h3>Try to scroll this area, and see how the sidenav sticks to the page</h3>
+  <h3>Try to scroll this area, and see how the sidenav sticks to the page</h3> 
+  
+</article>
 
 </body>
 </html>
