@@ -74,47 +74,17 @@
 
 }
 
-#accueil {
-       background-color: rgb(255, 124, 109);
-}
-
-#accueil p {
-    color: black;
-}
-
-#introduction {
-       background-color: rgb(44, 195, 161);
-}
-
-
-#sommaire {
-  background-color: rgb(139, 201, 222);
-}
-
-
-#tonextsection img {
-	width: 10vmin;
-	height: 10vmin;
-	margin-top: 3vmin;
-}
 
 </style>
 </head>
-<body>
+<body background-color:rgb(139, 201, 222);>
 
 <article class="article">
-
-<div id="accueil" class="section-accueil">
 
 <h1 style="text-align:center;" > Dans quelle mesure les perturbateurs endocriniens ont-ils remis en question la réglementation sanitaire basée sur les principes traditionnels de la science ? </h1>
 
 <p>"La question des perturbateurs endocriniens est une question majeure de santé publique."François Veillerette, fondateur de l'association Générations Futures</p>
 
-<a data-scroll id="tonextsection" href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p text-align="center"><img src="media.md/arrow.png"></p></a>
-
-
-</div>
-<div id= "introduction" class="section-accueil" >
   <h1 style="text-align:center; align:justify;">Introduction</h1><br>
 
 <p>Dr Patrick Levy, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC) a expliqué lors d’un <a href="http://www.rfi.fr/emission/20160705-cerveau-pollution">débat avec Barbara Demeneix:</a></p>
@@ -136,9 +106,6 @@
 
 <a data-scroll id="tonextsection" href="https://controverses.github.io/perturbateurs-endocriniens/#sommaire"><p text-align="center"><img src="arrow.png"></p></a>
 
-</div>
-<div id= "sommaire" class="section-accueil">
-
 <p align="center"><strong>Comparaison de la proportion de recherche entre le mot « endocrine disrupters » (en rouge) et le mot « perturbateurs endocriniens » (en bleu) pour pouvoir comparer l’intérêt en France à l’intérêt dans d’autres pays (en particulier les Etats Unis)</strong></p>
 
   <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script>
@@ -153,8 +120,6 @@ Cette hausse de l’intérêt est certainement dû entre autres à deux événem
 <li>La remise d’un rapport de Générations Futures, en Février 2017, sur la présence de perturbateurs endocriniens dans les cheveux de personnalités du monde de l’écologie.</li>
 
 </ul>
-
- </div>
    
 </article>
 </body>
