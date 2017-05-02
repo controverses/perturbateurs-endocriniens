@@ -199,9 +199,61 @@ Elle est également conseillée par un groupe d’experts indépendant, le Scien
      </p> <br/>
     
     
-    <p><strong>Le Programme des Nations unies pour l’environnement (UNEP),  </strong>appartenant également à l’ONU, a pour but de coordonner les activités des Nations unies dans le domaine de l’environnement et d’assister les pays dans la mise en œuvre de politiques environnementales.
-        </p> 
-    
+    <h2>Les ONGs / Associations</h2>
+    <p><strong>Le Corporate Europe Observatory (CEO ou « Observatoire de l'Europe industrielle ») </strong>est un organisme de recherche et de plaidoyer ayant son siège à Bruxelles. Son centre d'intérêt est la manière dont les lobbys des grandes entreprises et corporations influent la construction et la mise en œuvre des politiques européennes publiques et de la réglementation, parfois au détriment des équilibres sociaux, sociétaux et environnementaux. Cette ONG plaide pour une plus grande transparence et régulation des activités de lobbying, notamment dans le cadre du projet de TIPP.
+         </p> <br/>
+        
+     <p><strong>Le Secrétariat International de Chimie (ChemSec)  </strong> est une ONG fondée en Suède en 2002 dans le but de militer en faveur d’un renforcement des régulations et de travailler avec les entreprises afin de réduire la production et l’usage de substances toxiques dans les produits.
+     </p> <br/>
+     
+      <h2>Les organismes gouvernementaux français</h2>
+      <p><strong>Anses :   </strong> Établissement public à caractère administratif, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail est placée sous la tutelle des ministères chargés de la santé, de l’agriculture, de l’environnement, du travail et de la consommation. Elle a pour mission de réaliser l’évaluation des risques, de fournir aux autorités compétentes toutes les informations sur ces risques ainsi que l’expertise et l’appui scientifique et technique nécessaires à l’élaboration des dispositions législatives et réglementaires et à la mise en œuvre des mesures de gestion des risques.
+     </p> <br/>
+     
+     <p><strong>ANSM :  </strong> L’Agence nationale de sécurité du médicament et des produits de santé (ANSM). L’ANSM développe plusieurs activités en France et pour le compte de l’Union européenne : évaluations scientifiques et techniques, surveillance, inspection des établissements, contrôles en laboratoire. Ces actions débouchent sur la prise de décisions de police sanitaire pour le compte de l’Etat français.
+     </p> <br/>
+     
+     <p><strong>Agence Nationale de Recherche :   </strong> L'Agence Nationale de la Recherche a pour mission la mise en œuvre du financement de la recherche sur projets en France.
+     </p> <br/>
+     
+     <p><strong>INERIS :   </strong> L’Institut National de l’EnviRonnementIndustriel et des RisqueS, établissement public à caractère industriel et commercial placé sous la tutelle du ministère chargé de l’Environnement, a pour mission de contribuer à la prévention des risques que les activités économiques font peser sur la santé, la sécurité des personnes et des biens, et sur l’environnement. Il mène des programmes de recherche visant à mieux comprendre les phénomènes susceptibles de conduire aux situations de risques ou d’atteintes à l’environnement et à la santé, et à développer sa capacité d’expertise en matière de prévention.
+     </p> <br/>
+     
+       <p><strong>INRA :  </strong> Institut national de recherche agronomique, institut de recherche en agronomie
+     </p> <br/> 
+     
+     <p><strong>Agence Nationale de Santé publique :  </strong> agence sanitaire chargée de :
+
+•La veille et la surveillance de l’état de santé des populations, l’alerte sanitaire, 
+•La connaissance des déterminants et des comportements, la conception des stratégies d’intervention, l’expérimentation, 
+•La prévention, l’éducation et la promotion de la santé, la réponse aux menaces et crises sanitaires
+     </p> <br/> 
+     
+     <p><strong>Alliances de recherche :  </strong> coordonner l’analyse stratégique, la programmation scientifique et la mise en œuvre opérationnelle de la recherche dans certains domaines
+•Allenvi : Alliance nationale de recherche pour l’environnement
+•Aviesan : Alliance nationale pour les sciences de la vie et de la santé
+•Athena : Alliance thématique nationale des sciences humaines et sociales
+
+     </p> <br/> 
+     
+       <p><strong>Alliances de recherche :  </strong> coordonner l’analyse stratégique, la programmation scientifique et la mise en œuvre opérationnelle de la recherche dans certains domaines
+•Allenvi : Alliance nationale de recherche pour l’environnement
+•Aviesan : Alliance nationale pour les sciences de la vie et de la santé
+•Athena : Alliance thématique nationale des sciences humaines et sociales
+
+     </p> <br/> 
+      
+      <h2> Les représentants des ONG / Associations</h2>
+     
+       <p><strong>François Veillerette :  </strong> coordonner l’analyse stratégique, la programmation scientifique et la mise en œuvre opérationnelle de la recherche dans certains domaines
+•Allenvi : Alliance nationale de recherche pour l’environnement
+•Aviesan : Alliance nationale pour les sciences de la vie et de la santé
+•Athena : Alliance thématique nationale des sciences humaines et sociales
+
+     </p> <br/> 
+      
+      
+      
     
 
 </article>
