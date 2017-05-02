@@ -77,7 +77,7 @@
 
     
 <h1>Fiches acteurs </h1>
-    <h2>Les institutions européennes</h2>
+    <h2 align="center">Les institutions européennes</h2>
     
     <p><strong>La Commission Européenne </strong> C’est elle qui mène les négociations entre différents acteurs avant de proposer un projet de loi au Parlement afin de mettre en place une régulation des perturbateurs endocriniens. Elle est constituée de plusieurs directions générales : <br/>
     
@@ -206,6 +206,11 @@ Elle est également conseillée par un groupe d’experts indépendant, le Scien
      <p><strong>Le Secrétariat International de Chimie (ChemSec)  </strong> est une ONG fondée en Suède en 2002 dans le but de militer en faveur d’un renforcement des régulations et de travailler avec les entreprises afin de réduire la production et l’usage de substances toxiques dans les produits.
      </p> <br/>
      
+     <p><strong>L'Association Santé Environnement France (ASEF)</strong>, fondée par quatre médecins et une chimiste, rédige des guides d'informations scientifiques sur la santé pour sensibiliser la population.</p><br> 
+
+<p><strong>Agir pour l’environnement</strong>, une association de mobilisation citoyenne nationale en faveur de l'environnement. Elle a organisé entre septembre 2013 et juin 2014 une campagne “Perturbateurs endocriniens : Environnement perturbé, santé menacée!"</p><br> 
+
+     
       <h2>Les organismes gouvernementaux français</h2>
       <p><strong>Anses :   </strong> Établissement public à caractère administratif, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail est placée sous la tutelle des ministères chargés de la santé, de l’agriculture, de l’environnement, du travail et de la consommation. Elle a pour mission de réaliser l’évaluation des risques, de fournir aux autorités compétentes toutes les informations sur ces risques ainsi que l’expertise et l’appui scientifique et technique nécessaires à l’élaboration des dispositions législatives et réglementaires et à la mise en œuvre des mesures de gestion des risques.
      </p> <br/>
@@ -256,8 +261,14 @@ Elle est également conseillée par un groupe d’experts indépendant, le Scien
          
          
           <p><strong> Gérard Bapt :  </strong> député de Haute Garonne, ayant participé à la proposition de loi prévoyant la « suspension de la fabrication, de l’importation, de l’exportation et de la mise sur le marché de tout conditionnement, contenant ou ustensile comportant du bisphénol A et destiné à entrer en contact direct avec des denrées alimentaires ». Il a également participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. </p> <br/> 
+          
+          <h2> Les journalistes</h2>
          
   
+<p><strong>Stéphane Horel</strong>, journaliste spécialiste du sujet. Elle a d’abord écrit pour le journal Le Monde avant de devenir une journaliste indépendante. Elle s’intéresse plus particulièrement dans son travail de recherches au pouvoir des lobbies industriels sur les tentatives de réglementation des PE qui sont organisées à l’échelle européenne. Elle a publié en 2015 le livre Intoxication: Perturbateurs endocriniens, lobbyistes et eurocrates: une bataille d’influence contre la santé. Elle a également réalisé en 2010 un documentaire avec France 5, qui cherche à faire un état des lieux de la situation, considérée comme grave, tout en faisant le choix d’aborder le sujet avec beaucoup de second degré. 
+https://www.youtube.com/watch?v=RxktDSeVAWQ</p><br>
+
+<p><strong>Stéphane Foucart</strong> est un journaliste du Monde sur les sciences de l’environnement.</p><br>
 
 </article>
 </body>
