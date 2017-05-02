@@ -154,11 +154,7 @@ Ainsi, les perturbateurs endocriniens peuvent avoir des actions directes en emp�
 
 <p>Aujourd’hui, les perturbateurs endocriniens sont la source d’un consensus scientifique sur leur existence et leurs définitions. On peut citer ici la définition donnée par l’OMS dans son rapport “IPCS (International Program on Chemical Safety) Global Assessment of the State-of-the-Science of endocrine disruptors” de 2002 :</p> 
 
-
-<p><blockquote>“An endocrine disruptor is an exogenous substance or mixture that alters function(s) of the endocrine system and consequently causes adverse health effects in an intact organism, or its progeny, or (sub)populations.<blockquote></p>  
-
-<p><blockquote> A potential endocrine disruptor is an exogenous substance or mixture that possesses properties that might be expressed to lead to endocrine disruption in an intact organism, or tis progeny, or (sub) populations.”<blockquote></p> 
-
+<p><blockquote>“An endocrine disruptor is an exogenous substance or mixture that alters function(s) of the endocrine system and consequently causes adverse health effects in an intact organism, or its progeny, or (sub)populations. <br>A potential endocrine disruptor is an exogenous substance or mixture that possesses properties that might be expressed to lead to endocrine disruption in an intact organism, or tis progeny, or (sub) populations." </blockquote></p>
 
 <p>De même, leurs mécanismes d’action et leurs effets sur les organismes s’ils restent des sujets de la recherche actuelle, ne sont plus aujourd’hui sujet à controverse. Ainsi, dans un rapport intitulé “State of the Science of Endocrine Disrupting Chemicals” de 2013 sur les effets pour l’homme de l’exposition aux perturbateurs endocriniens chimiques du Programme des Nations Unies pour l’Environnement (PNUE) et de l’OMS, ils résument dans le communiqué de presse :</p> 
 
