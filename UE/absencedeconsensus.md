@@ -66,7 +66,7 @@
 <body style="background-color:#9A85A3;">
 
 <article class="article">
-  <h1>De rapports en contradiction à des difficultés de réglementation</h1>
+  <h1 align="center">De rapports en contradiction à des difficultés de réglementation</h1>
   
   <h2>Qualification et quantification du risque: des rapports en contradiction</h2> 
   
@@ -103,7 +103,7 @@ La même année, <strong> l’Organisation Mondiale de la Santé </strong> (OMS/
 
 <ul>
 <li> Comment <strong> identifier </strong> les perturbateurs endocriniens tels que définis ci-dessus (à l’aide de quels tests) ? </li>
-<li> Comment traduire les résultats obtenus dans <strong>un cadre réglementaire </strong>(quels critères utiliser) ?<li>
+<li> Comment traduire les résultats obtenus dans <strong>un cadre réglementaire </strong>(quels critères utiliser) ?</li>
 </ul>
 
 <p> Ces deux questions soulèvent des débats. La définition étant extrêmement vague, il est presque impossible d’identifier précisément les perturbateurs endocriniens. En effet, il est extrêmement compliqué de différencier les effets purement dus à un perturbateur de ceux liés au reste de l’environnement. 
