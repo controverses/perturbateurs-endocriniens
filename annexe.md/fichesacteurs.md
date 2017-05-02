@@ -80,20 +80,19 @@
     <h2>Les institutions européennes</h2>
     
     <p><strong>La Commission Européenne </strong> C’est elle qui mène les négociations entre différents acteurs avant de proposer un projet de loi au Parlement afin de mettre en place une régulation des perturbateurs endocriniens. Elle est constituée de plusieurs directions générales : <br/>
--	La DG ENV (environnement) chargée du dossier des perturbateurs de 2009 à 2014.<br/>
--	La DG SANTE (anciennement DG SANCO, santé et consommateurs) chargée du dossier depuis 2014.<br/>
--	La DG GROW (industrie, marché interne, entreprenariat)<br/>
+    
+    <li>La DG ENV (environnement) chargée du dossier des perturbateurs de 2009 à 2014.</li><br/>
+    <li>La DG SANTE (anciennement DG SANCO, santé et consommateurs) chargée du dossier depuis 2014.</li><br/>
+    <li>La DG GROW (industrie, marché interne, entreprenariat)</li><br/>
+
 Elle dispose de deux groupes d’experts :
--	Le groupe ad hoc sous la direction de la DG environnement établi en 2010 et constitué de commissaires, de membres d’agences de l’UE et d’agences d’Etats membres.<br/>
-
--	L’Endocrine Disruptors Expert Advisory Group (ED EAG), sous la direction du Joint Research Center (JRC) depuis novembre 2011.<br/>
+  <li>Le groupe ad hoc sous la direction de la DG environnement établi en 2010 et constitué de commissaires, de membres d’agences de l’UE et d’agences d’Etats membres.</li><br/>
+  <li>L’Endocrine Disruptors Expert Advisory Group (ED EAG), sous la direction du Joint Research Center (JRC) depuis novembre 2011.</li><br/></p>
 The Joint Research Centre (JRC) is the European Commission's science and knowledge service which employs scientists to carry out research in order to provide independent scientific advice and support to EU policy. https://ec.europa.eu/jrc/en
-Elle est également conseillée par un groupe d’experts indépendant, le Scientific Committee on Consumer Safety.
-
-</p> <br/>
+Elle est également conseillée par un groupe d’experts indépendant, le Scientific Committee on Consumer Safety.</p> <br/>
     
     <p><strong>Le Parlement Européen </strong> Il est plutôt pionnier sur la question des perturbateurs endocriniens, puisqu’il a adopté en 2009 et 2012 deux résolutions posant les bases de la réglementation sur les pesticides et insistant sur la nécessité de définir et règlementer rapidement les perturbateurs endocriniens. Il s’est parfois opposé à la Commission, comme en janvier 2015 : 11 membres du Parlement ont envoyé une lettre critique au commissaire de la santé Vytenis Andriukaitis, le pressant de travailler en faveur d’une approche horizontale des perturbateurs, en adéquation avec les travaux scientifiques et non pas seulement basé sur les impacts économiques.
-</p> <br/>
+</p>
     
        <h2>Les agences de l’UE</h2>
     <p><strong>European Chemicals Agency (ECHA) </strong>  établie par le règlement REACH de 2006 et contenant un groupe d’experts depuis février 2014. Ce groupe d’experts comprend des membres d’agences nationales, de différentes DG (GROW (=industrie, marché, entreprenariat), ENV, SANTE), de l’EFSA, de différentes « parties prenantes » telles que HEAL, ECETOC, CEFIC, OECD, … et de l’office fédéral suisse pour l’environnement. Selon le site internet de l’ECHA, sa mission consiste à intervenir dans la mise en oeuvre de la règlementation des produits chimiques dans un but de protection de la santé humaine et de l’environnement mais également de l’innovation et de la compétitivité. Elle dispose d’un Member State Committee (MSC).
@@ -110,16 +109,16 @@ Elle est également conseillée par un groupe d’experts indépendant, le Scien
     </p>
     
     <p><strong>France : </strong> l’ANSES est un établissement public à caractère administratif placé sous la tutelle des ministres chargés de la Santé, de l'Agriculture, de l'Environnement, du Travail et de la Consommation. Ses missions, fixées par l'ordonnance n°2010-18 du 7 janvier 2010, couvrent l'évaluation des risques dans le domaine de l'alimentation, de l'environnement et du travail, en vue d'éclairer les pouvoirs publics dans leur politique sanitaire.
-     </p> <br/>
+     </p> 
     
     <p><strong>Allemagne :  </strong> le Federal Institute for Risk Assessment (BfR) est selon son site officiel une institution scientifique indépendante appartenant au ministère fédéral de l’alimentation et de l’agriculture (BMEL). Il évalue les risques des produits de consommation et d’alimentation ainsi que des produits chimiques pour la santé et cherche à les minimiser.
-       </p> <br/>
+       </p> 
     
      <p><strong>Finlande :  </strong> la Finnish Safety and Chemicals Agency ou Tukes est une agence appartenant au ministère de l’emploi et de l’économie. Sa mission est de renforcer la sécurité des produits chimiques et technologiques ainsi que des produits de consommation. Cependant, l’alimentation et la sécurité médicale sont sous le contrôle d’autres agences (Evira, Fimea et Valvira).
-    </p> <br/>
+    </p> 
     
     <p><strong>Suède :   </strong> la Swedish Chemicals Agency, sous l’autorité du gouvernement suédois, s’assure que les grandes compagnies contrôlent les produits chimiques de façon acceptable.
-    </p> <br/>
+    </p> 
     
      <p><strong>Pays-Bas :  </strong> RIVM est une institution qui cherche à prévenir et contrôler les crises sanitaires. Elle s’intéresse à la santé publique et à la sécurité des consommateurs et cherche à protéger la qualité de l’environnement. Elle rassemble les connaissances nationales et internationales afin de les mettre à disposition des autorités politiques. Elle est missionnée par divers ministères, l’UE et les Nations Unies.
        </p> 
