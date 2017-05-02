@@ -79,19 +79,19 @@
 <h4>Médicaments</h4> 
 <p>L’INSERM a montré le rôle potentiel de perturbateurs endocriniens dans des antalgiques (comme le paracétamol, les anti-inflammatoires non stéroïdiens tels que l’aspirine et l’indométacine).</p> 
 
-Cosmétiques
+<h4>Cosmétiques</h4> 
 <p>L’UFC-Que-Choisir a dressé en février 2016 la liste des produits cosmétiques contenant des perturbateurs endocriniens. Maquillage, parfums, vernis, déodorant, produit pour nourrisson, une liste inquiétante qui a doublé depuis sa création.</p> 
 
-Jouets en plastique
+<h4> Jouets en plastique</h4> 
 <p>La plupart des jouets en PVC (polychlorure de vinyle : une des matières plastiques les plus utilisés au monde), contiennent des perturbateurs endocriniens notamment des phtalates.</p> 
 
 Meubles et produits ménagers /Moquette/ Air intérieur 
 <p>Les vernis utilisés pour les meubles, la vaisselle en plastique, les ustensiles de cuisines, les produits ménagers peuvent contenir du Bisphénol A, des phtalates, benzène et bien d’autres. Même s'ils ne sont pas ingérés de manière directe, nos aliments s’en imprègnent, en particulier quand ils sont chauffés. Le Plan de la qualité de l’air intérieur publié en 2013 témoigne de l’omniprésence de ces molécules volatiles à l’intérieur d’une maison.</p> 
 
-L’eau du robinet 
+<h4> L’eau du robinet </h4> 
 <p>L’association Générations futures  a publié un rapport en 2016 qui témoigne de la présence de perturbateurs endocriniens inquiétants dans l’eau du robinet (glyphosate et atrazine). Ce rapport met également en avant la présence de résidus médicamenteux à des niveaux faibles dans l’eau du robinet. On peut également insister sur la présence de l’herbicide atrazine produit par Monsanto, interdit depuis 2003 mais qui reste toujours la molécule la plus présente dans les nappes phréatiques.</p>
 
-Fruits et Légumes 
+<h4> Fruits et Légumes</h4>  
 <p>Les pesticides présents sur les fruits et légumes représentent les perturbateurs endocriniens les plus importants (pyriméthanil, Iprodione...). L’association Générations futures a montré notamment la présence de 9,4 résidus de pesticide en moyenne dans les mueslis non bio. Un chiffre alarmant qui ne tient pas compte de “l’effet cocktail nocif” dû à la présence de cette multitude de perturbateurs.</p> 
 
 <h2>Les mécanismes d’exposition aux perturbateurs endocriniens</h2>  
