@@ -66,7 +66,7 @@
 <body style="background-color:#9A85A3;">
 
 <article class="article">
-  <h1>Quels ressorts dans la mise en place d'une législation ?</h1>
+  <h1 align="center">Quels ressorts dans la mise en place d'une législation ?</h1>
   
   <h2> Alimenter la controverse scientifique ? La "manufacture du doute" </h2>
   
