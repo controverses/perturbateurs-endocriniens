@@ -60,6 +60,34 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
+ul {
+    list-style-type: none;
+    margin-left:840px;
+    margin-top:20px;
+    padding: 0;
+    width: 25%;
+    background-color: none;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    font-size: 12px;
+    line-height: 1.5;
+    border-left: 0.1rem solid #FFFFFF;
+}
+
+li a {
+    display: block;
+    color: rgb(96, 108, 113);
+    padding:0;
+    text-decoration: none;
+    text-align: left;
+    margin-left:3px;
+}
+
+li a.active {
+    color: white;
+}
+
 </style>
 </head>
 
