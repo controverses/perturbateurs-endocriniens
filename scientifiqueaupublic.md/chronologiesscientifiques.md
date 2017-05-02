@@ -79,7 +79,7 @@ li a {
     color: rgb(96, 108, 113);
     padding: 8px 16px;
     text-decoration: none;
-    text-align: right;
+    text-align: left;
     border-left: 0.1rem solid #FFFFFF;
 }
 
