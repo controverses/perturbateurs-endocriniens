@@ -85,7 +85,7 @@ td, th
     
 <body style="background-color:F5A593;">
   
-  <article class="article">
+  <article class="article" style="margin-bottom:140px">
   
   <div style="text-align: center">
   <h1>Carnet de bord</h1>
@@ -165,9 +165,6 @@ td, th
     
     
 </table>
-
-
-  
   
   
   </article>
