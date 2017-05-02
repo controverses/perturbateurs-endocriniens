@@ -161,9 +161,9 @@ Si Générations Futures est une association particulièrement dédiée au comba
 Des associations de prévention des consommateurs ont également commencé à s’intéresser au sujet des perturbateurs endocriniens en réalisant des analyses de produits. Le journaliste pour Le Monde, Stéphane Foucart, expliquait au cours du Colloque sur les perturbateurs endocriniens à l’ENS (21 avril 2017), que “le sujet des PE est assez insaisissable car il n’y a pas de catégorie intelligible pour le commun des mortels, c’est-à-dire pour les personnes autres que des scientifiques”. Il explique alors que “la première question que se pose un lecteur, et donc le journaliste, est ‘où est ce que ce qu’on les trouve ?’” C’est principalement à cette question que répondent ces associations, qui cherchent alors à éclairer les consommateurs sur le nouveau danger que représentent les perturbateurs endocriniens. 
 </p>
 
-<p align="justify"> L’UFC-Que choisir a publié une base de données montrant la présence de 185 perturbateurs endocriniens dans les produits cosmétiques (voir photo ci-contre).
+<p align="justify"> L’UFC-Que choisir a publié une base de données montrant la présence de 185 perturbateurs endocriniens dans les produits cosmétiques (voir photo ci-contre).<br><br>
 
-<a href="http://www.60millions-mag.com/">60 millions de Consommateurs</a> multiplient les enquêtes et les articles sur le sujet depuis 2014. Ils ont ainsi publié en avril 2017 <a href="http://www.60millions-mag.com/2017/04/20/cocktail-de-produits-toxiques-dans-les-cheveux-de-nos-enfants-11105">une enquête scientifique menées sur des enfants, vivant en ville ou à la campagne.</a>. 
+<a href="http://www.60millions-mag.com/">60 millions de Consommateurs</a> multiplient les enquêtes et les articles sur le sujet depuis 2014. Ils ont ainsi publié en avril 2017 <a href="http://www.60millions-mag.com/2017/04/20/cocktail-de-produits-toxiques-dans-les-cheveux-de-nos-enfants-11105">une enquête scientifique menées sur des enfants, vivant en ville ou à la campagne.</a>. <br><br>
 
 <a href="http://www.inrs.fr/">L'Institut national de recherche et de sécurité (INRS)</a>, créé sous l’égide de la CNAMP (Caisse nationale de l'assurance maladie des travailleurs salariés), rédige des fiches-produits, servant de documents de référence sur les dangers liés aux substances chimiques. 
 
