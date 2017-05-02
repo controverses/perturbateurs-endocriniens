@@ -85,6 +85,36 @@ Le comité d’orientation du PNRPE est composée d’acteurs très divers, auss
 
 <p align="justify"> Le but affiché du PNRPE est de s’assurer qu’aucun axe de recherche n’est écarté. Cependant, les recherches sont majoritairement tournées vers l’impact des perturbateurs endocriniens sur la santé et sur la conception de tests sur les perturbateurs endocriniens (présence, dangerosité).</p>
 
+<div style="text-align: center">
+<img src="PNRPE.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+</div>
+
+
+<p align="justify"> <strong> D’autres programmes </strong> 
+<p align="justify">L’Agence Nationale de la Recherche (ANR), sous la tutelle du ministère de l’enseignement supérieur et de la recherche (MESR), soutient, depuis sa création en 2005, des travaux relatifs aux perturbateurs endocriniens. Parmi ces programmes, on peut citer le programme national de recherche en santé – environnement – travail (PNR EST) de l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail (ANSES) (ex : Perturbateurs endocriniens et infertilités masculines : modèles et biomarqueurs – 2006). Plus récemment, le programme « Comprendre et prévoir les évolutions de l’environnement 2014 » a vu un projet sur « l’impact des PE sur la communication sexuelle des insectes ».</p>
+
+<div style="text-align: center">
+<p align="justify"> <strong> Projets financés contenant « perturbateurs endocriniens » dans le titre</strong> 
+</div>
+<div style="text-align: center">
+<img src="projets.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+</div>
+
+<p align="justify">L’INERIS, sous la tutelle du Ministère de l’Environnement et du Développement Durable, soutient également des partenariats de coopération Universités-organismes de recherche, comme le Réseau Antiopes qui réunit des dizaines d’équipes issues des organismes de recherche à l’échelle nationale dans le domaine de la toxicologie et de l’écotoxicologie prédictive. L’organisme mène des actions de surveillance environnementale.
+
+L’INRA, dépendant du ministère de la recherche et du ministère de l’agriculture, a également soutenu le réseau EcoBASC qui s’intéresse à la connaissance du devenir et des flux des contaminants chimiques au sein des ecosystèmes aquatiques et terrestres, comme les perturbaturbateurs endocriniens.
+
+On peut également citer pour les programmes publics les projets menés par l’Agence Nationale de Santé Publique ou encore le programme « Pesticides » soutenu par le Ministère de l’Ecologie. 
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
