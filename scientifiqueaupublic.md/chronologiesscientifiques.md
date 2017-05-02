@@ -143,12 +143,11 @@ Les hormones sont des molécules qui permettent de transmettre des messages chim
 
 Ainsi, ce système endocrinien est composé d’hormones, de récepteurs et d’émetteurs d’hormones. Seulement les perturbateurs endocriniens viennent altérer le fonctionnement de celui-ci. Ces perturbateurs peuvent avoir trois effets :<br><br>  
 
-<ul>
-<li>Mimer l'action d'une hormone par leur structure moléculaire similaire ;</li>
-<li>Bloquer l'action d'une hormone en saturant son récepteur ;</li>
+<li>Mimer l'action d'une hormone par leur structure moléculaire similaire</li>
+<li>Bloquer l'action d'une hormone en saturant son récepteur</li>
 <li>Interférer avec l'action de l'hormone</li> 
 
-</ul><br><br> 
+<br><br> 
 
 Ainsi, les perturbateurs endocriniens peuvent avoir des actions directes en empêchant la transmission de certaines informations via les hormones ou en en transmettant une autre. Ces actions peuvent avoir lieu de la gestation à la mort. Les perturbateurs endocriniens peuvent aussi provoquer des anomalies dans l’expression des gènes (associés aux fonctions de reproduction) qui seront transmises aux générations suivantes.</p> 
 
@@ -162,7 +161,7 @@ Ainsi, les perturbateurs endocriniens peuvent avoir des actions directes en emp�
 
 <p>De manière plus affirmée, l’Endocrine Society, société savante dédiée à la recherche en endocrinologie, dans son rapport de 2015 écrit il n’y a plus “aucun doute sur la contribution des perturbateurs endocriniens au fardeau croissant des maladies chroniques liées à l’obésité, au diabète, à la reproduction, à la thyroïde, aux cancers et aux fonctions neuroendocriniennes et neurodéveloppementales”.</p> 
 
-<p>Ainsi, il ne faut pas oublier que les perturbateurs endocriniens restent un sujet de recherche complexe dont les scientifiques ne connaissent pas encore tous les ressorts. Cependant, on peut aujourd’hui dire que l’existence de perturbateurs endocriniens n’est plus remise en question tout comme le fait qu’ils aient des conséquences néfastes sur les écosystèmes et les Hommes. Ainsi, la controverse basée aujourd’hui sur les perturbateurs endocriniens n’est pas de nature scientifique mais bel et bien de nature réglementaire comme nous le verrons dans la partie.</p> 
+<p>Ainsi, il ne faut pas oublier que les perturbateurs endocriniens restent un sujet de recherche complexe dont les scientifiques ne connaissent pas encore tous les ressorts. Cependant, on peut aujourd’hui dire que l’existence de perturbateurs endocriniens n’est plus remise en question tout comme le fait qu’ils aient des conséquences néfastes sur les écosystèmes et les Hommes. Ainsi, la controverse basée aujourd’hui sur les perturbateurs endocriniens n’est pas de nature scientifique mais bel et bien de nature réglementaire comme nous le verrons dans la deuxième partie.</p> 
 
    
 </article>
