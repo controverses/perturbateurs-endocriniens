@@ -66,7 +66,7 @@
 <body style="background-color:rgb(139, 201, 222);">
   
   <article class="article">
-  <h1>Substituer? Supprimer? </h1>
+  <h1>Peut-on réellement s'en passer? </h1>
   
   </article>
   </body>
