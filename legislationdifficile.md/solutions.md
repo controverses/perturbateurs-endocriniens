@@ -63,7 +63,7 @@
 </style>
 </head>
 
-<body style="background-color:rgb(44, 195, 161);">
+<body style="background-color:#AC8FB6;">
   
   <article class="article">
   <h1>Peut-on vraiment se passer des perturbateurs endocriniens?</h1>
