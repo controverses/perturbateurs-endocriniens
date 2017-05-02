@@ -65,8 +65,7 @@
 
 
 .section-accueil {
-	display: flex;
-	flex-direction: row;
+	display: block;
 	min-height: calc(100vh-150px);
 	min-width: 100vh;
 }
