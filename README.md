@@ -67,7 +67,8 @@
 .section-accueil {
 	display: block;
 	min-height: 100%;
-	width: 200%;
+	width: 100%;
+	margin-left:0
 }
 
 #accueil {
@@ -102,7 +103,7 @@
 
 <div id="accueil" class="section-accueil">
 
-<h1 style="text-align:center;" > Gans quelle mesure les perturbateurs endocriniens ont-ils remis en question la réglementation sanitaire basée sur les principes traditionnels de la science ? </h1>
+<h1 style="text-align:center;" > Dans quelle mesure les perturbateurs endocriniens ont-ils remis en question la réglementation sanitaire basée sur les principes traditionnels de la science ? </h1>
 
 <p>"La question des perturbateurs endocriniens est une question majeure de santé publique."François Veillerette, fondateur de l'association Générations Futures</p>
 
