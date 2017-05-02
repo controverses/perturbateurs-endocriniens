@@ -97,10 +97,8 @@ li a.active {
 <article class="article">
 
 <ul>
-  <li><a href="#stratégie">La Stratégie Nationale sur les Perturbateurs endocriniens</a></li>
-  <li><a href="#impacts"> Impacts et études des produits chimiques</a></li><br>
-  <li><a href="#position">Vers une position scientifique déterminée</a></li><br>
-  <li><a href="#émergence">L’émergence du fait scientifique</a></li><br>
+  <li><a href="#stratégie">La Stratégie Nationale sur les PE</a></li>
+  <li><a href="#texte"> Le texte de la stratégie</a></li><br>
   
 </ul>
   
@@ -117,8 +115,11 @@ Suite à cela, le 22 juin 2011, MM. Gérard BAPT , Jean-Marc Ayrault et Jean-Lou
 
 <p style="text-align:center;"> <i>Composition du groupe de travail (institutions et personnalités pertinentes)</i></p>
 
-<div style="text-align: center">
-<img src="composition.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+
+<div class="zoom" style="text-align: center">
+ <p>
+  <img src="composition.png" alt="Perturbateurs endocriniens"  style="width:500px;height:500px;" />
+ </p>
 </div>
 
 <p style="text-align:center;"> <i>Points de désaccord du groupe de travail :</i></p>
@@ -127,7 +128,7 @@ Suite à cela, le 22 juin 2011, MM. Gérard BAPT , Jean-Marc Ayrault et Jean-Lou
 
 <div id="texte">
 
-<div style="text-align: center">
+<div class="zoom" style="text-align: center">
 <img src="tableau.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
 </div>
 
