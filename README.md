@@ -117,11 +117,7 @@
 
 <p>Dr Patrick Levy, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC) a expliqué lors d’un <a href="http://www.rfi.fr/emission/20160705-cerveau-pollution">débat avec Barbara Demeneix:</a></p>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-<p><cite>La définition des perturbateurs endocrinien de l’OMS fait consensus pour les scientifiques mais pas consensus pour un contexte réglementaire, elle n’est pas suffisamment discriminante. Elle est beaucoup trop large. Elle ne permet pas de différencier des perturbateurs avérés et ceux qui n’ont qu’une activité biologique réversibles et sans effet durables. On ne peut pas faire cette discrimination. Nous souhaitons un cadre réglementaire efficace.”</cite></p>
+<p><blockquote cite="http://www.rfi.fr/emission/20160705-cerveau-pollution">La définition des perturbateurs endocrinien de l’OMS fait consensus pour les scientifiques mais pas consensus pour un contexte réglementaire, elle n’est pas suffisamment discriminante. Elle est beaucoup trop large. Elle ne permet pas de différencier des perturbateurs avérés et ceux qui n’ont qu’une activité biologique réversibles et sans effet durables. On ne peut pas faire cette discrimination. Nous souhaitons un cadre réglementaire efficace.”</blockquote></p> 
 
 <p>Les perturbateurs endocriniens sont des substances chimiques d’origine naturelle ou anthropologique (issues des activités humaines) qui viennent interférer avec le système endocrinien des animaux et des Hommes, c’est-à-dire l’ensemble des organes qui sécrètent et régulent les hormones de l’organisme. Les hormones sont des molécules destinées à transmettre des messages chimiques à l’organisme afin d’assurer son bon fonctionnement, celles-ci sont principalement transportées par la circulation sanguine. Ainsi, les perturbateurs endocriniens en imitant, en bloquant ou en perturbant l’action des hormones naturelles peuvent avoir des effets néfastes sur l’organisme et provoquer des anomalies métaboliques ou comportementales. Les hormones sont des molécules qui agissent à très faibles doses et ainsi, les perturbateurs endocriniens aussi, ce qui en font des substances d’autant plus nocives. Avec le boom de l’industrie chimique des années 50 et l’explosion de notre utilisation de produits chimiques, les perturbateurs endocriniens sont aujourd’hui présents dans tous les écosystèmes de la planète et posent d’ importants problèmes tant pour les espèces animales que pour les Hommes.</p>
 
