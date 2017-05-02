@@ -70,7 +70,7 @@
 	width: 165%;
 	margin-left: -267px;
 	margin-bottom:0;
-	margin-top:0;
+	margin-top:140px;
 }
 
 #accueil {
