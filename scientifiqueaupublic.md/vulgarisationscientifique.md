@@ -60,13 +60,49 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
+ul {
+    list-style-type: none;
+    margin-left:840px;
+    margin-top:20px;
+    padding: 0;
+    width: 25%;
+    background-color: none;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    font-size: 12px;
+    line-height: 1.5;
+    border-left: 0.1rem solid #FFFFFF;
+}
+
+li a {
+    display: block;
+    color: rgb(96, 108, 113);
+    padding:0;
+    text-decoration: none;
+    text-align: left;
+    margin-left:3px;
+}
+
+li a.active {
+    color: white;
+}
+
 </style>
 </head>
 
 <body style="background-color:#FCB559;">
 
 <article class="article">
+
+  <li><a href="#livres">Livres de vulgarisation</a></li>
+  <li><a href="#retentissements">Les retentissements des scandales sanitaires</a></li><br>
+  <li><a href="#action">Une action scientifique directe et militante</a></li><br>
+  <li><a href="#débat">Les perturbateurs endocriniens intègrent peu à peu le débat public</a></li><br>
+
   <h1 align="center">L’émergence du fait des perturbateurs endocriniens dans le débat public</h1>
+  
+<div id="livres">  
   
 <p>Ainsi, les problématiques liés aux PE ont peu à peu été portées dans l’espace public par les scientifiques, permettant une progressive prise de conscience des enjeux à l’œuvre. En effet, les études scientifiques, les congrès et les rapports officiels sont souvent non accessibles à un public non averti et face à l’ampleur de la crise sanitaire provoquée par les perturbateurs endocriniens, les scientifiques se sont mobilisés pour faire entendre leurs avertissements.<p>
 
@@ -79,6 +115,10 @@
 <img src="livres.jpg" alt="Livres" style="width:100%;height:auto;"> <p>Un aperçu des couvertures des livres sur le thème des perturbateurs endocriniens qui ont été publiés</p>
 
 <p>En 2015, le fondateur de Générations Futures a co-écrit avec la journaliste Marine Jobert un livre intitulé <em>Perturbateurs endocriniens, la menace invisible.</em> Dans une interview diffusée sur le site internet du livre, la co-auteur Marine Jobert explique indirectement pourquoi avoir choisi d’écrire un livre pour changer les choses, plutôt qu’un autre moyen. Selon elle, “cette révolution sur notre dépendance à la chimie qu’il faut, selon moi, opérer ne trouvera pas sa source chez les politiques, et encore moins dans les entreprises. Ce sont les gens qui doivent exiger de ne plus être empoisonnés par des perturbateurs endocriniens quand ils se livrent à des actes aussi anodins que manger, boire, se vêtir, se soigner, ou tout simplement respirer.” Le livre est la solution qu’elle a trouvée comme étant la plus efficace pour toucher un grand public, qui à ses yeux, s’il se mobilise, peut avoir une action forte et efficace contre les perturbateurs endocriniens.<p> 
+
+</div>
+
+<div id="retentissements">
 
 <p>Tous les livres de vulgarisation scientifique que nous avons trouvés sur les perturbateurs endocriniens cherchent à informer de manière scientifique et alarmante la population sur les dangers de long-terme que représentent les perturbateurs endocriniens, auxquels nous sommes exposés au quotidien. Ces livres, de manière générale, ne se veulent cependant pas fatalistes face aux épidémies d'obésité, de diabète, de troubles du comportement ou de cancers hormono-dépendants en partie causés par les perturbateurs endocriniens. Ils cherchent plutôt à stimuler notre curiosité et à nous pousser à mieux nous renseigner pour mieux nous protéger et à nous investir dans leur combat.</p> 
 
@@ -96,11 +136,19 @@ Dès lors, en 1971, la Food and Drug Administration, l’agence de réglementati
 
 Cette affaire du distilbène eut des retentissements importants, car elle concernait une molécule considérée comme miraculeuse et touchait non pas les femmes enceintes mais leurs enfants ce qui heurta l’opinion publique. De plus, elle fut l'occasion de questionnements sur la dangerosité des hormones puisqu’elle constituait l’exemple que des substances chimiques à effet hormonal administrées à des doses très faibles pouvaient avoir des effets dangereux sur l’Homme. Enfin, cela mis fin à l’idée selon laquelle les produits contaminant la femme enceinte ne pouvaient pas contaminer le foetus grâce à la barrière formée par le placenta. Désormais, les scientifiques reconnaissent que le foetus est soumis aux mêmes produits toxiques que ceux auxquels la mère est soumise, et c’est d’ailleurs une période de grande vulnérabilité, puisque le foetus est en pleine construction. </p>
 
+</div>
+
+<div id="action">
+
 <h2>Une action scientifique directe et militante</h2> 
 
 <p>Les scientifiques au-delà de leur fonction d’information s’engagent dans un combat contre les perturbateurs endocriniens en interpellant directement les instances de régulation afin de protéger la population. Une des premières actions collectives de grande ampleur de scientifiques sur les perturbateurs endocriniens est l’Appel de Prague de 2005. Il s’agit d’un document présentant une synthèse des connaissances et des propositions de recherche sur la question. Le message clef de cet Appel peut être résumé par cette phrase : « Au vu de l’ampleur des risques associés aux perturbateurs endocriniens, nous croyons fermement que les incertitudes scientifiques ne devraient pas retarder la mise en œuvre du principe de précaution visant à réduire les expositions aux risques des perturbateurs endocriniens ».</p> 
 
 <p>Cet engagement des scientifiques s’est poursuivi depuis avec notamment l’importante Déclaration de Berlaymont (du nom de siège de la Commission Européenne), datant de 2013, signée par 90 chercheurs scientifiques menant des recherches sur les perturbateurs endocriniens. Par cette déclaration ils félicitent et remercient la Commission Européenne d’avoir financé des recherches sur les perturbateurs endocriniens, qui, bien que des incertitudes demeurent, accrédite l’hypothèse que des dommages graves et irréversibles sont causés par les perturbateurs endocriniens. Ils demandent ainsi à ce que “la Commission européenne mette en œuvre des mesures réglementaires” et que cette entreprise réglementaire ne soit pas retardée ni par les incertitudes scientifiques, ni par les intérêts commerciaux qui prendraient le pas sur les préoccupations concernant les risques associés aux perturbateurs endocriniens. </p>
+
+</div>
+
+<div id="débat">
 
 <p>En novembre 2016, une centaine de scientifiques ont interpellé la Commission Européenne. Des scientifiques spécialistes des perturbateurs endocriniens se sont alliés avec des scientifiques spécialistes du réchauffement climatique pour co-signer cet appel à la Commission européenne qui l’encourage à réglementer efficacement sur les perturbateurs endocriniens. Ils se sont alliés par intérêts communs car les substances qui contiennent des perturbateurs endocriniens sont en général aussi responsables du réchauffement climatique comme les dérivés des combustibles fossiles. Ils accusent la manufacture du doute : certains scientifiques produisent des études qui sont destinées à ralentir la législation en introduisant un doute sur les effets des perturbateurs endocriniens mais ils sont payés par les industries qui ont des intérêts économiques. Enfin, le 7 avril 2017, une lettre ouverte signée par une quinzaine de scientifiques américains et européens a été adressée à l’Union Européenne afin qu’une définition légale, précise et indiscutable soit retenue pour que les travaux de réglementation puissent enfin aboutir.</p>
 
@@ -120,6 +168,7 @@ Cette affaire du distilbène eut des retentissements importants, car elle concer
 
 <p>Les travaux qui sont réalisés sur les perturbateurs endocriniens impliquent de nombreux acteurs qui sont en constante interaction, aussi bien dans une perspective de coopération que de conflits. Cette volonté d’unir les capacités des différents acteurs impliqués dans cette controverse est visible dans la création en 2009 du Réseau environnement Santé (RES). Ce réseau regroupe à la fois des associations de professionnels de santé, de scientifiques et de malades, des ONG, ainsi que des adhérents individuels. L’objectif principal du RES est d’inscrire la santé environnementale au cœur des politiques publiques. Ces membres cherchent ainsi à encourager le dialogue entre acteurs scientifiques et acteurs politiques et à “mettre dans le débat public les connaissances scientifiques disponibles et faire en sorte que les acteurs institutionnels et économiques mettent en œuvre le principe de précaution pour établir les réglementations et transformer les procédés industriels.” Dès le début ce réseau s’est intéressé aux perturbateurs endocriniens, puisqu’en 2010, la première campagne qu’ils ont lancée a abouti à l’interdiction dans les biberons du Bisphénol A.</p>
 
+</div>
  
 </article>
 </body>
