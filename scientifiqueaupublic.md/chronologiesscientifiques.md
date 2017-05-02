@@ -143,11 +143,9 @@ Les hormones sont des molécules qui permettent de transmettre des messages chim
 
 Ainsi, ce système endocrinien est composé d’hormones, de récepteurs et d’émetteurs d’hormones. Seulement les perturbateurs endocriniens viennent altérer le fonctionnement de celui-ci. Ces perturbateurs peuvent avoir trois effets :<br><br>  
 
-<li>Mimer l'action d'une hormone par leur structure moléculaire similaire</li>
-<li>Bloquer l'action d'une hormone en saturant son récepteur</li>
-<li>Interférer avec l'action de l'hormone</li> 
-
-<br><br> 
+1. Mimer l'action d'une hormone par leur structure moléculaire similaire
+2. Bloquer l'action d'une hormone en saturant son récepteur
+3. Interférer avec l'action de l'hormone<br><br> 
 
 Ainsi, les perturbateurs endocriniens peuvent avoir des actions directes en empêchant la transmission de certaines informations via les hormones ou en en transmettant une autre. Ces actions peuvent avoir lieu de la gestation à la mort. Les perturbateurs endocriniens peuvent aussi provoquer des anomalies dans l’expression des gènes (associés aux fonctions de reproduction) qui seront transmises aux générations suivantes.</p> 
 
