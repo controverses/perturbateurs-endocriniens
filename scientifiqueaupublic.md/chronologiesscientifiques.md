@@ -72,6 +72,7 @@ ul {
     overflow: auto;
     font-size: 12px;
     line-height: 1.5;
+    border-left: 0.1rem solid #FFFFFF;
 }
 
 li a {
@@ -80,7 +81,6 @@ li a {
     padding:0;
     text-decoration: none;
     text-align: left;
-    border-left: 0.1rem solid #FFFFFF;
 }
 
 li a.active {
@@ -105,19 +105,20 @@ li a.active {
 
   <h1 align="center">La découverte scientifique de la perturbation endocrinienne</h1>  
 
+<div id= "apogée">
+
 <p>Les perturbateurs endocriniens relèvent aujourd’hui d’une controverse de législation à la vue de l’enjeu de santé publique qu’ils posent. Cependant, avant d’être une controverse de réglementation, la découverte de ces substances et de leurs effets a été l’objet de découvertes scientifiques controversées pendant près d’un demi-siècle.</p> 
 
-<div id= "apogée">
 
 <h2>L’apogée de l’industrie chimique</h2>
 
 <p>L’industrie chimique s’est développée à partir de la première moitié du XXème siècle et connaît son âge d’or après la Seconde Guerre mondiale. Dès lors, les chimistes, pour satisfaire les besoins croissants de l’industrie, créent toujours plus de nouvelles molécules dont les potentiels effets dangereux pour l’Homme ou les écosystèmes sont soit non testés, soit testés avec les tests classiques de l’époque, c’est-à-dire que si la molécule ne provoque pas l’empoisonnement, celle-ci est considérée comme non nocive, or ce principe ne s’applique pas aux perturbateurs endocriniens, nous allons le voir.</p> 
 
-<p>Ainsi, l’industrie chimique a produit parmi les multiples nouvelles molécules, des substances aux effets particuliers, les perturbateurs endocriniens qui agissent sur les systèmes hormonaux des organismes animaux ou humains et ont des conséquences néfastes sur leurs métabolismes et leurs comportements. Seulement, il faudra près de 30 ans, pour que les scientifiques et en particulier une zoologiste, Theo Colborn, identifient ces substances et leurs mécanismes d’action sur les organismes.</p> 
-
 </div>
 
 <div id= "impacts">
+
+<p>Ainsi, l’industrie chimique a produit parmi les multiples nouvelles molécules, des substances aux effets particuliers, les perturbateurs endocriniens qui agissent sur les systèmes hormonaux des organismes animaux ou humains et ont des conséquences néfastes sur leurs métabolismes et leurs comportements. Seulement, il faudra près de 30 ans, pour que les scientifiques et en particulier une zoologiste, Theo Colborn, identifient ces substances et leurs mécanismes d’action sur les organismes.</p> 
 
 <h2>Impacts et études des produits chimiques</h2>  
 
@@ -133,11 +134,12 @@ Le Dichlorodiphényltrichloroéthane, plus communément appelé DDT est une mol�
 
 <p>Seulement, si les scientifiques de l’époque ont fait le lien entre produits chimiques et anomalies des l’écosystème, ils ne comprennent pas encore que les mécanismes à l’œuvre sont de type hormonaux. Ainsi, par exemple dans le cas des alligators du Lac Apoka, Lou Guillette ne comprenait pas pourquoi les alligators dont la population a été durement impactée lors de l’incident chimique continuaient à souffrir d’anomalies après que l’eau ait retrouvée sa pureté. Il lui faut donc attendre le début des années 1990 et l’émergence de l’idée d’une perturbation endocrinienne par les produits chimiques pour que Guillette puisse expliquer les mécanismes hormonaux à l’œuvre.</p>
 
-<p>En parallèle des études de terrain, les premières expériences en laboratoire sur des substances à effet hormonal sont menées. La première étude sur les éventuels effets indésirables des produits chimiques sur le système endocrinien remonte à 1950 avec Verlus Frank Lindeman et Howard Burlington qui avaient étudié comment des doses de DDT pouvaient empêcher des coqs de se développer correctement. Ils en avaient alors conclu que le DDT avait un potentiel effet oestrogénique. Puis des scientifiques, notamment aux États-Unis, s’intéressèrent à l’impact des produits chimiques mais leurs études restèrent isolées et ne conclurent pas sur l’existence d’un phénomène de perturbation endocrinienne qui expliquerait les modifications suspectes des écosystèmes observées.</p>
-
 </div>
 
 <div id= "émergence">
+
+<p>En parallèle des études de terrain, les premières expériences en laboratoire sur des substances à effet hormonal sont menées. La première étude sur les éventuels effets indésirables des produits chimiques sur le système endocrinien remonte à 1950 avec Verlus Frank Lindeman et Howard Burlington qui avaient étudié comment des doses de DDT pouvaient empêcher des coqs de se développer correctement. Ils en avaient alors conclu que le DDT avait un potentiel effet oestrogénique. Puis des scientifiques, notamment aux États-Unis, s’intéressèrent à l’impact des produits chimiques mais leurs études restèrent isolées et ne conclurent pas sur l’existence d’un phénomène de perturbation endocrinienne qui expliquerait les modifications suspectes des écosystèmes observées.</p>
+
 
 <h2>L’émergence du fait scientifique de la perturbation endocrinienne</h2> 
 
@@ -155,13 +157,13 @@ Le Dichlorodiphényltrichloroéthane, plus communément appelé DDT est une mol�
 
 <p>De plus, les scientifiques ont rencontré et rencontrent toujours des difficultés à étudier les cas d’exposition à des perturbateurs endocriniens pour des populations humaines, car ils manquent souvent de données, de statistiques, et de groupe témoin. On peut ici prendre l’exemple de la catastrophe de Seveso où une usine chimique explose en 1976 dispersant un nuage de dioxine, substance chimique perturbatrice endocrinienne, au-dessus de la ville de Seveso. Les scientifiques ont voulu analyser si l’incidence de fausses couches, de malformations génitales et de cancer avait augmenté après l’accident, seulement ils se sont heurtés au manque de statistiques menées avant l’accident et à la difficulté d’évaluer le degré de contamination des individus en fonction de leur lieu d’habitat. Ainsi, l’analyse de l’exposition humaine aux perturbateurs endocriniens est très difficile car les scientifiques manquent de moyens pour établir des études fiables, d’autant plus que les perturbateurs endocriniens remettent en question la toxicologie classique, nous allons le voir.</p> 
 
-<p style="border:5px; border-style:solid; border-color:rgb(96, 108, 113); padding: 1em;"> <strong>La dioxine</strong> <br><br>
-
-La dioxine est une substance perturbatrice endocrinienne. Il y a pour le moment 419 types de composés apparentés à la dioxine qui est la 2,3,7,8 - tétrachlorodibenzodioxine (TCDD), dont 30 sont considérés comme particulièrement toxiques. Le plus dangereux étant la molécule originelle, la TCDD. La dioxine est une molécule fabriquée naturellement en de très faible quantité comme lors de l’activité d’un volcan mais celle-ci est aussi produite par les activités industrielles de l’Homme puisqu’elle est principalement issue des combustions. Cette molécule et ses dérivés sont classés parmi les 10 produits chimiques les plus dangereux par l’OMS. </p>
-
 </div>
 
 <div id= "position">
+
+<p style="border:5px; border-style:solid; border-color:rgb(96, 108, 113); padding: 1em;"> <strong>La dioxine</strong> <br><br>
+
+La dioxine est une substance perturbatrice endocrinienne. Il y a pour le moment 419 types de composés apparentés à la dioxine qui est la 2,3,7,8 - tétrachlorodibenzodioxine (TCDD), dont 30 sont considérés comme particulièrement toxiques. Le plus dangereux étant la molécule originelle, la TCDD. La dioxine est une molécule fabriquée naturellement en de très faible quantité comme lors de l’activité d’un volcan mais celle-ci est aussi produite par les activités industrielles de l’Homme puisqu’elle est principalement issue des combustions. Cette molécule et ses dérivés sont classés parmi les 10 produits chimiques les plus dangereux par l’OMS. </p>
 
 <h2>Vers une position scientifique déterminée</h2> 
 
