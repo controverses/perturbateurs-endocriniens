@@ -66,6 +66,13 @@
 <body style="background-color:rgb(139, 201, 222);">
   
   <article class="article">
+  
+<ul>
+  <li><a href="https://controverses.github.io/perturbateurs-endocriniens/senpasser/omnipresence.html">Un constat</a></li>
+  <li><a href="#acteurs"> De nouveaux acteurs dans la controverse</a></li><br>
+  
+</ul>
+  
   <h1>De nouveaux acteurs dans la controverse? </h1>
   <h2>Un constat </h2>
   
@@ -84,12 +91,15 @@
 <p align="justify"> L’effet cocktail, un principe tout à fait nouveau, rajoute encore à la difficulté de mettre en œuvre des solutions concrètes pour se protéger des perturbateurs endocriniens. En effet, Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais, une fois ces substances sont réunies dans un même milieu, leur effet peut être décuplé. Or, les scientifiques n’ont pas les moyens d’étudier les effets de chaque combinaison de différents perturbateurs endocriniens. De plus, les substituts créés par les chimistes sont parfois plus dangereux que le produit de base. Ils peuvent également créer avec le produit qu’ils remplacent un effet cocktail nouveau, encore plus dangereux que l’effet du premier produit. </p> 
 
 
-
 <br/>
 <p align="justify"> 
 Face à ce constat, on observe plusieurs réactions sur un continuum entre deux attitudes extrêmes :
 <li>Certains considèrent qu’il n’y a plus rien à faire face à un environnement qui est à ce jour tellement pollué qu’on ne peut plus y remédier. Il faudrait alors arrêter les recherches et vivre sans y penser</li>
 <li>D’autres, au contraire, considèrent qu’il est nécessaire de se débarrasser des perturbateurs endocriniens, à cause de leurs effets sur la santé. Ils se mobilisent pour trouver des alternatives. </li> </p> 
+
+</div>
+
+<div id="acteurs">
 
 <p align="justify"> Les recherches que nous avons menées sur le sujet des perturbateurs endocriniens nous ont prouvé la difficulté (à la fois à l’échelle française et européenne) d’établir une législation stricte, protectrice des individus mais également des intérêts économiques.
 Face à ce manque de réglementation des politiques et des gouvernements, de nouveaux acteurs entrent en scène : les individus, la société civile et les médias. Il semble en effet possible d’introduire à l’échelle individuelle ou à l’échelle associative de nouveaux niveaux de lutte contre les effets néfastes des perturbateurs endocriniens. </p> 
@@ -97,7 +107,7 @@ Face à ce manque de réglementation des politiques et des gouvernements, de nou
 <h2>De nouveaux acteurs dans la controverse</h2>
 
 <h3>Comment s'en protéger à l'échelle individuelle? </h3>
-<p align="justify"> <img ALIGN="left" src="Demeinex.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:200px;height:300px;"/> Les scientifiques et les professionnels de santé ont diffusé à travers les médias, et parfois par le biais d’associations de consommateurs, des conseils aux individus pour éviter au maximum l’exposition à des perturbateurs endocriniens.
+<p align="justify"> <img ALIGN="right" src="Demeinex.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:200px;height:300px;padding-left:5px;"/> Les scientifiques et les professionnels de santé ont diffusé à travers les médias, et parfois par le biais d’associations de consommateurs, des conseils aux individus pour éviter au maximum l’exposition à des perturbateurs endocriniens.
 Par exemple, Barbara Demeneix s'intéresse à l’impact des perturbateurs endocriniens sur les femmes enceintes. En effet, d’après ses recherches, les perturbateurs endocriniens, auxquels les femmes enceintes s’exposent, ont des impacts sur le développement du cerveau des enfants. Dans une émission radio sur RFI intitulé « Cerveau, santé et pollution » (juillet 2016), elle a notamment conseillé aux femmes enceintes de manger des produits biologiques ou de ne pas utiliser des crèmes et cosmétique qui contiennent du parabène et des phtalates.
 
 La première méthode pour se protéger des perturbateurs endocriniens est donc individuelle et consiste en une modification des habitudes de consommation et d’autres gestes simples disponibles sur <a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html. ">Ce lien</a> </p>
@@ -115,7 +125,7 @@ L’association qui est particulièrement active et militante quant aux perturba
 Ce rapport montre l’importance de l’action de telles associations dans une controverse de santé publique. Générations Futures a pris l’initiative de commander ce rapport et a su efficacement interpeller le public grâce à l’engagement de personnalités connues. L’efficacité de tel rapport est démontrée par le nombre de médias qui ont repris ses grandes lignes : Le Parisien, Le Figaro, Europe 1, France Info, Libération… Au total, plus d’une quinzaine de médias différents, aussi bien des journaux que les radios ou chaînes de télévision, ont repris ce rapport. L’association est alors une aide précieuse aux scientifiques car elles savent bien mieux qu’eux toucher le grand public et savoir quels ressorts utiliser pour les sensibiliser et rendre le sujet plus visible.
 Générations Futures ne veut pas uniquement se limiter à de l’information et de la sensibilisation mais souhaite également participer activement aux avancées scientifiques en la matière. C’est pourquoi ils font aujourd’hui partie du comité d’orientation du Programme National de Recherche sur les Perturbateurs Endocriniens.
 
-<img ALIGN="left" src="Tableaueve.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:200px;height:500px;"/>
+<img ALIGN="left" src="Tableaueve.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:200px;height:500px;padding-right: 5px;"/>
 Enfin, le travail réalisé par l’association est également une source précieuse d’informations pour les politiques qui cherchent à faire avancer la législation dans ce domaine. Pour exemple, José Bové travaille beaucoup avec Générations Futures. 
 
 Si Générations Futures est une association particulièrement dédiée au combat contre les pesticides et les perturbateurs endocriniens, d’autres associations (lien vers fiches acteurs), aux combats plus généralement liés à l'environnement, participent à la sensibilisation du public sur la question.
@@ -145,17 +155,17 @@ Cet intérêt s’est accru depuis 2013, année à partir de laquelle la Commiss
 La conférence donnée par le journaliste pour Le Monde, Stéphane Foucart, sur “ Les Perturbateurs Endocriniens et les médias : un rendez-vous manqué ?” a permis de fournir de nombreuses clefs pour comprendre la place des médias dans la controverse sur les perturbateurs endocriniens. </p>
 
 <p align="justify">
-1.	En faisant une analyse du nombre d’articles scientifiques comparés aux nombres d’articles de journaux au cours du temps, on s’aperçoit qu’il y a un écart de plus d’une décennie entre le moment où la communauté scientifique commence à produire des connaissances (milieu des années 1990) et le moment où les journalistes commencent à parler de ce sujet. Les médias ont mis un temps considérable à s’intéresser au sujet. <br/>
-2.	Il souligne la présence d’un biais énorme : le tiers de la totalité des articles publiés dans le New York Times sur le sujet des Perturbateurs Endocriniens est le fait d’un seul journaliste. C’est « inquiétant » selon lui que, dans un grand journal, le tiers de la couverture de cette question importante repose sur un seul journaliste. En effet, si on enlève de la rédaction les personnes qui s’y intéressent, le sujet disparaît<br/>
-3.	La majorité des articles sur les Perturbateurs Endocriniens sont écrits juste après qu’une régulation soit mise en place, et non pas quand un danger réel est mis au jour. L’intuition de base serait que les médias mettent le sujet sur l’agenda des politiques, mais c’est au contraire les politiques qui font que le sujet est abordé dans les médias. Par exemple, les scientifiques ont mis au jour que les canapés contiennent des perturbateurs endocriniens mais, comme il n’y a pas eu de réglementation sur le sujet, les journaux n’en parlent pas<br/>
-4.	L’expertise sur le sujet est extrêmement fragmentée. Certains scientifiques et experts s’occupent juste de la chaîne alimentaire par exemple. D’autres s’occupent des cosmétiques. Or, les perturbateurs endocriniens sont présents partout. Il devient difficile de faire émerger un message d’ensemble cohérent.<br/>
-5.	Les perturbateurs endocriniens ne créent pas de victimes, à proprement parler (hormis pour le dystilbène). Ceux qui ont à subir leurs effets sont nombreux, mais, comme le souligne Stephane Foucart, il n’y a pas de « victime pour venir pleurer devant la caméra ». Or, l’émotion est un moyen très puissant pour amener le public à s’intéresser à un sujet. Il est également difficile d’attribuer la faute de l’omniprésence des perturbateurs endocriniens à une seule entité.<br/>
-6.	Il explique que le journaliste doit faire face à de nombreux obstacles, parmi lesquels le manque de temps et d’argent pour lire les articles scientifiques. Le sujet étant si vaste et complexe, pour beaucoup, les Perturbateurs Endocriniens restent un sujet difficilement traitable dans un article destiné à être lu par le grand public. <br/>
+1.	En faisant une analyse du nombre d’articles scientifiques comparés aux nombres d’articles de journaux au cours du temps, on s’aperçoit qu’il y a un écart de plus d’une décennie entre le moment où la communauté scientifique commence à produire des connaissances (milieu des années 1990) et le moment où les journalistes commencent à parler de ce sujet. Les médias ont mis un temps considérable à s’intéresser au sujet. <br>
+2.	Il souligne la présence d’un biais énorme : le tiers de la totalité des articles publiés dans le New York Times sur le sujet des Perturbateurs Endocriniens est le fait d’un seul journaliste. C’est « inquiétant » selon lui que, dans un grand journal, le tiers de la couverture de cette question importante repose sur un seul journaliste. En effet, si on enlève de la rédaction les personnes qui s’y intéressent, le sujet disparaît<br>
+3.	La majorité des articles sur les Perturbateurs Endocriniens sont écrits juste après qu’une régulation soit mise en place, et non pas quand un danger réel est mis au jour. L’intuition de base serait que les médias mettent le sujet sur l’agenda des politiques, mais c’est au contraire les politiques qui font que le sujet est abordé dans les médias. Par exemple, les scientifiques ont mis au jour que les canapés contiennent des perturbateurs endocriniens mais, comme il n’y a pas eu de réglementation sur le sujet, les journaux n’en parlent pas<br>
+4.	L’expertise sur le sujet est extrêmement fragmentée. Certains scientifiques et experts s’occupent juste de la chaîne alimentaire par exemple. D’autres s’occupent des cosmétiques. Or, les perturbateurs endocriniens sont présents partout. Il devient difficile de faire émerger un message d’ensemble cohérent.<br>
+5.	Les perturbateurs endocriniens ne créent pas de victimes, à proprement parler (hormis pour le dystilbène). Ceux qui ont à subir leurs effets sont nombreux, mais, comme le souligne Stephane Foucart, il n’y a pas de « victime pour venir pleurer devant la caméra ». Or, l’émotion est un moyen très puissant pour amener le public à s’intéresser à un sujet. Il est également difficile d’attribuer la faute de l’omniprésence des perturbateurs endocriniens à une seule entité.<br>
+6.	Il explique que le journaliste doit faire face à de nombreux obstacles, parmi lesquels le manque de temps et d’argent pour lire les articles scientifiques. Le sujet étant si vaste et complexe, pour beaucoup, les Perturbateurs Endocriniens restent un sujet difficilement traitable dans un article destiné à être lu par le grand public. <br>
 7.	Pour finir, le travail de recherche qui est nécessaire est délicat puisque tous les acteurs ont un intérêt dans cette controverse et vont ainsi avoir tendance à la décrire avec un certain point de vue. Par exemple, Stéphane Foucart précise qu’il préfère ne pas travailler avec des associations car ses articles risquent alors d’être critiqués comme étant non objectifs par la communauté scientifique.<br/>
 
 </p>
 
-
+</div>
   
   </article>
   </body>
