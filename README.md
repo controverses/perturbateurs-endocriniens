@@ -106,7 +106,7 @@
 
 <p>"La question des perturbateurs endocriniens est une question majeure de santé publique."François Veillerette, fondateur de l'association Générations Futures</p>
 
-<a data-scroll id="tonextsection" href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p text-align="center"><img src="arrow.png"></p></a>
+<a data-scroll id="tonextsection" href="https://controverses.github.io/perturbateurs-endocriniens/#introduction"><p text-align="center"><img src="media.md/arrow.png"></p></a>
 
 
 </div>
