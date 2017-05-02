@@ -92,7 +92,7 @@ Face à ce manque de réglementation des politiques et des gouvernements, de nou
 
 <h3>Comment s'en protéger à l'échelle individuelle? </h3>
 <p align="justify"> Les scientifiques et les professionnels de santé ont diffusé à travers les médias, et parfois par le biais d’associations de consommateurs, des conseils aux individus pour éviter au maximum l’exposition à des perturbateurs endocriniens.
-<img ALIGN="left" src="Demeinex.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:200px;height:500px;"/>Par exemple, Barbara Demeneix s'intéresse à l’impact des perturbateurs endocriniens sur les femmes enceintes. En effet, d’après ses recherches, les perturbateurs endocriniens, auxquels les femmes enceintes s’exposent, ont des impacts sur le développement du cerveau des enfants. Dans une émission radio sur RFI intitulé « Cerveau, santé et pollution » (juillet 2016), elle a notamment conseillé aux femmes enceintes de manger des produits biologiques ou de ne pas utiliser des crèmes et cosmétique qui contiennent du parabène et des phtalates.
+<img ALIGN="left" src="Demeinex.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:300px;height:500px;"/>Par exemple, Barbara Demeneix s'intéresse à l’impact des perturbateurs endocriniens sur les femmes enceintes. En effet, d’après ses recherches, les perturbateurs endocriniens, auxquels les femmes enceintes s’exposent, ont des impacts sur le développement du cerveau des enfants. Dans une émission radio sur RFI intitulé « Cerveau, santé et pollution » (juillet 2016), elle a notamment conseillé aux femmes enceintes de manger des produits biologiques ou de ne pas utiliser des crèmes et cosmétique qui contiennent du parabène et des phtalates.
 
 La première méthode pour se protéger des perturbateurs endocriniens est donc individuelle et consiste en une modification des habitudes de consommation et d’autres gestes simples disponibles sur <a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html. ">Ce lien</a> </p>
 
@@ -126,28 +126,28 @@ Des associations de prévention des consommateurs ont également commencé à s�
 Finalement, les associations permettent de médiatiser le problème et l’impact des perturbateurs endocriniens sur notre santé. 
 </p>
 
+<h3>Médias</h3>
+
+<p align="justify"> Les journalistes se sont d’abord intéressés aux perturbateurs endocriniens lors des différents scandales liés au changement de sexe de certains poissons (https://www.youtube.com/watch?v=IF46GJ0qOcQ) et au bisphénol A présents notamment dans les tétines en plastique des biberons. 
+
+<iframe width="544" height="306" src="//https://youtu.be/IF46GJ0qOcQ" frameborder="0" scrolling="no" allowfullscreen></iframe><br /><a href="https://www.youtube.com/watch?v=IF46GJ0qOcQ" target="_blank">Vaisselle jetable : quelles solutions pour remplacer le plastique ?</a>
+
+Cet intérêt s’est accru depuis 2013, année à partir de laquelle la Commission Européenne a commencé à débattre de ce sujet. Cette évolution s’est renforcée lorsque Benoît Hamon, alors candidat au primaire de la gauche, a fait des perturbateurs endocriniens un des points clefs de son programme. 
+
+La conférence donnée par le journaliste pour Le Monde, Stéphane Foucart, sur “ Les Perturbateurs Endocriniens et les médias : un rendez-vous manqué ?” a permis de fournir de nombreuses clefs pour comprendre la place des médias dans la controverse sur les perturbateurs endocriniens. 
 
 
+1.	En faisant une analyse du nombre d’articles scientifiques comparés aux nombres d’articles de journaux au cours du temps, on s’aperçoit qu’il y a un écart de plus d’une décennie entre le moment où la communauté scientifique commence à produire des connaissances (milieu des années 1990) et le moment où les journalistes commencent à parler de ce sujet. Les médias ont mis un temps considérable à s’intéresser au sujet. 
+2.	Il souligne la présence d’un biais énorme : le tiers de la totalité des articles publiés dans le New York Times sur le sujet des Perturbateurs Endocriniens est le fait d’un seul journaliste. C’est « inquiétant » selon lui que, dans un grand journal, le tiers de la couverture de cette question importante repose sur un seul journaliste. En effet, si on enlève de la rédaction les personnes qui s’y intéressent, le sujet disparaît
+3.	La majorité des articles sur les Perturbateurs Endocriniens sont écrits juste après qu’une régulation soit mise en place, et non pas quand un danger réel est mis au jour. L’intuition de base serait que les médias mettent le sujet sur l’agenda des politiques, mais c’est au contraire les politiques qui font que le sujet est abordé dans les médias. Par exemple, les scientifiques ont mis au jour que les canapés contiennent des perturbateurs endocriniens mais, comme il n’y a pas eu de réglementation sur le sujet, les journaux n’en parlent pas
+4.	L’expertise sur le sujet est extrêmement fragmentée. Certains scientifiques et experts s’occupent juste de la chaîne alimentaire par exemple. D’autres s’occupent des cosmétiques. Or, les perturbateurs endocriniens sont présents partout. Il devient difficile de faire émerger un message d’ensemble cohérent.
+5.	Les perturbateurs endocriniens ne créent pas de victimes, à proprement parler (hormis pour le dystilbène). Ceux qui ont à subir leurs effets sont nombreux, mais, comme le souligne Stephane Foucart, il n’y a pas de « victime pour venir pleurer devant la caméra ». Or, l’émotion est un moyen très puissant pour amener le public à s’intéresser à un sujet. Il est également difficile d’attribuer la faute de l’omniprésence des perturbateurs endocriniens à une seule entité.
+6.	Il explique que le journaliste doit faire face à de nombreux obstacles, parmi lesquels le manque de temps et d’argent pour lire les articles scientifiques. Le sujet étant si vaste et complexe, pour beaucoup, les Perturbateurs Endocriniens restent un sujet difficilement traitable dans un article destiné à être lu par le grand public. 
+7.	Pour finir, le travail de recherche qui est nécessaire est délicat puisque tous les acteurs ont un intérêt dans cette controverse et vont ainsi avoir tendance à la décrire avec un certain point de vue. Par exemple, Stéphane Foucart précise qu’il préfère ne pas travailler avec des associations car ses articles risquent alors d’être critiqués comme étant non objectifs par la communauté scientifique.
+
+</p>
 
 
-
-
-p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 11.0px Calibri; color: #106dd6}
-span.s1 {text-decoration: underline}
-
-
-
-Institut national de recherche et de sécurité (INRS)
-
-
-
-
-
-
-
-
-
-  
   
   </article>
   </body>
