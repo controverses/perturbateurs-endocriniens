@@ -66,7 +66,7 @@
 <body style="background-color:#FCB559;">
 
 <article class="article">
-  <h1 align="center">L’émergence du fait scientifique de la perturbation endocrinienne</h1>  
+  <h1 align="center">La découverte scientifique de la perturbation endocrinienne</h1>  
 
 <p>Les perturbateurs endocriniens relèvent aujourd’hui d’une controverse de législation à la vue de l’enjeu de santé publique qu’ils posent. Cependant, avant d’être une controverse de réglementation, la découverte de ces substances et de leurs effets a été l’objet de découvertes scientifiques controversées pendant près d’un demi-siècle.</p> 
 
