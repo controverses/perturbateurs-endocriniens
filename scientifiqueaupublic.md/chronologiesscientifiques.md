@@ -62,7 +62,7 @@
 
 ul {
     list-style-type: none;
-    margin-left:-100px;
+    margin-left:-125px;
     padding: 0;
     width: 25%;
     background-color: none;
@@ -90,10 +90,12 @@ li a.active {
 <article class="article">
 
 <ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a class="active" href="#home">L'apogée de l'industrie chimique</a></li>
+  <li><a href="#contact">Impacts et tudes des produits chimiques</a></li>
+  <li><a href="#about">L’émergence du fait scientifique de la perturbation endocrinienne</a></li>
+  <li><a href="#apogée">Vers une position scientifique déterminée</a></li>
+  
+  
 </ul>
 
 
