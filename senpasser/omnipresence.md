@@ -130,6 +130,9 @@ Finalement, les associations permettent de médiatiser le problème et l’impac
 
 <p align="justify"> Les journalistes se sont d’abord intéressés aux perturbateurs endocriniens lors des différents scandales liés au changement de sexe de certains poissons (https://www.youtube.com/watch?v=IF46GJ0qOcQ) et au bisphénol A présents notamment dans les tétines en plastique des biberons. 
 
+<object type="application/x-shockwave-flash" width="425" height="355" data="url">
+		<param name="movie" value="//https://youtu.be/IF46GJ0qOcQ" />
+	</object>
 <iframe width="544" height="306" src="//https://youtu.be/IF46GJ0qOcQ" frameborder="0" scrolling="no" allowfullscreen></iframe><br /><a href="https://www.youtube.com/watch?v=IF46GJ0qOcQ" target="_blank">Vaisselle jetable : quelles solutions pour remplacer le plastique ?</a>
 
 Cet intérêt s’est accru depuis 2013, année à partir de laquelle la Commission Européenne a commencé à débattre de ce sujet. Cette évolution s’est renforcée lorsque Benoît Hamon, alors candidat au primaire de la gauche, a fait des perturbateurs endocriniens un des points clefs de son programme. 
