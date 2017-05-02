@@ -79,7 +79,7 @@
 
 <h2>1996</h2>
 
-<p><strong>Décembre</strong> : Workshop européen sur l’impact des perturbateurs endocriniens sur la santé humaine et la vie sauvage, organisé conjointement par la Commission européenne et l’OMS. Une première définition est posée.</p>
+<p><strong>Décembre</strong> : Workshop européen sur l’impact des perturbateurs endocriniens sur la santé humaine et la vie sauvage, organisé conjointement par la Commission européenne et l’OMS. Une première définition est posée.</p><br>
 
 <h2>1998</h2>
 
@@ -144,8 +144,10 @@ Première publication de l’Endocrine Society sur le sujet.</p>
 <p><strong>Juillet</strong> : Commentaire du rapport Kortenkamp par le Hazardous Substances Advisory Committee (HSAC) du gouvernement anglais.
 
 <p><strong>Août</strong> : </p>
+<ul>
 <li>Publication par l’OECD d’une revue détaillée sur l’état des connaissances scientifiques et des méthodes permettant de détecter et d’identifier les perturbateurs endocriniens.</li>
 <li>La DG SANCO mandate l’EFSA pour intervenir sur le sujet.</li>
+</ul>
 
 <p><strong>Octobre</strong> : Publication de l’article « Risk assessment of endocrine active chemicals : identifying chemicals of regulatory concern » rédigé par l’ECETOC et édité par Elsevier, une importante maison d’édition de littérature scientifique mais boycottée par certains scientifiques.
 Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine Disrupting Chemicals, alarmant sur la nécessité d’établir rapidement des régulations et sur les dangers de l’effet cocktail probablement sous-estimé.</p><br>
@@ -178,7 +180,7 @@ Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine 
 <p><strong>Juillet</strong> : Catherine Day, secrétaire générale, commande l’étude d’impact réclamée par l’industrie. La proposition de la DG environnement est rejetée par la Commission.</p>
 
 <p><strong>Août</strong> : Réponse à la lettre ouverte par 41 scientifiques, publiée dans Environmental Health News.
-Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Health News l’article « Special report : scientists critical of EU chemical policy have industry ties », dénonçant les conflits d’intérêt des scientifiques signataires.</p><br>
+Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Health News l’article « Special report : scientists critical of EU chemical policy have industry ties », dénonçant les conflits d’intérêt des scientifiques signataires.</p>
 
 <p><strong>Octobre</strong> :</p> 
 
