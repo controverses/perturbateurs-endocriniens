@@ -76,8 +76,8 @@
 <article class="article">
 
     
-<h1>Fiches acteurs </h1>
-    <h2 align="center">Les institutions européennes</h2>
+<h1 align="center">Fiches acteurs </h1>
+    <h2>Les institutions européennes</h2>
     
     <p><strong>La Commission Européenne </strong> C’est elle qui mène les négociations entre différents acteurs avant de proposer un projet de loi au Parlement afin de mettre en place une régulation des perturbateurs endocriniens. Elle est constituée de plusieurs directions générales : <br/>
     
