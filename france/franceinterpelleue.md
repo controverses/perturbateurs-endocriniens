@@ -66,7 +66,7 @@ body {
 
 ul {
     list-style-type: none;
-    margin: 0;
+    margin-left:0;
     padding: 0;
     width: 25%;
     background-color: none;
@@ -101,11 +101,6 @@ li a.active {
   <li><a href="#about">About</a></li>
 </ul>
   <h1>La France interpelle l'UE</h1>
-  
-    <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script>
-  <script type="text/javascript">
-    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"perturbateurs endocriniens","geo":"","time":"all"},{"keyword":"endocrine disruptors","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=perturbateurs%20endocriniens,endocrine%20disruptors","guestPath":"https://trends.google.fr:443/trends/embed/"});
-  </script>
 
 
   <h3>Try to scroll this area, and see how the sidenav sticks to the page</h3> 
