@@ -93,12 +93,6 @@ li a.active {
 <body style="background-color:rgb(44, 195, 161);">
 
 <article class="article">
-  <h1>La France interpelle l'UE</h1>
-  
-    <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script>
-  <script type="text/javascript">
-    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"perturbateurs endocriniens","geo":"","time":"all"},{"keyword":"endocrine disruptors","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=perturbateurs%20endocriniens,endocrine%20disruptors","guestPath":"https://trends.google.fr:443/trends/embed/"});
-  </script>
 
   <ul>
   <li><a class="active" href="#home">Home</a></li>
@@ -106,6 +100,13 @@ li a.active {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
+  <h1>La France interpelle l'UE</h1>
+  
+    <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script>
+  <script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"perturbateurs endocriniens","geo":"","time":"all"},{"keyword":"endocrine disruptors","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=perturbateurs%20endocriniens,endocrine%20disruptors","guestPath":"https://trends.google.fr:443/trends/embed/"});
+  </script>
+
 
   <h3>Try to scroll this area, and see how the sidenav sticks to the page</h3> 
   
