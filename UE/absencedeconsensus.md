@@ -66,10 +66,15 @@
 <body style="background-color:#9A85A3;">
 
 <article class="article">
-  <h1>Absence de consensus</h1>
+  <h1>De rapports en contradiction à des difficultés de réglementation</h1>
   
-  <p >
-... </p> 
+  <h2>Qualification et quantification du risque: des rapports en contradiction</h2> 
+  
+  <p> Les perturbateurs endocriniens sont présents dans une quantité impressionnante de produits du quotidien : pesticides, cosmétiques, plastiques, alimentaire…  Jusqu’ici, les scientifiques ont identifié pas moins d’un millier de substances qui sont probablement des perturbateurs, et disent que la liste est sûrement plus importante en réalité. Aussi, déterminer l’effet de chacune de ces molécules sur la santé humaine est particulièrement compliqué. Pourtant, il existe dans la communauté scientifique un consensus pour dire que ces substances perturbent le système hormonal et sont à l’origine de la recrudescence de certaines maladies. </p><br>
+  
+  <h2> Absence de consensus sur la régulation </h2>
+  
+
    
 </article>
 
