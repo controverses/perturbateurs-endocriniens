@@ -73,7 +73,6 @@ ul {
     overflow: auto;
     font-size: 13px;
     line-height: 1.5;
-    border-left: 0.1rem solid #FFFFFF;
 }
 
 li a {
@@ -82,6 +81,8 @@ li a {
     padding: 8px 16px;
     text-decoration: none;
     text-align: right;
+    margin-right: -20px;
+    border-right: 0.1rem solid #FFFFFF;
 }
 
 li a.active {
