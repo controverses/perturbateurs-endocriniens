@@ -92,9 +92,18 @@ Face à ce manque de réglementation des politiques et des gouvernements, de nou
 
 <h3>Comment s'en protéger à l'échelle individuelle? </h3>
 <p align="justify"> Les scientifiques et les professionnels de santé ont diffusé à travers les médias, et parfois par le biais d’associations de consommateurs, des conseils aux individus pour éviter au maximum l’exposition à des perturbateurs endocriniens.
-Par exemple, Barbara Demeneix s'intéresse à l’impact des perturbateurs endocriniens sur les femmes enceintes. En effet, d’après ses recherches, les perturbateurs endocriniens, auxquels les femmes enceintes s’exposent, ont des impacts sur le développement du cerveau des enfants. Dans une émission radio sur RFI intitulé « Cerveau, santé et pollution » (juillet 2016), elle a notamment conseillé aux femmes enceintes de manger des produits biologiques ou de ne pas utiliser des crèmes et cosmétique qui contiennent du parabène et des phtalates.
+<img ALIGN="left" src="Demeinex.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:400px;height:700px;"/>Par exemple, Barbara Demeneix s'intéresse à l’impact des perturbateurs endocriniens sur les femmes enceintes. En effet, d’après ses recherches, les perturbateurs endocriniens, auxquels les femmes enceintes s’exposent, ont des impacts sur le développement du cerveau des enfants. Dans une émission radio sur RFI intitulé « Cerveau, santé et pollution » (juillet 2016), elle a notamment conseillé aux femmes enceintes de manger des produits biologiques ou de ne pas utiliser des crèmes et cosmétique qui contiennent du parabène et des phtalates.
 
 La première méthode pour se protéger des perturbateurs endocriniens est donc individuelle et consiste en une modification des habitudes de consommation et d’autres gestes simples disponibles sur <a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html. ">Ce lien</a> </p>
+
+<h3>Les associations de consommateurs </h3>
+
+<p align="justify"> Pour permettre au message des scientifiques d’être efficace, des associations se sont saisies de ce problème de santé. Elles permettent de diffuser à grande échelle les problèmes scientifiques soulevés ces vingt dernières années. Les associations ont la capacité d’organiser un large panel d'événements pour sensibiliser sur le sujet. Certaines produisent aussi des rapports synthétiques à partir des données des scientifiques. Elles sensibilisent l’opinion publique à travers des messages phares. 
+
+L’association qui est particulièrement active et militante quant aux perturbateurs endocriniens en France s’appelle <a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html. ">Générations futures </a>. Cette association a été créée en 1996 et s’est très rapidement spécialisée dans la lutte contre les pesticides en étant parmi les premières à dénoncer leur présence massive dans les aliments. Or, les pesticides contiennent de nombreux perturbateurs endocriniens. Le fondateur de <i>Générations Futures</i>, et aujourd’hui son actuel son porte-parole, François Veillerette, a dit dans une interview en 2015 :
+
+<i>Il est nécessaire de “toucher le grand public qui ignore encore trop souvent tout de cette problématique de santé publique pour qu’à son tour le public exige une action législative forte et protectrice de la part des pouvoirs publics sur les perturbateurs endocriniens”. </i>
+
 
 
 
