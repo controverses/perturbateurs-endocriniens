@@ -127,6 +127,32 @@ Mais, tant qu’il n’existe pas de produits de substitution satisfaisant, il e
 <img src="Cycle2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:300px;"/>
 </div>
 
+<h2>Peut-on les supprimer ?   </h2>
+
+<p align="justify"> 
+	Si on ne peut pas empêcher la production de certains perturbateurs endocriniens à cause d’un manque de réglementation, on peut se demander s’il est possible de les supprimer après leur production.
+Aujourd’hui, il existe de nombreuses méthodes pour éliminer les perturbateurs endocriniens contenus dans l’eau. Philippe Bréant, directeur du programme Eau Potable à Veolia expliquait dans une conférence en janvier 2012 les différentes méthodes. 
+
+Au sein de l’Union Européenne, seule une partie des produits chimiques est actuellement contrôlée mais la législation s’intensifie d’années en années. 
+L’épuration de l’eau se termine par la filtration, qui permet de supprimer la plupart des perturbateurs endocriniens. Trois matériaux sont fréquemment utilisés : le sable, l’anthracite et le charbon actif. La filtration se fait de plus en plus au moyen de membranes, une technique plus efficace mais également plus onéreuse. Les membranes sont utilisées pour réaliser une osmose inverse. 
+</p>
+
+<p style="border:5px; border-style:solid; border-color:rgb(96, 108, 113); padding: 1em;"> <strong>Explication de l’osmose : </strong> <br><br>Supposons qu’une membrane fine et semi-perméable sépare deux liquides. Les concentrations des deux solutions ne sont pas identiques de chaque côté de la paroi, créant ainsi une pression osmotique.  On observe alors un transfert de solvant de la solution la moins concentrée vers la solution la plus concentrée. La membrane va laisser passer le solvant pour équilibrer les concentrations. <br><br>L’osmose inverse consiste à inverser le passage du solvant en appliquant une pression supérieure à la pression osmotique du côté de la solution à traiter, c’est à dire, dans notre cas, l’eau brute. Cette technique permet de contenir les polluants (perturbateurs endocriniens) à l'extérieur de la paroi (à droite sur le schéma de droite ci-dessous) et d’obtenir une eau filtrée à gauche. </p>
+<div style="text-align: center">
+<img src="Osmose.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:200px;"/>
+</div>
+
+<p align="justify"> De nombreuses chimistes travaillent aujourd’hui sur des solutions de traitement de l’eau plus rapides et efficaces. Nous avons rencontré Agnès Bée, directrice adjointe de l’UFR de Chimie de l’Université Pierre et Marie Curie, qui nous a présenté un prototype original afin d’éliminer les perturbateurs endocriniens de notre eau. Elle a notamment supervisé la thèse de Layala Obeid, sur cette nouvelle méthode qui utilise des nouveaux matériaux magnétiques appelés “magsorbants” pour extraire les polluants. </p>
+<p><a href="http://www.fndae.fr/documentation/PDF/fndae14.pdf ">Lien vers la thèse de Layala Obeid</a> </p> <br />
+
+<p style="border:5px; border-style:solid; border-color:rgb(96, 108, 113); padding: 1em;"> <strong>Explication des magsorbants </strong> <br><br>Les “magsorbants” sont des billes magnétiques de taille millimétrique constituées d’alginate et de chitosane (bio-polymères végétales et de faibles coûts) dans lesquelles sont encapsulées des nanoparticules magnétiques.
+Ces polymères ont des propriétés absorbantes et permettent de capter les différents polluants présents dans l’eau. Les billes étant magnétiques, elles peuvent être retirées du milieu à dépolluer très facilement au moyen d’un gradient de champ magnétique (ou plus simplement d’un aimant).</p> <div style="text-align: center">
+<img src="Billes.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:150px;"/>
+</div>
+ <br><br>
+ 
+
+
 
 
 
