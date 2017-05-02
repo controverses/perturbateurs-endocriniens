@@ -195,8 +195,18 @@ Projets pour la détection ou le test de produits chimiques pour la perturbation
    <tr>
    
    
-   
- 
+ <p align="justify"> <strong> Lien avec des programmes européens et étrangers</strong>   
+ <p align="justify">Les pays ayant proposé la majorité des méthodes de tests à l’OCDE sont évidemment aussi ceux qui sont le plus actifs dans la recherche sur ce sujet. En effet, selon Barbara Demeneix, la France serait, avec le Danemark et la Suède, l’un des pays les plus engagés dans la recherche académique sur les perturbateurs endocriniens, grâce à des stratégies nationales sur les perturbateurs endocriniens d’envergure. Les chercheurs de ces pays forment également la majorité des scientifiques qui ont signé l’appel à l’Union Européenne <a href="http://www.lemonde.fr/idees/article/2016/11/29/halte-a-la-manipulation-de-la-science_5039860_3232.html">(cf)</a>  </p>
+
+<div style="text-align: center">
+<img src="chercheurs.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+</div>
+
+
+
+ <p align="justify">Aux Etats Unis, l’Agence Américaine de protection de l’environnement finance plusieurs projets de recherche sur les perturbateurs endocriniens, dont de nombreuses méthodes ont été adoptées au niveau de l’OCDE. Au Danemark, le centre sur les perturbateurs endocriniens est un réseau interdisciplinaire de scientifiques, encadré par l’Agence de Protection de l’Environnement (Ministère de l’environnement et de l’alimentation).
+
+Barbara Demeneix souligne également que la coopération internationale est importante sur le sujet, ce que confirme le 2ème « Paris Workshop on Endocrine Disruptors Effects on Wildlife and Human Health » organisé par le PNRPE en janvier 2016. Les orateurs invités proviennent de pays aussi divers que la Belgique, les Etats Unis, le Canada, le Royaume Uni et le Danemark. </p>
 
 
 
