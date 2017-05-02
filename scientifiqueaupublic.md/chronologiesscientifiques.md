@@ -80,7 +80,7 @@ li a {
     padding: 8px 16px;
     text-decoration: none;
     text-align: right;
-    border-right: 0.1rem solid #FFFFFF;
+    border-left: 0.1rem solid #FFFFFF;
 }
 
 li a.active {
