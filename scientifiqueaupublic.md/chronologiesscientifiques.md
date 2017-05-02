@@ -62,8 +62,8 @@
 
 ul {
     list-style-type: none;
-    margin-left:-260px;
-    margin-right:-20px;
+    margin-left:-265px;
+    margin-top:20px;
     padding: 0;
     width: 25%;
     background-color: none;
