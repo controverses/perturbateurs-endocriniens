@@ -60,9 +60,6 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
-body {
-    margin: 0;
-}
 
 </style>
 </head>
