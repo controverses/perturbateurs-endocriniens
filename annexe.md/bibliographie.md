@@ -2,6 +2,10 @@
 <head>
 <style> 
 
+.article {
+    text-align: left;
+}
+
 .dropbtn {
     margin-bottom: 1rem;
     background-color: rgba(255, 255, 255, 0.08);
@@ -13,11 +17,13 @@
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     cursor: pointer;
     padding: 0.75rem 1rem; 
+    z-index: 1;
 }  
 
 .dropdown {
     position: relative;
     display: inline-block;
+    z-index: 1;
 }
 
 .dropdown-content {
@@ -26,7 +32,6 @@
     background-color: rgba(105, 216, 243, 0.2);
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
     border-color: rgba(255, 255, 255, 0.2);
     border-style: solid;
     border-width: 1px;
@@ -43,12 +48,11 @@
 }
 
 .dropdown-content a:hover {
-    background-color: rgba(105, 216, 243, 0.2);
+    background-color: rgba(105, 216, 243, 0.2)
     border-color: rgba(255, 255, 255, 0.2);
     border-style: solid;
     border-width: 1px;
     border-radius: 0.3rem;
-
 }
 
 .dropdown:hover .dropdown-content {
@@ -62,10 +66,12 @@
     background-color: rgba(255, 255, 255, 0.2);
     border-color: rgba(255, 255, 255, 0.3);
 }
+   
 
 </style>
 </head>
-<body>
+    
+<body style="background-color:F5A593;">
 
 <div class="main">
 <article class="article">
@@ -75,94 +81,109 @@
 <h2>Encyclopédies</h2>
 
 <ul>
-  <li>René LAFONT, « ENDOCRINIEN SYSTÈME ». In Universalis éducation [en ligne]. Encyclopædia Universalis, consulté le 29 avril 2017. Disponible sur <http://www.universalis-edu.com/encyclopedie/systeme-endocrinien/></li>
+  <li>René LAFONT, « ENDOCRINIEN SYSTÈME ». In Universalis éducation [en ligne]. Encyclopædia Universalis, consulté le 29 avril 2017. Disponible sur http://www.universalis-edu.com/encyclopedie/systeme-endocrinien/</li>
 </ul>
 
 <h2>Articles</h2>
 
 <ul>
-<li>Collectif (29 novembre 2016). Perturbateurs endocriniens: halte à la manipulation de la science. Le Monde, [en ligne], consulté le 12 mars 2017. Disponible sur <http://www.lemonde.fr/idees/article/2016/11/29/halte-a-la-manipulation-de-la-science_5039860_3232.html>
+<li>Collectif (29 novembre 2016). Perturbateurs endocriniens: halte à la manipulation de la science. Le Monde, [en ligne], consulté le 12 mars 2017. Disponible sur http://www.lemonde.fr/idees/article/2016/11/29/halte-a-la-manipulation-de-la-science_5039860_3232.html</li><br>
 
-<li>ANSES, Perturbateurs endocriniens, [en ligne], consulté le 4 avril 2017. Disponible sur <https://www.anses.fr/fr/content/perturbateurs-endocriniens-1>
+<li>ANSES, Perturbateurs endocriniens, [en ligne], consulté le 4 avril 2017. Disponible sur https://www.anses.fr/fr/content/perturbateurs-endocriniens-1</li><br>
 
-<li>ROBIN M-M., (26 avril 2011). Perturbateurs endocriniens: l’étau se resserre. Arte, [en ligne], consulté le 24 février 2017. Disponible sur <http://www.arte.tv/sites/robin/2011/04/26/perturbateurs-endocriniens-letau-se-resserre/>
+<li>ROBIN M-M., (26 avril 2011). Perturbateurs endocriniens: l’étau se resserre. Arte, [en ligne], consulté le 24 février 2017. Disponible sur http://www.arte.tv/sites/robin/2011/04/26/perturbateurs-endocriniens-letau-se-resserre/</li><br>
 
-<li>HOREL, S., (29 novembre 2016). Perturbateurs endocriniens: un déni de l’état de la science. Le Monde, [en ligne], consulté le 12 mars 2017. Disponible sur <http://www.lemonde.fr/planete/article/2016/11/29/perturbateurs-endocriniens-un-deni-de-l-etat-de-la-science_5039870_3244.html#mitjxFbPeEgA8k1e.99>
+<li>HOREL, S., (29 novembre 2016). Perturbateurs endocriniens: un déni de l’état de la science. Le Monde, [en ligne], consulté le 12 mars 2017. Disponible sur http://www.lemonde.fr/planete/article/2016/11/29/perturbateurs-endocriniens-un-deni-de-l-etat-de-la-science_5039870_3244.html#mitjxFbPeEgA8k1e.99</li><br>
 
-<li>BARBIER, G., (2011). Perturbateurs endocriniens, le temps de la précaution. Rapport n°765, Office Parlementaire des choix scientifiques et technologiques, [en ligne], consulté le 5 mars 2017. Disponible sur <http://www.senat.fr/rap/r10-765/r10-765.html>
+<li>BARBIER, G., (2011). Perturbateurs endocriniens, le temps de la précaution. Rapport n°765, Office Parlementaire des choix scientifiques et technologiques, [en ligne], consulté le 5 mars 2017. Disponible sur http://www.senat.fr/rap/r10-765/r10-765.html</li><br>
 
-<li>Endocrine Society. Scientific statements [en ligne], consulté le 15 avril 2017. Disponible sur <https://www.endocrine.org/endocrine-press/scientific-statements>
+<li>Endocrine Society. Scientific statements [en ligne], consulté le 15 avril 2017. Disponible sur https://www.endocrine.org/endocrine-press/scientific-statements</li><br>
 
-<li>KINLOCH, D., KUHNLEIN, H. (1988). Assessment of PCBs in Arctic foods and diets. A pilot study in Broughton Island, Northwest Territories, Canada. Artic Medical Research, [en ligne], n°47, consulté le 21 mars 2017. Disponible sur <https://www.researchgate.net/publication/20004707_Assessment_of_PCBs_in_Arctic_foods_and_diets_A_pilot_study_in_Broughton_Island_Northwest_Territories_Canada>
+<li>KINLOCH, D., KUHNLEIN, H. (1988). Assessment of PCBs in Arctic foods and diets. A pilot study in Broughton Island, Northwest Territories, Canada. Artic Medical Research, [en ligne], n°47, consulté le 21 mars 2017. Disponible sur https://www.researchgate.net/publication/20004707_Assessment_of_PCBs_in_Arctic_foods_and_diets_A_pilot_study_in_Broughton_Island_Northwest_Territories_Canada</li><br>
 
-<li>PEREZ, M. (2008). Les crises du médicament. Les tribunes de la santé [en ligne], n°20, consulté le 19 février 2017. Disponible sur <https://www.cairn.info/revue-les-tribunes-de-la-sante-2008-3-page-57.htm> 
+<li>PEREZ, M. (2008). Les crises du médicament. Les tribunes de la santé [en ligne], n°20, consulté le 19 février 2017. Disponible sur https://www.cairn.info/revue-les-tribunes-de-la-sante-2008-3-page-57.htm</li><br>
 
-<li>SLAMA, R. et al.: Independent scientists working in the field of Endocrinology and Environmental Health (2017). Open Letter to the EU Ministers of Environment, Health and Agriculture and to the EU Health Commissioner regarding the identification of Endocrine Disruptors in the EU. Things that matters to real people. [en ligne], consulté le 31 mars 2017. Disponible sur <http://www.opnlttr.com/letter/open-letter-eu-ministers-environment-health-and-agriculture-and-eu-health-commissioner>
+<li>SLAMA, R. et al.: Independent scientists working in the field of Endocrinology and Environmental Health (2017). Open Letter to the EU Ministers of Environment, Health and Agriculture and to the EU Health Commissioner regarding the identification of Endocrine Disruptors in the EU. Things that matters to real people. [en ligne], consulté le 31 mars 2017. Disponible sur http://www.opnlttr.com/letter/open-letter-eu-ministers-environment-health-and-agriculture-and-eu-health-commissioner</li><br>
 
-<li>DENHEZ, F. (2016). Perturbateurs endocriniens, déni et pensée magique des industriels et des médecins. Signs of the time. [en ligne], consulté le 16 février 2017. Disponible sur <https://fr.sott.net/article/28839-Perturbateurs-endocriniens-deni-et-pensee-magique-des-industriels-et-des-medecins> 
+<li>DENHEZ, F. (2016). Perturbateurs endocriniens, déni et pensée magique des industriels et des médecins. Signs of the time. [en ligne], consulté le 16 février 2017. Disponible sur https://fr.sott.net/article/28839-Perturbateurs-endocriniens-deni-et-pensee-magique-des-industriels-et-des-medecins</li><br>
 
-<li>NALBONE, G., CICOLELLA, A., LAOT-CABON, S. (2013). Perturbateurs endocriniens et maladies métaboliques: un défi majeur en santé publique. Santé Publique. [en ligne], consulté le 25 mars 2017. Disponible sur <https://www.cairn.info/revue-sante-publique-2013-1-page-45.htm>
+<li>NALBONE, G., CICOLELLA, A., LAOT-CABON, S. (2013). Perturbateurs endocriniens et maladies métaboliques: un défi majeur en santé publique. Santé Publique. [en ligne], consulté le 25 mars 2017. Disponible sur https://www.cairn.info/revue-sante-publique-2013-1-page-45.htm</li><br>
+
+</ul>
 
 Colloques
 
-<li>BACH, J-F., BOUCHARD, P., COMBARNOUS, Y., MONNERET, C. (29 novembre 2016). Colloque sur les perturbateurs endocriniens. Paris, [en ligne], disponible sur <http://www.academie-sciences.fr/fr/Colloques-conferences-et-debats/les-pertubateurs-endocriniens.html>
+<ul>
 
-<li>Académie des Sciences, INSERM, Université Paris Descartes (29 novembre 2016), Colloque Perturbateurs endocriniens. Les perturbateurs endocriniens et la nouvelle toxicologie, BAROUKI, R., Paris, [en ligne], disponible sur <http://public.weconext.eu/academie-sciences/2016-11-29/video_id_003/index.html>
+<li>BACH, J-F., BOUCHARD, P., COMBARNOUS, Y., MONNERET, C. (29 novembre 2016). Colloque sur les perturbateurs endocriniens. Paris, [en ligne], disponible sur http://www.academie-sciences.fr/fr/Colloques-conferences-et-debats/les-pertubateurs-endocriniens.html</li><br>
 
-<li>Federal Institute for Risk Assessment, (2016). International Expert Meeting on Endocrine Disruptors. Berlin. 
+<li>Académie des Sciences, INSERM, Université Paris Descartes (29 novembre 2016), Colloque Perturbateurs endocriniens. Les perturbateurs endocriniens et la nouvelle toxicologie, BAROUKI, R., Paris, [en ligne], disponible sur http://public.weconext.eu/academie-sciences/2016-11-29/video_id_003/index.html</li><br>
+
+<li>Federal Institute for Risk Assessment, (2016). International Expert Meeting on Endocrine Disruptors. Berlin. </li><br>
+
+</ul>
 
 <h2>Ouvrages</h2>
 
-<li>ANKLEY, G., et al. (2002). Chapter 1: Executive summary. In: DAMSTRA, T., BARLOW, S., BERGMAN, A., KAVLOCK, R., VAN DER KRAAK, G. Global assessment of the state-of-science of endocrine disruptors. World Health Organization, 1-3. 
+<ul>
 
-<li>COLBORN, T., DUMANOSKI, D., MYERS, J.P. (1998). L’Homme en voie de disparition. Terre Vivante Editions, 316p. 
+<li>ANKLEY, G., et al. (2002). Chapter 1: Executive summary. In: DAMSTRA, T., BARLOW, S., BERGMAN, A., KAVLOCK, R., VAN DER KRAAK, G. Global assessment of the state-of-science of endocrine disruptors. World Health Organization, 1-3.</li><br> 
+
+<li>COLBORN, T., DUMANOSKI, D., MYERS, J.P. (1998). L’Homme en voie de disparition. Terre Vivante Editions, 316p. </li><br>
+
+</ul>
 
 <h2>Vidéos</h2>
 
-<li>HOREL S. (2010). La grande invasion. In: France 5. [52 mn 21 secondes] [en ligne], consulté le 8 février 2017. Disponible sur  <https://www.youtube.com/watch?v=RxktDSeVAWQ>
+<ul>
 
+<li>HOREL S. (2010). La grande invasion. In: France 5. [52 mn 21 secondes] [en ligne], consulté le 8 février 2017. Disponible sur  https://www.youtube.com/watch?v=RxktDSeVAWQ</li><br>
+
+</ul>
 
 <h1>A l’échelle européenne, une législation difficile</h1>
 
 <h2>Articles</h2>
 
-<li>BERGMAN, A., HEINDEL, J.J., JOBLING, S., KIDD, K.A, ZOELLER R.T. (2012). State of the Science of Endocrine Disrupting Chemicals 2012: summary for decision-makers, [en ligne], consulté le 17 février 2017. Disponible sur <http://apps.who.int/iris/bitstream/10665/78102/1/WHO_HSE_PHE_IHE_2013.1_eng.pdf>
+<ul>
 
-<li>European Commission (2011). 4th report on the implementation of the “Community strategy for endocrine disrupters” a range of substances suspected of interfering with the hormone systems of humans and wildlife, [en ligne], consulté le 16 avril 2017. Disponible sur <http://ec.europa.eu/environment/chemicals/endocrine/pdf/sec_2011_1001.pdf>
+<li>BERGMAN, A., HEINDEL, J.J., JOBLING, S., KIDD, K.A, ZOELLER R.T. (2012). State of the Science of Endocrine Disrupting Chemicals 2012: summary for decision-makers, [en ligne], consulté le 17 février 2017. Disponible sur http://apps.who.int/iris/bitstream/10665/78102/1/WHO_HSE_PHE_IHE_2013.1_eng.pdf</li><br>
 
-<li>KORTENKAMP, A., MARTIN, O., FAUST, M., EVANS, R., MCKINLAY, R., ORTON, F., ROSIVATZ, E. (2011). State of the art assessment of endocrine disrupters - Final report, [en ligne], consulté le 25 mars 2017. Disponible sur <http://ec.europa.eu/environment/chemicals/endocrine/pdf/sota_edc_final_report.pdf>
+<li>European Commission (2011). 4th report on the implementation of the “Community strategy for endocrine disrupters” a range of substances suspected of interfering with the hormone systems of humans and wildlife, [en ligne], consulté le 16 avril 2017. Disponible sur http://ec.europa.eu/environment/chemicals/endocrine/pdf/sec_2011_1001.pdf</li><br>
 
-<li>Toxicologists from the Joint Research Centre (2013). JRC releases report on key scientific issues for the identification and characterisation of endocrine disrupting substances, [en ligne], consulté le 25 mars 2017. Disponible sur <https://eurl-ecvam.jrc.ec.europa.eu/laboratories-research/endocrine_disrupters/jrc-report-scientific-issues-identification-endocrine-disrupting-substances>
+<li>KORTENKAMP, A., MARTIN, O., FAUST, M., EVANS, R., MCKINLAY, R., ORTON, F., ROSIVATZ, E. (2011). State of the art assessment of endocrine disrupters - Final report, [en ligne], consulté le 25 mars 2017. Disponible sur http://ec.europa.eu/environment/chemicals/endocrine/pdf/sota_edc_final_report.pdf</li><br>
 
-<li>European Food Safety Authority (2013). L’EFSA apporte son assistance à la Commission européenne dans la définition de critères scientifiques pour les perturbateurs endocriniens, [en ligne], consulté le 2 avril 2017. Disponible sur <https://www.efsa.europa.eu/fr/press/news/130320>
+<li>Toxicologists from the Joint Research Centre (2013). JRC releases report on key scientific issues for the identification and characterisation of endocrine disrupting substances, [en ligne], consulté le 25 mars 2017. Disponible sur https://eurl-ecvam.jrc.ec.europa.eu/laboratories-research/endocrine_disrupters/jrc-report-scientific-issues-identification-endocrine-disrupting-substances</li><br>
 
-<li>DEMENEIX, B. (2013). Perturbateurs endocriniens: l’EFSA botte en touche. Pour la Science, [en ligne], consulté le 2 février 2017. Disponible sur <http://www.pourlascience.fr/ewb_pages/a/article-perturbateurs-endocriniens-l-efsa-botte-en-touche-31501.php> 
+<li>European Food Safety Authority (2013). L’EFSA apporte son assistance à la Commission européenne dans la définition de critères scientifiques pour les perturbateurs endocriniens, [en ligne], consulté le 2 avril 2017. Disponible sur https://www.efsa.europa.eu/fr/press/news/130320</li><br>
 
-<li>European Commission (2016). What is the existing approach in European Community ? [en ligne], consulté le 30 mars 2017. Disponible sur <http://ec.europa.eu/environment/chemicals/endocrine/strategy/euapproach_en.htm>
+<li>DEMENEIX, B. (2013). Perturbateurs endocriniens: l’EFSA botte en touche. Pour la Science, [en ligne], consulté le 2 février 2017. Disponible sur http://www.pourlascience.fr/ewb_pages/a/article-perturbateurs-endocriniens-l-efsa-botte-en-touche-31501.php</li><br>
 
-<li>MOLANDER, S. et al. (2013). The 203 Berlaymont declaration on endocrine disrupters, [en ligne], consulté le 15 avril 2017. Disponible sur <http://www.brunel.ac.uk/__data/assets/pdf_file/0005/300200/The_Berlaymont_Declaration_on_Endocrine_Disrupters.pdf>
+<li>European Commission (2016). What is the existing approach in European Community ? [en ligne], consulté le 30 mars 2017. Disponible sur http://ec.europa.eu/environment/chemicals/endocrine/strategy/euapproach_en.htm>
 
-<li>GORE, A.C. et al. (2015). EDC-2: The endocrine society’s second scientific statement on endocrine-disrupting chemicals. Endocrine reviews, [en ligne], consulté le 4 avril 2017. Disponible sur <https://www.researchgate.net/publication/286453768_EDC-2_The_Endocrine_Society's_Second_Scientific_Statement_on_Endocrine-Disrupting_Chemicals>
+<li>MOLANDER, S. et al. (2013). The 203 Berlaymont declaration on endocrine disrupters, [en ligne], consulté le 15 avril 2017. Disponible sur http://www.brunel.ac.uk/__data/assets/pdf_file/0005/300200/The_Berlaymont_Declaration_on_Endocrine_Disrupters.pdf></li><br>
 
-<li>Bundesinstitut für Risikobewertung (2011). Regulatory definition of an endocrine disrupter in relation to potential threat to human health, [en ligne], consulté le 14 avril 2017. Disponible sur <http://www.bfr.bund.de/cm/343/regulatory_definition_of_an_endocrine_disrupter_in_relation_to_potential_threat_to_human_health.pdf>
+<li>GORE, A.C. et al. (2015). EDC-2: The endocrine society’s second scientific statement on endocrine-disrupting chemicals. Endocrine reviews, [en ligne], consulté le 4 avril 2017. Disponible sur https://www.researchgate.net/publication/286453768_EDC-2_The_Endocrine_Society_Second_Scientific_Statement_on_Endocrine-Disrupting_Chemicals</li><br>
 
-<li>European Parliament (2013). Report on the protection of public health from endocrine disrupters, [en ligne], consulté le 23 mars 2017. Disponible sur <http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+REPORT+A7-2013-0027+0+DOC+PDF+V0//EN>
+<li>Bundesinstitut für Risikobewertung (2011). Regulatory definition of an endocrine disrupter in relation to potential threat to human health, [en ligne], consulté le 14 avril 2017. Disponible sur http://www.bfr.bund.de/cm/343/regulatory_definition_of_an_endocrine_disrupter_in_relation_to_potential_threat_to_human_health.pdf></li><br>
 
-<li>European Parliament (2016). Setting criteria on endocrine disruptors - Follow-up to the General Court judgment, [en ligne], consulté le 30 mars 2017. Disponible sur <http://www.europarl.europa.eu/RegData/etudes/BRIE/2016/581986/EPRS_BRI(2016)581986_EN.pdf>
+<li>European Parliament (2013). Report on the protection of public health from endocrine disrupters, [en ligne], consulté le 23 mars 2017. Disponible sur http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+REPORT+A7-2013-0027+0+DOC+PDF+V0//EN</li><br>
 
-<li>SPENCE, T., (2013). MEP calls for parliamentary risk panel to tame green “scarmongering”. Euractiv, [en ligne], consulté le 7 avril 2017. Disponible sur <http://www.euractiv.com/section/science-policymaking/news/mep-calls-for-parliamentary-risk-panel-to-tame-green-scaremongering/>
+<li>European Parliament (2016). Setting criteria on endocrine disruptors - Follow-up to the General Court judgment, [en ligne], consulté le 30 mars 2017. Disponible sur http://www.europarl.europa.eu/RegData/etudes/BRIE/2016/581986/EPRS_BRI(2016)581986_EN.pdf</li><br>
 
-<li>GIRLING, J., (2014). The junk science threat to free trade. The Wall Street Journal, [en ligne], consulté le 18 mars 2017. Disponible sur <https://www.wsj.com/articles/the-junk-science-threat-to-free-trade-1390507281?tesla=y>
+<li>SPENCE, T., (2013). MEP calls for parliamentary risk panel to tame green “scarmongering”. Euractiv, [en ligne], consulté le 7 avril 2017. Disponible sur http://www.euractiv.com/section/science-policymaking/news/mep-calls-for-parliamentary-risk-panel-to-tame-green-scaremongering/</li><br>
 
-<li>European Parliament, (2012). Amendments 1-157. Committee on the Environment, Public Health and Food Safety, [en ligne], consulté le 3 avril 2017. Disponible sur <http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BCOMPARL%2BPE-500.605%2B01%2BDOC%2BPDF%2BV0%2F%2FEN>
+<li>GIRLING, J., (2014). The junk science threat to free trade. The Wall Street Journal, [en ligne], consulté le 18 mars 2017. Disponible sur https://www.wsj.com/articles/the-junk-science-threat-to-free-trade-1390507281?tesla=y</li><br>
 
-<li>European Parliament, (2013). European Parliament resolution of 14 March 2013 on the protection of public health from endocrine disrupters, [en ligne], consulté le 15 avril 2017. Disponible sur <http://www.europarl.europa.eu/sides/getDoc.do?type=TA&reference=P7-TA-2013-0091&format=XML&language=EN>
+<li>European Parliament, (2012). Amendments 1-157. Committee on the Environment, Public Health and Food Safety, [en ligne], consulté le 3 avril 2017. Disponible sur http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BCOMPARL%2BPE-500.605%2B01%2BDOC%2BPDF%2BV0%2F%2FEN</li><br>
 
-<li>HOREL, S. (2012). Conflicts of interests at EFSA, [en ligne], consulté le 14 mars 2017. Disponible sur <http://www.stephanehorel.fr/wp-content/uploads/2012/12/Conflicts-of-interests-at-EFSA.-Season-10%E2%80%9314.12.2012.pdf>
+<li>European Parliament, (2013). European Parliament resolution of 14 March 2013 on the protection of public health from endocrine disrupters, [en ligne], consulté le 15 avril 2017. Disponible sur http://www.europarl.europa.eu/sides/getDoc.do?type=TA&reference=P7-TA-2013-0091&format=XML&language=EN</li><br>
 
-<li>Corporate Europe, (2013). Life is complicated, [en ligne], consulté le 10 avril 2017. Disponible sur <https://corporateeurope.org/sites/default/files/attachments/life_is_complicated_email.pdf>
+<li>HOREL, S. (2012). Conflicts of interests at EFSA, [en ligne], consulté le 14 mars 2017. Disponible sur http://www.stephanehorel.fr/wp-content/uploads/2012/12/Conflicts-of-interests-at-EFSA.-Season-10%E2%80%9314.12.2012.pdf</li><br>
 
-<li>European Food Safety Authority (2014). Scientific opinion on the risks to public health related to the presence of BPA in foodstuffs, [en ligne], consulté le 24 mars 2017. Disponible sur <http://www.efsa.europa.eu/en/efsajournal/pub/3978>
+<li>Corporate Europe, (2013). Life is complicated, [en ligne], consulté le 10 avril 2017. Disponible sur https://corporateeurope.org/sites/default/files/attachments/life_is_complicated_email.pdf</li><br>
+
+<li>European Food Safety Authority (2014). Scientific opinion on the risks to public health related to the presence of BPA in foodstuffs, [en ligne], consulté le 24 mars 2017. Disponible sur http://www.efsa.europa.eu/en/efsajournal/pub/3978</li><br>
 
 <li>ANSES, (2017). Bisphénol A: travaux de l’ANSES sur les usages et effets, recommandations, [en ligne], consulté le 18 février 2017. Disponible sur <https://www.anses.fr/fr/content/bisphénol>
 
