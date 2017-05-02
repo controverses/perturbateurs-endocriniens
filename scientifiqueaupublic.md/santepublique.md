@@ -97,7 +97,7 @@ li a.active {
 
 <ul>
   <li><a href="#exposition">Une exposition omniprésente et quotidienne</a></li>
-  <li><a href="#mécanismes">Les mécanismes d’exposition aux perturbateurs endocriniens</a></li><br>
+  <li><a href="#mécanismes">Les mécanismes d’exposition aux PE</a></li><br>
   <li><a href="#approche">Une nouvelle approche de la toxicologie</a></li><br>
   <li><a href="#dangers">Quels dangers pour l'Homme ?</a></li><br>
   
