@@ -69,11 +69,13 @@
   <h1>De nouveaux acteurs dans la controverse? </h1>
   <h2>Un constat </h2>
   
- <p align="justify"> <strong> Barbara Demeneix, endocrinologue au Muséum national d’histoire naturelle et auteur de l’ouvrage Le Cerveau endommagé (2016) : </strong> <i> « Ces substances sont présentes dans ce qu’on boit, ce qu’on mange, ce qu’on respire ou ce qu’on se met sur la peau. En clair, nous sommes tous exposés » </i> </p> 
+ <p align="justify"> <strong> Barbara Demeneix, endocrinologue au Muséum national d’histoire naturelle et auteur de l’ouvrage Le Cerveau endommagé (2016) : </strong> <i> <p><blockquote>« Ces substances sont présentes dans ce qu’on boit, ce qu’on mange, ce qu’on respire ou ce qu’on se met sur la peau. En clair, nous sommes tous exposés »  </blockquote> </i></p>
  
-<p align="justify"> <strong> Agnès Bee, chercheuse à l’Université Pierre et Marie Curie :</strong> <i> “Pour pouvoir éliminer les perturbateurs endocriniens, il faut trouver une solution pour les remplacer, ce qui n’est pas toujours facile. Interdire les Perturbateurs endocriniens n’est pas résoudre le problème.”</i> </p>
+<p align="justify"> <strong> Agnès Bee, chercheuse à l’Université Pierre et Marie Curie :</strong>
+<i> <p> <blockquote>“Pour pouvoir éliminer les perturbateurs endocriniens, il faut trouver une solution pour les remplacer, ce qui n’est pas toujours facile. Interdire les Perturbateurs endocriniens n’est pas résoudre le problème.” </blockquote> </i> </p>
 
-<p align="justify"> <strong> Marine Jobert, journaliste, auteur de Les Perturbateurs endocriniens (2015) :</strong> <i> « Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. »</i> </p> 
+<p align="justify"> <strong> Marine Jobert, journaliste, auteur de Les Perturbateurs endocriniens (2015) :</strong> 
+<i> <p> <blockquote>« Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. » </blockquote> </i> </p>
  <br/>
 
 <p align="justify"> Nous sommes aujourd’hui entourés au quotidien de produits chimiques qui, selon les recherches scientifiques, nuisent à notre santé et à celles des futures générations. Le nombre de nouvelles substances chimiques, avec des effets potentiels sur notre santé, augmente chaque année. Il apparaît difficile de s’en débarrasser puisque, d’après une étude réalisée par Générations Futures en février 2017 sur les cheveux de certaines personnalités françaises, on retrouve encore aujourd’hui des perturbateurs endocriniens dont la commercialisation est interdite depuis des dizaines d’années. Cela signifie que, même si on arrêtait totalement la production de perturbateurs endocriniens, on ne sait pas pendant combien de temps il sera encore possible d’en trouver partout dans la nature.</p> 
