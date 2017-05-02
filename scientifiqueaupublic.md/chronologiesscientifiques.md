@@ -107,7 +107,7 @@ li a.active {
 
 <p>Les perturbateurs endocriniens relèvent aujourd’hui d’une controverse de législation à la vue de l’enjeu de santé publique qu’ils posent. Cependant, avant d’être une controverse de réglementation, la découverte de ces substances et de leurs effets a été l’objet de découvertes scientifiques controversées pendant près d’un demi-siècle.</p> 
 
-<div id= "apogée" style="margin-top:145px;">
+<div id= "apogée">
 
 <h2>L’apogée de l’industrie chimique</h2>
 
@@ -117,7 +117,7 @@ li a.active {
 
 </div>
 
-<div id= "impacts" style="margin-top:145px;">
+<div id= "impacts">
 
 <h2>Impacts et études des produits chimiques</h2>  
 
@@ -137,7 +137,7 @@ Le Dichlorodiphényltrichloroéthane, plus communément appelé DDT est une mol�
 
 </div>
 
-<div id= "émergence" style="margin-top:145px;">
+<div id= "émergence">
 
 <h2>L’émergence du fait scientifique de la perturbation endocrinienne</h2> 
 
@@ -161,7 +161,7 @@ La dioxine est une substance perturbatrice endocrinienne. Il y a pour le moment 
 
 </div>
 
-<div id= "position" style="margin-top:145px;">
+<div id= "position">
 
 <h2>Vers une position scientifique déterminée</h2> 
 
