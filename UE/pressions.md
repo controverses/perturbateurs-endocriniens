@@ -182,12 +182,12 @@ De plus, la journaliste révèle dans son rapport plusieurs mails signés par le
 
 
 <div style="text-align: center">
-<img src="examples.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:350px;height:600px;"/>
+<img src="examples.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:400px;height:600px;"/>
 </div>
 
 
 <div style="text-align: center">
-<img src="examples2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:4350px;height:600px;"/>
+<img src="examples2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:400px;height:600px;"/>
 </div>
 
 <p> Enfin comme le dit David Gee de l’Agence Européenne de l’Environnement dans le film Endocr(t)rinement, un documentaire réalisé en 2014 par Stéphane Horel, il est plus probable que l’issue soit favorable aux industries, les intérêts économiques étant beaucoup plus simples à évaluer que les intérêts environnementaux (du fait notamment qu’il s’agit d’enjeux à long terme sur la société dans son ensemble). </p>
