@@ -63,7 +63,7 @@
 ul {
     list-style-type: none;
     margin-left:-260px;
-    margin-right:-25px;
+    margin-right:40px;
     padding: 0;
     width: 25%;
     background-color: none;
@@ -93,7 +93,7 @@ li a.active {
 
 <ul>
   <li><a href="#home">L'apogée de l'industrie chimique</a></li>
-  <li><a href="#contact">Impacts et tudes des produits chimiques</a></li>
+  <li><a href="#contact">Impacts et études des produits chimiques</a></li>
   <li><a href="#about">L’émergence du fait scientifique de la perturbation endocrinienne</a></li>
   <li><a href="#apogée">Vers une position scientifique déterminée</a></li>
   
