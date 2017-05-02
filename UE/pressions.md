@@ -98,9 +98,16 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 
 <h2> Conflit endocrinien, perturbateurs d’intérêts : quels conflits d’intérêts autour de la Commission ?</h2> 
 
-<p> Bien que l’EFSA soit la source technique de l’UE la plus décriée sur le sujet, la plupart des groupes d’experts sur lesquels se base la Commission contiennent des membres appartenant à des parties prenantes telles que les industries concernées par la régulation ou les Etats-membres de l’Union ayant chacun leur propre vision du problème, comme il est possible de le voir sur le schéma. <strong> IMAGE 3 DOC MARINE </strong> </p>
+<p> Bien que l’EFSA soit la source technique de l’UE la plus décriée sur le sujet, la plupart des groupes d’experts sur lesquels se base la Commission contiennent des membres appartenant à des parties prenantes telles que les industries concernées par la régulation ou les Etats-membres de l’Union ayant chacun leur propre vision du problème, comme il est possible de le voir sur le schéma. </p>
+<div style="text-align: center">
+<img src="organigramme.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;"/>
+</div>
 
-<p> Tout d’abord, les membres de l’<em>Endocrine Disruptors Expert Advisory Group</em> sont nommés par les Etats-membres. Or, comme il est possible de le constater sur la liste des membres de l’ED EAG tirée d’un des rapports du Joint Research Center de 2013 (Key scientific issues relevant to the identification and characterisation of endocrine disrupting substances), il peut s’agir de chercheurs appartenant à des universités nationales, mais également d’agences nationales telles que RIVM aux Pays-Bas, l’ANSES en France ou le Federal Institute for Risk Assessement allemand (BfR), qui sont sous contrôle du gouvernement. Aussi, il est important de se demander si <strong>l’impartialité scientifique</strong> prime sur la représentation de la <strong>stratégie nationale</strong>. Enfin, on retrouve tout autant des membres d’ONGs telles que HEAL et Chem Trust (Ninja Reineke et Gwynne Lyons) que des membres de groupes de pression d’industries comme l’ECETOC, un lobby de l’industrie chimique particulièrement influent auxquels appartiennent entre autres BASF, Bayer, Syngenta ou Dow (James Wheeler). <strong> IMAGE 4 DOC MARINE</strong> </p>
+<p> Tout d’abord, les membres de l’<em>Endocrine Disruptors Expert Advisory Group</em> sont nommés par les Etats-membres. Or, comme il est possible de le constater sur la liste des membres de l’ED EAG tirée d’un des rapports du Joint Research Center de 2013 (Key scientific issues relevant to the identification and characterisation of endocrine disrupting substances), il peut s’agir de chercheurs appartenant à des universités nationales, mais également d’agences nationales telles que RIVM aux Pays-Bas, l’ANSES en France ou le Federal Institute for Risk Assessement allemand (BfR), qui sont sous contrôle du gouvernement. Aussi, il est important de se demander si <strong>l’impartialité scientifique</strong> prime sur la représentation de la <strong>stratégie nationale</strong>. Enfin, on retrouve tout autant des membres d’ONGs telles que HEAL et Chem Trust (Ninja Reineke et Gwynne Lyons) que des membres de groupes de pression d’industries comme l’ECETOC, un lobby de l’industrie chimique particulièrement influent auxquels appartiennent entre autres BASF, Bayer, Syngenta ou Dow (James Wheeler).  </p>
+
+<div style="text-align: center">
+<img src="contributors.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:600px;"/>
+</div>
 
 <p> Enfin, il est important de souligner que les groupes de pression travaillant en collaboration avec l’Union Européenne ne sont pas de simples défenseurs des industries qu’ils représentent. Par exemple, le président de l’European Crop Protection Association (ECPA), Martin Dawkins, est le responsable de la région Moyen-Orient/Afrique chez Bayer, tandis que Patrick Thomas, le président de PlasticEurope est également PDG de l’assemblée générale de Bayer MaterialScience devenu Covestro, une des plus grosses manufactures de polymères.</p>
 
@@ -122,7 +129,12 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 
 <blackquote> <em> « En utilisant et en amplifiant ce doute, l’industrie parvient à tourner la science contre elle-même ».</em> </blackquote> 
 
-<p> Dans « A toxic affair », Stéphane Horel développe les points principaux de la stratégie développée par les groupes de pression pour entretenir cette controverse et ralentir le processus législatif : <strong> IMAGE 5 DOC MARINE </strong> </p>
+<p> Dans « A toxic affair », Stéphane Horel développe les points principaux de la stratégie développée par les groupes de pression pour entretenir cette controverse et ralentir le processus législatif :  </p>
+
+<div style="text-align: center">
+<img src="corporate.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+</div>
+
 
 <p> Selon le rapport, l’entretien de la controverse scientifique par les industriels se fait grâce à <strong>la multiplication des sources du même message</strong>, principalement via les liens entretenus avec les diverses sources d’information de la Commission. Le but étant de faire croire à une absence de consensus au sein de la communauté scientifique en diffusant un message alternatif, ici celui de la possibilité de mettre en place des seuils pour réguler les perturbateurs endocriniens ou du moins de l’inutilité d’une réglementation trop restrictive du fait des incertitudes subsistant autour de la mesure de leur danger pour la santé humaine. </p
 
@@ -160,7 +172,17 @@ Les scientifiques sont à nouveau divisés sur la question : en août, une répo
 
 <p> En octobre, Stephane Horel publie conjointement avec Brian Bienkowski, éditeur pour Environmental Health News un article révélant les conflits d’intérêt des scientifiques signataires de la lettre ouverte. Selon ce document, sur les 18 co-auteurs de l’éditorial, 17 ont collaboré avec l’industrie. 
 http://www.environmentalhealthnews.org/ehs/news/2013/eu-conflict-list
-De plus, la journaliste révèle dans son rapport plusieurs mails signés par le CEFIC, l’ECPA, BASF… envoyés en juin 2013 et réclamant une telle étude. <strong> IMAGE 6 et 7 DOC MARINE !!!!! </strong> </p>
+De plus, la journaliste révèle dans son rapport plusieurs mails signés par le CEFIC, l’ECPA, BASF… envoyés en juin 2013 et réclamant une telle étude. </p>
+
+
+<div style="text-align: center">
+<img src="examples.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:600px;"/>
+</div>
+
+
+<div style="text-align: center">
+<img src="examples2.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:600px;"/>
+</div>
 
 <p> Enfin comme le dit David Gee de l’Agence Européenne de l’Environnement dans le film Endocr(t)rinement, un documentaire réalisé en 2014 par Stéphane Horel, il est plus probable que l’issue soit favorable aux industries, les intérêts économiques étant beaucoup plus simples à évaluer que les intérêts environnementaux (du fait notamment qu’il s’agit d’enjeux à long terme sur la société dans son ensemble). </p>
 
