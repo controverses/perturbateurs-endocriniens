@@ -116,9 +116,86 @@ La prévision d’une plateforme pour la mise au point de test dans la Stratégi
  <p align="justify"> On observe que les Etats Unis, la France, le Danemark, la Suède et le Japon sont à l’origine de la majorité des propositions.
 
 Projets pour la détection ou le test de produits chimiques pour la perturbation endocrinienne, actuellement en cours d’évaluation par l’OCDE: </p>
-
-
-
+  
+  </div>
+     
+<table>
+    <tr>
+       <th>Projets </th>
+       <th>Pays meneurs</th>
+   </tr>
+   <tr>
+       <td>Fish Life-Cycle Test/Medaka Multi-Generation Test</td>
+       <td>Etats Unis / Japon / Allemagne</td>
+   </tr>
+   <tr>
+       <td>Fish Reproduction/Partial Lifecycle Test</td>
+       <td>Etats Unis</td>
+   </tr>
+   <tr>
+        <td>Larval Amphibian Growth and Development Assay</td>
+       <td>France</td>
+   </tr>
+   <tr>
+   <td>Xenopus Embryonnic Thyroid Assay</td>
+       <td>France</td>
+   </tr>
+   <tr>
+        <td>Mysid Life Cycle Toxicity Test</td>
+       <td>Etats Unis</td>
+   </tr>
+   <tr>
+      <td>Copepod Reproduction and Development Test</td>
+       <td>Suède</td>
+   </tr>
+   <tr>
+   <td>Mollusc Reproductive Toxicity Tests – Development and Validation of Test Guidelines</td>
+       <td>Allemagne / Grande-Bretagne / France / Danemark</td>
+   </tr>
+   <tr>
+   <td>Avian 2-Generation Reproductive Toxicity Assay</td>
+       <td>Etats Unis</td>
+   </tr>
+   <tr>
+   
+     <td>Human Recombinant Oestrogen Receptor Alpha Binding Assay</td>
+     <td>Etats Unis / Commission Européenne / Allemagne / Japon</td>
+   </tr>
+   <tr>
+   
+    <td>STTA Assay for the Detection of Androgenic and Anti-Androgenic Activity</td>
+     <td>Japon</td>
+   </tr>
+   <tr>
+   
+   <td>STTA Assay for the detection of Anti-Oestrogenic activity of chemicals</td>
+     <td>Japon</td>
+   </tr>
+   <tr>
+   
+   <td>Performance-Based Test Guideline for the Androgen Receptor Transactivation Assay</td>
+     <td>Commission Européenne</td>
+   </tr>
+   <tr>
+   
+   <td>Transcriptional Assay for the Detection of Estrogenic and Anti-Estrogenic Compounds using MELN Cells</td>
+     <td>Commission Européenne</td>
+   </tr>
+   <tr>
+   
+   
+   <td>Thyroid Scoping Document</td>
+     <td>OCDE secrétariat</td>
+   </tr>
+   <tr>
+   
+    <td>Update of TG 421 and TG 422 with ED-relevant endpoints</td>
+     <td>Danemark</td>
+   </tr>
+   <tr>
+   
+   
+   
  
 
 
