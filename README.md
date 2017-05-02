@@ -83,23 +83,6 @@
        background-color: rgb(44, 195, 161);
 }
 
-.newspaper {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-    -webkit-column-gap: 30px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 30px; /* Firefox */
-    column-gap: 30px;
-    -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */
-    -moz-column-rule-style: solid; /* Firefox */
-    column-rule-style: solid;
-    -webkit-column-rule-width: 1px; /* Chrome, Safari, Opera */
-    -moz-column-rule-width: 1px; /* Firefox */
-    column-rule-width: 1px;
-    -webkit-column-rule-color: lightblue; /* Chrome, Safari, Opera */
-    -moz-column-rule-color: lightblue; /* Firefox */
-    column-rule-color: lightblue;
-
 
 #sommaire {
   background-color: white;
