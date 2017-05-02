@@ -95,10 +95,12 @@ li a.active {
 
 <article class="article">
 
+<ul>
   <li><a href="#livres">Livres de vulgarisation</a></li>
   <li><a href="#retentissements">Les retentissements des scandales sanitaires</a></li><br>
   <li><a href="#action">Une action scientifique directe et militante</a></li><br>
   <li><a href="#débat">Les perturbateurs endocriniens intègrent peu à peu le débat public</a></li><br>
+</ul>
 
   <h1 align="center">L’émergence du fait des perturbateurs endocriniens dans le débat public</h1>
   
