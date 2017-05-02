@@ -101,7 +101,7 @@ li a.active {
   <li><a href="#autres"> D’autres programmes</a></li><br>
   <li><a href="#privé">Des programmes publics – privés</a></li><br>
   <li><a href="#public">Public et privé, une volonté commune</a></li><br>
-  <li><a href="#lien">Lien avec des programmes européens et étrangers</a></li><br>
+  <li><a href="#lien">Lien avec des programmes EU/étrangers</a></li><br>
 </ul>
 
 <h1 align="center">Programmes de recherche</h1>
@@ -158,7 +158,7 @@ Le comité d’orientation du PNRPE est composée d’acteurs très divers, auss
 
 <p> <blockquote>  « Les stations d’épuration arrêtent 85% des substances prioritaires. Des efforts restent à faire sur les autres substances étudiées, rejetées dans les eaux usées. » </blockquote> </p>
 
-<h2>Public et privé, une volonté commune : développer des tests adoptés ensuite par l’OCDE<h2>
+<h2>Public et privé, une volonté commune : développer des tests adoptés ensuite par l’OCDE</h2>
 <p align="justify">Les acteurs privés dénoncent le manque de tests pour établir la présence de perturbateurs endocriniens dans certains composants et leurs effets sur l’organisme. Pour eux, cela est un obstacle à toute réglementation sur une substance chimique. Les entreprises, qui pour des soucis d’images, veulent établir la présence des perturbateurs endocriniens dans leurs produits, peuvent faire appel au laboratoire Watchfrog< a href="https://controverses.github.io/perturbateurs-endocriniens/senpasser/substituersupprimer.html">(Pour plus de détails)</a>, ou faire faire leurs propres tests. Toutefois, cela reste une démarche non obligatoire.<br> 
 
 Les entreprises ne veulent pas se faire dicter leurs démarches par les autorités nationales car cela pourrait les désavantager économiquement par rapport à des entreprises installées dans d’autres pays. Seules les lignes directrices de l’OCDE, avec les directives de l’Union Européenne, sont mises en place à un niveau de réglementation assez élevées pour être acceptées par les entreprises. C’est pourquoi les organismes de recherche français ont pour objectif de développer des méthodes de tests, qui seront ensuite proposées à l’OCDE. L’OCDE peut ou non les accepter. Si l’OCDE les accepte, l’Etat pourra utiliser ces méthodes pour tester certains produits et alors interdire leur production sur le marché, en cas d’une présence avérée de perturbateurs endocriniens.<br>
