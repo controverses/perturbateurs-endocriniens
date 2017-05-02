@@ -102,10 +102,9 @@ li a.active {
   <li><a href="#garantie">Garantie d'indépendance</a></li><br>
   <li><a href="#conflits">Conflits d'intérêts autour de la Commission</a></li><br>
   <li><a href="#processus">Un processus démocratique ou scientifique ?</a></li><br>
-  <li><a href="#lobbying"> Le lobbying : création d’une alternative scientifique ?
-</a></li><br>
+  <li><a href="#lobbying"> Le lobbying : création d’une alternative ?</a></li><br>
   <li><a href="#transparence">Pour plus de transparence</a></li><br>
-  <li><a href="#basculement">Basculement vers une problématique économique</a></li><br>
+  <li><a href="#basculement">Basculement vers une problématique éco</a></li><br>
    <li><a href="#lobbying2">« Lobbying blitzkrieg » la </a></li><br>
     <li><a href="#cry">« Cry wolf »
 </a></li><br>
@@ -159,7 +158,7 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 
 </div>
 
-<div id="conflit">
+<div id="conflits">
 
 <p><blockquote> « N’importe quel scientifique ayant des liens avec le secteur commercial peut toujours être accepté du moment que ceux-ci ne sont pas en relation avec le sujet sur lequel il travaille ». </blockquote></p>
 
