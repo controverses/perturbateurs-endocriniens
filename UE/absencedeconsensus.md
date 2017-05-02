@@ -100,25 +100,63 @@ La même année, <strong> l’Organisation Mondiale de la Santé </strong> (OMS/
 <p> Cependant, une fois la définition déterminée (c’est-à-dire qu’on sait de quoi on parle, en théorie), deux étapes supplémentaires s’imposent (ces trois étapes sont développées par le professeur Kortenkamp dans le rapport de 2012) :</p>
 
 <ul>
-<li> -	Comment <strong> identifier </strong> les perturbateurs endocriniens tels que définis ci-dessus (à l’aide de quels tests) ? </li>
-<li> -	Comment traduire les résultats obtenus dans <strong>un cadre réglementaire </strong>(quels critères utiliser) ?<li>
-
+<li> Comment <strong> identifier </strong> les perturbateurs endocriniens tels que définis ci-dessus (à l’aide de quels tests) ? </li>
+<li> Comment traduire les résultats obtenus dans <strong>un cadre réglementaire </strong>(quels critères utiliser) ?<li>
 </ul>
 
 <p> Ces deux questions soulèvent des débats. La définition étant extrêmement vague, il est presque impossible d’identifier précisément les perturbateurs endocriniens. En effet, il est extrêmement compliqué de différencier les effets purement dus à un perturbateur de ceux liés au reste de l’environnement. 
 En mars 2013, l’EFSA, une des principales agences de l’Union Européenne chargée de l’évaluation des risques au niveau alimentaire, publie un rapport dénonçant le fait que les <strong>critères</strong> utilisés pour l’identification des perturbateurs endocriniens sont <strong>trop restrictifs</strong>. Partant des trois critères de définition d’un perturbateur endocrinien – induction d'un effet nocif, action endocrinienne et relation plausible entre les deux –, l'EFSA joue sur le fait qu'il est très difficile de distinguer un effet nocif d'un <strong>effet produisant une réponse physiologique</strong>. Ainsi, il ne serait pas possible de définir des critères spécifiques pour identifier des perturbateurs endocriniens, et chaque cas devrait être jugé séparément pour déterminer si un effet est une « modulation » ou un effet « nocif ». L’avis de l’EFSA soulève une difficulté : en faisant la distinction entre un effet nocif et un effet simplement physiologique, l'EFSA suggère que des mécanismes physiologiques peuvent protéger contre les effets de faibles doses et qu'un effet de courte durée n'est pas forcément néfaste. L’idée sous-jacente étant que l’organisme humain serait capable de <strong>s’adapter à une exposition aux perturbateurs</strong>, tant que celle-ci concerne une faible dose. Une même molécule pourrait donc être un perturbateur ou ne pas l’être selon la quantité dans laquelle elle est présente dans l’environnement d’un individu.
 Or, de nombreux scientifiques s’opposent à cette approche liant l’effet à la dose. Dans son rapport publié en 2012, l’équipe du professeur Kortenkamp recommande l’abandon du <strong>critère de puissance</strong> comme déterminant éclairant la réglementation, notamment du fait de l’impossibilité de parvenir à un consensus quant à l’importance du danger des perturbateurs au sein de la communauté scientifique. Dans son article « Perturbateurs endocriniens : l’EFSA botte en touche », la scientifique Barbara Demeneix rappelle qu’au cours des premières semaines de développement d’un fœtus par exemple, <em> « il existe des moments clés du développement où une action sur le système hormonal de la mère, même transitoire, peut avoir des conséquences durables et irréversibles ». </em> </p> 
 
-<h2> Etablir des critères pour réglementer! hazard vs. moral risk</h2>
+<h2> Etablir des critères pour réglementer: hazard vs. moral risk</h2>
 
 <p>De ce débat visant à déterminer si le danger d’une exposition aux perturbateurs endocriniens est lié à la dose émerge une opposition qui sous-tend le débat existant au sein de la Commission : <strong>est-il possible de déterminer des seuils afin de réguler les Perturbateurs endocriniens </strong> ? En fait, le questionnement sous-jacent est le suivant : faut-il favoriser le principe de précaution en considérant que les effets des perturbateurs endocriniens sont probablement sous-estimés ou ne pas règlementer de façon outrancière en considérant que l’économie en pâtirait trop alors qu’on ne dispose pas d’informations assez fiables pour affirmer que les perturbateurs endocriniens sont dangereuxposent des problèmes sanitaires importants ? 
 Cette tension se reflète dans les deux approches s’opposant autour de la mise en place de règlementations : l’approche <strong>risk-based</strong> (évaluation des risques) et l’approche <strong>hazard-based</strong> (suppression pour cause de danger). La première considère que la mise en place de seuils est nécessaire et que la réglementation doit être adaptée à la puissance/dose des produits et donc cibler les produits les plus dangereux, tandis que la deuxième considère que si l’inoffensivité d’un produit n’est pas démontrée, celui-ci doit être supprimé en se basant sur <strong>le principe de précaution</strong>. Aujourd’hui, la plupart des produits chimiques sont régulés au sein de l’Union Européenne selon une classification en deux catégories : </p>
 
 <ul>
-<li> -	<strong>Hazard identification</strong> pour les produits présumés les plus dangereux selon des tests validés par l’OECD. </li>
-<li> -	<strong>Risk assessment & risk management </strong>: vérification du risque présenté par une certaine substance puis en résulte une restriction dans les zones d’usage ou la quantité d’usage. </li>
-
+<li> <strong>Hazard identification</strong> pour les produits présumés les plus dangereux selon des tests validés par l’OECD. </li>
+<li> <strong>Risk assessment & risk management </strong>: vérification du risque présenté par une certaine substance puis en résulte une restriction dans les zones d’usage ou la quantité d’usage. </li>
 </ul>
+
+<p> Toutefois la Commission précise : </p>
+
+<blackquote> <em> « La perturbation endocrinienne n’est pour le moment pas abordée par ce système de classification [hazard identification], étant donné qu’il n’existe pas de méthodes agréées pour détecter si un produit chimique est un perturbateur endocrinien ». </em> </blackquote> 
+
+<p> Cependant, on ne dispose pas non plus des outils nécessaires pour savoir s’il est possible d’établir ou non un seuil, selon le principe du NOAEL (<em>no observed adverse effect level</em>) qui définit ce seuil comme un niveau en-dessous duquel on n’observe aucun effet toxique sur la santé humaine. </p> <br>
+
+<p> Aussi, deux camps s’affrontent : le <strong>rapport Kortenkamp</strong> estime que du fait de la difficulté d’identifier les perturbateurs et du potentiel danger pour la santé humaine qu’ils présentent, ceux-ci doivent être considérés comme des <strong>CMR</strong> (carcinogenic, mutagenic and reprotoxic chemicals) pour lesquels on considère qu’ils représentent un danger et ce quelle que soit la quantité dans laquelle ils sont présents. Cette position est symbolisée par la déclaration de Berlaymont de 2013, signée par 89 scientifiques : elle dénonce une réglementation européenne inadéquate du fait qu’elle ne prend pas en compte les méthodes internationalement approuvées dans la communauté scientifique. Elle ignore le fait que certains perturbateurs peuvent agir sans seuil, provoquant des perturbations à toute concentration. 
+Cette approche selon le principe de précaution, soutenue par la plupart des organisations gouvernementales, est également défendue par l’Endocrine Society <strong> FICHE ACTEUR !!!!! </strong> , une société scientifique internationale dédiée à la recherche en endocrinologie, dans son article de 2015 : 
+</p>
+
+<blackquote> <em> « Un nombre grandissant d’études épidémiologiques révèle des liens entre la présence des perturbateurs endocriniens et une variété de maladies ». </em> </blackquote>
+
+<blackquote> <em> « Une approche précautionneuse est nécessaire pour limiter l’exposition aux perturbateurs endocriniens ». </em> </blackquote> 
+
+<blackquote> <em> « Les principes fondamentaux des perturbateurs endocriniens démontrent pourquoi il est impossible de définir la « puissance » d’un perturbateur, pourquoi il est impossible de définir des seuils d’action, et pourquoi on ne peut ignorer le fait que la réponse du corps humain face aux perturbateurs est non linéaire malgré que ce point soit fortement controversé ». </em> </blackquote> 
+
+<p> Le CREDO cluster aboutit aux mêmes conclusions, c’est-à-dire que l’approche conventionnelle permettant d’estimer des niveaux pour lesquels on n’observerait aucun effet indésirable sur la santé est inadéquate dans le cas des perturbateurs endocriniens. Un rapport de la Commission résumant la conclusion du groupe de la façon suivante : </p>
+
+<blackquote> <em> « De telles substances peuvent, même à une faible puissance et une faible exposition de l’individu, fonctionner ensemble pour produire un effet combinatoire signifiant si elles sont présentes en grand nombre ».</em> </blackquote>
+
+<p> A l’inverse, l’EFSA dans son rapport de 2013 conclue que : </p>
+
+<blackquote> Les perturbateurs endocriniens <em> « peuvent être traités de la même façon que la plupart des autres substances présentant un danger pour la santé humaine et l’environnement, c’est-à-dire que l’évaluation de risque [risk assessement] est envisageable au même titre que l’interdiction pour cause de danger [hazard assessement] » </em>. </blackquote>
+
+<p> Or, cet avis est partagé par les groupes de pression industriels tels que l’ECPA, une institution représentant les intérêts des groupes agricoles européen : son site « reasonable debate » a été mis en place dans le but de défendre une réglementation basée sur les doses. L’argument principal développé est : « interaction n’est pas synonyme de perturbation ». Sur le site internet de l’ECETOC (une organisation cherchant à aider l'industrie à minimiser les effets négatifs sur la santé humaine et l'environnement pouvant découler de la fabrication et de l'utilisation de produits chimiques), on retrouve un article de Richard W.Lewis, chercheur chez <strong>Syngenta</strong>, une société spécialisée dans la chimie et l’alimentaire et appartenant à l’ECETOC. Intitulé « guide pour identifier les perturbateurs endocriniens », il se présente en faveur de l’approche régulatrice liée à <strong>la dose</strong> (a weight-of-evidence approach). Les industries ne sont pas les seules à intervenir en faveur d’une approche risk-based : en mai 2011, <strong>l’Allemagne et l’Angleterre</strong> publient un document commun dans lequel ils se positionnent en faveur de l’établissement de seuils pour réguler les perturbateurs endocriniens. Selon le critère de puissance donc, seuls les plus dangereux perturbateurs endocriniens seraient retirés du marché, tandis qu’on laisserait aux autres substances le bénéfice du doute.</p>
+
+<h2> Le débat du côté du Parlement </h2>
+
+<p> Le Parlement européen semble être un pionnier dans le domaine puisqu’il est à l’origine de plusieurs législations visant à impulser la prise de décisions au niveau des perturbateurs endocriniens. Suite à une première résolution de 1998, le règlement REACH est adopté en 2006. Concernant les substances chimiques préoccupantes, il dispose que la Commission doit déterminer avant le 1er juin 2013 si l’établissement d’un seuil est pertinent ou non dans le cas des perturbateurs endocriniens. Trois ans plus tard, le règlement 1107/2009 concernant la mise sur le marché des produits phytopharmaceutiques fixe une nouvelle date butoir en demandant à la Commission de présenter une définition scientifique et des critères pour identifier les perturbateurs endocriniens avant le 14 décembre 2013, demande qu’il réitère dans le règlement 528/2012 de mai 2012 concernant la mise sur le marché des biocides. 
+Cependant, les débats vont bon train dans l’enceinte parlementaire et reflètent ceux qui existent au niveau de la Commission. Dans leur ensemble, les parlementaires semblent favoriser une approche hazard-based, évoquée en 2009 et défendue dans le rapport mené par la députée socialiste suédoise Asa Westlund en avril 2012. Mais ils sont en réalité divisés sur le sujet, notamment entre partis écologistes/socialistes et conservateurs. En janvier 2013, la députée britannique conservatrice Julie Girling organise un workshop intitulé “Risk versus Hazard – with reference to the Westlund report on Endocrine disruptors”, visant à discuter du bien-fondé du rapport Westlund et de l’approche hazard-based. Elle parle d’un « lobby de l’environnement » et considère les régulations des perturbateurs endocriniens comme une menace au libre-échange. Dans son article « The Junk Science Threat to Free Trade » publié en 2014 dans le Wall Street Journal, elle écrit que : </p>
+
+<blackquote> La toxicité des perturbateurs endocriniens pour la santé humaine est <em>« hypothétique au mieux, possiblement illusoire et certainement jamais établie scientifiquement ».</em> </blackquote>
+
+<p> Elle dénonce le fait que les perturbateurs endocriniens sont « instrumentalisés par les activistes anti-produits chimiques » et doivent être réglementés par un système qui évalue leurs véritables impacts, « basé sur des données scientifiques solides » (sound science), par opposition à ce qu’elle appelle de la fausse science (junk science). Pourtant, parmi les acteurs invités à son atelier, on ne retrouve aucun laboratoire indépendant, ni aucune organisation non gouvernementale : seulement des représentants d’industries ou de lobbies (ECETOC, Bayer, ECPA, BASF, ExxonMobil, …). </p>
+
+
+
+
+
 
 
 
