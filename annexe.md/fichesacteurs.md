@@ -245,16 +245,19 @@ Elle est également conseillée par un groupe d’experts indépendant, le Scien
       
       <h2> Les représentants des ONG / Associations</h2>
      
-       <p><strong>François Veillerette :  </strong> coordonner l’analyse stratégique, la programmation scientifique et la mise en œuvre opérationnelle de la recherche dans certains domaines
-•Allenvi : Alliance nationale de recherche pour l’environnement
-•Aviesan : Alliance nationale pour les sciences de la vie et de la santé
-•Athena : Alliance thématique nationale des sciences humaines et sociales
-
-     </p> <br/> 
-      
-      
-      
-    
+       <p><strong>François Veillerette :  </strong> président de l’association Générations Futures. Il a participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. Il est le co-auteur du livre Les perturbateurs endocriniens, La menace invisible. </p> <br/> 
+       
+         <h2> Les représentants européens</h2>
+        
+         <p><strong> Michelle Rivasi : </strong> député européenne impliquée dans la question des perturbateurs endocriniens. Elle a participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. Elle est au départ professeur de biologie.</p> <br/> 
+         
+         
+         <h2> Les représentants européens</h2>
+         
+         
+          <p><strong> Gérard Bapt :  </strong> député de Haute Garonne, ayant participé à la proposition de loi prévoyant la « suspension de la fabrication, de l’importation, de l’exportation et de la mise sur le marché de tout conditionnement, contenant ou ustensile comportant du bisphénol A et destiné à entrer en contact direct avec des denrées alimentaires ». Il a également participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. </p> <br/> 
+         
+  
 
 </article>
 </body>
