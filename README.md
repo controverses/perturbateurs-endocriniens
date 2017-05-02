@@ -98,7 +98,6 @@
 </head>
 <body>
 
-<div class="main">
 <article class="article">
 
 <div id="accueil" class="section-accueil">
@@ -148,6 +147,5 @@
  </div>
    
 </article>
-</div>
 </body>
 </html>
