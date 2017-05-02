@@ -68,8 +68,11 @@
 <article class="article">
   <h1>La France interpelle l'UE</h1>
   
-  <p >
-... </p> 
+    <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script>
+  <script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"perturbateurs endocriniens","geo":"","time":"all"},{"keyword":"endocrine disruptors","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=perturbateurs%20endocriniens,endocrine%20disruptors","guestPath":"https://trends.google.fr:443/trends/embed/"});
+  </script>
+
    
 </article>
 
