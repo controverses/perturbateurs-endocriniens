@@ -107,6 +107,20 @@ L’INRA, dépendant du ministère de la recherche et du ministère de l’agric
 On peut également citer pour les programmes publics les projets menés par l’Agence Nationale de Santé Publique ou encore le programme « Pesticides » soutenu par le Ministère de l’Ecologie. 
 </p>
 
+<p align="justify"> <strong> Des programmes privés </strong> 
+<p align="justify">De nombreuses entreprises se sont engagés sur la question des perturbateurs endocriniens. Nous allons ici nous intéresser plus précisément à deux d’entre elles. </p>
+<br/>
+
+<p align="justify"> <strong> Laboratoire Watchfrog</strong> 
+<p align="justify">« Premier laboratoire spécialisé dans la mesure des effets des perturbateurs endocriniens sur le vivant »
+Le laboratoire préselectionne des produits de l’industrie susceptibles d’avoir des effets perturbateurs endocriniens. Il teste ensuite les échantillons et donne un résultat chiffré sur le niveau de l’effet. Enfin, il interprète les résultats et accompagne l’entreprise pour élaborer un plan d’action. Ainsi, de nombreuses entreprises se sont associés à eux pour définir les protocoles de tests. 
+ </p>
+
+<p align="justify"> <strong> Veolia</strong> 
+<p align="justify">Lors du colloque Adebiotech en 2014, Bruno Tisserand (Veolia) a indiqué que Veolia a réalisé une cartographie des risques potentiels des perturbateurs endocriniens. Il constate que les outils disponibles pour les caractériser sont peu nombreux et qu’il y a un manque incontestable d’outils opérationnels pour la mise en évidence de ce type d’effets. Pour lui, tenter de changer les mentalités au niveau réglementaire passe par la démonstration que le suivi de ces effets serait plus pertinent pour les opérationnels que la détection d’une molécule à un instant t. Veolia s’est associé avec Watchfrog pour tenter de combler ce manque en mettant à disposition des industriels et des collectivités, un outil de maîtrise des risques de diffusion de produits dangereux pour l’environnement. L’objectif est de déployer une technologie directement sur site afin que l’opérationnel lui-même soit en mesure de réaliser son analyse en temps réel.
+ </p>
+ 
+ 
 
 
 
