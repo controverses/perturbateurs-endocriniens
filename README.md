@@ -68,7 +68,9 @@
 	display: block;
 	min-height: 100%;
 	width: 165%;
-	margin-left: -267px
+	margin-left: -267px;
+	margin-bottom:0;
+	margin-top:0;
 }
 
 #accueil {
