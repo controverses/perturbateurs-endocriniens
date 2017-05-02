@@ -279,7 +279,7 @@ http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-toll
 
 <li>Agir pour l’environnement. (2013). Réglementation européenne: la France peut faire la différence si elle garde le cap, [en ligne], consulté le 4 avril 2017. Disponible sur http://www.agirpourlenvironnement.org/campagne/arguments/03-reglementation-europeenne-la-france-peut-faire-la-difference-si-elle-ga</li><br>
 
-<li>BAROUKI, R. (2015). Les perturbateurs endocriniens. INSERM, [en ligne], consulté le 9 mars 2017. Disponible sur http://www.inserm.fr/index.php/thematiques/sante-publique/dossiers-d-information/les-perturbateurs-endocriniens</li>
+<li>BAROUKI, R. (2015). Les perturbateurs endocriniens. INSERM, [en ligne], consulté le 9 mars 2017. Disponible sur http://www.inserm.fr/index.php/thematiques/sante-publique/dossiers-d-information/les-perturbateurs-endocriniens</li><br>
 
 <li>Ministère des Affaires sociales et de la Santé (2015). Perturbateurs endocriniens, [en ligne], consulté le 25 février 2017. Disponible sur http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/perturbateurs-endocriniens</li><br>
 
@@ -393,11 +393,11 @@ http://www.lemonde.fr/planete/article/2016/06/16/perturbateurs-endocriniens-toll
 
 <li>Générations Futures. Perturbateurs endocriniens, la menace invisible [en ligne], consulté le 7 février 2017. Disponible sur http://www.perturbateurs-endocriniens.fr/</li><br>
 
-<li>Agir pour l’environnement [en ligne], consulté le 15 février 2017. Disponible sur <http://www.agirpourlenvironnement.org/></li>
+<li>Agir pour l’environnement [en ligne], consulté le 15 février 2017. Disponible sur http://www.agirpourlenvironnement.org/</li><br>
 
-<li>UFC-Que Choisir, [en ligne], consulté le 2 mars 2017. Disponible sur <http://www.quechoisir.org/></li>
+<li>UFC-Que Choisir, [en ligne], consulté le 2 mars 2017. Disponible sur http://www.quechoisir.org/</li><br>
 
-<li>60 millions de consommateurs, [en ligne], consulté le 25 février 2017. Disponible sur <http://www.60millions-mag.com/></li>
+<li>60 millions de consommateurs, [en ligne], consulté le 25 février 2017. Disponible sur http://www.60millions-mag.com/</li><br>
 
 <li>Réseau Environnement Santé, [en ligne], consulté le 14 mars 2017. Disponible sur http://www.reseau-environnement-sante.fr/le-res/</li>
 
