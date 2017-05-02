@@ -62,9 +62,8 @@
 
 ul {
     list-style-type: none;
-    margin-left:-265px;
+    margin-left:800px;
     margin-top:20px;
-    margin-right: -20px;
     padding: 0;
     width: 25%;
     background-color: none;
@@ -81,7 +80,6 @@ li a {
     padding: 8px 16px;
     text-decoration: none;
     text-align: right;
-    margin-right: -20px;
     border-right: 0.1rem solid #FFFFFF;
 }
 
