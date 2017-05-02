@@ -60,13 +60,51 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
+ul {
+    list-style-type: none;
+    margin-left:840px;
+    margin-top:20px;
+    padding: 0;
+    width: 25%;
+    background-color: none;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    font-size: 12px;
+    line-height: 1.5;
+    border-left: 0.1rem solid #FFFFFF;
+}
+
+li a {
+    display: block;
+    color: rgb(96, 108, 113);
+    padding:0;
+    text-decoration: none;
+    text-align: left;
+    margin-left:3px;
+}
+
+li a.active {
+    color: white;
+}
+
 </style>
 </head>
 
 <body style="background-color:rgb(139, 201, 222);">
   
   <article class="article">
-  <h1>Peut-on réellement s'en passer? </h1>
+  
+  <ul>
+  <li><a href="#détecter">Comment les détecter?</a></li>
+  <li><a href="#remplacer"> Peut-on remplacer les perturbateurs endocriniens ?</a></li><br>
+  <li><a href="#supprimer">Peut-on les supprimer ?</a></li><br>
+  
+</ul>
+
+<div id="détecter">
+
+  <h1 align="center">Peut-on réellement s'en passer? </h1>
   
   <h2>Comment les détecter? </h2>
   
@@ -90,6 +128,10 @@ Le laboratoire teste les échantillons envoyés par les entreprises et analyse l
 
 L’entreprise travaille maintenant en partenariat avec Véolia, et a mis sur le marché une FrogBox : une boîte avec des têtards directement utilisable par le client. En effet, Bruno Tisserand (Veolia) déplorait lors d’un colloque Adebiotech en 2014 le manque d’outils pour la mise en évidence des risques potentiels des perturbateurs endocriniens. </p>
 
+</div>
+
+<div id="remplacer">
+
 <p>
 <a href="http://www.watchfrog.fr/">Site Watchfrog </a> </p>
 <p> <a href="http://eur-lex.europa.eu/resource.html?uri=cellar:5c835afb-2ec6-4577-bdf8-756d3d694eeb.0001.02/DOC_1&format=PDF">Directive européenne 2000/60/CE:  </a> </p>
@@ -98,9 +140,8 @@ L’entreprise travaille maintenant en partenariat avec Véolia, et a mis sur le
 
 <p align="justify"> Certaines molécules ont des propriétés particulières et essentielles, qui sont devenues essentielles dans notre vie quotidienne. Par exemple, le Bisphénol A était principalement présents dans les contenants alimentaires. Suite à son interdiction, il a bien fallu le remplacer par une autre molécule. Les scientifiques sont donc à la recherche de substituts aux mêmes propriétés. 
 </p>
-<p>
-<U>
-→Une alternative aux phtalates: <br /></U></p>
+
+<h4>Une alternative aux phtalates: </h4>
 <p align="justify">
 Les phtalates sont un groupe de produits chimiques, ajoutés aux matières plastiques pour les rendre plus souples, flexibles et résistantes. Ils sont essentiels à la fabrication des bottes et des textiles imperméables par exemple.
 Des expériences sur les animaux ont prouvé que les phtalates en concentration élevés conduisent à une baisse de la fertilité, à une atrophie testiculaire ou encore à une réduction du poids du fœtus.
@@ -112,13 +153,15 @@ Certaines industries ne préfèrent pas attendre une réglementation plus strict
 <iframe width="544" height="306" src="//embedftv-a.akamaihd.net/aae7c4daf3395f1ec02caf23135ffd8f" frameborder="0" scrolling="no" allowfullscreen></iframe><br /><a href="http://www.francetvinfo.fr/france/vaisselle-jetable-quelles-solutions-pour-remplacer-le-plastique_1836841.html" target="_blank">Vaisselle jetable : quelles solutions pour remplacer le plastique ?</a>
 </div>
 
-<p>
-<U>
-→Une alternative aux parabènes <br /></U></p>
+<h4>Une alternative aux parabènes</h4>
 <p align="justify"> Les propriétés antibactérienne et antifongique du parabène en font un conservateur idéal pour les produits cosmétiques, les aliments et les médicaments. En 2010, leur utilisation est controversée : ils activent les récepteurs des oestrogènes, et agissent possiblement sur la fertilité et les tumeurs comme le cancer du sein. Le benzyl alcool DHA aussi appelé Cosgard ou Geogard 221 est un produit de substitution couramment utilisé. Il est certifié “écologiquement correcte” selon les normes de l’UE. 
 </p>
 
 <p><a href="http://www.consoglobe.com/geogard-221-alternative-aux-parabens-cg ">Plus d'informations sur ce lien.</a> </p>
+
+</div>
+
+<div id="supprimer">
 
 <p align="justify">
 Aujourd’hui, les associations de consommateurs constatent qu’il n’existe pas suffisamment de recherches sur les produits de substitution et que la plupart de ceux qui existent sont souvent aussi dangereux que les produits de base.  
@@ -153,8 +196,7 @@ Ces polymères ont des propriétés absorbantes et permettent de capter les diff
  
 
 
-
-
+</div>
 
   </article>
   </body>
