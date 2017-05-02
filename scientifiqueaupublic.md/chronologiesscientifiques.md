@@ -62,7 +62,7 @@
 
 ul {
     list-style-type: none;
-    margin-left:-50px;
+    margin-left:-100px;
     padding: 0;
     width: 25%;
     background-color: none;
