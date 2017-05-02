@@ -60,18 +60,67 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
+ul {
+    list-style-type: none;
+    margin-left:840px;
+    margin-top:20px;
+    padding: 0;
+    width: 25%;
+    background-color: none;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    font-size: 12px;
+    line-height: 1.5;
+    border-left: 0.1rem solid #FFFFFF;
+}
+
+li a {
+    display: block;
+    color: rgb(96, 108, 113);
+    padding:0;
+    text-decoration: none;
+    text-align: left;
+    margin-left:3px;
+}
+
+li a.active {
+    color: white;
+}
+
 </style>
 </head>
 
 <body style="background-color:#9A85A3;">
 
 <article class="article">
+
+
+<ul>
+  <li><a href="#alimenter">La "manufacture du doute"</a></li>
+  <li><a href="#EFSA"> L'EFSA au coeur de plusieurs controverses</a></li><br>
+  <li><a href="#garantie">Garantie d'indépendance</a></li><br>
+  <li><a href="#conflits">Conflits d'intérêts autour de la Commission</a></li><br>
+  <li><a href="#processus">Un processus démocratique ou scientifique ?</a></li><br>
+  <li><a href="#lobbying"> Le lobbying : création d’une alternative scientifique ?
+</a></li><br>
+  <li><a href="#transparence">Pour plus de transparence</a></li><br>
+  <li><a href="#basculement">Basculement vers une problématique économique</a></li><br>
+   <li><a href="#lobbying2">« Lobbying blitzkrieg » la </a></li><br>
+    <li><a href="#cry">« Cry wolf »
+</a></li><br>
+     <li><a href="#TAFTA">TAFTA/TTIP</a></li><br>
+     <li><a href="#poursuite">La poursuite de la mobilisation </a></li><br>
+  
+</ul>
+
+<div id="alimenter">
+
   <h1 align="center">Quels ressorts dans la mise en place d'une législation ?</h1>
   
   <h2> Alimenter la controverse scientifique ? La "manufacture du doute" </h2>
   
   <p><blockquote> “How a major EU public health initiative was effectively obstructed by corporate lobby groups in tandem with actors within the European Commission” - A toxic affair </blockquote></p>
-  
   
   
   <p> Ainsi, différents rapports scientifiques s’opposent, à l’image des divergences observées entre la déclaration de Berlaymont et le rapport de l’EFSA. Mais peuvent-ils véritablement tous être considérés comme scientifiques ? 
@@ -81,11 +130,19 @@ Le rapport de l’EFSA de 2013, par exemple, est dénoncé par Stéphane Horel <
   <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">(lien vers la fiche acteur) </a>(Gisela Degen). La thèse de Daniel Pickford, un écotoxicologiste anglais, a été financée par Syngenta 
   <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">(lien vers la fiche acteur) </a> . Trois autres sont jugés en conflit d’intérêts par Stephane Horel du fait de la position prise par leur pays ou l’organisme qui les emploie. Ainsi, Karen Hirsch-Ernst et Thomas Platzek sont deux toxicologistes travaillant pour le German Federal Institute for Risk Assessment (BfR). Or, celui-ci a, en 2011, pris position en faveur de critères de régulation basés sur la puissance des perturbateurs endocriniens via l’établissement d’un palier. C’est également le cas du gouvernement anglais, pour lequel travaille Susy Brescia (Head & Safety Executive). Enfin selon le document, seulement quatre des dix-huit experts avaient auparavant effectué des recherches scientifiques sur les perturbateurs endocriniens, et aucun n’était un spécialiste de l’endocrinologie humaine. L’intervention de l’EFSA dans la controverse pose d’autant plus question que ce n’est qu’en août 2012 que la DG SANCO (santé et consommateurs) signe un mandat permettant à l’agence de se saisir du dossier, alors même qu’il était sous la direction de la DG ENV (Direction générale liée à l’environnement), lui demandant de compléter le travail déjà effectué par la DG ENV, le JRS et leurs groupes de recherche associés. </p>
 
+</div>
+
+<div id="EFSA">
+
 <h2> L'EFSA au coeur de plusieurs controverses</h2>
 
 <p> Stéphane Horel a enquêté sur le contexte dans lequel émerge ce fameux rapport de 2013. Peu de temps avant sa publication, l’un des rédacteurs du rapport a envoyé un mail à ses collègues afin de leur faire part de ses préoccupations. En effet, le document arrivait à la conclusion opposée de celle du rapport WHO-UNEP, sur lequel se base en grande partie la Commission. L’auteur pensait qu’il serait difficile de le défendre, et qu’il était donc nécessaire de le refaire ou du moins le modifier afin que l’opposition apparaisse moins marquée. A cela, le responsable du groupe, Bernard Bottex, a répondu par la positive : </p>
 
 <p><blockquote> « Nous devons reconsidérer nos conclusions : les options 2 et 3 dans lesquelles nous expliquons que [les perturbateurs endocriniens] peuvent être considérés comme la plupart des autres produits chimiques, c’est-à-dire sujets à une évaluation selon le risque (risk assessement), nous isolent du reste du monde et de ce fait vont probablement être difficiles à défendre, du fait des incertitudes, du manque d’information et de l’absence de méthodes. N’importe quelle proposition pour reformuler en prenant en compte ces nouveaux paramètres est la bienvenue ». </blockquote></p>
+
+</div>
+
+<div id="garantie">
 
 <p> Pourtant, la conclusion finale du rapport, comme évoquée plus haut, n’a pas été modifiée, bien que le rapport de l’EFSA se garde de recommander explicitement l’approche risk-based qui serait en contradiction avec la politique de la DG ENV.
 L’EFSA a également été au centre d’une controverse autour du <strong>bisphénol A</strong> : en janvier 2015, alors que la généralisation de l’interdiction de la substance entre en vigueur en France (il avait été interdit dans les biberons en 2011), l’agence publie un rapport s’opposant aux conclusions de l’ANSES, agence scientifique du gouvernement français, qui estime que les seuils proposés par l’Union Européenne sont probablement trop élevés. Suite à cela, Ségolène Royal, ministre de l’écologie, « s’interroge sur le poids des lobbys » dans les décisions de l’EFSA lors d’une séance à l’Assemblée Nationale, selon un article du journal <em>Libération</em>. </p>
@@ -99,6 +156,10 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 <p><blockquote> « Plus de la moitié des 209 scientifiques de l’agence ont des liens directs ou indirects avec les industries qu’ils sont supposés réguler ». </blockquote></p>
 
 <p> Le problème selon l’institution provient des règles d’embauche de l’agence : </p>
+
+</div>
+
+<div id="conflit">
 
 <p><blockquote> « N’importe quel scientifique ayant des liens avec le secteur commercial peut toujours être accepté du moment que ceux-ci ne sont pas en relation avec le sujet sur lequel il travaille ». </blockquote></p>
 
@@ -115,6 +176,10 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 <img src="contributors.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:600px;"/>
 </div>
 
+</div>
+
+<div id="processus">
+
 <p> Enfin, il est important de souligner que les groupes de pression travaillant en collaboration avec l’Union Européenne ne sont pas de simples défenseurs des industries qu’ils représentent. Par exemple, le président de l’European Crop Protection Association (ECPA), Martin Dawkins, est le responsable de la région Moyen-Orient/Afrique chez Bayer, tandis que Patrick Thomas, le président de PlasticEurope est également PDG de l’assemblée générale de Bayer MaterialScience devenu Covestro, une des plus grosses manufactures de polymères.</p>
 
 <h2> Un processus démocratique ou scientifique ? </h2>
@@ -126,6 +191,10 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 <p> Certains parlent de “bureaucratie auxiliaire” ou d’”expertise gratuite”, à l’image de Martin Pigeon, militant chercheur au CEO lors de la conférence « Perturbateurs endocriniens : des connaissances scientifiques à l’action publique » du 21 avril 2017. Grâce à ce mécanisme de collaboration, la Commission dispose d’informations supplémentaires sur les stratégies des entreprises afin d’éclairer le processus décisionnel tandis les entreprises sont tenues au courant de l’avancée des débats sur la législation des perturbateurs, entre autres via un mécanisme de feedback leur permettant de donner leur avis sur la question. La Commission juge d’ailleurs elle-même être assez transparente sur le sujet, la plupart des échanges sur le sujet étant rendus publics, et estime être assez stricte sur la législation : </p>
 
 <p><blockquote> « Les régulations européennes sur les pesticides et les biocides font partie des plus strictes et des plus protectives dans le monde : les substances ne sont approuvées que si une évaluation menée par les experts des Etats membres et revue par l’EFSA ou l’ECHA démontre que sous des conditions réalistes elles ne produisent aucun effet indésirable sur la santé humaine ou animale ou sur l’environnement. » </blockquote></p>
+
+</div>
+
+<div id="lobbying">
 
 <p> Mais le problème dénoncé par les ONGs entre autres n’est pas tellement la collaboration de la Commission avec les industries mais le fait que leur avis, ou que l’avis d’agences dont les membres sont en conflit d’intérêt soient pris en compte au même titre que celui des scientifiques indépendants : dans le questionnaire, la Commission précise que « pour chaque substance, les agences scientifiques [agences de l’UE NDLR] ne s’intéressent pas seulement aux recherches effectuées par l’industrie mais également à la littérature scientifique revue par des pairs ». Cela signifie que la Commission utilise les deux sources, mais surtout les considère équivalentes. Elle s’assure tout de même que l’ensemble des groupes qui la conseillent suivent une certaine déontologie, appelée GLP (good laboratory practice) dont les critères sont déterminés par l’OECD. En fait, pour la Commission, la mise en place d’une législation est partie intégrante de la démocratie européenne, ce qui justifie que celle-ci intègre des discussions avec l’ensemble des parties prenantes. </p> 
 
@@ -144,6 +213,10 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 
 <p> Selon le rapport, l’entretien de la controverse scientifique par les industriels se fait grâce à <strong>la multiplication des sources du même message</strong>, principalement via les liens entretenus avec les diverses sources d’information de la Commission. Le but étant de faire croire à une absence de consensus au sein de la communauté scientifique en diffusant un message alternatif, ici celui de la possibilité de mettre en place des seuils pour réguler les perturbateurs endocriniens ou du moins de l’inutilité d’une réglementation trop restrictive du fait des incertitudes subsistant autour de la mesure de leur danger pour la santé humaine. </p
 
+</div>
+
+<div id="transparence">
+
 <p>Tout d’abord, la présence de membres des lobbies dans les agences et groupes d’experts de l’Union Européenne (EFSA, ED EAG, …) facilite la diffusion de leur message.<br>
 Le relai de cette idée est également permis par le phénomène du <strong>« revolving door »</strong>, c’est-à-dire l’embauche dans les grands groupes d’anciens parlementaires ou inversement l’entrée en politique d’anciens dirigeants de groupes industriels. Le CEO a par exemple réalisé une liste des commissaires ou parlementaires ayant par la suite été embauchés dans des entreprises privées cherchant à faire pression sur les institutions. Par exemple, Isabel Ortiz, membre de la DG entreprise, a été embauchée par FoodDrink Europe.<br>
 Par ailleurs, les lobbies publient eux-mêmes des documents citant les études dont la conclusion va dans le sens de leurs intérêts afin de poursuivre la construction de leur crédibilité. Ainsi, en mai 2012 paraît une critique du rapport Kortenkamp rédigée par cinq scientifiques, dans le journal académique Critical Reviews in Toxicology. Or, celle-ci est sponsorisée par l’American Chemistry Council (ACC) et les cinq auteurs ont travaillé comme consultants pour différentes industries. <br>
@@ -152,9 +225,17 @@ Enfin, Pesticide Action Network (PAN) Europe dénonce dans un document une colla
 
 <h2> Les actions de la Commission Européenne pour plus de transparence </h2> 
 
+</div>
+
+<div id="basculement">
+
 <p> Face aux accusations des ONGs et de certains journalistes et scientifiques, la Commission Européenne cherche à faire preuve de plus de transparence. Jean-Claude Juncker a ainsi dès le début de son mandat affirmé sa volonté d’accroître les exigences de transparence de la Commission en adoptant en novembre 2014 deux décisions requérant que pour chaque meeting entre des membres de la Commission ou des Directions Générales et des organisations, un maximum d’informations soit rendu public. De même, en principe, seules les organisations figurant dans le Registre de transparence peuvent dorénavant rencontrer des membres de la Commission. Depuis Janvier 2015, le registre exige que soient fournis des renseignements supplémentaires sur la participation à des forums ou des structures similaires de l'UE par exemple mais aussi sur les dossiers législatifs en cours. </p>
 
-<h2> Basculement sur une problématique économique </h2>
+<h2> Basculement vers une problématique économique </h2>
+
+</div>
+
+<div id="lobbying2">
 
 <p><blockquote> « La controverse scientifique s’était finalement dégonflée au cours de l’été 2013, un consensus scientifique ayant émergé autour de la nécessité d’une nouvelle réglementation ad hoc pour les perturbateurs endocriniens. Le coup de théâtre qui avait malgré tout permis d'éviter cette réglementation avait été la demande d’une étude d’impact économique par la Commission européenne ». Magali Reinert, Article Novethic 2017. <br>
 “The full knockout of DG Env was achieved by DG SANCO when the Secr-Gen. stopped the work of DG Env in July 2013 and demanded an impact assessment, making the costs for industry the major topic in a health regulation”.
@@ -188,9 +269,17 @@ De plus, la journaliste révèle dans son rapport plusieurs mails signés par le
 <img src="examples2.png" alt="Perturbateurs endocriniens" style="width:400px;height:600px;"/>
 </div>
 
+</div>
+
+<div id="cry">
+
 <p> Enfin comme le dit David Gee de l’Agence Européenne de l’Environnement dans le film Endocr(t)rinement, un documentaire réalisé en 2014 par Stéphane Horel, il est plus probable que l’issue soit favorable aux industries, les intérêts économiques étant beaucoup plus simples à évaluer que les intérêts environnementaux (du fait notamment qu’il s’agit d’enjeux à long terme sur la société dans son ensemble). </p>
 
 <h2> « Cry wolf »</h2>
+
+</div>
+
+<div id="TAFTA">
 
 <p> Les industriels mettent en avant la menace économique sur plusieurs secteurs, en particulier l’industrie et l’agriculture, si une nouvelle réglementation était mise en place. Pourtant, le coût sanitaire de quelques perturbateurs endocriniens est déjà évalué à plus de 150 millions d’euros (selon Stéphane Horel 158 milliards d’euros par an dans l’UE). Dans un rapport de 2015, l’organisation non gouvernementale ChemSec évoque l’idée selon laquelle les entreprises exagèrent les coûts afin de protéger leurs intérêts, illustrée par le terme « cry wolf », littéralement « crier au loup ». Par exemple, Food drink Europe, lobby de l’industrie alimentaire, fait intervenir l’argument d’un risque de crise alimentaire dans le cas où certains produits seraient interdits du fait des perturbateurs qu’ils contiennent et non remplacés.</p>
 
@@ -209,6 +298,10 @@ De plus, la journaliste révèle dans son rapport plusieurs mails signés par le
 
 </ul>
 
+</div>
+
+<div id="poursuite">
+
 <p> L’intervention des américains dans la controverse est facilitée par la collaboration des groupes américains et européens, à l’image de celle entre le CEFIC et l’ACC ou entre Croplife et l’European Crop Protection Agency. En 2014, ceux-ci publient conjointement une critique du rapport WHO-UNEP de 2012, affirmant que celui-ci ne devrait pas être utilisé comme base pour la mise en place de politiques publiques autour des perturbateurs endocriniens étant donné qu’il ne fournit pas une information objective de l’état de la science sur le sujet. <br>
 Les entreprises américaines ne sont pas les seules à se préoccuper de la régulation des perturbateurs endocriniens en vue de défendre leurs intérêts commerciaux : la Commission interagit également avec l’Argentine ou le Canada, comme lors de la conférence du 1er juin 2015 à Bruxelles.<br>
 Toutefois, les groupes industriels font face au rejet du TTIP par le grand public, comme en témoigne la manifestation du 18 avril 2015 ayant réuni 2000 participants dans la capitale belge, ou à Berlin le 10 octobre de la même année avec entre 50 et 100 000 manifestants selon un article du Figaro. Aussi, en 2014, la DG commerce informe le CEFIC sur la nécessité de rassurer le grand public sur le traité.
@@ -224,6 +317,8 @@ Mais il faut encore que le projet de loi soit examiné et accepté par le Parlem
   <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">(lien vers la fiche acteur) </a>, épidémiologiste à l’Institut national de la santé et de la recherche médicale (Inserm) de Grenoble, président du conseil scientifique du Programme national de recherche sur les perturbateurs endocriniens, et l’un de ces signataires, « c’est comme si on demandait aux industriels de développer une substance pour absorber l’énergie dans un réfrigérateur et qu’au cas où elle serait libérée dans l’atmosphère, on ne la classerait pas comme gaz à effet de serre, sous prétexte que cette propriété est voulue. Du point de vue scientifique, ça n’a aucun sens. Un perturbateur endocrinien doit être défini en fonction de son action sur la santé et sur le système hormonal et non pas en fonction de la finalité pour laquelle il a été développé ». <br>
 
 Comme le dit Stéphane Horel dans « A toxic affair », « la bataille autour de cette controverse politique de santé publique et environnementale dans l’Union Européenne est loin d’être terminée ».</p>
+
+</div>
    
 </article>
 
