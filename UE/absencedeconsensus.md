@@ -60,15 +60,59 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
+ul {
+    list-style-type: none;
+    margin-left:840px;
+    margin-top:20px;
+    padding: 0;
+    width: 25%;
+    background-color: none;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    font-size: 12px;
+    line-height: 1.5;
+    border-left: 0.1rem solid #FFFFFF;
+}
+
+li a {
+    display: block;
+    color: rgb(96, 108, 113);
+    padding:0;
+    text-decoration: none;
+    text-align: left;
+    margin-left:3px;
+}
+
+li a.active {
+    color: white;
+}
+
 </style>
 </head>
 
 <body style="background-color:#9A85A3;">
 
 <article class="article">
+
+<ul>
+  <li><a href="#qualification">Qualification et quantification du risque</a></li>
+  <li><a href="#absence"> Absence de consensus sur la régulation</a></li><br>
+  <li><a href="#définition">Un consensus sur la définition</a></li><br>
+  <li><a href="#débat">Le véritable débat</a></li><br>
+  <li><a href="#critères">Etablir des critères pour réglementer: hazard vs. moral risk</a></li><br>
+  <li><a href="#parlement">Le débat du côté du Parlement</a></li><br>
+</ul>
+
   <h1 align="center">De rapports en contradiction à des difficultés de réglementation</h1>
   
+  <div id="qualification">
+  
   <h2>Qualification et quantification du risque: des rapports en contradiction</h2> 
+  
+  </div>
+  
+  <div id="absence">
   
   <p> Les perturbateurs endocriniens sont présents dans une quantité impressionnante de produits du quotidien : pesticides, cosmétiques, plastiques, alimentaire… <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/vulgarisationscientifique.html">(lien vers la partie qui aborde le sujet)</a> </strong>  Jusqu’ici, les scientifiques ont identifié pas moins d’un millier de substances qui sont probablement des perturbateurs, et disent que la liste est sûrement plus importante en réalité. Aussi, déterminer l’effet de chacune de ces molécules sur la santé humaine est particulièrement compliqué. Pourtant, il existe dans la communauté scientifique un consensus pour dire que ces substances perturbent le système hormonal et sont à l’origine de la recrudescence de certaines maladies. </p>
   
@@ -80,13 +124,17 @@ De plus, un être humain est confronté à un nombre infini de substances pouvan
 
 <p><blockquote>« Il pourrait ne jamais être possible d’avoir la certitude qu’une exposition spécifique cause une maladie ou dysfonction spécifique ».</blockquote></p>
 
+</div>
+
+<div id="définition">
+
 <p> Cependant, le rapport attire l’attention sur le fait que les perturbateurs endocriniens sont susceptibles d’altérer la susceptibilité d’un individu à différents types de maladies tout au long de sa vie du fait de leur capacité à interagir avec le développement et le fonctionnement des organes et tissus. <br>
 Aussi, l’argument traditionnel « la dose fait le poison » est écarté par de nombreux scientifiques dans le cas des perturbateurs endocriniens, et tendrait à être remplacé par « le temps fait le poison », l’exposition sur le long terme étant davantage à l’origine des perturbations. <br>
 Pourtant, selon la Commission européenne, il existe toujours des doutes au niveau de la recherche scientifique quant à l’existence de réponses non monotoniques (NMDR), c’est-à-dire l’existence même de l’effet cocktail. En effet, les sources utilisées par la Commission sont extrêmement diverses et se contredisent. </p> 
 
 <h2> Un consensus sur la définition </h2>
 
-<p> La Commission s’intéresse au problème depuis 1996 <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/chronologie.html">(lien vers la chronologie)</a>  </strong> , soit cinq ans après l’émergence du sujet dans la communauté scientifique. Dès le début, elle a organisé plusieurs workshops à l’échelle européenne, a lancé de nombreux <a href="http://ec.europa.eu/environment/chemicals/endocrine/pdf/sec_2011_1001.pdf">programmes de recherche </a> et a mis en place différents groupes de réflexion. 
+<p> La Commission s’intéresse au problème depuis 1996 <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/chronologie.html">(lien vers la chronologie)</a>  </strong> , soit cinq ans après l’émergence du sujet dans la communauté scientifique. Dès le début, elle a organisé plusieurs workshops à l’échelle européenne, a lancé de nombreux <a href="http://ec.europa.eu/environment/chemicals/endocrine/pdf/sec_2011_1001.pdf">programmes de recherche </a> et a mis en place différents groupes de réflexion. <br>
 
 
 Par exemple, en avril 2003, le <strong>CREDO cluster</strong> voit le jour afin de mener 4 projets qui permettraient d’approfondir les connaissances scientifiques sur le sujet pour fournir une base de données à la Commission. Il regroupe 63 laboratoires pour un budget de 20 millions d’euros. A partir de juillet 2004, <strong>le projet REPROTECT</strong> associe 32 groupes de recherche européens parmi lesquels le Joint Research Center (JRS) de la Commission, dans un but de développement de méthodes de détection in vitro de produits toxiques, et pour un budget atteignant 13.2 millions d’euros au bout de 5 ans. La Commission investit également 14 millions d’euros dans <strong>le projet CASCADE</strong> regroupant 24 groupes de recherche provenant de neuf Etats-membres et visant à permettre une coordination durable de la recherche autour des résidus chimiques dans l’alimentation, en particulier des perturbateurs endocriniens. <br>
@@ -94,6 +142,10 @@ En 2009, la Direction Générale de l’Environnement (DG ENV) est désignée ch
 La même année, <strong> l’Organisation Mondiale de la Santé </strong> (OMS/WHO – World Health Organization) publie <a href="http://ec.europa.eu/environment/chemicals/endocrine/pdf/sota_edc_final_report.pdf">un rapport</a> récapitulant les connaissances scientifiques sur le sujet. Rapidement, un consensus se forme parmi les acteurs entourant la Commission autour de la définition des PE qu’il propose : </p>
 
 <p><blockquote> Un perturbateur endocrinien est "une substance ou mélange exogène altérant une ou plusieurs fonction(s) du système endocrinien et causant en conséquence des effets adverses sur la santé d’un organisme intact, de sa progéniture ou de sous-populations " </blockquote></p> 
+
+</div>
+
+<div id="débat">
 
 <p> Cette définition sert de base au groupe ED EAG, qui a posé comme éléments d’identification d’un perturbateur endocrinien la <em> « démonstration d’un effet adverse pour lequel il existe une preuve convaincante d’un lien causal biologique plausible entre le mode d’action de la molécule et la perturbation du système endocrinien, et que celle-ci n’est pas une conséquence secondaire de la toxicité d’une autre substance non endocrine ». </em> </p> 
 
@@ -109,6 +161,10 @@ La même année, <strong> l’Organisation Mondiale de la Santé </strong> (OMS/
 <p> Ces deux questions soulèvent des débats. La définition étant extrêmement vague, il est presque impossible d’identifier précisément les perturbateurs endocriniens. En effet, il est extrêmement compliqué de différencier les effets purement dus à un perturbateur de ceux liés au reste de l’environnement. <br>
 En mars 2013, l’EFSA, une des principales agences de l’Union Européenne chargée de l’évaluation des risques au niveau alimentaire, publie un rapport dénonçant le fait que les <strong>critères</strong> utilisés pour l’identification des perturbateurs endocriniens sont <strong>trop restrictifs</strong>. Partant des trois critères de définition d’un perturbateur endocrinien – induction d'un effet nocif, action endocrinienne et relation plausible entre les deux –, l'EFSA joue sur le fait qu'il est très difficile de distinguer un effet nocif d'un <strong>effet produisant une réponse physiologique</strong>. Ainsi, il ne serait pas possible de définir des critères spécifiques pour identifier des perturbateurs endocriniens, et chaque cas devrait être jugé séparément pour déterminer si un effet est une « modulation » ou un effet « nocif ». L’avis de l’EFSA soulève une difficulté : en faisant la distinction entre un effet nocif et un effet simplement physiologique, l'EFSA suggère que des mécanismes physiologiques peuvent protéger contre les effets de faibles doses et qu'un effet de courte durée n'est pas forcément néfaste. L’idée sous-jacente étant que l’organisme humain serait capable de <strong>s’adapter à une exposition aux perturbateurs</strong>, tant que celle-ci concerne une faible dose. Une même molécule pourrait donc être un perturbateur ou ne pas l’être selon la quantité dans laquelle elle est présente dans l’environnement d’un individu.<br>
 Or, de nombreux scientifiques s’opposent à cette approche liant l’effet à la dose. Dans son rapport publié en 2012, l’équipe du professeur Kortenkamp recommande l’abandon du <strong>critère de puissance</strong> comme déterminant éclairant la réglementation, notamment du fait de l’impossibilité de parvenir à un consensus quant à l’importance du danger des perturbateurs au sein de la communauté scientifique. Dans son article « Perturbateurs endocriniens : l’EFSA botte en touche », la scientifique Barbara Demeneix rappelle qu’au cours des premières semaines de développement d’un fœtus par exemple, <em> « il existe des moments clés du développement où une action sur le système hormonal de la mère, même transitoire, peut avoir des conséquences durables et irréversibles ». </em> </p> 
+
+</div>
+ 
+ <div id="critères">
 
 <h2> Etablir des critères pour réglementer: hazard vs. moral risk</h2>
 
@@ -144,6 +200,10 @@ Cette approche selon le principe de précaution, soutenue par la plupart des org
 
 <p><blockquote> Les perturbateurs endocriniens « peuvent être traités de la même façon que la plupart des autres substances présentant un danger pour la santé humaine et l’environnement, c’est-à-dire que l’évaluation de risque [risk assessement] est envisageable au même titre que l’interdiction pour cause de danger [hazard assessement]. » </blockquote></p>
 
+</div>
+
+<div id="parlement">
+
 <p> Or, cet avis est partagé par les groupes de pression industriels tels que l’ECPA, une institution représentant les intérêts des groupes agricoles européen : son site « reasonable debate » a été mis en place dans le but de défendre une réglementation basée sur les doses. L’argument principal développé est : « interaction n’est pas synonyme de perturbation ». Sur le site internet de l’ECETOC (une organisation cherchant à aider l'industrie à minimiser les effets négatifs sur la santé humaine et l'environnement pouvant découler de la fabrication et de l'utilisation de produits chimiques), on retrouve un article de Richard W.Lewis, chercheur chez <strong>Syngenta</strong>, une société spécialisée dans la chimie et l’alimentaire et appartenant à l’ECETOC. Intitulé « guide pour identifier les perturbateurs endocriniens », il se présente en faveur de l’approche régulatrice liée à <strong>la dose</strong> (a weight-of-evidence approach). Les industries ne sont pas les seules à intervenir en faveur d’une approche risk-based : en mai 2011, <strong>l’Allemagne et l’Angleterre</strong> publient un document commun dans lequel ils se positionnent en faveur de l’établissement de seuils pour réguler les perturbateurs endocriniens. Selon le critère de puissance donc, seuls les plus dangereux perturbateurs endocriniens seraient retirés du marché, tandis qu’on laisserait aux autres substances le bénéfice du doute.</p>
 
 <h2> Le débat du côté du Parlement </h2>
@@ -159,7 +219,7 @@ Cependant, les débats vont bon train dans l’enceinte parlementaire et reflèt
 
 <p> Toutefois, l’approche hazard-based disposant d’une bonne majorité au Parlement, le rapport Westlund aboutit en mars 2013 à une résolution précisant que les effets de n’importe quelle combinaison de perturbateurs endocriniens possible doivent être prise en considération et qu’étant donné que l’état actuel des connaissances scientifiques sur le sujet ne fournit pas une base suffisante pour mettre en place une limite en dessous de laquelle des effets indésirables ne se produiraient pas, les perturbateurs endocriniens doivent être considérés comme des substances sans seuil (non-threshold substances). </p>
 
-   
+</div>   
 </article>
 
 
