@@ -105,7 +105,7 @@ td, th
        <td>Directrice adjointe de l’UFR de Chimie de l’Université Pierre et Marie Curie et chercheuse </td>
        <td>Rendez-vous à l’UPMC dans son laboratoire de recherche</td>
        <td>2/03/2017</td>
-       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/agnesbee.md">Lien vers le compte-rendu</a> </p></td>
+       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/agnesbee.html">Lien vers le compte-rendu</a> </p></td>
    </tr>
    <tr>
       <td>Catherine Blaudin de Thé</td>
@@ -119,7 +119,7 @@ td, th
        <td>Journaliste indépendante</td>
        <td>Rencontre dans un restaurant </td>
        <td>15/03/2017</td>
-       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/horel.md">Lien vers le compte-rendu</a> </p></td>
+       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/horel.html">Lien vers le compte-rendu</a> </p></td>
      </tr>
     
     <tr>
@@ -127,7 +127,7 @@ td, th
        <td>Directeur business développement des laboratoires Neovia </td>
        <td>Entretien téléphonique</td>
        <td>16/03/2017</td>
-       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/claude.md">Lien vers le compte-rendu</a> </p></td>
+       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/claude.html">Lien vers le compte-rendu</a> </p></td>
       </tr>
     
      <tr>
@@ -135,7 +135,7 @@ td, th
        <td>Chargé de l’écologie pour Benoît Hamon </td>
        <td>Rendez-vous dans son bureau </td>
        <td>21/03/2017</td>
-       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/Gemenne.md">Lien vers le compte-rendu</a> </p></td>
+       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/Gemenne.html">Lien vers le compte-rendu</a> </p></td>
       </tr>
     
     <tr>
@@ -143,7 +143,7 @@ td, th
        <td>Policy officer at the European Commission, DG Health and Food Safety, Unit E4 – Pesticides and biocides </td>
        <td>Echange de mail (Rada a répondu à un questionnaire que nous lui avons envoyé)</td>
        <td>27/03/2017</td>
-       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.md">Lien vers le compte-rendu</a> </p></td>
+       <td><p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.html">Lien vers le compte-rendu</a> </p></td>
       </tr>
     
      <tr>
@@ -151,7 +151,7 @@ td, th
        <td> <a href="http://amades.hypotheses.org/6294">Lien vers le site internet</a></td>
        <td>Colloque à l’ENS, 45 rue d’ULM</td>
        <td>21/04/2017</td>
-       <td><p> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.md">Lien vers le compte-rendu</a>
+       <td><p> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.html">Lien vers le compte-rendu</a>
       </p></td>
       </tr>
     
@@ -160,8 +160,8 @@ td, th
        <td>Endocrinologue au laboratoire Évolution des régulations endocriniennes. Lauréate en 2014 de la médaille de l’innovation du CNRS</td>
        <td>Skype</td>
        <td>24/04/2017</td>
-       <td><p> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/Barbara.md">Lien vers le compte-rendu</a>
-      </tr>
+       <td><p> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/Barbara.html">Lien vers le compte-rendu</a>
+      </p></td></tr>
     
     
     
