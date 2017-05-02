@@ -120,11 +120,12 @@ La déclaration est disponible <a href="http://reseau-environnement-sante.fr/wp-
 
 <p>Cette conférence, à l’initiative de Theo Colborn, acte véritablement de la découverte de ce fait scientifique et fait état, à l’époque, d’un consensus entre les scientifiques majeurs dans ce domaine. Le terme même de perturbateurs endocriniens, que nous employions dans nos précédents paragraphes de manière anachronique, a été inventé durant la conférence de Wingspread. Ainsi, au sein de la déclaration de Wingspread, les scientifiques témoignent des avancées scientifiques sur le sujet dans une première et une troisième partie, ils écrivent ainsi :</p>
 
+
 <p><blockquote>“Un grand nombre de produits chimiques de synthèse libérés dans la nature, ainsi que quelques composés naturels, sont capables de dérégler le système endocrinien des animaux, y compris [celui de] l’homme.”</blockquote></p>
 
 <p><blockquote>“Les effets varient selon les espèces et les composés. Toutefois, on peut faire quatre remarques : a. les composés concernés peuvent avoir des effets très différents sur l'embryon et sur l'adulte; b. les effets se manifestent surtout sur la génération suivante, et non chez les parents exposés ; c. la période d'exposition au cours du développement de l'organisme est cruciale, déterminant l'ampleur et la nature des effets ; d. la période d'exposition la plus critique correspond à la vie embryonnaire, mais les effets peuvent ne pas se manifester avant l'âge adulte.”</blockquote></p> 
 
-<p><blockquote>“Les études en laboratoire confirment les développements sexuels anormaux observés dans la nature et permettent de comprendre les mécanismes biologiques mis en jeu.”</blockquote></p>
+<p><blockquote>“Les études en laboratoire confirment les développements sexuels anormaux observés dans la nature et permettent de comprendre les mécanismes biologiques mis en jeu.”</blockquote></p> 
 
 <p><blockquote>“Les humains sont également affectés par ces composés.”</blockquote></p>
 
