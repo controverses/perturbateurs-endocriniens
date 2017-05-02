@@ -155,13 +155,14 @@ Le Dichlorodiphényltrichloroéthane, plus communément appelé DDT est une mol�
 
 <p>De plus, les scientifiques ont rencontré et rencontrent toujours des difficultés à étudier les cas d’exposition à des perturbateurs endocriniens pour des populations humaines, car ils manquent souvent de données, de statistiques, et de groupe témoin. On peut ici prendre l’exemple de la catastrophe de Seveso où une usine chimique explose en 1976 dispersant un nuage de dioxine, substance chimique perturbatrice endocrinienne, au-dessus de la ville de Seveso. Les scientifiques ont voulu analyser si l’incidence de fausses couches, de malformations génitales et de cancer avait augmenté après l’accident, seulement ils se sont heurtés au manque de statistiques menées avant l’accident et à la difficulté d’évaluer le degré de contamination des individus en fonction de leur lieu d’habitat. Ainsi, l’analyse de l’exposition humaine aux perturbateurs endocriniens est très difficile car les scientifiques manquent de moyens pour établir des études fiables, d’autant plus que les perturbateurs endocriniens remettent en question la toxicologie classique, nous allons le voir.</p> 
 
+</div>
+
+<div id= "position">
+
 <p style="border:5px; border-style:solid; border-color:rgb(96, 108, 113); padding: 1em;"> <strong>La dioxine</strong> <br><br>
 
 La dioxine est une substance perturbatrice endocrinienne. Il y a pour le moment 419 types de composés apparentés à la dioxine qui est la 2,3,7,8 - tétrachlorodibenzodioxine (TCDD), dont 30 sont considérés comme particulièrement toxiques. Le plus dangereux étant la molécule originelle, la TCDD. La dioxine est une molécule fabriquée naturellement en de très faible quantité comme lors de l’activité d’un volcan mais celle-ci est aussi produite par les activités industrielles de l’Homme puisqu’elle est principalement issue des combustions. Cette molécule et ses dérivés sont classés parmi les 10 produits chimiques les plus dangereux par l’OMS. </p>
 
-</div>
-
-<div id= "position">
 
 <h2>Vers une position scientifique déterminée</h2> 
 
