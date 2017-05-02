@@ -67,8 +67,8 @@
 .section-accueil {
 	display: block;
 	min-height: 100%;
-	width: 175%;
-	margin-left: -260px
+	width: 165%;
+	margin-left: -265px
 }
 
 #accueil {
