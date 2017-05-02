@@ -99,7 +99,7 @@
 
 </style>
 </head>
-<body margin: 140px 0px 0px >
+<body margin: 140px 0px 0px 0px; >
 
 <article class="article">
 
