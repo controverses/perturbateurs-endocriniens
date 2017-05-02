@@ -106,22 +106,22 @@ Elle est également conseillée par un groupe d’experts indépendant, le Scien
     
      <h2>Les Etats membres de l’UE</h2>
     <p>Chaque Etat dispose d’agences à l’échelle nationale. Souvent, notamment dans les groupes d’experts de la Commission, ce sont les membres de ces agences qui participent aux discussions concernant les perturbateurs endocriniens.
-    </p>
+    </p><br/>
     
     <p><strong>France : </strong> l’ANSES est un établissement public à caractère administratif placé sous la tutelle des ministres chargés de la Santé, de l'Agriculture, de l'Environnement, du Travail et de la Consommation. Ses missions, fixées par l'ordonnance n°2010-18 du 7 janvier 2010, couvrent l'évaluation des risques dans le domaine de l'alimentation, de l'environnement et du travail, en vue d'éclairer les pouvoirs publics dans leur politique sanitaire.
-     </p> 
+     </p> <br/>
     
     <p><strong>Allemagne :  </strong> le Federal Institute for Risk Assessment (BfR) est selon son site officiel une institution scientifique indépendante appartenant au ministère fédéral de l’alimentation et de l’agriculture (BMEL). Il évalue les risques des produits de consommation et d’alimentation ainsi que des produits chimiques pour la santé et cherche à les minimiser.
-       </p> 
+       </p> <br/>
     
      <p><strong>Finlande :  </strong> la Finnish Safety and Chemicals Agency ou Tukes est une agence appartenant au ministère de l’emploi et de l’économie. Sa mission est de renforcer la sécurité des produits chimiques et technologiques ainsi que des produits de consommation. Cependant, l’alimentation et la sécurité médicale sont sous le contrôle d’autres agences (Evira, Fimea et Valvira).
-    </p> 
+    </p> <br/>
     
     <p><strong>Suède :   </strong> la Swedish Chemicals Agency, sous l’autorité du gouvernement suédois, s’assure que les grandes compagnies contrôlent les produits chimiques de façon acceptable.
-    </p> 
+    </p> <br/>
     
      <p><strong>Pays-Bas :  </strong> RIVM est une institution qui cherche à prévenir et contrôler les crises sanitaires. Elle s’intéresse à la santé publique et à la sécurité des consommateurs et cherche à protéger la qualité de l’environnement. Elle rassemble les connaissances nationales et internationales afin de les mettre à disposition des autorités politiques. Elle est missionnée par divers ministères, l’UE et les Nations Unies.
-       </p> 
+       </p> <br/>
     
     <h2>Les lobbies</h2>
     
