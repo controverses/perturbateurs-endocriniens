@@ -95,10 +95,10 @@ li a.active {
 <article class="article">
 
 <ul>
-  <li><a href="#apogée">L'apogée de l'industrie chimique</a></li>
+  <li><a href="#apogée">L'apogée de l'industrie chimique</a></li><br>
   <li><a href="#impacts">Impacts et études des produits chimiques</a></li>
-  <li><a href="#émergence">L’émergence du fait scientifique </a></li>
-  <li><a href="#position">Vers une position scientifique déterminée</a></li>
+  <li><a href="#émergence">L’émergence du fait scientifique </a></li><br>
+  <li><a href="#position">Vers une position scientifique déterminée</a></li><br>
   
 </ul>
 
