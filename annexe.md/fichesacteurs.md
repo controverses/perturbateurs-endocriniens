@@ -257,8 +257,7 @@ Elle dispose de deux groupes d’experts :<br/>
           <h2> Les journalistes</h2>
          
   
-<p><strong>Stéphane Horel</strong> est une journaliste spécialiste du sujet. Elle a d’abord écrit pour le journal Le Monde avant de devenir une journaliste indépendante. Elle s’intéresse plus particulièrement dans son travail de recherches au pouvoir des lobbies industriels sur les tentatives de réglementation des perturbateurs endocriniens qui sont organisées à l’échelle européenne. Elle a publié en 2015 le livre Intoxication: Perturbateurs endocriniens, lobbyistes et eurocrates: une bataille d’influence contre la santé. Elle a également réalisé en 2010 un documentaire avec France 5, qui cherche à faire un état des lieux de la situation, considérée comme grave, tout en faisant le choix d’aborder le sujet avec beaucoup de second degré. 
-https://www.youtube.com/watch?v=RxktDSeVAWQ</p>
+<p><strong>Stéphane Horel</strong> est une journaliste spécialiste du sujet. Elle a d’abord écrit pour le journal Le Monde avant de devenir une journaliste indépendante. Elle s’intéresse plus particulièrement dans son travail de recherches au pouvoir des lobbies industriels sur les tentatives de réglementation des perturbateurs endocriniens qui sont organisées à l’échelle européenne. Elle a publié en 2015 le livre Intoxication: Perturbateurs endocriniens, lobbyistes et eurocrates: une bataille d’influence contre la santé. Elle a également réalisé en 2010 un <a href="https://www.youtube.com/watch?v=RxktDSeVAWQ">documentaire</a> avec France 5, qui cherche à faire un état des lieux de la situation, considérée comme grave, tout en faisant le choix d’aborder le sujet avec beaucoup de second degré. </p>
 
 <p><strong>Stéphane Foucart</strong> est un journaliste du Monde sur les sciences de l’environnement.</p>
 
