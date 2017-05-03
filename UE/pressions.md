@@ -147,10 +147,11 @@ L’auteur pensait qu’il serait difficile de le défendre, et qu’il était d
 <p> Pourtant, la conclusion finale du rapport, comme évoquée plus haut, n’a pas été modifiée, bien que le rapport de l’EFSA se garde de recommander explicitement l’approche risk-based qui serait en contradiction avec la politique de la DG ENV.
 L’EFSA a également été au centre d’une controverse autour du <strong>bisphénol A</strong> : en janvier 2015, alors que la généralisation de l’interdiction de la substance entre en vigueur en France (il avait été interdit dans les biberons en 2011), l’agence publie un  <a href="http://www.efsa.europa.eu/en/efsajournal/pub/3978">rapport</a> s’opposant aux conclusions de l’ANSES, agence scientifique du gouvernement français, qui estime que les seuils proposés par l’Union Européenne sont probablement trop élevés. Suite à cela, Ségolène Royal, ministre de l’écologie, « s’interroge sur le poids des lobbys » dans les décisions de l’EFSA lors d’une séance à l’Assemblée Nationale, selon un <a href="http://www.liberation.fr/france/2015/01/21/bisphenol-a-segolene-royal-s-interroge-sur-le-poids-des-lobbies_1185726">article</a> du journal <em>Libération</em>. </p>
 
+<p> La vision de l'EFSA de la science indépendante :
 <div style="text-align: center">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ibfAF66JzFE" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=N0FEVglpQcw&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
 <div/>
-
+<p>
 
 <h4>La nécessité d'une garantie d'indépendance pour la fiabilité des recherches</h4>
 
