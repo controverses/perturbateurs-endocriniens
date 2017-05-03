@@ -110,7 +110,7 @@ li a.active {
 <p align="justify"> En effet, le 27 juillet 2009, M. Yvon Collin, sénateur du Tarn-et-Garonne, et plusieurs de ses collègues, déposent au Sénat un texte proposant l’interdiction du BPA dans les biberons. L’une des nouveautés instaurées par le scandale du Bisphénol A est la gestion des perturbateurs endocriniens au niveau politique, et non plus seulement au niveau des autorités sanitaires et juridiques, comme cela avait été le cas auparavant avec le <a href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/emergencedansledebatpublic.html#retentissements">distilbène</a>. Ce texte donne lieu à l’adoption de la loi du 30 juin 2010 relative à l’interdiction du BPA dans les biberons qui aboutit elle-même à une décision harmonisée de la Commission Européenne (directive 2011/8/UE) en janvier 2011, interdisant l’utilisation du BPA dans les biberons pour nourrissons en polycarbonate.<br/></p>
  
  <div style="text-align: center">
-  <img src="BPA.png" alt="Perturbateurs endocriniens"  style="width:500px;height:500px;">
+  <img src="BPA.png" alt="Perturbateurs endocriniens"  style="width:auto;height:500px;">
 </div>
 
  
