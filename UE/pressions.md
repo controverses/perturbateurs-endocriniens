@@ -152,9 +152,8 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 
 <p> Bien que l’EFSA soit la source technique de l’UE la plus décriée sur le sujet, la plupart des groupes d’experts sur lesquels se base la Commission contiennent des membres appartenant à des parties prenantes telles que les industries concernées par la régulation ou les Etats-membres de l’Union ayant chacun leur propre vision du problème, comme il est possible de le voir sur le schéma. </p>
 
-<P><A href="file:///Users/irismarechal/Downloads/Commission%20Europ%C3%A9enne.svg"><IMG src="organigramme.png" ismap border="0"></A>
 <div style="text-align: center">
-<img src="organigramme.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:700px;height:700px;"/>
+<P><A href="file:///Users/irismarechal/Downloads/Commission%20Europ%C3%A9enne.svg"><IMG src="organigramme.png" ismap border="0"></A>
 </div>
 
 <p> Tout d’abord, les membres de l’<em>Endocrine Disruptors Expert Advisory Group</em> sont nommés par les Etats-membres. Or, comme il est possible de le constater sur la liste des membres de l’ED EAG tirée d’un des <a href="http://publications.jrc.ec.europa.eu/repository/bitstream/JRC79981/lbna25919enn.pdf">rapports</a> du Joint Research Center de 2013 (Key scientific issues relevant to the identification and characterisation of endocrine disrupting substances), il peut s’agir de chercheurs appartenant à des universités nationales, mais également d’agences nationales telles que RIVM aux Pays-Bas, l’ANSES en France ou le Federal Institute for Risk Assessement allemand (BfR), qui sont sous contrôle du gouvernement. Aussi, il est important de se demander si <strong>l’impartialité scientifique</strong> prime sur la représentation de la <strong>stratégie nationale</strong>. Enfin, on retrouve tout autant des membres d’ONGs telles que HEAL et Chem Trust (Ninja Reineke et Gwynne Lyons) que des membres de groupes de pression d’industries comme l’ECETOC, un lobby de l’industrie chimique particulièrement influent auxquels appartiennent entre autres BASF, Bayer, Syngenta ou Dow (James Wheeler).  </p>
@@ -221,7 +220,7 @@ Rapport du Pesticide Network Organization. </blockquote></p>
 <h4>  « Lobbying blitzkrieg »</h4>
 
 <div style="text-align: center">
-<img src="13.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:200px;height:500px;"/>
+<img src="13.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:500px;"/>
 </div>
 
 <p> Le 7 juin 2013, la DG ENV sort finalement son rapport sur les perturbateurs endocriniens, rassemblant les connaissances scientifiques sur le sujet et en déduisant des recommandations à l’adresse de la Commission afin d’élaborer son projet de loi. Elle invite les autres Directions Générales de la Commission à donner leur avis.<br> 
