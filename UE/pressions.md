@@ -97,7 +97,7 @@ li a.active {
 
 
 <ul>
-  <li><a href="#alimenter">La "manufacture du doute"</a></li>
+  <li><a href="#alimenter">La "manufacture du doute"</a></li><br>
   <li><a href="#basculement">Basculement vers une problématique éco</a></li><br>
   
 </ul>
