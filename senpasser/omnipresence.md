@@ -194,7 +194,7 @@ La conférence donnée par le journaliste pour Le Monde, Stéphane Foucart, sur 
 7.	Pour finir, le travail de recherche qui est nécessaire est délicat puisque tous les acteurs ont un intérêt dans cette controverse et vont ainsi avoir tendance à la décrire avec un certain point de vue. Par exemple, Stéphane Foucart précise qu’il préfère ne pas travailler avec des associations car ses articles risquent alors d’être critiqués comme étant non objectifs par la communauté scientifique.<br/>
 
 <div style="text-align: center">
-  <img src="composition.png" alt="Perturbateurs endocriniens"  style="width:500px;height:500px;">
+  <img src="journalendocrine.png" alt="Perturbateurs endocriniens"  style="width:500px;height:auto;">
 </div>
 
 
