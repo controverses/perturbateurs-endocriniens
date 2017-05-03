@@ -97,11 +97,11 @@
 
 <h2>2003</h2>
 
-<p>Lancement du CREDO cluster, un groupe de recherches dont les principaux objectifs sont la mise au point de tests et de dosages pour déceler toute activité perturbant le système endocrinien dans les produits chimiques et de méthodologies d’essai et de stratégies d’évaluation (notamment des effets des PE sur les organes non reproducteurs).</p><br>
+<p>Lancement du CREDO cluster, un groupe de recherches dont les principaux objectifs sont la mise au point de tests et de dosages pour déceler toute activité perturbant le système endocrinien dans les produits chimiques et de méthodologies d’essai et de stratégies d’évaluation (notamment des effets des PE sur les organes non reproducteurs).</p>
 
 <h2>2006</h2>
 
-<p><strong>Décembre</strong> : 
+<p><strong>Décembre</strong>
 
 <ul>
 <li>Adoption par le Parlement du règlement REACH. Son but est d’assurer un niveau élevé de protection et de renforcer l'esprit d'innovation de l'industrie chimique par la substitution des substances très préoccupantes comme les cancérogènes, les mutagènes. Il dispose que la Commission doit déterminer avant le 1er juin 2013 si l’établissement d’un seuil est pertinent ou non dans le cas des perturbateurs endocriniens. </li>
@@ -113,17 +113,17 @@
 <p>La Direction Générale de l’environnement (DG ENV) est désignée chef de file pour l’établissement d’une régulation. Elle commande un rapport à un consortium d’experts dirigé par le professeur Kortenkamp.
 Première publication de l’Endocrine Society sur le sujet.</p>
 
-<p><strong>Octobre</strong> : Adoption par le Parlement du règlement 1107/2009 concernant la mise sur le marché des produits phytopharmaceutiques. Ce règlement préconise l’approche hazard-based (principe de précaution) et demande à la Commission de présenter une définition scientifique et des critères pour identifier les perturbateurs endocriniens avant le 14 décembre 2013.</p><br>
+<p><strong>Octobre</strong> : Adoption par le Parlement du règlement 1107/2009 concernant la mise sur le marché des produits phytopharmaceutiques. Ce règlement préconise l’approche hazard-based (principe de précaution) et demande à la Commission de présenter une définition scientifique et des critères pour identifier les perturbateurs endocriniens avant le 14 décembre 2013.</p>
 
 <h2>2010</h2>
 
-<p>Constitution d’un groupe ad-hoc sous la direction de la DG environnement, constitué de 40 experts provenant des différents Etats-membres, d’agences publiques, de centre de recherche, d’autres DGs, de l’EFSA (+ 5 sièges d’observateurs pour les industries et les ONGs).</p><br>
+<p>Constitution d’un groupe ad-hoc sous la direction de la DG environnement, constitué de 40 experts provenant des différents Etats-membres, d’agences publiques, de centre de recherche, d’autres DGs, de l’EFSA (+ 5 sièges d’observateurs pour les industries et les ONGs).</p>
 
 <h2>2011</h2>
 
 <p><strong>Mai</strong> : Publication commune de l’Angleterre et l’Allemagne en faveur de l’établissement de valeurs-seuil pour les régulations, préconisant l’approche risk-based (principe de puissance).</p>
 
-<p><strong>Novembre</strong> : En plus du groupe ad-hoc, la Commission créé un groupe d’experts, l’Expert Advisory Group, destiné à apporter des éléments techniques sur le sujet.</p><br>
+<p><strong>Novembre</strong> : En plus du groupe ad-hoc, la Commission créé un groupe d’experts, l’Expert Advisory Group, destiné à apporter des éléments techniques sur le sujet.</p>
 
 <h2>2012</h2>
 
@@ -131,7 +131,7 @@ Première publication de l’Endocrine Society sur le sujet.</p>
 
 <p><strong>Avril</strong> : Rapport parlementaire mené par la députée socialiste suédoise Asa Westlund, supportant l’approche basée sur le principe de précaution adoptée par la DG ENV et demandant à ce que les perturbateurs endocriniens soient ajoutés au règlement REACH.</p>
 
-<p><strong>Mai</strong> : 
+<p><strong>Mai</strong>
 
 <ul>
 <li>Adoption par le Parlement du règlement 528/2012 concernant la mise sur le marché des biocides. Avec le règlement de 2009, ce sont sur ces deux textes que se base la Commission pour l’établissement d’une future régulation sur les perturbateurs endocriniens.</li>
@@ -143,14 +143,14 @@ Première publication de l’Endocrine Society sur le sujet.</p>
 
 <p><strong>Juillet</strong> : Commentaire du rapport Kortenkamp par le Hazardous Substances Advisory Committee (HSAC) du gouvernement anglais.
 
-<p><strong>Août</strong> : </p>
+<p><strong>Août</strong> </p>
 <ul>
 <li>Publication par l’OECD d’une revue détaillée sur l’état des connaissances scientifiques et des méthodes permettant de détecter et d’identifier les perturbateurs endocriniens.</li>
 <li>La DG SANCO mandate l’EFSA pour intervenir sur le sujet.</li>
 </ul>
 
 <p><strong>Octobre</strong> : Publication de l’article « Risk assessment of endocrine active chemicals : identifying chemicals of regulatory concern » rédigé par l’ECETOC et édité par Elsevier, une importante maison d’édition de littérature scientifique mais boycottée par certains scientifiques.
-Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine Disrupting Chemicals, alarmant sur la nécessité d’établir rapidement des régulations et sur les dangers de l’effet cocktail probablement sous-estimé.</p><br>
+Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine Disrupting Chemicals, alarmant sur la nécessité d’établir rapidement des régulations et sur les dangers de l’effet cocktail probablement sous-estimé.</p>
 
 <h2>2013</h2>
 
@@ -158,7 +158,7 @@ Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine 
 
 <p><strong>Janvier</strong> : La députée conservatrice britannique Julie Girling organise un atelier contre le rapport Westlund, “Risk versus Hazard – with reference to the Westlund report on Endocrine disruptors” : see guestlist.</p>
 
-<p><strong>Mars</strong> : 
+<p><strong>Mars</strong>
 
 <ul>
 <li>Publication de l’EFSA, « Scientific Opinion on the hazard assessment of endocrine disruptors », recommandant une approche risk-based.</li>
@@ -211,7 +211,7 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 <p><strong>Novembre</strong> : Juncker devient Président de la Commission. Le dossier sur les perturbateurs endocriniens est confié à la DG SANTE.</p>
 
-<p><strong>Décembre</strong> : Mémorandum du Scientific Committee on Consumer Safety rejoignant les conclusions de l’EFSA sur la possibilité d’une approche risk-based.</p><br>
+<p><strong>Décembre</strong> : Mémorandum du Scientific Committee on Consumer Safety rejoignant les conclusions de l’EFSA sur la possibilité d’une approche risk-based.</p>
 
 <h2>2015</h2>
 
