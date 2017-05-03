@@ -125,7 +125,7 @@ li a.active {
 
 
 <div style="text-align: center">
-  <img src="composition.png" alt="Perturbateurs endocriniens"  style="width:600px;height:600px;">
+  <img src="composition.png" alt="Perturbateurs endocriniens"  style="width:650px;height:650px;">
 </div>
 
 <p style="text-align:center;"> <i>Points de désaccord du groupe de travail :</i></p>
@@ -135,7 +135,7 @@ li a.active {
 <div id="texte">
 
 <div style="text-align: center">
-<img src="tableau.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:500px;"/>
+<img src="tableau.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:700px;height:500px;"/>
 </div>
 
 <h2>Le texte de la Stratégie </h2>
