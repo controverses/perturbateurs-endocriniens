@@ -107,7 +107,7 @@ li a.active {
   
 <div id= "exposition">
   
-<p>Les humains sont exposés aux perturbateurs endocriniens “par de multiples voies (ingestion, inhalation, contact cutané) et de multiples milieux (eaux, aliments, produits ou articles de consommation, dispositifs médicaux…).” d’après l’Anses, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail. En effet, les perturbateurs endocriniens sont omniprésents dans notre quotidien d’individus de pays industrialisés mais c’est aussi le cas pour des populations très éloignées des zones initiales de pollution.</p> 
+<p>Les humains sont exposés aux perturbateurs endocriniens “par de multiples voies (ingestion, inhalation, contact cutané) et de multiples milieux (eaux, aliments, produits ou articles de consommation, dispositifs médicaux…).” d’après l’<a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">Anses</a>, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail. En effet, les perturbateurs endocriniens sont omniprésents dans notre quotidien d’individus de pays industrialisés mais c’est aussi le cas pour des populations très éloignées des zones initiales de pollution.</p> 
 
 
 <h2>Une exposition omniprésente et quotidienne</h2>  
@@ -127,7 +127,7 @@ li a.active {
 <p>Les vernis utilisés pour les meubles, la vaisselle en plastique, les ustensiles de cuisines, les produits ménagers peuvent contenir du Bisphénol A, des phtalates, benzène et bien d’autres. Même s'ils ne sont pas ingérés de manière directe, nos aliments s’en imprègnent, en particulier quand ils sont chauffés. Le Plan de la qualité de l’air intérieur publié en 2013 témoigne de l’omniprésence de ces molécules volatiles à l’intérieur d’une maison.</p> 
 
 <h4> L’eau du robinet </h4> 
-<p>L’association Générations futures  a publié un rapport en 2016 qui témoigne de la présence de perturbateurs endocriniens inquiétants dans l’eau du robinet (glyphosate et atrazine). Ce rapport met également en avant la présence de résidus médicamenteux à des niveaux faibles dans l’eau du robinet. On peut également insister sur la présence de l’herbicide atrazine produit par Monsanto, interdit depuis 2003 mais qui reste toujours la molécule la plus présente dans les nappes phréatiques.</p>
+<p>L’association <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">Générations futures</a>  a publié un rapport en 2016 qui témoigne de la présence de perturbateurs endocriniens inquiétants dans l’eau du robinet (glyphosate et atrazine). Ce rapport met également en avant la présence de résidus médicamenteux à des niveaux faibles dans l’eau du robinet. On peut également insister sur la présence de l’herbicide atrazine produit par Monsanto, interdit depuis 2003 mais qui reste toujours la molécule la plus présente dans les nappes phréatiques.</p>
 
 </div>
 
