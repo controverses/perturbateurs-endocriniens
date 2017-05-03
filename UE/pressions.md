@@ -96,12 +96,12 @@ margin:auto;
 text-align:center;
 }
 .zoom img {
-width:300px;
-height:225px;
+width:600px;
+height:600px;
 }
 .zoom img:hover {
-width:400px;
-height:300px;
+width:1200px;
+height:1200px;
 }
 
 </style>
@@ -170,12 +170,6 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 
 
 <div style="text-align: center">
-
-<img src="organigramme.png" onclick="window.open(this.src,'_blank','toolbar=0, location=0, directories=0, status=0, scrollbars=0, resizable=0, copyhistory=0, menuBar=0, width='+this.width+', height='+this.height);" />
-
-<a href="images/image_grande.jpg" target="_blank"><img src="organigramme.png" alt="Petite image" /></a>
-</div>
-
 <div class="zoom">
     <p>
         <img src="organigramme.png"
