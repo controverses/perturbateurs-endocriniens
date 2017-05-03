@@ -68,7 +68,7 @@
 
   <h1 style="text-align:center; align:justify;">PDF</h1>
   
-  <p align="center"><a href="http://pdf.lu/5Bpu">Lien vers le contenu de notre site sous format PDF</a></p>
+  <p align="center"><a href="https://drive.google.com/file/d/0B17_BG8kLcxKRW5GbmJua25ydkU/view?usp=sharing">Lien vers le contenu de notre site sous format PDF</a></p>
   
     </article>
 </body>
