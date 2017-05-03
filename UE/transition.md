@@ -67,14 +67,6 @@
 
 <article>
 
-
-<h1 align="center">Transition</h1>
-
-<p>Si elle n’est pas scientifique, la controverse autour des perturbateurs endocriniens est bien règlementaire.<br> 
-La définition et les critères permettant d’identifier les perturbateurs sont en débat au sein de l’Union Européenne depuis une dizaine d’années déjà, et le dossier n’est toujours pas clos. Du fait du marché unique, les règlementations concernant les produits de consommation se font à l’échelle européenne. 
-Elles sont d’abord en discussion au sein de la Commission européenne, qui dispose de plusieurs groupes d’experts et interagit avec les différentes parties prenantes : entreprises, organisations non gouvernementales, Etats membres… Lorsqu’un semblant de consensus se dessine, la Commission élabore un projet de loi qu’elle soumet au Parlement afin qu’il soit voté. 
-Pourtant, dans le cas des perturbateurs endocriniens, ce n’est pas si simple. Le processus est bloqué au niveau de l’identification de ce type de substances. Dès la fin des années quatre-vingt-dix, le Parlement Européen et la Commission de la Communication au Conseil adoptent une stratégie communautaire concernant les perturbateurs endocriniens, constatant « l’inadaptation des outils réglementaires pour protéger les citoyens des effets potentiellement néfastes des perturbateurs endocriniens ». Ils présentent dans le même temps une série de mesures devant être échelonnées sur une dizaine d’années. Dès l’année 2000, la Commission Européenne établit une liste de 533 substances suspectées d’être des perturbateurs endocriniens. Mais très vite, des obstacles surgissent et repoussent les échéances.</p>
-
 </article>
 
 </body>
