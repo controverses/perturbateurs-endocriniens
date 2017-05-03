@@ -79,7 +79,7 @@
 <h1 align="center">Fiches acteurs </h1>
     <h2>Les institutions européennes</h2>
     
-    <p><strong>La Commission Européenne</strong> C’est elle qui mène les négociations entre les différents acteurs avant de proposer un projet de loi au Parlement pour mettre en place une régulation des perturbateurs endocriniens. Elle est constituée de plusieurs directions générales : <br/>
+    <p><strong>La Commission Européenne</strong> : c’est elle qui mène les négociations entre les différents acteurs avant de proposer un projet de loi au Parlement pour mettre en place une régulation des perturbateurs endocriniens. Elle est constituée de plusieurs directions générales : <br/>
     
   - La DG ENV (environnement) chargée du dossier des perturbateurs de 2009 à 2014.<br/>
   - La DG SANTE (anciennement DG SANCO, santé et consommateurs) chargée du dossier depuis 2014.<br/>
@@ -91,7 +91,7 @@ Elle dispose de deux groupes d’experts :<br/>
 <i>Le Joint Research Centre (<a href="https://ec.europa.eu/jrc/en">JRC</a>) est le service technique et scientifique de la Commission Européenne. Il emploie des scientifiques pour mener des recherches dans le but de fournir des conseils scientifiques "indépendants" pour les politiques européennes.</i>
 <p>Elle est également conseillée par un groupe d’experts indépendant, le Scientific Committee on Consumer Safety.<p>
     
-    <p><strong>Le Parlement Européen </strong> C'est l'organe législatif de l'Union Européenne avec le Conseil de l'Union Européenne. Il est plutôt pionnier sur la question des perturbateurs endocriniens, puisqu’il a adopté en 2009 et 2012 deux résolutions posant les bases de la réglementation sur les pesticides et insistant sur la nécessité de définir et règlementer rapidement les perturbateurs endocriniens. Il s’est parfois opposé à la Commission, comme en janvier 2015 : 11 membres du Parlement ont envoyé une lettre critique au commissaire de la santé Vytenis Andriukaitis, le pressant de travailler en faveur d’une approche horizontale des perturbateurs, en adéquation avec les travaux scientifiques et non pas seulement basé sur les impacts économiques.
+    <p><strong>Le Parlement Européen </strong> : c'est l'organe législatif de l'Union Européenne avec le Conseil de l'Union Européenne. Il est plutôt pionnier sur la question des perturbateurs endocriniens, puisqu’il a adopté en 2009 et 2012 deux résolutions posant les bases de la réglementation sur les pesticides et insistant sur la nécessité de définir et règlementer rapidement les perturbateurs endocriniens. Il s’est parfois opposé à la Commission, comme en janvier 2015 : 11 membres du Parlement ont envoyé une lettre critique au commissaire de la santé Vytenis Andriukaitis, le pressant de travailler en faveur d’une approche horizontale des perturbateurs, en adéquation avec les travaux scientifiques et non pas seulement basé sur les impacts économiques.
 </p>
     
        <h2>Les agences de l’UE</h2>
@@ -144,7 +144,7 @@ Elle dispose de deux groupes d’experts :<br/>
     </p> 
     
     <h2>L’industrie / Les entreprises</h2>
-    <p><strong>MEDEF  </strong> organisation patronale ayant participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens.
+    <p><strong>MEDEF :</strong> organisation patronale ayant participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens.
     </p>
     
     <p><strong>Union des Industries Chimiques : </strong> organisation professionnelle française ayant participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. Elle est très active pour défendre les intérêts de l’industrie chimique face à la réglementation sur les perturbateurs endocriniens.
@@ -180,20 +180,19 @@ Elle dispose de deux groupes d’experts :<br/>
 
     <h2>Les scientifiques</h2>
     
-    <p><strong>Andreas Kortemkamp :  </strong>professeur en toxicologie humaine à l’Université de Brunel (Grande-Bretagne), coordinateur des rapports pour la Commission européenne « Etat de l’art de l’évaluation des perturbateurs endocriniens » et « Etat de l’art sur la toxicité des mélanges de substances chimiques ».
+    <p><strong>Andreas Kortemkamp : </strong>professeur en toxicologie humaine à l’Université de Brunel (Grande-Bretagne), coordinateur des rapports pour la Commission européenne « Etat de l’art de l’évaluation des perturbateurs endocriniens » et « Etat de l’art sur la toxicité des mélanges de substances chimiques ».
      </p>
     
-     <p><strong>Robert Barouki :  </strong>Directeur de l’unité Inserm 747 "Pharmacologie, toxicologie et signalisation cellulaire", faculté des Saints-Pères, Chef de service en biochimie métabolomique et protéomique à l’hôpital Necker-Enfants malades, Membre du conseil scientifique de l’Agence nationale de sécurité du médicament et des produits de santé, Membre du comité des experts de l’Institut de santé publique
+     <p><strong>Robert Barouki : </strong>directeur de l’unité Inserm 747 "Pharmacologie, toxicologie et signalisation cellulaire", faculté des Saints-Pères, Chef de service en biochimie métabolomique et protéomique à l’hôpital Necker-Enfants malades, Membre du conseil scientifique de l’Agence nationale de sécurité du médicament et des produits de santé, Membre du comité des experts de l’Institut de santé publique
     </p>
     
-     <p><strong>Remy Slama :   </strong>scientifique présidant le comité scientifique du Programme National sur les Perturbateurs endocriniens. Il a participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens.  Directeur de recherche à l’INSERM (Team of Environmental epidemiology applied to reproduction and respiratory health), membre du SCHEER (Scientific Committee on Health, Environment and Emerging Risks) de la Commission Européenne. Membre du comité scientifique de l’Agence nationale de santé publique.
+     <p><strong>Remy Slama : </strong>scientifique présidant le comité scientifique du Programme National sur les Perturbateurs endocriniens. Il a participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens.  Directeur de recherche à l’INSERM (Team of Environmental epidemiology applied to reproduction and respiratory health), membre du SCHEER (Scientific Committee on Health, Environment and Emerging Risks) de la Commission Européenne. Membre du comité scientifique de l’Agence nationale de santé publique.
      </p>
     
      <p><strong>Rachel Carson :  </strong>biologiste américaine connue pour ses ouvrages consacrés au monde marin et à la pollution environnementale. Printemps silencieux, publié en 1962, qui rencontre un véritable succès, contribue à sensibiliser l’opinion publique aux dangers de la pollution environnementale.
        </p>
     
-      <p><strong>Theo Colborn :  </strong>zoologiste et pharmacologue connue pour ses travaux sur les perturbateurs endocriniens. Elle réunit en 1991 des scientifiques spécialistes et assemble les données discutées lors de cette réunion dans un ouvrage publié en 1992, intitulé Chemically-Induced Alterations in Sexual and Functional Development : The Wild Life/Human Connection. À partir de ces données et de celles publiées ensuite, elle rédige en 1996 un ouvrage grand public, Our Stolen Future (http://www.ourstolenfuture.org/), traduit en dix-huit langues (en français, L’Homme en voie de disparition, Terre vivante, 1998). Elle ne cessera de militer en faveur d’un durcissement de la législation concernant la production, l’usage et l’élimination de ces substances et tient le public informé grâce à un site spécialisé appelé The Endocrine Disruption Exchange, ou TEDx, http://www.endocrinedisruption.org/.
-     </p>
+      <p><strong>Theo Colborn : </strong>zoologiste et pharmacologue connue pour ses travaux sur les perturbateurs endocriniens. Elle réunit en 1991 des scientifiques spécialistes et assemble les données discutées lors de cette réunion dans un ouvrage publié en 1992, intitulé <i> Chemically-Induced Alterations in Sexual and Functional Development : The Wild Life/Human Connection</i>. À partir de ces données et de celles publiées ensuite, elle rédige en 1996 un ouvrage grand public, <i><a href="http://www.ourstolenfuture.org/">Our Stolen Future</a></i>, traduit en dix-huit langues (en français, L’Homme en voie de disparition, Terre vivante, 1998). Elle ne cessera de militer en faveur d’un durcissement de la législation concernant la production, l’usage et l’élimination de ces substances et tient le public informé grâce à un site spécialisé appelé <i><a href="http://www.endocrinedisruption.org/">The Endocrine Disruption Exchange</a><i/>, ou TEDx. <p>
     
     <p><strong>Endocrine Society :   </strong>société savante et médicale internationale consacrée à la recherche fondamentale et clinique dans le domaine de l’endocrinologie.
      </p>
