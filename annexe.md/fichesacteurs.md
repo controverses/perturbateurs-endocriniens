@@ -192,7 +192,7 @@ Elle dispose de deux groupes d’experts :<br/>
      <p><strong>Rachel Carson :  </strong>biologiste américaine connue pour ses ouvrages consacrés au monde marin et à la pollution environnementale. Printemps silencieux, publié en 1962, qui rencontre un véritable succès, contribue à sensibiliser l’opinion publique aux dangers de la pollution environnementale.
        </p>
     
-      <p><strong>Theo Colborn : </strong>zoologiste et pharmacologue connue pour ses travaux sur les perturbateurs endocriniens. Elle réunit en 1991 des scientifiques spécialistes et assemble les données discutées lors de cette réunion dans un ouvrage publié en 1992, intitulé <i> Chemically-Induced Alterations in Sexual and Functional Development : The Wild Life/Human Connection</i>. À partir de ces données et de celles publiées ensuite, elle rédige en 1996 un ouvrage grand public, <i><a href="http://www.ourstolenfuture.org/">Our Stolen Future</a></i>, traduit en dix-huit langues (en français, L’Homme en voie de disparition, Terre vivante, 1998). Elle ne cessera de militer en faveur d’un durcissement de la législation concernant la production, l’usage et l’élimination de ces substances et tient le public informé grâce à un site spécialisé appelé <i><a href="http://www.endocrinedisruption.org/">The Endocrine Disruption Exchange</a></i>, ou TEDx. <p>
+      <p><strong>Theo Colborn : </strong>zoologiste et pharmacologue connue pour ses travaux sur les perturbateurs endocriniens. Elle réunit en 1991 des scientifiques spécialistes et assemble les données discutées lors de cette réunion dans un ouvrage publié en 1992, intitulé <i> Chemically-Induced Alterations in Sexual and Functional Development : The Wild Life/Human Connection</i>. À partir de ces données et de celles publiées ensuite, elle rédige en 1996 un ouvrage grand public, <i><a href="http://www.ourstolenfuture.org/">Our Stolen Future</a></i>, traduit en dix-huit langues (en français, L’Homme en voie de disparition, Terre vivante, 1998). Elle ne cessera de militer en faveur d’un durcissement de la législation concernant la production, l’usage et l’élimination de ces substances et tient le public informé grâce à un site spécialisé appelé <i><a href="http://www.endocrinedisruption.org/">The Endocrine Disruption Exchange</a></i>, ou TEDx. </p>
     
     <p><strong>Endocrine Society :   </strong>société savante et médicale internationale consacrée à la recherche fondamentale et clinique dans le domaine de l’endocrinologie.
      </p>
@@ -207,45 +207,38 @@ Elle dispose de deux groupes d’experts :<br/>
      
      <p><strong>L'Association Santé Environnement France (ASEF)</strong>, fondée par quatre médecins et une chimiste, rédige des guides d'informations scientifiques sur la santé pour sensibiliser la population.</p>
 
-<p><strong>Agir pour l’environnement</strong>, une association de mobilisation citoyenne nationale en faveur de l'environnement. Elle a organisé entre septembre 2013 et juin 2014 une campagne “Perturbateurs endocriniens : Environnement perturbé, santé menacée!"</p>
+<p><strong>Agir pour l’environnement</strong> est une association de mobilisation citoyenne nationale en faveur de l'environnement. Elle a organisé entre septembre 2013 et juin 2014 une campagne “Perturbateurs endocriniens : Environnement perturbé, santé menacée!"</p>
 
      
       <h2>Les organismes gouvernementaux français</h2>
       <p><strong>Anses :   </strong> Établissement public à caractère administratif, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail est placée sous la tutelle des ministères chargés de la santé, de l’agriculture, de l’environnement, du travail et de la consommation. Elle a pour mission de réaliser l’évaluation des risques, de fournir aux autorités compétentes toutes les informations sur ces risques ainsi que l’expertise et l’appui scientifique et technique nécessaires à l’élaboration des dispositions législatives et réglementaires et à la mise en œuvre des mesures de gestion des risques.
      </p>
      
-     <p><strong>ANSM :  </strong> L’Agence nationale de sécurité du médicament et des produits de santé (ANSM). L’ANSM développe plusieurs activités en France et pour le compte de l’Union européenne : évaluations scientifiques et techniques, surveillance, inspection des établissements, contrôles en laboratoire. Ces actions débouchent sur la prise de décisions de police sanitaire pour le compte de l’Etat français.
+     <p><strong>ANSM :  </strong> L’Agence nationale de sécurité du médicament et des produits de santé développe plusieurs activités en France et pour le compte de l’Union européenne : évaluations scientifiques et techniques, surveillance, inspection des établissements, contrôles en laboratoire. Ces actions débouchent sur la prise de décisions de police sanitaire pour le compte de l’Etat français.
      </p>
      
-     <p><strong>Agence Nationale de Recherche :   </strong> L'Agence Nationale de la Recherche a pour mission la mise en œuvre du financement de la recherche sur projets en France.
+     <p><strong>Agence Nationale de Recherche :   </strong> elle a pour mission la mise en œuvre du financement de la recherche sur projets en France.
      </p>
      
-     <p><strong>INERIS :   </strong> L’Institut National de l’EnviRonnementIndustriel et des RisqueS, établissement public à caractère industriel et commercial placé sous la tutelle du ministère chargé de l’Environnement, a pour mission de contribuer à la prévention des risques que les activités économiques font peser sur la santé, la sécurité des personnes et des biens, et sur l’environnement. Il mène des programmes de recherche visant à mieux comprendre les phénomènes susceptibles de conduire aux situations de risques ou d’atteintes à l’environnement et à la santé, et à développer sa capacité d’expertise en matière de prévention.
+     <p><strong>INERIS :   </strong> L’Institut National de l’Environnement Industriel et des Risques est un établissement public à caractère industriel et commercial placé sous la tutelle du ministère chargé de l’Environnement, a pour mission de contribuer à la prévention des risques que les activités économiques font peser sur la santé, la sécurité des personnes et des biens, et sur l’environnement. Il mène des programmes de recherche visant à mieux comprendre les phénomènes susceptibles de conduire aux situations de risques ou d’atteintes à l’environnement et à la santé, et à développer sa capacité d’expertise en matière de prévention.
      </p>
      
-       <p><strong>INRA :  </strong> Institut national de recherche agronomique, institut de recherche en agronomie
+       <p><strong>INRA :  </strong> institut national de recherche agronomique
      </p>
      
-     <p><strong>Agence Nationale de Santé publique :  </strong> agence sanitaire chargée de :
+     <p><strong>Agence Nationale de Santé publique :  </strong> agence sanitaire chargée de :<br/>
 
-•La veille et la surveillance de l’état de santé des populations, l’alerte sanitaire, 
-•La connaissance des déterminants et des comportements, la conception des stratégies d’intervention, l’expérimentation, 
-•La prévention, l’éducation et la promotion de la santé, la réponse aux menaces et crises sanitaires
+•La veille et la surveillance de l’état de santé des populations, l’alerte sanitaire, <br/>
+•La connaissance des déterminants et des comportements, la conception des stratégies d’intervention, l’expérimentation, <br/>
+•La prévention, l’éducation et la promotion de la santé, la réponse aux menaces et crises sanitaires <br/>
      </p> 
      
      <p><strong>Alliances de recherche :  </strong> coordonner l’analyse stratégique, la programmation scientifique et la mise en œuvre opérationnelle de la recherche dans certains domaines
-•Allenvi : Alliance nationale de recherche pour l’environnement
-•Aviesan : Alliance nationale pour les sciences de la vie et de la santé
-•Athena : Alliance thématique nationale des sciences humaines et sociales
+•Allenvi : Alliance nationale de recherche pour l’environnement <br/>
+•Aviesan : Alliance nationale pour les sciences de la vie et de la santé <br/>
+•Athena : Alliance thématique nationale des sciences humaines et sociales <br/>
 
      </p> 
-     
-       <p><strong>Alliances de recherche :  </strong> coordonner l’analyse stratégique, la programmation scientifique et la mise en œuvre opérationnelle de la recherche dans certains domaines
-•Allenvi : Alliance nationale de recherche pour l’environnement
-•Aviesan : Alliance nationale pour les sciences de la vie et de la santé
-•Athena : Alliance thématique nationale des sciences humaines et sociales
-
-     </p>
       
       <h2> Les représentants des ONG / Associations</h2>
      
@@ -253,7 +246,7 @@ Elle dispose de deux groupes d’experts :<br/>
        
          <h2> Les représentants européens</h2>
         
-         <p><strong> Michelle Rivasi : </strong> député européenne impliquée dans la question des perturbateurs endocriniens. Elle a participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. Elle est au départ professeur de biologie.</p> 
+         <p><strong> Michelle Rivasi : </strong> députée européenne du groupe des Verts impliquée dans la question des perturbateurs endocriniens. Elle a participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. Elle est au départ professeur de biologie.</p> 
          
          
          <h2> Les représentants européens</h2>
@@ -264,7 +257,7 @@ Elle dispose de deux groupes d’experts :<br/>
           <h2> Les journalistes</h2>
          
   
-<p><strong>Stéphane Horel</strong>, journaliste spécialiste du sujet. Elle a d’abord écrit pour le journal Le Monde avant de devenir une journaliste indépendante. Elle s’intéresse plus particulièrement dans son travail de recherches au pouvoir des lobbies industriels sur les tentatives de réglementation des perturbateurs endocriniens qui sont organisées à l’échelle européenne. Elle a publié en 2015 le livre Intoxication: Perturbateurs endocriniens, lobbyistes et eurocrates: une bataille d’influence contre la santé. Elle a également réalisé en 2010 un documentaire avec France 5, qui cherche à faire un état des lieux de la situation, considérée comme grave, tout en faisant le choix d’aborder le sujet avec beaucoup de second degré. 
+<p><strong>Stéphane Horel</strong> est une journaliste spécialiste du sujet. Elle a d’abord écrit pour le journal Le Monde avant de devenir une journaliste indépendante. Elle s’intéresse plus particulièrement dans son travail de recherches au pouvoir des lobbies industriels sur les tentatives de réglementation des perturbateurs endocriniens qui sont organisées à l’échelle européenne. Elle a publié en 2015 le livre Intoxication: Perturbateurs endocriniens, lobbyistes et eurocrates: une bataille d’influence contre la santé. Elle a également réalisé en 2010 un documentaire avec France 5, qui cherche à faire un état des lieux de la situation, considérée comme grave, tout en faisant le choix d’aborder le sujet avec beaucoup de second degré. 
 https://www.youtube.com/watch?v=RxktDSeVAWQ</p>
 
 <p><strong>Stéphane Foucart</strong> est un journaliste du Monde sur les sciences de l’environnement.</p>
