@@ -135,6 +135,7 @@ Aussi, l’argument traditionnel « la dose fait le poison » est écarté par d
   <img src="3.png" alt="Perturbateurs endocriniens"  style="width:500px;height:400px;">
 </div>
 
+<p>
 Pourtant, selon la Commission européenne, il existe toujours des doutes au niveau de la recherche scientifique quant à l’existence de réponses non monotoniques (NMDR), c’est-à-dire l’existence même de l’effet cocktail. En effet, les sources utilisées par la Commission sont extrêmement diverses et se contredisent. </p> 
 
 <h4> Un consensus sur la définition </h4>
