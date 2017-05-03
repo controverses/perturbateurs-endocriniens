@@ -182,7 +182,7 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 <p> Tout d’abord, les membres de l’<em>Endocrine Disruptors Expert Advisory Group</em> sont nommés par les Etats-membres. Or, comme il est possible de le constater sur la liste des membres de l’ED EAG tirée d’un des <a href="http://publications.jrc.ec.europa.eu/repository/bitstream/JRC79981/lbna25919enn.pdf">rapports</a> du Joint Research Center de 2013 (Key scientific issues relevant to the identification and characterisation of endocrine disrupting substances), il peut s’agir de chercheurs appartenant à des universités nationales, mais également d’agences nationales telles que RIVM aux Pays-Bas, l’ANSES en France ou le Federal Institute for Risk Assessement allemand (BfR), qui sont sous contrôle du gouvernement. Aussi, il est important de se demander si <strong>l’impartialité scientifique</strong> prime sur la représentation de la <strong>stratégie nationale</strong>. Enfin, on retrouve tout autant des membres d’ONGs telles que HEAL et Chem Trust (Ninja Reineke et Gwynne Lyons) que des membres de groupes de pression d’industries comme l’ECETOC, un lobby de l’industrie chimique particulièrement influent auxquels appartiennent entre autres BASF, Bayer, Syngenta ou Dow (James Wheeler).  </p>
 
 <div style="text-align: center">
-<img src="contributors.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:600px;"/>
+<img src="contributors.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:450px;height:600px;"/>
 </div>
 
 
@@ -211,7 +211,7 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 <p> Dans « A toxic affair », Stéphane Horel développe les points principaux de la stratégie développée par les groupes de pression pour entretenir cette controverse et ralentir le processus législatif :  </p>
 
 <div style="text-align: center">
-<img src="corporate.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+<img src="corporate.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;"/>
 </div>
 
 
@@ -242,7 +242,7 @@ Rapport du Pesticide Network Organization. </blockquote></p>
 <h4>  « Lobbying blitzkrieg »</h4>
 
 <div style="text-align: center">
-<img src="13.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:300px;height:500px;"/>
+<img src="13.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:700px;"/>
 </div>
 
 <p> Le 7 juin 2013, la DG ENV sort finalement son rapport sur les perturbateurs endocriniens, rassemblant les connaissances scientifiques sur le sujet et en déduisant des recommandations à l’adresse de la Commission afin d’élaborer son projet de loi. Elle invite les autres Directions Générales de la Commission à donner leur avis.<br> 
@@ -260,7 +260,7 @@ Les scientifiques sont à nouveau divisés sur la question : en août, une <a hr
 <p> En octobre, Stephane Horel publie conjointement avec Brian Bienkowski, éditeur pour Environmental Health News un <a href="http://www.environmentalhealthnews.org/ehs/news/2013/eu-conflict">article</a> révélant les conflits d’intérêt des scientifiques signataires de la lettre ouverte. Selon ce document, sur les 18 co-auteurs de l’éditorial, 17 ont collaboré avec l’industrie. 
 
 <div style="text-align: center">
-<img src="14.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+<img src="14.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;"/>
 </div>
 
 
@@ -268,12 +268,12 @@ De plus, la journaliste révèle dans son rapport plusieurs mails signés par le
 
 
 <div style="text-align: center">
-<img src="examples.png" alt="Perturbateurs endocriniens" style="width:400px;height:600px;"/>
+<img src="examples.png" alt="Perturbateurs endocriniens" style="width:600px;height:800px;"/>
 </div>
 
 
 <div style="text-align: center">
-<img src="examples2.png" alt="Perturbateurs endocriniens" style="width:400px;height:600px;"/>
+<img src="examples2.png" alt="Perturbateurs endocriniens" style="width:600px;height:800px;"/>
 </div>
 
 
@@ -291,7 +291,7 @@ De plus, la journaliste révèle dans son rapport plusieurs mails signés par le
 
 
 <div style="text-align: center">
-<img src="17.png" alt="Perturbateurs endocriniens" style="width:600px;height:200px;"/>
+<img src="17.png" alt="Perturbateurs endocriniens" style="width:600px;height:250px;"/>
 </div>
 
 
