@@ -196,24 +196,6 @@ Elle dispose de deux groupes d’experts :<br/>
     
     <p><strong>Endocrine Society :   </strong>société savante et médicale internationale consacrée à la recherche fondamentale et clinique dans le domaine de l’endocrinologie.
      </p>
-    
-    
-    <h2>Les ONGs / Associations</h2>
-    <p><strong>Le Corporate Europe Observatory (CEO ou « Observatoire de l'Europe industrielle ») </strong>est un organisme de recherche et de plaidoyer ayant son siège à Bruxelles. Son centre d'intérêt est la manière dont les lobbys des grandes entreprises et corporations influent la construction et la mise en œuvre des politiques européennes publiques et de la réglementation, parfois au détriment des équilibres sociaux, sociétaux et environnementaux. Cette ONG plaide pour une plus grande transparence et régulation des activités de lobbying, notamment dans le cadre du projet de TIPP.
-         </p>
-        
-     <p><strong>Le Secrétariat International de Chimie (ChemSec)  </strong> est une ONG fondée en Suède en 2002 dans le but de militer en faveur d’un renforcement des régulations et de travailler avec les entreprises afin de réduire la production et l’usage de substances toxiques dans les produits.
-     </p>
-     
-     <p><strong>L'Association Santé Environnement France (ASEF)</strong>, fondée par quatre médecins et une chimiste, rédige des guides d'informations scientifiques sur la santé pour sensibiliser la population.</p>
-
-<p><strong>Agir pour l’environnement</strong> est une association de mobilisation citoyenne nationale en faveur de l'environnement. Elle a organisé entre septembre 2013 et juin 2014 une campagne “Perturbateurs endocriniens : Environnement perturbé, santé menacée!"</p>
-
-<p><strong>Générations futures  </strong> est une association française de défense de l'environnement créée en 1996, sous le nom du Mouvement pour les Droits et le Respect des Générations Futures. Elle s'intéresse particulièrement aux dangers des pesticides pour la santé.
-     </p>
-     
-<p><strong>Réseau Environnement Santé  </strong> (RES) est une association cherchant à "mettre la santé environnementale au coeur des politiques publiques". Créé en 2009, il regroupe des ONG, des associations de professionnels de santé, de scientifiques et de malades ainsi que des adhérents individuels.
-     </p>
      
       <h2>Les organismes gouvernementaux français</h2>
       <p><strong>Anses :   </strong> établissement public à caractère administratif, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail est placée sous la tutelle des ministères chargés de la santé, de l’agriculture, de l’environnement, du travail et de la consommation. Elle a pour mission de réaliser l’évaluation des risques, de fournir aux autorités compétentes toutes les informations sur ces risques ainsi que l’expertise et l’appui scientifique et technique nécessaires à l’élaboration des dispositions législatives et réglementaires et à la mise en œuvre des mesures de gestion des risques.
@@ -242,9 +224,25 @@ Elle dispose de deux groupes d’experts :<br/>
 •Allenvi : Alliance nationale de recherche pour l’environnement <br/>
 •Aviesan : Alliance nationale pour les sciences de la vie et de la santé <br/>
 •Athena : Alliance thématique nationale des sciences humaines et sociales <br/>
-
      </p> 
       
+       <h2>Les ONGs / Associations</h2>
+    <p><strong>Le Corporate Europe Observatory (CEO ou « Observatoire de l'Europe industrielle ») </strong>est un organisme de recherche et de plaidoyer ayant son siège à Bruxelles. Son centre d'intérêt est la manière dont les lobbys des grandes entreprises et corporations influent la construction et la mise en œuvre des politiques européennes publiques et de la réglementation, parfois au détriment des équilibres sociaux, sociétaux et environnementaux. Cette ONG plaide pour une plus grande transparence et régulation des activités de lobbying, notamment dans le cadre du projet de TIPP.
+         </p>
+        
+     <p><strong>Le Secrétariat International de Chimie (ChemSec)  </strong> est une ONG fondée en Suède en 2002 dans le but de militer en faveur d’un renforcement des régulations et de travailler avec les entreprises afin de réduire la production et l’usage de substances toxiques dans les produits.
+     </p>
+     
+     <p><strong>L'Association Santé Environnement France (ASEF)</strong>, fondée par quatre médecins et une chimiste, rédige des guides d'informations scientifiques sur la santé pour sensibiliser la population.</p>
+
+<p><strong>Agir pour l’environnement</strong> est une association de mobilisation citoyenne nationale en faveur de l'environnement. Elle a organisé entre septembre 2013 et juin 2014 une campagne “Perturbateurs endocriniens : Environnement perturbé, santé menacée!"</p>
+
+<p><strong>Générations futures  </strong> est une association française de défense de l'environnement créée en 1996, sous le nom du Mouvement pour les Droits et le Respect des Générations Futures. Elle s'intéresse particulièrement aux dangers des pesticides pour la santé.
+     </p>
+     
+<p><strong>Réseau Environnement Santé  </strong> (RES) est une association cherchant à "mettre la santé environnementale au coeur des politiques publiques". Créé en 2009, il regroupe des ONG, des associations de professionnels de santé, de scientifiques et de malades ainsi que des adhérents individuels.
+     </p>
+     
       <h2> Les représentants des ONG / Associations</h2>
      
        <p><strong>François Veillerette :  </strong> président de l’association Générations Futures. Il a participé au groupe de travail sur la stratégie nationale sur les perturbateurs endocriniens. Il est le co-auteur du livre Les perturbateurs endocriniens, La menace invisible. </p>
