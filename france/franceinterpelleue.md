@@ -69,6 +69,11 @@
 <article class="article">
 
   <h1 align="center">La France interpelle l'UE</h1>
+  
+  <div style="text-align: center">
+  <img src="ségolène royal.jpg" alt="Perturbateurs endocriniens"  style="width:500px;height:500px;">
+</div>
+
 
 <p align="justify"> Face aux scandales ayant éclaté concernant les perturbateurs endocriniens et leurs dangers, le gouvernement français a non seulement pris des mesures au niveau national comme il sera évoqué par la suite, mais presse également les institutions de l’Union Européenne d’établir une réglementation à l’échelle communautaire. </p> 
 
