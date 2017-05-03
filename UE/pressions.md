@@ -154,7 +154,9 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 
 
 <div style="text-align: center">
-<img src="organigramme.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;"/>
+
+<img src="organigramme.png" onclick="window.open(this.src,'_blank','toolbar=0, location=0, directories=0, status=0, scrollbars=0, resizable=0, copyhistory=0, menuBar=0, width='+this.width+', height='+this.height);" />
+
 </div>
 
 
