@@ -162,8 +162,6 @@ Le Dichlorodiphényltrichloroéthane, plus communément appelé DDT, est une mol
 
 <p>De plus, les scientifiques rencontrent toujours des difficultés à étudier les cas d’exposition à des perturbateurs endocriniens pour des populations humaines, car ils manquent souvent de données, de statistiques, et de groupes témoins. On peut ici prendre pour exemple la catastrophe de Seveso : en 1976, une usine chimique a explosé, dispersant un nuage de dioxine, substance chimique perturbatrice endocrinienne, au-dessus de la ville de Seveso. Voulant analyser si l’incidence de fausses couches, de malformations génitales et de cancer a augmenté après l’accident, les scientifiques se heurtent au manque de statistiques menées avant l’accident et à la difficulté d’évaluer le degré de contamination des individus en fonction de leur lieu d’habitat. Ainsi, l’analyse de l’exposition humaine aux perturbateurs endocriniens est très difficile car les scientifiques manquent de moyens pour établir des études fiables, d’autant plus que les perturbateurs endocriniens remettent en question la toxicologie classique, ce que nous allons voir à présent.</p> 
 
-</div>
-
 <div id= "position">
 
 <p style="border:5px; border-style:solid; border-color:rgb(96, 108, 113); padding: 1em;"> <strong>La dioxine</strong> <br><br>
