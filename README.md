@@ -81,13 +81,9 @@
 
 <article class="article">
 
-<h1 style="text-align:center;" > Dans quelle mesure les perturbateurs endocriniens ont-ils remis en question la réglementation sanitaire basée sur les principes traditionnels de la science ? </h1>
-
-<p>"La question des perturbateurs endocriniens est une question majeure de santé publique."François Veillerette, fondateur de l'association Générations Futures</p>
-
   <h1 style="text-align:center; align:justify;">Introduction</h1><br>
 
-<p>Dr Patrick Levy, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC) a expliqué lors d’un <a href="http://www.rfi.fr/emission/20160705-cerveau-pollution">débat avec Barbara Demeneix:</a></p>
+<p><a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">Dr Patrick Levy</a>, toxicologue, médecin conseil de l'Union des Industries Chimiques (UIC) a expliqué lors d’un <a href="http://www.rfi.fr/emission/20160705-cerveau-pollution">débat</a> avec <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">Barbara Demeneix</a>:</p>
 
 <p><blockquote>"La définition des perturbateurs endocriniens de l’OMS fait consensus pour les scientifiques, mais <strong>pas consensus pour un contexte réglementaire</strong>, elle n’est pas suffisamment discriminante. Elle est beaucoup trop large. Elle ne permet pas de différencier les perturbateurs avérés de ceux qui n’ont qu’une activité biologique réversible et sans effet durable. On ne peut pas faire cette discrimination. Nous souhaitons un cadre réglementaire efficace.”</blockquote></p>
 
@@ -99,8 +95,7 @@
 
 <p>Ces difficultés à réglementer la question des perturbateurs endocriniens sont issues des problématiques scientifiques que ces substances ont posées. En effet, la façon de les appréhender <strong>ne peut se faire à l'aide des outils scientifiques standards</strong>, et de fait la recherche dans ce  domaine nécessite un renouveau des principes de base de la toxicologie. Les institutions ne peuvent donc plus s’appuyer sur les normes scientifiques traditionnelles sur lesquelles ils ont longtemps basé leur réglementation en matière de protection des populations et de l'environnement. Cette constatation induit le questionnement suivant :</p>
 
-<p><strong>Dans quelle mesure les perturbateurs endocriniens ont-ils remis en question la réglementation sanitaire basée sur les principes traditionnels de la science ?</strong></p> 
-
+<h1>Dans quelle mesure les perturbateurs endocriniens ont-ils remis en question la réglementation sanitaire basée sur les principes traditionnels de la science ?</h1>
 
 <p>Dans un premier temps, nous retracerons l’établissement du fait scientifique des perturbateurs endocriniens et son émergence dans l’espace public. A la lumière de ces informations, nous analyserons les difficultés rencontrées par l’Union européenne quant à la réglementation de ces substances chimiques. Nous tenterons également de faire l’état de la controverse et de ses acteurs au niveau français. Enfin, nous étudierons comment face aux échecs des institutions réglementaires la société civile s'est ré-approprié la problématique et de quelle manière elle traite la question des perturbateurs endocriniens.</p>
 
