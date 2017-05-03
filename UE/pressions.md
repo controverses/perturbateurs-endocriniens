@@ -96,12 +96,12 @@ margin:auto;
 text-align:center;
 }
 .zoom img {
-width:600px;
-height:600px;
-}
-.zoom img:hover {
 width:1200px;
 height:1200px;
+}
+.zoom img:hover {
+width:3000px;
+height:3000px;
 }
 
 </style>
