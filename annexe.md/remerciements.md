@@ -70,7 +70,7 @@
   
 <p> Nous tenons d’abord à remercier nos professeurs, Vincent Lepinay et Thomas Tari pour leur accompagnement tout au long de l’année et leurs précieux conseils. <br><br>
 
-Nous adressons également nos remerciements à toutes les personnes que nous avons pu rencontrer au cours de notre projet et qui nous ont éclairé sur les dynamiques de la controverse réglementaire autour des perturbateurs endocriniens. Ce sont, par ordre chronologique de nos rencontres : <br>
+Nous adressons également nos remerciements à toutes les personnes que nous avons pu rencontrer au cours de notre projet et qui nous ont éclairé sur les dynamiques de la controverse réglementaire autour des perturbateurs endocriniens. Ce sont, par ordre chronologique de nos rencontres : <br><br> 
 
 Agnes Bee, chercheuse au laboratoire PHENIX de l’Université Pierre et Marie Curie <br>
 Catherine Blaudin de The, manager des supports techniques Normandie Picardie Champagne chez Lyonnaise des Eaux<br>
