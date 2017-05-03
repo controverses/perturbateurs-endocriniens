@@ -218,7 +218,7 @@ Ainsi, les perturbateurs endocriniens peuvent avoir des actions directes en emp�
 <p>Ainsi, il ne faut pas oublier que les perturbateurs endocriniens restent le sujet de nombreuses études scientifiques actuelles comme le montre le graphique ci-contre relatant de l'évolution du nombre de publications scientifiques sur le sujet depuis 1992. Cependant, on peut aujourd’hui dire que l’existence de perturbateurs endocriniens n’est plus remise en question tout comme le fait qu’ils aient des conséquences néfastes sur les écosystèmes et les Hommes. Ainsi, la controverse basée aujourd’hui sur les perturbateurs endocriniens n’est pas de nature scientifique mais bel et bien de nature réglementaire comme nous le verrons dans la deuxième partie.</p> 
 
 <div style="text-align: center">
-  <img src="graphique.png" alt="Graphique"  style="width:500px;height:500px;">
+  <img src="graphique.png" alt="Graphique"  style="width:550px;height:550px;">
 </div>
 
 </div>
