@@ -97,7 +97,7 @@ li a.active {
 
 <ul>
   <li><a href="#qualification">Qualification et quantification du risque</a></li>
-  <li><a href="#critères">Etablir des critères pour réglementer: hazard vs. moral risk</a></li><br>
+  <li><a href="#critères">Etablir des critères pour réglementer</a></li><br>
 </ul>
 
   <h1 align="center">De rapports en contradiction à des difficultés de réglementation</h1>
