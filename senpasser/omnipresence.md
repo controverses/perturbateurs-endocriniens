@@ -101,7 +101,7 @@ li a.active {
   
 </ul>
   
-  <h1>De nouveaux acteurs dans la controverse? </h1>
+  <h1>De nouveaux acteurs dans la controverse </h1>
   <h2>Un constat </h2>
   
  <p align="justify"> <strong> Barbara Demeneix, endocrinologue au Muséum national d’histoire naturelle et auteur de l’ouvrage Le Cerveau endommagé (2016) : </strong> 
@@ -111,8 +111,7 @@ li a.active {
  <p> <blockquote>“Pour pouvoir éliminer les perturbateurs endocriniens, il faut trouver une solution pour les remplacer, ce qui n’est pas toujours facile. Interdire les Perturbateurs endocriniens n’est pas résoudre le problème.” </blockquote> 
 
 <p align="justify"> <strong> Marine Jobert, journaliste, auteur de Les Perturbateurs endocriniens (2015) :</strong> 
-<p> <blockquote>  « Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. »  </blockquote> 
- <br/>
+<p> <blockquote>  « Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. »  </blockquote></p> 
 
 <p align="justify"> Nous sommes aujourd’hui entourés au quotidien de produits chimiques qui, selon les recherches scientifiques, nuisent à notre santé et à celles des futures générations. Le nombre de nouvelles substances chimiques, avec des effets potentiels sur notre santé, augmente chaque année. Il apparaît difficile de s’en débarrasser puisque, d’après une étude réalisée par Générations Futures en février 2017 sur les cheveux de certaines personnalités françaises, on retrouve encore aujourd’hui des perturbateurs endocriniens dont la commercialisation est interdite depuis des dizaines d’années. Cela signifie que, même si on arrêtait totalement la production de perturbateurs endocriniens, on ne sait pas pendant combien de temps il sera encore possible d’en trouver partout dans la nature.</p> 
 <p align="justify"> De plus, certains produits fortement suspectés de contenir des perturbateurs endocriniens sont devenus indispensables à notre vie quotidienne, comme le paracétamol. On se retrouve face à un choix difficile : soit se passer d’évolutions majeures de notre société pour éviter de subir des dysfonctionnements endocriniens, soit conserver ces produits mais avec des risques sur la santé sur le long terme qui sont encore très mal connus.</p>
@@ -150,16 +149,19 @@ L’association qui est particulièrement active et militante quant aux perturba
 
 <p align="justify"> Générations Futures a développé de nombreux modes d’action pour faire avancer la lutte contre les perturbateurs endocriniens. L’un des axes de travail réside dans l’action et la mise en place de campagnes thématiques. En 2006, Générations Futures créé la Semaine Pour les Alternatives aux Pesticides. En partenariat avec de nombreux scientifiques, ils ont également rédigé environ 25 rapports scientifiques dont une série spécifiquement consacrée aux perturbateurs endocriniens, appelée “EXPPERT”, lancée en mars 2013. Le <a href="http://www.generations-futures.fr/2011generations/wp-content/uploads/2017/02/EXPPERT-9-FV-220216.pdf ">dernier volet </a> de cette série a été publié le 23 février 2017. L’association a entrepris d’analyser les cheveux de sept personnalités du monde de l’écologie (dont Yannick Jadot et José Bové). L’association précise que le but du rapport est d’<i>”éclairer les questionnements que nourrissent le public et notre organisation sur la présence de résidus de perturbateurs endocriniens dans l’environnement, l’alimentation et nos organismes.” </i>. 
 
-Ce rapport montre l’importance de l’action de telles associations dans une controverse de santé publique. Générations Futures a pris l’initiative de commander ce rapport et a su efficacement interpeller le public grâce à l’engagement de personnalités connues. L’efficacité de tel rapport est démontrée par le nombre de médias qui ont repris ses grandes lignes : Le Parisien, Le Figaro, Europe 1, France Info, Libération… Au total, plus d’une quinzaine de médias différents, aussi bien des journaux que les radios ou chaînes de télévision, ont repris ce rapport. L’association est alors une aide précieuse aux scientifiques car elles savent bien mieux qu’eux toucher le grand public et savoir quels ressorts utiliser pour les sensibiliser et rendre le sujet plus visible.
-Générations Futures ne veut pas uniquement se limiter à de l’information et de la sensibilisation mais souhaite également participer activement aux avancées scientifiques en la matière. C’est pourquoi ils font aujourd’hui partie du comité d’orientation du Programme National de Recherche sur les Perturbateurs Endocriniens.
+Ce rapport montre l’importance de l’action de telles associations dans une controverse de santé publique. Générations Futures a pris l’initiative de commander ce rapport et a su efficacement interpeller le public grâce à l’engagement de personnalités connues. L’efficacité de tel rapport est démontrée par le nombre de médias qui ont repris ses grandes lignes : Le Parisien, Le Figaro, Europe 1, France Info, Libération… Au total, plus d’une quinzaine de médias différents, aussi bien des journaux que les radios ou chaînes de télévision, ont repris ce rapport. L’association est alors une aide précieuse aux scientifiques car elles savent bien mieux qu’eux toucher le grand public et savoir quels ressorts utiliser pour les sensibiliser et rendre le sujet plus visible.</p> <br>
 
-<img ALIGN="left" src="Tableaueve.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:200px;height:500px;padding-right: 10px; padding-top: 10px;"/>
-Enfin, le travail réalisé par l’association est également une source précieuse d’informations pour les politiques qui cherchent à faire avancer la législation dans ce domaine. Pour exemple, José Bové travaille beaucoup avec Générations Futures. 
 
-Si Générations Futures est une association particulièrement dédiée au combat contre les pesticides et les perturbateurs endocriniens, d’autres associations (lien vers fiches acteurs), aux combats plus généralement liés à l'environnement, participent à la sensibilisation du public sur la question.
+<p align="justify"> Générations Futures ne veut pas uniquement se limiter à de l’information et de la sensibilisation mais souhaite également participer activement aux avancées scientifiques en la matière. C’est pourquoi ils font aujourd’hui partie du comité d’orientation du Programme National de Recherche sur les Perturbateurs Endocriniens. </p> <br>
+
+<p align="justify"> Enfin, le travail réalisé par l’association est également une source précieuse d’informations pour les politiques qui cherchent à faire avancer la législation dans ce domaine. Pour exemple, José Bové travaille beaucoup avec Générations Futures. </p> <br> 
+
+<p align="justify">  Si Générations Futures est une association particulièrement dédiée au combat contre les pesticides et les perturbateurs endocriniens, d’autres <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">associations</a>, aux combats plus généralement liés à l'environnement, participent à la sensibilisation du public sur la question.
 
 Des associations de prévention des consommateurs ont également commencé à s’intéresser au sujet des perturbateurs endocriniens en réalisant des analyses de produits. Le journaliste pour Le Monde, Stéphane Foucart, expliquait au cours du Colloque sur les perturbateurs endocriniens à l’ENS (21 avril 2017), que “le sujet des PE est assez insaisissable car il n’y a pas de catégorie intelligible pour le commun des mortels, c’est-à-dire pour les personnes autres que des scientifiques”. Il explique alors que “la première question que se pose un lecteur, et donc le journaliste, est ‘où est ce que ce qu’on les trouve ?’” C’est principalement à cette question que répondent ces associations, qui cherchent alors à éclairer les consommateurs sur le nouveau danger que représentent les perturbateurs endocriniens. 
 </p>
+
+<img ALIGN="left" src="Tableaueve.png" alt="Perturbateurs endocriniens"  usemap="#pertumap" style="width:200px;height:500px;padding-right: 10px; padding-top: 10px;"/>
 
 <p align="justify"> L’UFC-Que choisir a publié une base de données montrant la présence de 185 perturbateurs endocriniens dans les produits cosmétiques (voir photo ci-contre).<br><br>
 
