@@ -170,7 +170,7 @@ La prévision d’une plateforme pour la mise au point de test dans la Stratégi
  
  <p align="justify"> On observe que les Etats Unis, la France, le Danemark, la Suède et le Japon sont à l’origine de la majorité des propositions.</p>
 
-<h4> align="center">Projets pour la détection ou le test de produits chimiques pour la perturbation endocrinienne, actuellement en cours d’évaluation par l’OCDE: </h4>
+<h4>>Projets pour la détection ou le test de produits chimiques pour la perturbation endocrinienne, actuellement en cours d’évaluation par l’OCDE:</h4>
      
 <table>
     <tr>
