@@ -144,7 +144,8 @@ L’entreprise travaille maintenant en partenariat avec Véolia, et a mis sur le
 <h4>Une alternative aux phtalates: </h4>
 <p align="justify">
 Les phtalates sont un groupe de produits chimiques, ajoutés aux matières plastiques pour les rendre plus souples, flexibles et résistantes. Ils sont essentiels à la fabrication des bottes et des textiles imperméables par exemple.
-Des expériences sur les animaux ont prouvé que les phtalates en concentration élevés conduisent à une baisse de la fertilité, à une atrophie testiculaire ou encore à une réduction du poids du fœtus.
+Des expériences sur les animaux ont prouvé que les phtalates en concentration élevés conduisent à une baisse de la fertilité, à une atrophie testiculaire ou encore à une réduction du poids du fœtus.<br><br>
+
 Depuis 2005, l’ADEME (Agence de l’Environnement et de la Maîtrise de l’Energie) finance un programme de recherches sur les alternatives possibles aux phtalates. Cependant, la plupart des produits trouvés n’ont pas les mêmes performances économiques et technologiques. Des start-ups biotechnologiques comme Novance, Roquette ou Danisco proposent des alternatives végétales qui pour l’instant semblent remplir les caractéristiques souhaitées. 
 
 Certaines industries ne préfèrent pas attendre une réglementation plus stricte de l’UE et se tournent dès maintenant vers la production et la vente de produits sans perturbateurs endocriniens. Ils basent leur stratégie marketing sur la dangerosité des phtalates, comme le montre la vidéo ci-dessous sur l’entreprise ayant lancé il y a peu une gamme de vaisselle jetable biodégradable en bambou ou en pulpe de canne à sucre.  </p>
