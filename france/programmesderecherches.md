@@ -170,7 +170,7 @@ La prévision d’une plateforme pour la mise au point de test dans la Stratégi
  
  <p align="justify"> On observe que les Etats Unis, la France, le Danemark, la Suède et le Japon sont à l’origine de la majorité des propositions.</p>
 
-<h4 align="center">Projets pour la détection ou le test de produits chimiques pour la perturbation endocrinienne, actuellement en cours d’évaluation par l’OCDE: </h4>
+<h4> align="center">Projets pour la détection ou le test de produits chimiques pour la perturbation endocrinienne, actuellement en cours d’évaluation par l’OCDE: </h4>
      
 <table>
     <tr>
@@ -245,14 +245,11 @@ La prévision d’une plateforme pour la mise au point de test dans la Stratégi
     <td>Update of TG 421 and TG 422 with ED-relevant endpoints</td>
      <td>Danemark</td>
    </tr>
-   <tr>
    
-   </div>
-  <p>Ceci est un paragraphe avant le tableau.</p>
+   </table>
+  
+ 
 
-</table>
-
-<p>Ceci est un paragraphe après le tableau.</p>
    
  <h2>Lien avec des programmes européens et étrangers</h2>  
  <p align="justify">Les pays ayant proposé la majorité des méthodes de tests à l’OCDE sont évidemment aussi ceux qui sont le plus actifs dans la recherche sur ce sujet. En effet, selon Barbara Demeneix, la France serait, avec le Danemark et la Suède, l’un des pays les plus engagés dans la recherche académique sur les perturbateurs endocriniens, grâce à des stratégies nationales sur les perturbateurs endocriniens d’envergure. Les chercheurs de ces pays forment également la majorité des scientifiques qui ont signé <a href="http://www.lemonde.fr/idees/article/2016/11/29/halte-a-la-manipulation-de-la-science_5039860_3232.html">l'appel à l'Union Européenne</a> </p>
@@ -267,7 +264,7 @@ La prévision d’une plateforme pour la mise au point de test dans la Stratégi
  <p align="justify">Barbara Demeneix souligne également que la coopération internationale est importante sur le sujet, ce que confirme le 2ème « Paris Workshop on Endocrine Disruptors Effects on Wildlife and Human Health » organisé par le PNRPE en janvier 2016. Les orateurs invités proviennent de pays aussi divers que la Belgique, les Etats Unis, le Canada, le Royaume Uni et le Danemark. </p>
 
 </div>
-   
+  
 </article>
 
 
