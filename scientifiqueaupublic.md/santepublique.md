@@ -123,7 +123,7 @@ li a.active {
 <h4> Jouets en plastique</h4> 
 <p>La plupart des jouets en PVC (polychlorure de vinyle : une des matières plastiques les plus utilisés au monde), contiennent des perturbateurs endocriniens notamment des phtalates.</p> 
 
-Meubles et produits ménagers /Moquette/ Air intérieur 
+<h4>Meubles et produits ménagers /Moquette/ Air intérieur</h4> 
 <p>Les vernis utilisés pour les meubles, la vaisselle en plastique, les ustensiles de cuisines, les produits ménagers peuvent contenir du Bisphénol A, des phtalates, benzène et bien d’autres. Même s'ils ne sont pas ingérés de manière directe, nos aliments s’en imprègnent, en particulier quand ils sont chauffés. Le Plan de la qualité de l’air intérieur publié en 2013 témoigne de l’omniprésence de ces molécules volatiles à l’intérieur d’une maison.</p> 
 
 <h4> L’eau du robinet </h4> 
@@ -178,14 +178,13 @@ Robert Barouki propose une définition de la perturbation endocrinienne par le b
 <p>Enfin, les perturbateurs endocriniens ont en partie remis en question le principe de “la dose fait l’effet”. En effet, il a longtemps été considéré que lorsque la dose augmentait, l’effet aussi de façon monotone. Or, une partie des PE, ne satisfont pas cette assertion, il se peut qu’en augmentant la dose de perturbateurs endocriniens, l’effet observé soit à un moment diminué et que la relation entre la dose et l’effet ne soit pas linéaire mais puisse éventuellement former une parabole ou une relation décroissante. Ainsi, par exemple, lors de ses recherches sur le distilbène, Frederick Vom Saal a observé que pendant un temps, l’effet augmentait avec la dose de distilbène puis que leur effet diminuait à partir d’une certaine dose limite.</p>
 
 <p>Dans une étude de 2012 intitulée “Low-dose effect and nonmonotonic dose-responses of endocrine disrupting chemicals”, une équipe de scientifique étudie justement ces courbes doses-effets avec des perturbateurs endocriniens et démontrent ces relations non-monolithiques, nous avons ici quelques exemples des formes des courbes qu’ils ont pu trouver.</p> 
-
-  
-  <h1>METTREEEE ICCIIIII LE GRAPHIQUE !!!!!!!</h1> 
   
   </div>
   
   <div id="dangers">
-  
+
+<p align="justify"> <img ALIGN="left" src="image.png" alt="Graphique2" style="width:250px;height:250px;padding-left:10px; padding-bottom: 10px;"></p>
+
 <p>Par exemple, la courbe A peut être expliquée par le fait qu’un perturbateur endocrinien particulier ait pour cibles deux récepteurs différents et aux effets antagonistes l’un de l’autre. Le premier étant activé à faibles doses et la deuxième s’activant à fortes doses, ainsi l’effet diminue avec la dose à partir d’un certain point critique.</p> 
 
 <p>Ainsi, les perturbateurs endocriniens ont provoqué le renouvellement des concepts toxicologiques qui ont été remis en cause face à des substances ne satisfaisant pas les principes traditionnels.</p> 
@@ -195,8 +194,6 @@ Robert Barouki propose une définition de la perturbation endocrinienne par le b
 <p>Les maladies provoquées chez l’Homme par les perturbateurs endocriniens sont encore un sujet de la recherche scientifique, on peut citer par exemple parmi les travaux en cours les recherches de Barbara Demeneix et de son équipe sur la perturbation des hormones thyroïdiennes et son impact sur le développement du cerveau.</p> 
 
 <p>Cependant, on peut établir une liste non exhaustive des effets des perturbateurs endocriniens sur l’humain : problèmes de diabètes et d’obésité, problème sur le développement du cerveau influent sur le comportement, problème de fertilité, cancers hormonaux, malformations génitales…</p> 
-
-<h1>ICIIIII LA SUITEEE DE MARGOOOOTTT</h1>
 
 <p>Ainsi, de nombreuses maladies peuvent aujourd’hui être considérées comme causées par l’exposition aux perturbateurs endocriniens. Et cela pose des problèmes sanitaires importants qui ont poussé les scientifiques à faire émerger la problématique des perturbateurs endocriniens au sein de l’espace public.</p> 
 
