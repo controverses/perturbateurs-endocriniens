@@ -155,8 +155,8 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 <div style="text-align: center">
 <P><A href="file:///Users/irismarechal/Downloads/Commission%20Europ%C3%A9enne.svg"><IMG src="organigramme.png" ismap border="0"></A>
 </div>
+<p> <a href="file:///Users/irismarechal/Downloads/Commission%20Europ%C3%A9enne.svg">ici</a> </p>
 
-<p>Pour agrandir le schéma cliquez <A href="file:///Users/irismarechal/Downloads/Commission%20Europ%C3%A9enne.svg"><p>ici</A></p> 
 
 <p> Tout d’abord, les membres de l’<em>Endocrine Disruptors Expert Advisory Group</em> sont nommés par les Etats-membres. Or, comme il est possible de le constater sur la liste des membres de l’ED EAG tirée d’un des <a href="http://publications.jrc.ec.europa.eu/repository/bitstream/JRC79981/lbna25919enn.pdf">rapports</a> du Joint Research Center de 2013 (Key scientific issues relevant to the identification and characterisation of endocrine disrupting substances), il peut s’agir de chercheurs appartenant à des universités nationales, mais également d’agences nationales telles que RIVM aux Pays-Bas, l’ANSES en France ou le Federal Institute for Risk Assessement allemand (BfR), qui sont sous contrôle du gouvernement. Aussi, il est important de se demander si <strong>l’impartialité scientifique</strong> prime sur la représentation de la <strong>stratégie nationale</strong>. Enfin, on retrouve tout autant des membres d’ONGs telles que HEAL et Chem Trust (Ninja Reineke et Gwynne Lyons) que des membres de groupes de pression d’industries comme l’ECETOC, un lobby de l’industrie chimique particulièrement influent auxquels appartiennent entre autres BASF, Bayer, Syngenta ou Dow (James Wheeler).  </p>
 
