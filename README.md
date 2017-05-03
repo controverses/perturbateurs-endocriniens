@@ -23,7 +23,7 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgba(105, 216, 243, 0.2);
+    background-color: #0F4c84;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -36,7 +36,7 @@
 } 
 
 .dropdown-content a {
-    color: black;
+    color: #FFFFFF;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -63,16 +63,6 @@
     border-color: rgba(255, 255, 255, 0.3);
 }
 
-
-.section-accueil {
-	display: block;
-	min-height: 100%;
-	width: 165%;
-	margin-left: -267px;
-	margin-bottom:0;
-	margin-top:0;
-
-}
 
 </style>
 </head>
@@ -103,6 +93,8 @@
 <em>Qui sommes nous ?</em><br><br>
 
 Nous sommes quatre étudiantes en deuxième année de Double cursus « Sciences et Sciences Sociales » à Sciences Po Paris et Paris VI. Nous avons réalisé ce projet dans le cadre du cours « Étude de controverses » enseigné par Vincent Lepinay et Thomas Tari.<br><br> 
+
+<img src="visages.jpg" alt="visages" style="width:835px;height:auto;">
 
 <em>Pourquoi avoir choisi le sujet de la réglementation des perturbateurs endocriniens à l’échelle européenne et française ?</em><br><br>
 
