@@ -87,9 +87,9 @@
 
 Elle dispose de deux groupes d’experts :<br/>
   - Le groupe ad hoc sous la direction de la DG environnement établi en 2010 et constitué de commissaires, de membres d’agences de l’UE et d’agences d’Etats membres.<br/>
-  - L’Endocrine Disruptors Expert Advisory Group (ED EAG), sous la direction du Joint Research Center (JRC) depuis novembre 2011.<br/></p>
-<i>Le Joint Research Centre (<a href="https://ec.europa.eu/jrc/en">JRC</a>) est le service technique et scientifique de la Commission Européenne. Il emploie des scientifiques pour mener des recherches dans le but de fournir des conseils scientifiques "indépendants" pour les politiques européennes.<i>
-<p>Elle est également conseillée par un groupe d’experts indépendant, le Scientific Committee on Consumer Safety.<p> <br/>
+  - L’Endocrine Disruptors Expert Advisory Group (ED EAG), sous la direction du Joint Research Center (JRC) depuis novembre 2011.<br/>
+<i>Le Joint Research Centre (<a href="https://ec.europa.eu/jrc/en">JRC</a>) est le service technique et scientifique de la Commission Européenne. Il emploie des scientifiques pour mener des recherches dans le but de fournir des conseils scientifiques "indépendants" pour les politiques européennes.
+<p>Elle est également conseillée par un groupe d’experts indépendant, le Scientific Committee on Consumer Safety.<p>
     
     <p><strong>Le Parlement Européen </strong> Il est plutôt pionnier sur la question des perturbateurs endocriniens, puisqu’il a adopté en 2009 et 2012 deux résolutions posant les bases de la réglementation sur les pesticides et insistant sur la nécessité de définir et règlementer rapidement les perturbateurs endocriniens. Il s’est parfois opposé à la Commission, comme en janvier 2015 : 11 membres du Parlement ont envoyé une lettre critique au commissaire de la santé Vytenis Andriukaitis, le pressant de travailler en faveur d’une approche horizontale des perturbateurs, en adéquation avec les travaux scientifiques et non pas seulement basé sur les impacts économiques.
 </p>
