@@ -154,7 +154,7 @@ La même année, <strong> l’Organisation Mondiale de la Santé </strong> (OMS/
 <p><blockquote> Un perturbateur endocrinien est "une substance ou mélange exogène altérant une ou plusieurs fonction(s) du système endocrinien et causant en conséquence des effets adverses sur la santé d’un organisme intact, de sa progéniture ou de sous-populations " </blockquote></p> 
 
  <div style="text-align: center">
-  <img src="5.png" alt="Perturbateurs endocriniens"  style="width:100px;height:500px;">
+  <img src="5.png" alt="Perturbateurs endocriniens"  style="width:250px;height:500px;">
 </div>
 
 <p> Cette définition sert de base au groupe ED EAG, qui a posé comme <a href="https://eurl-ecvam.jrc.ec.europa.eu/laboratories-research/endocrine_disrupters/jrc-report-scientific-issues-identification-endocrine-disrupting-substances">éléments d'identification</a> d’un perturbateur endocrinien la <em> « démonstration d’un effet adverse pour lequel il existe une preuve convaincante d’un lien causal biologique plausible entre le mode d’action de la molécule et la perturbation du système endocrinien, et que celle-ci n’est pas une conséquence secondaire de la toxicité d’une autre substance non endocrine ». </em> </p> 
@@ -243,13 +243,13 @@ Cependant, les débats vont bon train dans l’enceinte parlementaire et reflèt
 
 
 <div style="text-align: center">
-  <img src="9.png" alt="Perturbateurs endocriniens"  style="width:250px;height:500px;">
+  <img src="9.png" alt="Perturbateurs endocriniens"  style="width:300px;height:500px;">
 </div>
 
 <p> Girling et les députés qui la soutiennent, entre autres Oreste Rossi (du groupe eurosceptique Europe of Freedom and Democracy - EFD), Pilar Ayuso (du groupe conservateur European People’s Party - EPP), Cristina Gutierrez-Cortines (EPP) et Andres Perello Rodriguez (du groupe socio-démocrate - S&D), souhaitent une modification par <a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BCOMPARL%2BPE-500.605%2B01%2BDOC%2BPDF%2BV0%2F%2FEN">amendements</a> du rapport Westlund, en remplaçant notamment le principe de précaution par une approche selon le critère de puissance. </p>
 
 <div style="text-align: center">
-  <img src="9.png" alt="Perturbateurs endocriniens"  style="width:250px;height:500px;">
+  <img src="9.png" alt="Perturbateurs endocriniens"  style="width:300px;height:500px;">
 </div>
 
 <p> Toutefois, l’approche hazard-based disposant d’une bonne majorité au Parlement, le rapport Westlund aboutit en mars 2013 à une <a href="http://www.europarl.europa.eu/sides/getDoc.do?type=TA&reference=P7-TA-2013-0091&format=XML&language=EN">résolution</a> précisant que les effets de n’importe quelle combinaison de perturbateurs endocriniens possible doivent être prise en considération et qu’étant donné que l’état actuel des connaissances scientifiques sur le sujet ne fournit pas une base suffisante pour mettre en place une limite en dessous de laquelle des effets indésirables ne se produiraient pas, les perturbateurs endocriniens doivent être considérés comme des substances sans seuil (non-threshold substances). </p>
