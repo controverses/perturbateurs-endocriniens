@@ -108,8 +108,8 @@ Nous sommes quatre étudiantes en deuxième année de Double cursus « Sciences
 
 Nous avons décidé de nous pencher sur ce sujet car c’est une controverse qui fait intervenir des disciplines diverses et implique une multitude d’acteurs. De plus, c’est un sujet d’actualité, par exemple, on observe depuis décembre 2016 que le nombre de recherches Google sur les perturbateurs endocriniens a très fortement augmenté en France, avec un pic en Février 2017 alors qu’il n’a pas augmenté aux Etats Unis. Cette hausse de l’intérêt est certainement dû entre autres à deux événements majeurs :<br>
 
-◦L’échec de la Commission Européenne en février 2017 à adopter une réglementation définissant les perturbateurs endocriniens.
-◦La remise d’un rapport de Générations Futures, en Février 2017, sur la présence de perturbateurs endocriniens dans les cheveux de personnalités du monde de l’écologie.
+◦L’échec de la Commission Européenne en février 2017 à adopter une réglementation définissant les perturbateurs endocriniens.<br>
+◦La remise d’un rapport de Générations Futures, en Février 2017, sur la présence de perturbateurs endocriniens dans les cheveux de personnalités du monde de l’écologie.<br>
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"endocrine disruptors","geo":"","time":"2007-01-01 2017-05-03"},{"keyword":"perturbateurs endocriniens","geo":"","time":"2007-01-01 2017-05-03"}],"category":0,"property":""}, {"exploreQuery":"date=2007-01-01%202017-05-03&q=endocrine%20disruptors,perturbateurs%20endocriniens","guestPath":"https://trends.google.fr:443/trends/embed/"}); </script><br><br> 
 
