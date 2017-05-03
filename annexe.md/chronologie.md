@@ -101,7 +101,7 @@
 
 <h2>2006</h2>
 
-<p><strong>Décembre</strong>
+<p><strong>Décembre :</strong>
 
 <ul>
 <li>Adoption par le Parlement du règlement REACH. Son but est d’assurer un niveau élevé de protection et de renforcer l'esprit d'innovation de l'industrie chimique par la substitution des substances très préoccupantes comme les cancérogènes, les mutagènes. Il dispose que la Commission doit déterminer avant le 1er juin 2013 si l’établissement d’un seuil est pertinent ou non dans le cas des perturbateurs endocriniens. </li>
@@ -131,7 +131,7 @@ Première publication de l’Endocrine Society sur le sujet.</p>
 
 <p><strong>Avril</strong> : Rapport parlementaire mené par la députée socialiste suédoise Asa Westlund, supportant l’approche basée sur le principe de précaution adoptée par la DG ENV et demandant à ce que les perturbateurs endocriniens soient ajoutés au règlement REACH.</p>
 
-<p><strong>Mai</strong>
+<p><strong>Mai :</strong>
 
 <ul>
 <li>Adoption par le Parlement du règlement 528/2012 concernant la mise sur le marché des biocides. Avec le règlement de 2009, ce sont sur ces deux textes que se base la Commission pour l’établissement d’une future régulation sur les perturbateurs endocriniens.</li>
@@ -143,7 +143,7 @@ Première publication de l’Endocrine Society sur le sujet.</p>
 
 <p><strong>Juillet</strong> : Commentaire du rapport Kortenkamp par le Hazardous Substances Advisory Committee (HSAC) du gouvernement anglais.
 
-<p><strong>Août</strong> </p>
+<p><strong>Août :</strong> </p>
 <ul>
 <li>Publication par l’OECD d’une revue détaillée sur l’état des connaissances scientifiques et des méthodes permettant de détecter et d’identifier les perturbateurs endocriniens.</li>
 <li>La DG SANCO mandate l’EFSA pour intervenir sur le sujet.</li>
@@ -158,7 +158,7 @@ Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine 
 
 <p><strong>Janvier</strong> : La députée conservatrice britannique Julie Girling organise un atelier contre le rapport Westlund, “Risk versus Hazard – with reference to the Westlund report on Endocrine disruptors” : see guestlist.</p>
 
-<p><strong>Mars</strong>
+<p><strong>Mars :</strong>
 
 <ul>
 <li>Publication de l’EFSA, « Scientific Opinion on the hazard assessment of endocrine disruptors », recommandant une approche risk-based.</li>
@@ -167,7 +167,7 @@ Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine 
 
 </ul>
 
-<p><strong>Juin</strong> : </p>
+<p><strong>Juin :</strong> : </p>
 
 <ul>
 <li>Lancement officiel des négociations sur le TTIP.</li>
@@ -182,7 +182,7 @@ Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine 
 <p><strong>Août</strong> : Réponse à la lettre ouverte par 41 scientifiques, publiée dans Environmental Health News.
 Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Health News l’article « Special report : scientists critical of EU chemical policy have industry ties », dénonçant les conflits d’intérêt des scientifiques signataires.</p>
 
-<p><strong>Octobre</strong> :</p> 
+<p><strong>Octobre :</strong> :</p> 
 
 <ul>
 
@@ -197,7 +197,7 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 <h2>2014</h2>
 
-<p><strong>Février</strong> : </p>
+<p><strong>Février :</strong> </p>
 <ul>
 
 <li>Publication de plusieurs groupes industriels critiquant le rapport WHO-UNEP de 2012. </li>
@@ -215,7 +215,7 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 <h2>2015</h2>
 
-<p><strong>Janvier</strong> : </p>
+<p><strong>Janvier :</strong> </p>
 
 <ul>
 <li>Lettre critique du Parlement adressée au Commissaire de la santé Vytenis Andriukaitis, le pressant de travailler en faveur d’une approche horizontale des perturbateurs, en adéquation avec les travaux scientifiques et non pas seulement basé sur les impacts économiques.</li>
@@ -243,7 +243,7 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 <p><strong>Février</strong> : Questions orales des députés à la Commission, plusieurs d’entre eux interpellent le Commissaire de la santé sur le sujet de l’étude d’impact, que celui-ci présente comme un « outil essentiel » pour guider les décisions de la Commission.</p>
 
-<p><strong>Juin</strong> : </p>
+<p><strong>Juin :</strong> </p>
 
 <ul>
 <li>Publication de l’étude d’impact par la Commission.</li>
@@ -258,7 +258,7 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 <p><strong>Février</strong> : Lettre adressée par plusieurs ONGs au Commissaire de la Santé, urgeant de mettre en place des régulations plus importantes en ce qui concerne les perturbateurs endocriniens.</p>
 
-<p><strong>Avril</strong> : </p>
+<p><strong>Avril :</strong> </p>
 
 <ul>
 <li>L’Endocrine Society adresse une lettre au Président Juncker.</li>
