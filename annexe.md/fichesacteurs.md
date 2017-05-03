@@ -209,6 +209,11 @@ Elle dispose de deux groupes d’experts :<br/>
 
 <p><strong>Agir pour l’environnement</strong> est une association de mobilisation citoyenne nationale en faveur de l'environnement. Elle a organisé entre septembre 2013 et juin 2014 une campagne “Perturbateurs endocriniens : Environnement perturbé, santé menacée!"</p>
 
+<p><strong>Générations futures  </strong> est une association française de défense de l'environnement créée en 1996, sous le nom du Mouvement pour les Droits et le Respect des Générations Futures. Elle s'intéresse particulièrement aux dangers des pesticides pour la santé.
+     </p>
+     
+<p><strong>Réseau Environnement Santé  </strong> (RES) est une association cherchant à "mettre la santé environnementale au coeur des politiques publiques". Créé en 2009, il regroupe des ONG, des associations de professionnels de santé, de scientifiques et de malades ainsi que des adhérents individuels.
+     </p>
      
       <h2>Les organismes gouvernementaux français</h2>
       <p><strong>Anses :   </strong> établissement public à caractère administratif, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail est placée sous la tutelle des ministères chargés de la santé, de l’agriculture, de l’environnement, du travail et de la consommation. Elle a pour mission de réaliser l’évaluation des risques, de fournir aux autorités compétentes toutes les informations sur ces risques ainsi que l’expertise et l’appui scientifique et technique nécessaires à l’élaboration des dispositions législatives et réglementaires et à la mise en œuvre des mesures de gestion des risques.
