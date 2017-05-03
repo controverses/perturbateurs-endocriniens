@@ -167,7 +167,7 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 
 <h4> Conflit endocrinien, perturbateurs d’intérêts : quels conflits d’intérêts autour de la Commission ?</h4> 
 
-<p> Bien que l’EFSA soit la source technique de l’UE la plus décriée sur le sujet, la plupart des groupes d’experts sur lesquels se base la Commission contiennent des membres appartenant à des parties prenantes telles que les industries concernées par la régulation ou les Etats-membres de l’Union ayant chacun leur propre vision du problème, comme il est possible de le voir sur le schéma, consultable <a href="https://drive.google.com/open?id=0B2cGdu8NrUlFd3kzcWxiOERkc1U">ici</a>. </p>
+<p> Bien que l’EFSA soit la source technique de l’UE la plus décriée sur le sujet, la plupart des groupes d’experts sur lesquels se base la Commission contiennent des membres appartenant à des parties prenantes telles que les industries concernées par la régulation ou les Etats-membres de l’Union ayant chacun leur propre vision du problème, comme il est possible de le voir sur le schéma, téléchargeable <a href="https://drive.google.com/open?id=0B2cGdu8NrUlFd3kzcWxiOERkc1U">ici</a> pour un meilleur aperçu. </p>
 
 
 <div style="text-align: center">
