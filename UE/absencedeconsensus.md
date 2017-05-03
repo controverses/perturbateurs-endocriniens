@@ -112,6 +112,11 @@ li a.active {
   
   <p> Pourtant, la Commission parle d’une <strong> absence de consensus</strong> à l’intérieur de la communauté scientifique <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.md">(lien vers le questionnaire)</a> </strong> En fait, cette absence de consensus concerne la régulation à adopter pour les perturbateurs, c’est-à-dire lesquels interdire et de quelle manière (en établissant un seuil par exemple), et ces difficultés sont provoquées par la remise en cause des principes toxicologiques de base par les perturbateurs endocriniens.<br> 
 Pour cause, si l’on sait que les molécules catégorisées comme « perturbateurs endocriniens » présentent un danger pour la santé humaine, on ne sait pas à quel niveau. Cela est notamment dû à ce que l’on appelle <strong>l’effet cocktail</strong> : lorsque plusieurs perturbateurs endocriniens sont présents et agissent sur un individu, leur effet sur le système endocrinien peut être démultiplié. 
+
+<div style="text-align: center">
+  <img src="2.png" alt="Perturbateurs endocriniens"  style="width:500px;height:100px;">
+</div>
+
 De plus, un être humain est confronté à un nombre infini de substances pouvant avoir un impact sur son système hormonal au cours de sa vie et l’émergence de maladies liées à la perturbation du système endocrinien se constate sur le très long terme. Par conséquent, dans son <p> <a href="http://www.who.int/ipcs/publications/en/toc.pdf">rapport de 2002 </a> , l’OMS souligne que : </p>
 
 <p><blockquote>« Il pourrait ne jamais être possible d’avoir la certitude qu’une exposition spécifique cause une maladie ou dysfonction spécifique ».</blockquote></p>
@@ -119,6 +124,11 @@ De plus, un être humain est confronté à un nombre infini de substances pouvan
 
 <p> Cependant, le rapport attire l’attention sur le fait que les perturbateurs endocriniens sont susceptibles d’altérer la susceptibilité d’un individu à différents types de maladies tout au long de sa vie du fait de leur capacité à interagir avec le développement et le fonctionnement des organes et tissus. <br>
 Aussi, l’argument traditionnel « la dose fait le poison » est écarté par de nombreux scientifiques dans le cas des perturbateurs endocriniens, et tendrait à être remplacé par « le temps fait le poison », l’exposition sur le long terme étant davantage à l’origine des perturbations. <br>
+ 
+ <div style="text-align: center">
+  <img src="3.png" alt="Perturbateurs endocriniens"  style="width:300px;height:300px;">
+</div>
+
 Pourtant, selon la Commission européenne, il existe toujours des doutes au niveau de la recherche scientifique quant à l’existence de réponses non monotoniques (NMDR), c’est-à-dire l’existence même de l’effet cocktail. En effet, les sources utilisées par la Commission sont extrêmement diverses et se contredisent. </p> 
 
 <h4> Un consensus sur la définition </h4>
@@ -127,11 +137,21 @@ Pourtant, selon la Commission européenne, il existe toujours des doutes au nive
 
 
 Par exemple, en avril 2003, le <strong>CREDO cluster</strong> voit le jour afin de mener 4 projets qui permettraient d’approfondir les connaissances scientifiques sur le sujet pour fournir une base de données à la Commission. Il regroupe 63 laboratoires pour un budget de 20 millions d’euros. A partir de juillet 2004, <strong>le projet REPROTECT</strong> associe 32 groupes de recherche européens parmi lesquels le Joint Research Center (JRS) de la Commission, dans un but de développement de méthodes de détection in vitro de produits toxiques, et pour un budget atteignant 13.2 millions d’euros au bout de 5 ans. La Commission investit également 14 millions d’euros dans <strong>le projet CASCADE</strong> regroupant 24 groupes de recherche provenant de neuf Etats-membres et visant à permettre une coordination durable de la recherche autour des résidus chimiques dans l’alimentation, en particulier des perturbateurs endocriniens. <br>
+
+ <div style="text-align: center">
+  <img src="4.png" alt="Perturbateurs endocriniens"  style="width:500px;height:100px;">
+</div>
+
+
+
 En 2009, la Direction Générale de l’Environnement (DG ENV) est désignée chef de file pour la prise en charge du sujet. Elle prend alors différentes mesures afin de s’informer davantage sur le sujet, en commençant par la mise en place de plusieurs groupes d’experts : en 2010, un <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">groupe ad-hoc</a></strong> voit le jour, constitué de 40 experts provenant des différents Etats-membres, d’agences publiques, de centre de recherche, d’autres DGs et de l’EFSA. L’année suivante, le <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">JRS</a> </strong>  monte un Expert Advisory Group (ED EAG) destiné à apporter des éléments techniques sur le sujet. Enfin, elle commande un rapport à un groupe de chercheurs de différentes universités britanniques (dont les noms se trouvent sur le rapport) mené par le professeur <a href="http://www.brunel.ac.uk/people/andreas-kortenkamp">Andreas Kortenkamp</a>, un spécialiste de la question, <a href="http://ec.europa.eu/environment/chemicals/endocrine/pdf/sota_edc_final_report.pdf">publié</a> en janvier 2012.
 La même année, <strong> l’Organisation Mondiale de la Santé </strong> (OMS/WHO – World Health Organization) publie un <a href="http://apps.who.int/iris/bitstream/10665/78102/1/WHO_HSE_PHE_IHE_2013.1_eng.pdf">rapport</a> récapitulant les connaissances scientifiques sur le sujet. Rapidement, un consensus se forme parmi les acteurs entourant la Commission autour de la définition des PE qu’il propose : </p>
 
 <p><blockquote> Un perturbateur endocrinien est "une substance ou mélange exogène altérant une ou plusieurs fonction(s) du système endocrinien et causant en conséquence des effets adverses sur la santé d’un organisme intact, de sa progéniture ou de sous-populations " </blockquote></p> 
 
+ <div style="text-align: center">
+  <img src="5.png" alt="Perturbateurs endocriniens"  style="width:500px;height:100px;">
+</div>
 
 <p> Cette définition sert de base au groupe ED EAG, qui a posé comme <a href="https://eurl-ecvam.jrc.ec.europa.eu/laboratories-research/endocrine_disrupters/jrc-report-scientific-issues-identification-endocrine-disrupting-substances">éléments d'identification</a> d’un perturbateur endocrinien la <em> « démonstration d’un effet adverse pour lequel il existe une preuve convaincante d’un lien causal biologique plausible entre le mode d’action de la molécule et la perturbation du système endocrinien, et que celle-ci n’est pas une conséquence secondaire de la toxicité d’une autre substance non endocrine ». </em> </p> 
 
@@ -162,6 +182,10 @@ Cette tension se reflète dans les deux approches s’opposant autour de la mise
 <li> <strong>Risk assessment & risk management </strong>: vérification du risque présenté par une certaine substance puis en résulte une restriction dans les zones d’usage ou la quantité d’usage. </li>
 </ul>
 
+ <div style="text-align: center">
+  <img src="6.png" alt="Perturbateurs endocriniens"  style="width:500px;height:100px;">
+</div>
+
 <p> Toutefois la Commission précise : </p>
 
 <p><blockquote> « La perturbation endocrinienne n’est pour le moment pas abordée par ce système de classification [hazard identification], étant donné qu’il n’existe pas de méthodes agréées pour détecter si un produit chimique est un perturbateur endocrinien ».  </blockquote> </p>
@@ -181,6 +205,12 @@ Cette approche selon le principe de précaution, soutenue par la plupart des org
 <p> Le CREDO cluster aboutit aux mêmes conclusions, c’est-à-dire que l’approche conventionnelle permettant d’estimer des niveaux pour lesquels on n’observerait aucun effet indésirable sur la santé est inadéquate dans le cas des perturbateurs endocriniens. Un <a href="http://ec.europa.eu/environment/chemicals/endocrine/pdf/sec_2011_1001.pdf">rapport</a> de la Commission résumant la conclusion du groupe de la façon suivante : </p>
 
 <p><blockquote> « De telles substances peuvent, même à une faible puissance et une faible exposition de l’individu, fonctionner ensemble pour produire un effet combinatoire signifiant si elles sont présentes en grand nombre ». </blockquote></p>
+
+
+ <div style="text-align: center">
+  <img src="7.png" alt="Perturbateurs endocriniens"  style="width:500px;height:100px;">
+</div>
+
 
 <p> A l’inverse, l’EFSA dans son <a href="https://www.efsa.europa.eu/fr/press/news/130320">rapport</a> de 2013 conclue que : </p>
 
