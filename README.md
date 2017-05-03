@@ -94,7 +94,7 @@
 
 Nous sommes quatre étudiantes en deuxième année de Double cursus « Sciences et Sciences Sociales » à Sciences Po Paris et Paris VI. Nous avons réalisé ce projet dans le cadre du cours « Étude de controverses » enseigné par Vincent Lepinay et Thomas Tari.<br><br> 
 
-<img src="visages.jpg" alt="visages" style="width:785px;height:auto;">
+<img src="visages.jpg" alt="visages" style="width:785px;height:auto;"><br>
 
 <em>Pourquoi avoir choisi le sujet de la réglementation des perturbateurs endocriniens à l’échelle européenne et française ?</em><br><br>
 
