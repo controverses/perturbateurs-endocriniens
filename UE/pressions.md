@@ -98,17 +98,7 @@ li a.active {
 
 <ul>
   <li><a href="#alimenter">La "manufacture du doute"</a></li>
-  <li><a href="#garantie">Garantie d'indépendance</a></li><br>
-  <li><a href="#conflits">Conflits d'intérêts autour de la Commission</a></li><br>
-  <li><a href="#processus">Un processus démocratique ou scientifique ?</a></li><br>
-  <li><a href="#lobbying"> Le lobbying : création d’une alternative ?</a></li><br>
-  <li><a href="#transparence">Pour plus de transparence</a></li><br>
   <li><a href="#basculement">Basculement vers une problématique éco</a></li><br>
-   <li><a href="#lobbying2">« Lobbying blitzkrieg » la </a></li><br>
-    <li><a href="#cry">« Cry wolf »
-</a></li><br>
-     <li><a href="#TAFTA">TAFTA/TTIP</a></li><br>
-     <li><a href="#poursuite">La poursuite de la mobilisation </a></li><br>
   
 </ul>
 
