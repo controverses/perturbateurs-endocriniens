@@ -106,7 +106,7 @@ li a.active {
   
 <div id="livres">  
   
-<p>Ainsi, les problématiques liés aux PE ont peu à peu été portées dans l’espace public par les scientifiques, permettant une progressive prise de conscience des enjeux à l’œuvre. En effet, les études scientifiques, les congrès et les rapports officiels sont souvent non accessibles à un public non averti et face à l’ampleur de la crise sanitaire provoquée par les perturbateurs endocriniens, les scientifiques se sont mobilisés pour faire entendre leurs avertissements.<p>
+<p>Ainsi, les problématiques liés aux perturbateurs endocriniens ont peu à peu été portées dans l’espace public par les scientifiques, permettant une progressive prise de conscience des enjeux à l’œuvre. En effet, les études scientifiques, les congrès et les rapports officiels sont souvent non accessibles à un public non averti et face à l’ampleur de la crise sanitaire provoquée par les perturbateurs endocriniens, les scientifiques se sont mobilisés pour faire entendre leurs avertissements.<p>
 
 <h2>Livres de vulgarisation</h2> 
 
