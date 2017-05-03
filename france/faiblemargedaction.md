@@ -133,6 +133,7 @@ li a.active {
 </div>
 
 <div id="texte">
+<br/>
 
 <div style="text-align: center">
 <img src="tableau.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:700px;height:500px;"/>
