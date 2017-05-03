@@ -68,6 +68,20 @@
 
   <h1 style="text-align:center; align:justify;">Remerciements</h1>
   
+<p> Nous tenons d’abord à remercier nos professeurs, Vincent Lepinay et Thomas Tari pour leur accompagnement tout au long de l’année et leurs précieux conseils. <br><br>
+
+Nous adressons également nos remerciements à toutes les personnes que nous avons pu rencontrer au cours de notre projet et qui nous ont éclairé sur les dynamiques de la controverse réglementaire autour des perturbateurs endocriniens. Ce sont, par ordre chronologique de nos rencontres : <br>
+
+Agnes Bee, chercheuse au laboratoire PHENIX de l’Université Pierre et Marie Curie
+Catherine Blaudin de The, manager des supports techniques Normandie Picardie Champagne chez Lyonnaise des Eaux
+Stéphane Horel, journaliste indépendante
+Claude Charreteur, directeur business développement des laboratoires Neovia
+François Gemenne, chargé de l’écologie pour Benoit Hamon
+Rada Chehlarova, Direction Générale de la Santé et de la Sécurité alimentaire de l’Union Européenne
+Barbara Demeneix, endocrinologue au laboratoire Evolution des régulations endocriniennes au Muséum National d’Histoire Naturelle <br><br>
+
+Nous réservons nos derniers remerciements à Bruno Latour, qui a à la fois créé ce cours d’Etude de controverses et le double cursus dans lequel nous sommes toutes les six. </p>
+  
   </article>
 </body>
 </html>
