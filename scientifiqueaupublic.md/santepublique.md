@@ -183,7 +183,7 @@ Robert Barouki propose une définition de la perturbation endocrinienne par le b
   
   <div id="dangers">
 
-<p align="justify"> <img ALIGN="left" src="image.png" alt="Graphique2" style="width:250px;height:250px;padding-left:10px; padding-bottom: 10px;"></p>
+<p align="justify"> <img ALIGN="left" src="image.png" alt="Graphique2" style="width:250px;height:250px;padding-left:0px; padding-right: 10px;"></p>
 
 <p>Par exemple, la courbe A peut être expliquée par le fait qu’un perturbateur endocrinien particulier ait pour cibles deux récepteurs différents et aux effets antagonistes l’un de l’autre. Le premier étant activé à faibles doses et la deuxième s’activant à fortes doses, ainsi l’effet diminue avec la dose à partir d’un certain point critique.</p> 
 
