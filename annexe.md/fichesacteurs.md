@@ -79,17 +79,17 @@
 <h1 align="center">Fiches acteurs </h1>
     <h2>Les institutions européennes</h2>
     
-    <p><strong>La Commission Européenne </strong> C’est elle qui mène les négociations entre différents acteurs avant de proposer un projet de loi au Parlement afin de mettre en place une régulation des perturbateurs endocriniens. Elle est constituée de plusieurs directions générales : <br/>
+    <p><strong><a href="https://ec.europa.eu/commission/index_fr">La Commission Européenne</a> </strong> C’est elle qui mène les négociations entre les différents acteurs avant de proposer un projet de loi au Parlement pour mettre en place une régulation des perturbateurs endocriniens. Elle est constituée de plusieurs directions générales : <br/>
     
   - La DG ENV (environnement) chargée du dossier des perturbateurs de 2009 à 2014.<br/>
   - La DG SANTE (anciennement DG SANCO, santé et consommateurs) chargée du dossier depuis 2014.<br/>
   - La DG GROW (industrie, marché interne, entreprenariat)<br/>
 
-Elle dispose de deux groupes d’experts :
+Elle dispose de deux groupes d’experts :<br/>
   - Le groupe ad hoc sous la direction de la DG environnement établi en 2010 et constitué de commissaires, de membres d’agences de l’UE et d’agences d’Etats membres.<br/>
   - L’Endocrine Disruptors Expert Advisory Group (ED EAG), sous la direction du Joint Research Center (JRC) depuis novembre 2011.<br/></p>
-<p> The Joint Research Centre (JRC) is the European Commission's science and knowledge service which employs scientists to carry out research in order to provide independent scientific advice and support to EU policy. https://ec.europa.eu/jrc/en
-Elle est également conseillée par un groupe d’experts indépendant, le Scientific Committee on Consumer Safety.</p> <br/>
+<i>Le Joint Research Centre (<a href="https://ec.europa.eu/jrc/en">JRC</a>) est le service technique et scientifique de la Commission Européenne. Il emploie des scientifiques pour mener des recherches dans le but de fournir des conseils scientifiques "indépendants" pour les politiques européennes.<i>
+<p>Elle est également conseillée par un groupe d’experts indépendant, le Scientific Committee on Consumer Safety.<p> <br/>
     
     <p><strong>Le Parlement Européen </strong> Il est plutôt pionnier sur la question des perturbateurs endocriniens, puisqu’il a adopté en 2009 et 2012 deux résolutions posant les bases de la réglementation sur les pesticides et insistant sur la nécessité de définir et règlementer rapidement les perturbateurs endocriniens. Il s’est parfois opposé à la Commission, comme en janvier 2015 : 11 membres du Parlement ont envoyé une lettre critique au commissaire de la santé Vytenis Andriukaitis, le pressant de travailler en faveur d’une approche horizontale des perturbateurs, en adéquation avec les travaux scientifiques et non pas seulement basé sur les impacts économiques.
 </p>
