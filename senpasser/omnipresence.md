@@ -193,6 +193,11 @@ La conférence donnée par le journaliste pour Le Monde, Stéphane Foucart, sur 
 6.	Il explique que le journaliste doit faire face à de nombreux obstacles, parmi lesquels le manque de temps et d’argent pour lire les articles scientifiques. Le sujet étant si vaste et complexe, pour beaucoup, les Perturbateurs Endocriniens restent un sujet difficilement traitable dans un article destiné à être lu par le grand public. <br><br>
 7.	Pour finir, le travail de recherche qui est nécessaire est délicat puisque tous les acteurs ont un intérêt dans cette controverse et vont ainsi avoir tendance à la décrire avec un certain point de vue. Par exemple, Stéphane Foucart précise qu’il préfère ne pas travailler avec des associations car ses articles risquent alors d’être critiqués comme étant non objectifs par la communauté scientifique.<br/>
 
+<div style="text-align: center">
+  <img src="composition.png" alt="Perturbateurs endocriniens"  style="width:500px;height:500px;">
+</div>
+
+
 </p>
 
 </div>
