@@ -149,7 +149,7 @@ L’EFSA a également été au centre d’une controverse autour du <strong>bisp
 
 <p> La vision de l'EFSA de la science indépendante :
 <div style="text-align: center">
-<iframe width="854" height="480" src="https://www.youtube.com/embed/N0FEVglpQcw?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/N0FEVglpQcw?ecver=1" frameborder="0" allowfullscreen></iframe>
 <div/>
 <p>
 
