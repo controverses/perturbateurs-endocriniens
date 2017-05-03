@@ -142,7 +142,7 @@ li a.active {
 <p align="justify">Finalement, le texte de la Stratégie Nationale sur les Perturbateurs endocriniens (SPNE) prend peu en compte l’avis des entreprises. <br/></p>
 
 <h4>Recherche, valorisation, surveillance <h4>
-<p>Le gouvernement souhaite inscrire la thématique des perturbateurs endocriniens comme un axe essentiel de la recherche en santé environnementale.
+<p align="justify">Le gouvernement souhaite inscrire la thématique des perturbateurs endocriniens comme un axe essentiel de la recherche en santé environnementale.
 Le Ministère de l’Environnement veut également introduire une plateforme public-privé chargée de mettre au point des méthodes pour détecter les perturbateurs endocriniens. Ces méthodes pourraient ensuite être proposées à <a href="https://controverses.github.io/perturbateurs-endocriniens/france/programmesderecherches.html#public">l'OCDE</a> (Organisation de Coopération et de Développement Economique). En effet, cette organisation multinationale définit des lignes directrices sur les méthodes de tests de produits chimiques, qui sont souvent les seules acceptées par l’industrie. Une étude de faisabilité et d’intérêt de cette plateforme est en cours.</p>
 
 <h4>Expertise sur les substances </h4>
@@ -159,10 +159,10 @@ Le Ministère de l’Environnement veut également introduire une plateforme pub
 
 <p align="justify"> <a href="http://www.adebiotech.org/pert/">Colloque</a> sponsorisé par BASF (leader mondial de l’industrie chimique), citation de BASF à la fin du compte-rendu du colloque : </p>
 
-<p><blockquote> «	Cet état de méfiance permanente face à toute innovation entraîne un excès de « précautionnisme » réglementaire, voire parfois une véritable surrèglementation, comme en témoigne la stratégie nationale sur les perturbateurs endocriniens, qui brouille l'horizon et la visibilité des industriels de tous les secteurs, compromettant de fait leur capacité d’investissement et de développement en France. Nous sommes ainsi intimement convaincus que le rapport bénéfices / risques de toute innovation ou solution doit être évalué par une approche rationnelle fondée sur des données scientifiques fiables sans une surexpression du principe de précaution. »</blockquote></p> 
+<p align="justify"><blockquote> «	Cet état de méfiance permanente face à toute innovation entraîne un excès de « précautionnisme » réglementaire, voire parfois une véritable surrèglementation, comme en témoigne la stratégie nationale sur les perturbateurs endocriniens, qui brouille l'horizon et la visibilité des industriels de tous les secteurs, compromettant de fait leur capacité d’investissement et de développement en France. Nous sommes ainsi intimement convaincus que le rapport bénéfices / risques de toute innovation ou solution doit être évalué par une approche rationnelle fondée sur des données scientifiques fiables sans une surexpression du principe de précaution. »</blockquote></p> 
 
 <p align="justify"> Discours de Michel Urtizberea, BASF, toxicologue spécialisé dans les perturbateurs endocriniens : </p>
-<p><blockquote> « Malgré sa contribution active à la SPNE, l’industrie qui réclamait la prise en compte de points importants comme la puissance des effets observés et l'approche par le poids de la preuve, n'a pas obtenu que ces demandes soient intégrées dans la version finale de la SNPE portée par le Gouvernement. » </blockquote></p>
+<p align="justify"><blockquote> « Malgré sa contribution active à la SPNE, l’industrie qui réclamait la prise en compte de points importants comme la puissance des effets observés et l'approche par le poids de la preuve, n'a pas obtenu que ces demandes soient intégrées dans la version finale de la SNPE portée par le Gouvernement. » </blockquote></p>
 
 </div>
    
