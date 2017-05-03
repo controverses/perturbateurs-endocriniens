@@ -88,6 +88,22 @@ li a.active {
     color: white;
 }
 
+.zoom {
+height:400px;
+margin:auto;
+}
+.zoom p {
+text-align:center;
+}
+.zoom img {
+width:300px;
+height:225px;
+}
+.zoom img:hover {
+width:400px;
+height:300px;
+}
+
 </style>
 </head>
 
@@ -160,6 +176,12 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 <a href="images/image_grande.jpg" target="_blank"><img src="organigramme.png" alt="Petite image" /></a>
 </div>
 
+<div class="zoom">
+    <p>
+        <img src="organigramme.png"
+         alt="Perturbateurs endocriniens" />
+    </p>
+</div>
 
 
 
