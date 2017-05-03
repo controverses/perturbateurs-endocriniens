@@ -79,21 +79,21 @@
 
 <h2>1996</h2>
 
-<p><strong>Décembre</strong> : Workshop européen sur l’impact des perturbateurs endocriniens sur la santé humaine et la vie sauvage, organisé conjointement par la Commission européenne et l’OMS. Une première définition est posée.</p><br>
+<p><strong>Décembre</strong> : Workshop européen sur l’impact des perturbateurs endocriniens sur la santé humaine et la vie sauvage, organisé conjointement par la Commission européenne et l’OMS. Une première définition est posée.</p>
 
 <h2>1998</h2>
 
-<p><strong>Octobre</strong> : Résolution du Parlement, EU strategy on endocrine disruptors</p><br>
+<p><strong>Octobre</strong> : Résolution du Parlement, EU strategy on endocrine disruptors</p>
 
 <h2>2001</h2>
 
 <p><strong>Mai</strong> : Convention de Stockholm sur les polluants organiques persistants, accord international visant à réduire le nombre de polluants et signé par 152 pays. Elle interdit l’usage de 11 substances chimiques et restreint l’usage du DDT en raison du faible bénéfice par rapport au risque qu’il présente.</p>
 
-<p><strong>Juin</strong> : Deuxième workshop européen sur les perturbateurs endocriniens afin de poursuivre la stratégie de l’Union pour les perturbateurs endocriniens (recherche et développement, méthodes, coopération internationale).</p><br>
+<p><strong>Juin</strong> : Deuxième workshop européen sur les perturbateurs endocriniens afin de poursuivre la stratégie de l’Union pour les perturbateurs endocriniens (recherche et développement, méthodes, coopération internationale).</p>
 
 <h2>2002</h2>
 
-<p>Publication d’un rapport faisant l’état des lieux des connaissances scientifiques sur les perturbateurs endocriniens par l’OMS (WHO) dans le cadre du programme international de sûreté chimique (IPCS).</p><br>
+<p>Publication d’un rapport faisant l’état des lieux des connaissances scientifiques sur les perturbateurs endocriniens par l’OMS (WHO) dans le cadre du programme international de sûreté chimique (IPCS).</p>
 
 <h2>2003</h2>
 
