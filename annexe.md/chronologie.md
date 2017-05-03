@@ -29,7 +29,7 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgba(105, 216, 243, 0.2);
+    background-color: #0F4C84;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     border-color: rgba(255, 255, 255, 0.2);
@@ -41,7 +41,7 @@
 } 
 
 .dropdown-content a {
-    color: black;
+    color: #FFFFFF;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
