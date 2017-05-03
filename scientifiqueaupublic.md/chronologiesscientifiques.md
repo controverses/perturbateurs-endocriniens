@@ -215,7 +215,7 @@ Ainsi, les perturbateurs endocriniens peuvent avoir des actions directes en emp�
 
 <p>De manière plus affirmée, <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">l’Endocrine Society</a>, société savante dédiée à la recherche en endocrinologie, dans son rapport de 2015 écrit il n’y a plus “aucun doute sur la contribution des perturbateurs endocriniens au fardeau croissant des maladies chroniques liées à l’obésité, au diabète, à la reproduction, à la thyroïde, aux cancers et aux fonctions neuroendocriniennes et neurodéveloppementales”.</p> 
 
-<p align="justify"> <img ALIGN="left" src="graphique.png" alt="Graphique" style="width:550px;height:550px;padding-left:10px; padding-bottom: 10px;"></p>
+<p align="justify"> <img ALIGN="left" src="graphique.png" alt="Graphique" style="width:550px;height:550px;padding-left:0;padding-right:10px"></p>
 
 <p>Ainsi, il ne faut pas oublier que les perturbateurs endocriniens restent le sujet de nombreuses études scientifiques actuelles comme le montre le graphique ci-contre relatant de l'évolution du nombre de publications scientifiques sur le sujet depuis 1992. Cependant, on peut aujourd’hui dire que l’existence de perturbateurs endocriniens n’est plus remise en question tout comme le fait qu’ils aient des conséquences néfastes sur les écosystèmes et les Hommes. Ainsi, la controverse basée aujourd’hui sur les perturbateurs endocriniens n’est pas de nature scientifique mais bel et bien de nature réglementaire comme nous le verrons dans la deuxième partie.</p> 
    
