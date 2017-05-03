@@ -97,11 +97,7 @@ li a.active {
 
 <ul>
   <li><a href="#qualification">Qualification et quantification du risque</a></li>
-  <li><a href="#absence"> Absence de consensus sur la régulation</a></li><br>
-  <li><a href="#définition">Un consensus sur la définition</a></li><br>
-  <li><a href="#débat">Le véritable débat</a></li><br>
   <li><a href="#critères">Etablir des critères pour réglementer: hazard vs. moral risk</a></li><br>
-  <li><a href="#parlement">Le débat du côté du Parlement</a></li><br>
 </ul>
 
   <h1 align="center">De rapports en contradiction à des difficultés de réglementation</h1>
@@ -110,13 +106,9 @@ li a.active {
   
   <h2>Qualification et quantification du risque: des rapports en contradiction</h2> 
   
-  </div>
-  
-  <div id="absence">
-  
   <p> Les perturbateurs endocriniens sont présents dans une quantité impressionnante de produits du quotidien : pesticides, cosmétiques, plastiques, alimentaire… <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/scientifiqueaupublic.md/vulgarisationscientifique.html">(lien vers la partie qui aborde le sujet)</a> </strong>  Jusqu’ici, les scientifiques ont identifié pas moins d’un millier de substances qui sont probablement des perturbateurs, et disent que la liste est sûrement plus importante en réalité. Aussi, déterminer l’effet de chacune de ces molécules sur la santé humaine est particulièrement compliqué. Pourtant, il existe dans la communauté scientifique un consensus pour dire que ces substances perturbent le système hormonal et sont à l’origine de la recrudescence de certaines maladies. </p>
   
-  <h2> Absence de consensus sur la régulation </h2>
+  <h4> Absence de consensus sur la régulation </h4>
   
   <p> Pourtant, la Commission parle d’une <strong> absence de consensus</strong> à l’intérieur de la communauté scientifique <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.md">(lien vers le questionnaire)</a> </strong> En fait, cette absence de consensus concerne la régulation à adopter pour les perturbateurs, c’est-à-dire lesquels interdire et de quelle manière (en établissant un seuil par exemple), et ces difficultés sont provoquées par la remise en cause des principes toxicologiques de base par les perturbateurs endocriniens.<br> 
 Pour cause, si l’on sait que les molécules catégorisées comme « perturbateurs endocriniens » présentent un danger pour la santé humaine, on ne sait pas à quel niveau. Cela est notamment dû à ce que l’on appelle <strong>l’effet cocktail</strong> : lorsque plusieurs perturbateurs endocriniens sont présents et agissent sur un individu, leur effet sur le système endocrinien peut être démultiplié. 
@@ -124,15 +116,12 @@ De plus, un être humain est confronté à un nombre infini de substances pouvan
 
 <p><blockquote>« Il pourrait ne jamais être possible d’avoir la certitude qu’une exposition spécifique cause une maladie ou dysfonction spécifique ».</blockquote></p>
 
-</div>
-
-<div id="définition">
 
 <p> Cependant, le rapport attire l’attention sur le fait que les perturbateurs endocriniens sont susceptibles d’altérer la susceptibilité d’un individu à différents types de maladies tout au long de sa vie du fait de leur capacité à interagir avec le développement et le fonctionnement des organes et tissus. <br>
 Aussi, l’argument traditionnel « la dose fait le poison » est écarté par de nombreux scientifiques dans le cas des perturbateurs endocriniens, et tendrait à être remplacé par « le temps fait le poison », l’exposition sur le long terme étant davantage à l’origine des perturbations. <br>
 Pourtant, selon la Commission européenne, il existe toujours des doutes au niveau de la recherche scientifique quant à l’existence de réponses non monotoniques (NMDR), c’est-à-dire l’existence même de l’effet cocktail. En effet, les sources utilisées par la Commission sont extrêmement diverses et se contredisent. </p> 
 
-<h2> Un consensus sur la définition </h2>
+<h4> Un consensus sur la définition </h4>
 
 <p> La Commission s’intéresse au problème depuis 1996 <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/chronologie.html">(voir chronologie)</a>  </strong> , soit cinq ans après l’émergence du sujet dans la communauté scientifique. Dès le début, elle a organisé plusieurs workshops à l’échelle européenne, a lancé de nombreux <a href="http://ec.europa.eu/environment/chemicals/endocrine/pdf/sec_2011_1001.pdf">programmes de recherche </a> et a mis en place différents groupes de réflexion. <br>
 
@@ -143,13 +132,10 @@ La même année, <strong> l’Organisation Mondiale de la Santé </strong> (OMS/
 
 <p><blockquote> Un perturbateur endocrinien est "une substance ou mélange exogène altérant une ou plusieurs fonction(s) du système endocrinien et causant en conséquence des effets adverses sur la santé d’un organisme intact, de sa progéniture ou de sous-populations " </blockquote></p> 
 
-</div>
-
-<div id="débat">
 
 <p> Cette définition sert de base au groupe ED EAG, qui a posé comme <a href="https://eurl-ecvam.jrc.ec.europa.eu/laboratories-research/endocrine_disrupters/jrc-report-scientific-issues-identification-endocrine-disrupting-substances">éléments d'identification</a> d’un perturbateur endocrinien la <em> « démonstration d’un effet adverse pour lequel il existe une preuve convaincante d’un lien causal biologique plausible entre le mode d’action de la molécule et la perturbation du système endocrinien, et que celle-ci n’est pas une conséquence secondaire de la toxicité d’une autre substance non endocrine ». </em> </p> 
 
-<h2> Le véritable débat concerne l’identification et la réglementation des perturbateurs endocriniens</h2>
+<h4> Le véritable débat concerne l’identification et la réglementation des perturbateurs endocriniens</h4>
 
 <p> Cependant, une fois la définition déterminée (c’est-à-dire qu’on sait de quoi on parle, en théorie), deux étapes supplémentaires s’imposent (ces trois étapes sont développées par le professeur Kortenkamp dans le <a href="http://ec.europa.eu/environment/chemicals/endocrine/pdf/sota_edc_final_report.pdf">rapport de 2012</a>) :</p>
 
@@ -200,13 +186,9 @@ Cette approche selon le principe de précaution, soutenue par la plupart des org
 
 <p><blockquote> Les perturbateurs endocriniens « peuvent être traités de la même façon que la plupart des autres substances présentant un danger pour la santé humaine et l’environnement, c’est-à-dire que l’évaluation de risque [risk assessement] est envisageable au même titre que l’interdiction pour cause de danger [hazard assessement]. » </blockquote></p>
 
-</div>
-
-<div id="parlement">
-
 <p> Or, cet avis est partagé par les groupes de pression industriels tels que l’ECPA, une institution représentant les intérêts des groupes agricoles européen : son site « <a href="http://www.reasonabledebate.eu/">reasonable debate</a> » a été mis en place dans le but de défendre une réglementation basée sur les doses. L’argument principal développé est : « interaction n’est pas synonyme de perturbation ». Sur le site internet de l’ECETOC (une organisation cherchant à aider l'industrie à minimiser les effets négatifs sur la santé humaine et l'environnement pouvant découler de la fabrication et de l'utilisation de produits chimiques), on retrouve un article de Richard W.Lewis, chercheur chez <strong>Syngenta</strong>, une société spécialisée dans la chimie et l’alimentaire et appartenant à l’ECETOC. Intitulé « <a href="http://www.sciencedirect.com/science/article/pii/S0378427413013088">guide pour identifier les perturbateurs endocriniens</a> », il se présente en faveur de l’approche régulatrice liée à <strong>la dose</strong> (a weight-of-evidence approach). Les industries ne sont pas les seules à intervenir en faveur d’une approche risk-based : en mai 2011, <strong>l’Allemagne et l’Angleterre</strong> publient un <a href="http://www.bfr.bund.de/cm/343/regulatory_definition_of_an_endocrine_disrupter_in_relation_to_potential_threat_to_human_health.pdf">document commun</a> dans lequel ils se positionnent en faveur de l’établissement de seuils pour réguler les perturbateurs endocriniens. Selon le critère de puissance donc, seuls les plus dangereux perturbateurs endocriniens seraient retirés du marché, tandis qu’on laisserait aux autres substances le bénéfice du doute.</p>
 
-<h2> Le débat du côté du Parlement </h2>
+<h4> Le débat du côté du Parlement </h4>
 
 <p> Le Parlement européen semble être un pionnier dans le domaine puisqu’il est à l’origine de plusieurs législations visant à impulser la prise de décisions au niveau des perturbateurs endocriniens. Suite à une première résolution de 1998, le <a href="http://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:02006R1907-20161011&from=EN">règlement REACH</a> est adopté en 2006. Concernant les substances chimiques préoccupantes, il dispose que la Commission doit déterminer avant le 1er juin 2013 si l’établissement d’un seuil est pertinent ou non dans le cas des perturbateurs endocriniens. Trois ans plus tard, le <a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ%3AL%3A2009%3A309%3A0001%3A0050%3AFR%3APDF">règlement 1107/2009</a> concernant la mise sur le marché des produits phytopharmaceutiques fixe une nouvelle date butoir en demandant à la Commission de présenter une définition scientifique et des critères pour identifier les perturbateurs endocriniens avant le 14 décembre 2013, demande qu’il réitère dans le <a href="http://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32012R0528&from=fr">règlement 528/2012</a> de mai 2012 concernant la mise sur le marché des biocides. <br>
 Cependant, les débats vont bon train dans l’enceinte parlementaire et reflètent ceux qui existent au niveau de la Commission. Dans leur ensemble, les parlementaires semblent favoriser une approche hazard-based, évoquée en 2009 et défendue dans le <a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+REPORT+A7-2013-0027+0+DOC+PDF+V0//EN">rapport</a> mené par la députée socialiste suédoise Asa Westlund en avril 2012. Mais ils sont en réalité divisés sur le sujet, notamment entre partis écologistes/socialistes et conservateurs. En janvier 2013, la députée britannique conservatrice Julie Girling organise un workshop intitulé “Risk versus Hazard – with reference to the Westlund report on Endocrine disruptors”, visant à discuter du bien-fondé du rapport Westlund et de l’approche hazard-based. Elle parle d’un «  <a href="http://www.euractiv.com/section/science-policymaking/news/mep-calls-for-parliamentary-risk-panel-to-tame-green-scaremongering/">lobby de l’environnement</a> » et considère les régulations des perturbateurs endocriniens comme une menace au libre-échange. Dans son <a href="https://www.wsj.com/articles/the-junk-science-threat-to-free-trade-1390507281?tesla=y">article</a> « The Junk Science Threat to Free Trade » publié en 2014 dans le Wall Street Journal, elle écrit que : </p>
