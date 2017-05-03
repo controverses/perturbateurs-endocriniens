@@ -145,7 +145,7 @@ li a.active {
 <h3>Recherche, valorisation, surveillance <h3>
 
 <p align="justify">Le gouvernement souhaite inscrire la thématique des perturbateurs endocriniens comme un axe essentiel de la recherche en santé environnementale.
-Le Ministère de l’Environnement veut également introduire une plateforme public-privé chargée de mettre au point des méthodes pour détecter les perturbateurs endocriniens. Ces méthodes pourraient ensuite être proposées à l'OCDE (Organisation de Coopération et de Développement Economique). En effet, cette organisation multinationale définit des lignes directrices sur les méthodes de tests de produits chimiques, qui sont souvent les seules acceptées par l’industrie. Une étude de faisabilité et d’intérêt de cette plateforme est en cours.</p>
+Le Ministère de l’Environnement veut également introduire une plateforme public-privé chargée de mettre au point des méthodes pour détecter les perturbateurs endocriniens. Ces méthodes pourraient ensuite être proposées à <a href="https://controverses.github.io/perturbateurs-endocriniens/france/programmesderecherches.html#public">l'OCDE</a> (Organisation de Coopération et de Développement Economique). En effet, cette organisation multinationale définit des lignes directrices sur les méthodes de tests de produits chimiques, qui sont souvent les seules acceptées par l’industrie. Une étude de faisabilité et d’intérêt de cette plateforme est en cours.</p>
 
 
 <h4>Expertise sur les substances </h4>
