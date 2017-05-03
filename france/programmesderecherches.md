@@ -159,7 +159,7 @@ li a.active {
 <p> <blockquote>  « Les stations d’épuration arrêtent 85% des substances prioritaires. Des efforts restent à faire sur les autres substances étudiées, rejetées dans les eaux usées. » </blockquote> </p>
 
 <h2>Public et privé, une volonté commune : développer des tests adoptés ensuite par l’OCDE</h2>
-<p align="justify">Les acteurs privés dénoncent le manque de tests pour établir la présence de perturbateurs endocriniens dans certains composants et leurs effets sur l’organisme. Pour eux, cela est un obstacle à toute réglementation sur une substance chimique. Les entreprises, qui pour des soucis d’images, veulent établir la présence des perturbateurs endocriniens dans leurs produits, peuvent faire appel au <a href="https://controverses.github.io/perturbateurs-endocriniens/senpasser/substituersupprimer.html">laboratoire Watchfrog)</a>, ou faire faire leurs propres tests. Toutefois, cela reste une démarche non obligatoire.</p> 
+<p align="justify">Les acteurs privés dénoncent le manque de tests pour établir la présence de perturbateurs endocriniens dans certains composants et leurs effets sur l’organisme. Pour eux, cela est un obstacle à toute réglementation sur une substance chimique. Les entreprises, qui pour des soucis d’images, veulent établir la présence des perturbateurs endocriniens dans leurs produits, peuvent faire appel au <a href="https://controverses.github.io/perturbateurs-endocriniens/senpasser/substituersupprimer.html">laboratoire Watchfrog</a>, ou faire faire leurs propres tests. Toutefois, cela reste une démarche non obligatoire.</p> 
 
 <p align="justify">Les entreprises ne veulent pas se faire dicter leurs démarches par les autorités nationales car cela pourrait les désavantager économiquement par rapport à des entreprises installées dans d’autres pays. Seules les lignes directrices de l’OCDE, avec les directives de l’Union Européenne, sont mises en place à un niveau de réglementation assez élevées pour être acceptées par les entreprises. C’est pourquoi les organismes de recherche français ont pour objectif de développer des méthodes de tests, qui seront ensuite proposées à l’OCDE. L’OCDE peut ou non les accepter. Si l’OCDE les accepte, l’Etat pourra utiliser ces méthodes pour tester certains produits et alors interdire leur production sur le marché, en cas d’une présence avérée de perturbateurs endocriniens.<br>
 
@@ -252,16 +252,16 @@ La prévision d’une plateforme pour la mise au point de test dans la Stratégi
    <div id="lien">
    
  <h2>Lien avec des programmes européens et étrangers</h2>  
- <p align="justify">Les pays ayant proposé la majorité des méthodes de tests à l’OCDE sont évidemment aussi ceux qui sont le plus actifs dans la recherche sur ce sujet. En effet, selon Barbara Demeneix, la France serait, avec le Danemark et la Suède, l’un des pays les plus engagés dans la recherche académique sur les perturbateurs endocriniens, grâce à des stratégies nationales sur les perturbateurs endocriniens d’envergure. Les chercheurs de ces pays forment également la majorité des scientifiques qui ont signé l’appel à l’Union Européenne <a href="http://www.lemonde.fr/idees/article/2016/11/29/halte-a-la-manipulation-de-la-science_5039860_3232.html">(cf)</a> </p>
+ <p align="justify">Les pays ayant proposé la majorité des méthodes de tests à l’OCDE sont évidemment aussi ceux qui sont le plus actifs dans la recherche sur ce sujet. En effet, selon Barbara Demeneix, la France serait, avec le Danemark et la Suède, l’un des pays les plus engagés dans la recherche académique sur les perturbateurs endocriniens, grâce à des stratégies nationales sur les perturbateurs endocriniens d’envergure. Les chercheurs de ces pays forment également la majorité des scientifiques qui ont signé <a href="http://www.lemonde.fr/idees/article/2016/11/29/halte-a-la-manipulation-de-la-science_5039860_3232.html">l'appel à l'Union Européenne</a> </p>
 
 <div style="text-align: center">
-<img src="chercheurs.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+<img src="chercheurs.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:auto;"/>
 </div>
 
 
- <p align="justify">Aux Etats Unis, l’Agence Américaine de protection de l’environnement finance plusieurs projets de recherche sur les perturbateurs endocriniens, dont de nombreuses méthodes ont été adoptées au niveau de l’OCDE. Au Danemark, le centre sur les perturbateurs endocriniens est un réseau interdisciplinaire de scientifiques, encadré par l’Agence de Protection de l’Environnement (Ministère de l’environnement et de l’alimentation).<br>
+ <p align="justify">Aux Etats Unis, l’Agence Américaine de protection de l’environnement finance plusieurs projets de recherche sur les perturbateurs endocriniens, dont de nombreuses méthodes ont été adoptées au niveau de l’OCDE. Au Danemark, le centre sur les perturbateurs endocriniens est un réseau interdisciplinaire de scientifiques, encadré par l’Agence de Protection de l’Environnement (Ministère de l’environnement et de l’alimentation).</p>
 
-Barbara Demeneix souligne également que la coopération internationale est importante sur le sujet, ce que confirme le 2ème « Paris Workshop on Endocrine Disruptors Effects on Wildlife and Human Health » organisé par le PNRPE en janvier 2016. Les orateurs invités proviennent de pays aussi divers que la Belgique, les Etats Unis, le Canada, le Royaume Uni et le Danemark. </p>
+ <p align="justify">Barbara Demeneix souligne également que la coopération internationale est importante sur le sujet, ce que confirme le 2ème « Paris Workshop on Endocrine Disruptors Effects on Wildlife and Human Health » organisé par le PNRPE en janvier 2016. Les orateurs invités proviennent de pays aussi divers que la Belgique, les Etats Unis, le Canada, le Royaume Uni et le Danemark. </p>
 
 </div>
    
