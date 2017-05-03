@@ -211,16 +211,16 @@ Elle dispose de deux groupes d’experts :<br/>
 
      
       <h2>Les organismes gouvernementaux français</h2>
-      <p><strong>Anses :   </strong> Établissement public à caractère administratif, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail est placée sous la tutelle des ministères chargés de la santé, de l’agriculture, de l’environnement, du travail et de la consommation. Elle a pour mission de réaliser l’évaluation des risques, de fournir aux autorités compétentes toutes les informations sur ces risques ainsi que l’expertise et l’appui scientifique et technique nécessaires à l’élaboration des dispositions législatives et réglementaires et à la mise en œuvre des mesures de gestion des risques.
+      <p><strong>Anses :   </strong> établissement public à caractère administratif, l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail est placée sous la tutelle des ministères chargés de la santé, de l’agriculture, de l’environnement, du travail et de la consommation. Elle a pour mission de réaliser l’évaluation des risques, de fournir aux autorités compétentes toutes les informations sur ces risques ainsi que l’expertise et l’appui scientifique et technique nécessaires à l’élaboration des dispositions législatives et réglementaires et à la mise en œuvre des mesures de gestion des risques.
      </p>
      
-     <p><strong>ANSM :  </strong> L’Agence nationale de sécurité du médicament et des produits de santé développe plusieurs activités en France et pour le compte de l’Union européenne : évaluations scientifiques et techniques, surveillance, inspection des établissements, contrôles en laboratoire. Ces actions débouchent sur la prise de décisions de police sanitaire pour le compte de l’Etat français.
+     <p><strong>ANSM :  </strong> l’Agence nationale de sécurité du médicament et des produits de santé développe plusieurs activités en France et pour le compte de l’Union européenne : évaluations scientifiques et techniques, surveillance, inspection des établissements, contrôles en laboratoire. Ces actions débouchent sur la prise de décisions de police sanitaire pour le compte de l’Etat français.
      </p>
      
      <p><strong>Agence Nationale de Recherche :   </strong> elle a pour mission la mise en œuvre du financement de la recherche sur projets en France.
      </p>
      
-     <p><strong>INERIS :   </strong> L’Institut National de l’Environnement Industriel et des Risques est un établissement public à caractère industriel et commercial placé sous la tutelle du ministère chargé de l’Environnement, a pour mission de contribuer à la prévention des risques que les activités économiques font peser sur la santé, la sécurité des personnes et des biens, et sur l’environnement. Il mène des programmes de recherche visant à mieux comprendre les phénomènes susceptibles de conduire aux situations de risques ou d’atteintes à l’environnement et à la santé, et à développer sa capacité d’expertise en matière de prévention.
+     <p><strong>INERIS :   </strong> l’Institut National de l’Environnement Industriel et des Risques est un établissement public à caractère industriel et commercial placé sous la tutelle du ministère chargé de l’Environnement, a pour mission de contribuer à la prévention des risques que les activités économiques font peser sur la santé, la sécurité des personnes et des biens, et sur l’environnement. Il mène des programmes de recherche visant à mieux comprendre les phénomènes susceptibles de conduire aux situations de risques ou d’atteintes à l’environnement et à la santé, et à développer sa capacité d’expertise en matière de prévention.
      </p>
      
        <p><strong>INRA :  </strong> institut national de recherche agronomique
