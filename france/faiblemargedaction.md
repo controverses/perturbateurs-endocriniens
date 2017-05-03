@@ -125,7 +125,7 @@ li a.active {
 
 
 <div style="text-align: center">
-  <img src="composition.png" alt="Perturbateurs endocriniens"  style="width:500px;height:500px;">
+  <img src="composition.png" alt="Perturbateurs endocriniens"  style="width:600px;height:600px;">
 </div>
 
 <p style="text-align:center;"> <i>Points de désaccord du groupe de travail :</i></p>
@@ -135,7 +135,7 @@ li a.active {
 <div id="texte">
 
 <div style="text-align: center">
-<img src="tableau.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+<img src="tableau.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:500px;"/>
 </div>
 
 <h2>Le texte de la Stratégie </h2>
@@ -145,6 +145,7 @@ li a.active {
 
 <p align="justify">Le gouvernement souhaite inscrire la thématique des perturbateurs endocriniens comme un axe essentiel de la recherche en santé environnementale.
 Le Ministère de l’Environnement veut également introduire une plateforme public-privé chargée de mettre au point des méthodes pour détecter les perturbateurs endocriniens. Ces méthodes pourraient ensuite être proposées à <a href="https://controverses.github.io/perturbateurs-endocriniens/france/programmesderecherches.html#public">l'OCDE</a> (Organisation de Coopération et de Développement Economique). En effet, cette organisation multinationale définit des lignes directrices sur les méthodes de tests de produits chimiques, qui sont souvent les seules acceptées par l’industrie. Une étude de faisabilité et d’intérêt de cette plateforme est en cours.</p>
+
 
 <h4>Expertise sur les substances </h4>
 <p align="justify"> Le Gouvernement amplifie la démarche d’évaluation des dangers et risques de substances susceptibles d’être perturbateurs endocriniens. Il confie à l’ANSES, l’expertise d’au moins une quinzaine de substances chimiques sur 3 ans.</p>
