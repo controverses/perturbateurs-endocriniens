@@ -113,7 +113,9 @@ Nous avons décidé de nous pencher sur ce sujet car c’est une controverse qui
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"endocrine disruptors","geo":"","time":"2007-01-01 2017-05-03"},{"keyword":"perturbateurs endocriniens","geo":"","time":"2007-01-01 2017-05-03"}],"category":0,"property":""}, {"exploreQuery":"date=2007-01-01%202017-05-03&q=endocrine%20disruptors,perturbateurs%20endocriniens","guestPath":"https://trends.google.fr:443/trends/embed/"}); </script><br><br> 
 
-Comparaison de la proportion de recherche entre le mot « endocrine disrupters » (en rouge) et le mot « perturbateurs endocriniens » (en bleu) pour pouvoir comparer l’intérêt en France à l’intérêt dans d’autres pays (en particulier les Etats Unis)</p>
+<em style="color:rgb(96, 108, 113)">Comparaison de la proportion de recherche entre le mot « endocrine disrupters » (en rouge) et le mot « perturbateurs endocriniens » (en bleu) pour pouvoir comparer l’intérêt en France à l’intérêt dans d’autres pays (en particulier les Etats Unis)</em></p><br>
+
+<p><em style="color:rgb(96, 108, 113)">Schéma des dynamiques entre acteurs de la controverse (réalisé par nos soins)</em><p/>
 
 <p align="justify"> <img src="schéma.png" alt="schéma" style="width:835px;height:auto;"></p>
    
