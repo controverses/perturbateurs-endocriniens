@@ -79,17 +79,17 @@
 
 <h2>1996</h2>
 
-<p><strong>Décembre</strong> : Workshop européen sur l’impact des perturbateurs endocriniens sur la santé humaine et la vie sauvage, organisé conjointement par la Commission européenne et l’OMS. Une première définition est posée.</p>
+<p><strong>Décembre :</strong> Workshop européen sur l’impact des perturbateurs endocriniens sur la santé humaine et la vie sauvage, organisé conjointement par la Commission européenne et l’OMS. Une première définition est posée.</p>
 
 <h2>1998</h2>
 
-<p><strong>Octobre</strong> : Résolution du Parlement, EU strategy on endocrine disruptors</p>
+<p><strong>Octobre :</strong> Résolution du Parlement, EU strategy on endocrine disruptors</p>
 
 <h2>2001</h2>
 
-<p><strong>Mai</strong> : Convention de Stockholm sur les polluants organiques persistants, accord international visant à réduire le nombre de polluants et signé par 152 pays. Elle interdit l’usage de 11 substances chimiques et restreint l’usage du DDT en raison du faible bénéfice par rapport au risque qu’il présente.</p>
+<p><strong>Mai :</strong> Convention de Stockholm sur les polluants organiques persistants, accord international visant à réduire le nombre de polluants et signé par 152 pays. Elle interdit l’usage de 11 substances chimiques et restreint l’usage du DDT en raison du faible bénéfice par rapport au risque qu’il présente.</p>
 
-<p><strong>Juin</strong> : Deuxième workshop européen sur les perturbateurs endocriniens afin de poursuivre la stratégie de l’Union pour les perturbateurs endocriniens (recherche et développement, méthodes, coopération internationale).</p>
+<p><strong>Juin :</strong> Deuxième workshop européen sur les perturbateurs endocriniens afin de poursuivre la stratégie de l’Union pour les perturbateurs endocriniens (recherche et développement, méthodes, coopération internationale).</p>
 
 <h2>2002</h2>
 
@@ -113,7 +113,7 @@
 <p>La Direction Générale de l’environnement (DG ENV) est désignée chef de file pour l’établissement d’une régulation. Elle commande un rapport à un consortium d’experts dirigé par le professeur Kortenkamp.
 Première publication de l’Endocrine Society sur le sujet.</p>
 
-<p><strong>Octobre</strong> : Adoption par le Parlement du règlement 1107/2009 concernant la mise sur le marché des produits phytopharmaceutiques. Ce règlement préconise l’approche hazard-based (principe de précaution) et demande à la Commission de présenter une définition scientifique et des critères pour identifier les perturbateurs endocriniens avant le 14 décembre 2013.</p>
+<p><strong>Octobre :</strong> Adoption par le Parlement du règlement 1107/2009 concernant la mise sur le marché des produits phytopharmaceutiques. Ce règlement préconise l’approche hazard-based (principe de précaution) et demande à la Commission de présenter une définition scientifique et des critères pour identifier les perturbateurs endocriniens avant le 14 décembre 2013.</p>
 
 <h2>2010</h2>
 
@@ -121,15 +121,15 @@ Première publication de l’Endocrine Society sur le sujet.</p>
 
 <h2>2011</h2>
 
-<p><strong>Mai</strong> : Publication commune de l’Angleterre et l’Allemagne en faveur de l’établissement de valeurs-seuil pour les régulations, préconisant l’approche risk-based (principe de puissance).</p>
+<p><strong>Mai :</strong> Publication commune de l’Angleterre et l’Allemagne en faveur de l’établissement de valeurs-seuil pour les régulations, préconisant l’approche risk-based (principe de puissance).</p>
 
-<p><strong>Novembre</strong> : En plus du groupe ad-hoc, la Commission créé un groupe d’experts, l’Expert Advisory Group, destiné à apporter des éléments techniques sur le sujet.</p>
+<p><strong>Novembre :</strong> En plus du groupe ad-hoc, la Commission créé un groupe d’experts, l’Expert Advisory Group, destiné à apporter des éléments techniques sur le sujet.</p>
 
 <h2>2012</h2>
 
-<p><strong>Janvier</strong> : Publication du rapport d’experts indépendants, dit « Rapport Kortenkamp » ou « SOA assessement », commandé par la Commission Européenne. Il estime que l’établissement de seuils pour réguler les perturbateurs endocriniens est non pertinent, car arbitraire et non justifiable scientifiquement, et pourrait mettre à l’abri de nombreux pesticides dangereux.</p>
+<p><strong>Janvier :</strong> Publication du rapport d’experts indépendants, dit « Rapport Kortenkamp » ou « SOA assessement », commandé par la Commission Européenne. Il estime que l’établissement de seuils pour réguler les perturbateurs endocriniens est non pertinent, car arbitraire et non justifiable scientifiquement, et pourrait mettre à l’abri de nombreux pesticides dangereux.</p>
 
-<p><strong>Avril</strong> : Rapport parlementaire mené par la députée socialiste suédoise Asa Westlund, supportant l’approche basée sur le principe de précaution adoptée par la DG ENV et demandant à ce que les perturbateurs endocriniens soient ajoutés au règlement REACH.</p>
+<p><strong>Avril :</strong> Rapport parlementaire mené par la députée socialiste suédoise Asa Westlund, supportant l’approche basée sur le principe de précaution adoptée par la DG ENV et demandant à ce que les perturbateurs endocriniens soient ajoutés au règlement REACH.</p>
 
 <p><strong>Mai :</strong>
 
@@ -139,9 +139,9 @@ Première publication de l’Endocrine Society sur le sujet.</p>
 
 </ul>
 
-<p><strong>Juin</strong> : Conférence de la Commission Européenne portant sur la controverse scientifique autour des perturbateurs endocriniens, Endocrine disruptors : current challenges in science and policy.</p>
+<p><strong>Juin :</strong> Conférence de la Commission Européenne portant sur la controverse scientifique autour des perturbateurs endocriniens, Endocrine disruptors : current challenges in science and policy.</p>
 
-<p><strong>Juillet</strong> : Commentaire du rapport Kortenkamp par le Hazardous Substances Advisory Committee (HSAC) du gouvernement anglais.
+<p><strong>Juillet :</strong> Commentaire du rapport Kortenkamp par le Hazardous Substances Advisory Committee (HSAC) du gouvernement anglais.
 
 <p><strong>Août :</strong> </p>
 <ul>
@@ -149,14 +149,14 @@ Première publication de l’Endocrine Society sur le sujet.</p>
 <li>La DG SANCO mandate l’EFSA pour intervenir sur le sujet.</li>
 </ul>
 
-<p><strong>Octobre</strong> : Publication de l’article « Risk assessment of endocrine active chemicals : identifying chemicals of regulatory concern » rédigé par l’ECETOC et édité par Elsevier, une importante maison d’édition de littérature scientifique mais boycottée par certains scientifiques.
+<p><strong>Octobre :</strong> Publication de l’article « Risk assessment of endocrine active chemicals : identifying chemicals of regulatory concern » rédigé par l’ECETOC et édité par Elsevier, une importante maison d’édition de littérature scientifique mais boycottée par certains scientifiques.
 Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine Disrupting Chemicals, alarmant sur la nécessité d’établir rapidement des régulations et sur les dangers de l’effet cocktail probablement sous-estimé.</p>
 
 <h2>2013</h2>
 
 <p>Publication de deux rapports de l’ED EAG, l’un concernant les incertitudes liées à la mise en place de seuils pour réguler les perturbateurs endocriniens, l’autre concernant les divergences scientifiques existant à propos de leur identification et leur caractérisation.</p>
 
-<p><strong>Janvier</strong> : La députée conservatrice britannique Julie Girling organise un atelier contre le rapport Westlund, “Risk versus Hazard – with reference to the Westlund report on Endocrine disruptors” : see guestlist.</p>
+<p><strong>Janvier :</strong> La députée conservatrice britannique Julie Girling organise un atelier contre le rapport Westlund, “Risk versus Hazard – with reference to the Westlund report on Endocrine disruptors” : see guestlist.</p>
 
 <p><strong>Mars :</strong>
 
@@ -167,7 +167,7 @@ Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine 
 
 </ul>
 
-<p><strong>Juin :</strong> : </p>
+<p><strong>Juin :</strong> </p>
 
 <ul>
 <li>Lancement officiel des négociations sur le TTIP.</li>
@@ -177,12 +177,12 @@ Décembre : Publication du rapport WHO/UNEP, State of the Science on Endocrine 
 
 </ul>
 
-<p><strong>Juillet</strong> : Catherine Day, secrétaire générale, commande l’étude d’impact réclamée par l’industrie. La proposition de la DG environnement est rejetée par la Commission.</p>
+<p><strong>Juillet :</strong> Catherine Day, secrétaire générale, commande l’étude d’impact réclamée par l’industrie. La proposition de la DG environnement est rejetée par la Commission.</p>
 
-<p><strong>Août</strong> : Réponse à la lettre ouverte par 41 scientifiques, publiée dans Environmental Health News.
+<p><strong>Août :</strong> Réponse à la lettre ouverte par 41 scientifiques, publiée dans Environmental Health News.
 Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Health News l’article « Special report : scientists critical of EU chemical policy have industry ties », dénonçant les conflits d’intérêt des scientifiques signataires.</p>
 
-<p><strong>Octobre :</strong> :</p> 
+<p><strong>Octobre :</strong></p> 
 
 <ul>
 
@@ -191,9 +191,9 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 </ul>
 
-<p><strong>Novembre</strong> : Deuxième réponse à la lettre ouverte par 104 scientifiques de l’Endocrine Society.</p>
+<p><strong>Novembre :</strong> Deuxième réponse à la lettre ouverte par 104 scientifiques de l’Endocrine Society.</p>
 
-<p><strong>Décembre</strong> : Date limite pour l’établissement d’une définition et de critères de régulation manquée par la Commission.</p>
+<p><strong>Décembre :</strong> Date limite pour l’établissement d’une définition et de critères de régulation manquée par la Commission.</p>
 
 <h2>2014</h2>
 
@@ -205,13 +205,13 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 </ul>
 
-<p><strong>Juillet</strong> : Dépôt d’un recours à la CJUE par la Suède (rejointe par la France) suite au dépassement de la date limite par la Commission.</p>
+<p><strong>Juillet :</strong> Dépôt d’un recours à la CJUE par la Suède (rejointe par la France) suite au dépassement de la date limite par la Commission.</p>
 
-<p><strong>Septembre</strong> : Début d’une consultation publique sur le sujet lancée par la Commission (plus de 27 000 réponses).</p>
+<p><strong>Septembre :</strong> Début d’une consultation publique sur le sujet lancée par la Commission (plus de 27 000 réponses).</p>
 
-<p><strong>Novembre</strong> : Juncker devient Président de la Commission. Le dossier sur les perturbateurs endocriniens est confié à la DG SANTE.</p>
+<p><strong>Novembre :</strong> Juncker devient Président de la Commission. Le dossier sur les perturbateurs endocriniens est confié à la DG SANTE.</p>
 
-<p><strong>Décembre</strong> : Mémorandum du Scientific Committee on Consumer Safety rejoignant les conclusions de l’EFSA sur la possibilité d’une approche risk-based.</p>
+<p><strong>Décembre :</strong> Mémorandum du Scientific Committee on Consumer Safety rejoignant les conclusions de l’EFSA sur la possibilité d’une approche risk-based.</p>
 
 <h2>2015</h2>
 
@@ -223,15 +223,15 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 </ul>
 
-<p><strong>Mars, Avril, Mai</strong> : Tables rondes organisées par la Commission sur le sujet.</p>
+<p><strong>Mars, Avril, Mai :</strong> Tables rondes organisées par la Commission sur le sujet.</p>
 
-<p><strong>Mai</strong> : Publication du rapport de Stéphane Horel et de la CEO, « A toxic affair ».</p>
+<p><strong>Mai :</strong> Publication du rapport de Stéphane Horel et de la CEO, « A toxic affair ».</p>
 
-<p><strong>Juin</strong> : Deuxième conférence organisée par la Commission à Bruxelles, cette fois portant davantage sur l’impact économique des perturbateurs endocriniens.</p>
+<p><strong>Juin :</strong> Deuxième conférence organisée par la Commission à Bruxelles, cette fois portant davantage sur l’impact économique des perturbateurs endocriniens.</p>
 
-<p><strong>Novembre</strong> : Troisième conférence.</p>
+<p><strong>Novembre :</strong> Troisième conférence.</p>
 
-<p><strong>Décembre</strong> :</p> 
+<p><strong>Décembre :</strong></p> 
 
 <ul>
 <li>Condamnation de la Commission par la Cour de Justice pour ne pas avoir agi dans les dates prévues. La CJUE estime qu’une étude d’impact est inutile pour qu’une prise de décision soit effectuée par la Commission.</li>
@@ -241,7 +241,7 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 <h2>2016</h2>
 
-<p><strong>Février</strong> : Questions orales des députés à la Commission, plusieurs d’entre eux interpellent le Commissaire de la santé sur le sujet de l’étude d’impact, que celui-ci présente comme un « outil essentiel » pour guider les décisions de la Commission.</p>
+<p><strong>Février :</strong> Questions orales des députés à la Commission, plusieurs d’entre eux interpellent le Commissaire de la santé sur le sujet de l’étude d’impact, que celui-ci présente comme un « outil essentiel » pour guider les décisions de la Commission.</p>
 
 <p><strong>Juin :</strong> </p>
 
@@ -252,11 +252,11 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 </ul>
 
-<p><strong>Décembre</strong> : Rejet de la proposition de la Commission par le Parlement (pas de majorité qualifiée).</p>
+<p><strong>Décembre :</strong> Rejet de la proposition de la Commission par le Parlement (pas de majorité qualifiée).</p>
 
 <h2>2017</h2>
 
-<p><strong>Février</strong> : Lettre adressée par plusieurs ONGs au Commissaire de la Santé, urgeant de mettre en place des régulations plus importantes en ce qui concerne les perturbateurs endocriniens.</p>
+<p><strong>Février :</strong> Lettre adressée par plusieurs ONGs au Commissaire de la Santé, urgeant de mettre en place des régulations plus importantes en ce qui concerne les perturbateurs endocriniens.</p>
 
 <p><strong>Avril :</strong> </p>
 
