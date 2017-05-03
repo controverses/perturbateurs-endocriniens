@@ -127,6 +127,9 @@ Le rapport de l’EFSA de 2013, par exemple, est dénoncé par
 <p> Pourtant, la conclusion finale du rapport, comme évoquée plus haut, n’a pas été modifiée, bien que le rapport de l’EFSA se garde de recommander explicitement l’approche risk-based qui serait en contradiction avec la politique de la DG ENV.
 L’EFSA a également été au centre d’une controverse autour du <strong>bisphénol A</strong> : en janvier 2015, alors que la généralisation de l’interdiction de la substance entre en vigueur en France (il avait été interdit dans les biberons en 2011), l’agence publie un  <a href="http://www.efsa.europa.eu/en/efsajournal/pub/3978">rapport</a> s’opposant aux conclusions de l’ANSES, agence scientifique du gouvernement français, qui estime que les seuils proposés par l’Union Européenne sont probablement trop élevés. Suite à cela, Ségolène Royal, ministre de l’écologie, « s’interroge sur le poids des lobbys » dans les décisions de l’EFSA lors d’une séance à l’Assemblée Nationale, selon un <a href="http://www.liberation.fr/france/2015/01/21/bisphenol-a-segolene-royal-s-interroge-sur-le-poids-des-lobbies_1185726">article</a> du journal <em>Libération</em>. </p>
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ibfAF66JzFE" frameborder="0" allowfullscreen></iframe>
+    
+
 
 <h4>La nécessité d'une garantie d'indépendance pour la fiabilité des recherches</h4>
 
@@ -143,8 +146,10 @@ Ici, il faut bien noter que ce n’est pas le manque d’honnêteté intellectue
 <h4> Conflit endocrinien, perturbateurs d’intérêts : quels conflits d’intérêts autour de la Commission ?</h4> 
 
 <p> Bien que l’EFSA soit la source technique de l’UE la plus décriée sur le sujet, la plupart des groupes d’experts sur lesquels se base la Commission contiennent des membres appartenant à des parties prenantes telles que les industries concernées par la régulation ou les Etats-membres de l’Union ayant chacun leur propre vision du problème, comme il est possible de le voir sur le schéma. </p>
+
+<P><A href="file:///Users/irismarechal/Downloads/Commission%20Europ%C3%A9enne.svg"><IMG src="organigramme.png" ismap border="0"></A>
 <div style="text-align: center">
-<img src="organigramme.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;"/>
+<img src="organigramme.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:700px;height:700px;"/>
 </div>
 
 <p> Tout d’abord, les membres de l’<em>Endocrine Disruptors Expert Advisory Group</em> sont nommés par les Etats-membres. Or, comme il est possible de le constater sur la liste des membres de l’ED EAG tirée d’un des <a href="http://publications.jrc.ec.europa.eu/repository/bitstream/JRC79981/lbna25919enn.pdf">rapports</a> du Joint Research Center de 2013 (Key scientific issues relevant to the identification and characterisation of endocrine disrupting substances), il peut s’agir de chercheurs appartenant à des universités nationales, mais également d’agences nationales telles que RIVM aux Pays-Bas, l’ANSES en France ou le Federal Institute for Risk Assessement allemand (BfR), qui sont sous contrôle du gouvernement. Aussi, il est important de se demander si <strong>l’impartialité scientifique</strong> prime sur la représentation de la <strong>stratégie nationale</strong>. Enfin, on retrouve tout autant des membres d’ONGs telles que HEAL et Chem Trust (Ninja Reineke et Gwynne Lyons) que des membres de groupes de pression d’industries comme l’ECETOC, un lobby de l’industrie chimique particulièrement influent auxquels appartiennent entre autres BASF, Bayer, Syngenta ou Dow (James Wheeler).  </p>
@@ -210,6 +215,10 @@ Rapport du Pesticide Network Organization. </blockquote></p>
 
 <h4>  « Lobbying blitzkrieg »</h4>
 
+<div style="text-align: center">
+<img src="13.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:200px;height:500px;"/>
+</div>
+
 <p> Le 7 juin 2013, la DG ENV sort finalement son rapport sur les perturbateurs endocriniens, rassemblant les connaissances scientifiques sur le sujet et en déduisant des recommandations à l’adresse de la Commission afin d’élaborer son projet de loi. Elle invite les autres Directions Générales de la Commission à donner leur avis.<br> 
 	Deux mois auparavant, alors que sortait le fameux <a href="http://onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3132/abstract">rapport</a> de l’EFSA, « Scientific Opinion on the hazard assessment of endocrine disruptors », l’European Crop Protection (ECPA) publiait un <a href="http://docplayer.net/2290608-Potential-impact-of-current-draft-proposal-for-endocrine-disruption-criteria.html">document</a> estimant entre 3 et 4 milliards d’euros les coûts économiques d’une réglementation sur les PE telle que prévue par la DG ENV. Le mois de juin voit aussi s’ouvrir les négociations pour le traité transatlantique TTIP entre l’Europe et les Etats-Unis. Aussi, la DG ENV publie son rapport dans un contexte d’intérêt accru des entreprises pour les législations sur les produits chimiques et en particulier les perturbateurs endocriniens.<br>
 Dix jours après la publication du rapport, Anne Glover, la conseillère scientifique en chef du président de la Commission, reçoit une <a href="http://www.altex.ch/resources/open_letter.pdf">lettre ouverte</a>, rédigée par un comité de 56 scientifiques mené par Daniel Dietrich, un toxicologiste de l’Université de Konstanz, et intitulée « Des précautions scientifiques infondées influencent les recommandations de la Commission Européenne sur les régulations des perturbateurs endocriniens, défiant le sens commun, la science établie et les principes d’une régulation en fonction du risque (risk assessement) ». Dans cette lettre est dénoncé le fait que la Commission ne s’appuie pas assez sur l’EFSA, décrite comme « la propre autorité experte de la Commission », ni sur les conseils de ses Etats membres ou de ses propres experts. Le message, publié dans quatorze revues scientifiques, souhaite que la législation se base sur une caractérisation de potentiels réels, établis sur des personnes humaines et pas seulement à partir d’expériences en laboratoire qui négligeraient certains paramètres environnementaux et la capacité d’adaptation du corps humain aux stimulations auxquelles il est confronté. </p>
@@ -222,7 +231,14 @@ Les scientifiques sont à nouveau divisés sur la question : en août, une <a hr
 
 <p><blockquote>"Faire une étude d’impact dès maintenant semble confondre la science avec l’élaboration des politiques, et le danger avec le risque".</blockquote></p>
 
-<p> En octobre, Stephane Horel publie conjointement avec Brian Bienkowski, éditeur pour Environmental Health News un <a href="http://www.environmentalhealthnews.org/ehs/news/2013/eu-conflict">article</a> révélant les conflits d’intérêt des scientifiques signataires de la lettre ouverte. Selon ce document, sur les 18 co-auteurs de l’éditorial, 17 ont collaboré avec l’industrie. De plus, la journaliste révèle dans son rapport plusieurs mails signés par le CEFIC, l’ECPA, BASF… envoyés en juin 2013 et réclamant une telle étude. </p>
+<p> En octobre, Stephane Horel publie conjointement avec Brian Bienkowski, éditeur pour Environmental Health News un <a href="http://www.environmentalhealthnews.org/ehs/news/2013/eu-conflict">article</a> révélant les conflits d’intérêt des scientifiques signataires de la lettre ouverte. Selon ce document, sur les 18 co-auteurs de l’éditorial, 17 ont collaboré avec l’industrie. 
+
+<div style="text-align: center">
+<img src="14.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:500px;height:500px;"/>
+</div>
+
+
+De plus, la journaliste révèle dans son rapport plusieurs mails signés par le CEFIC, l’ECPA, BASF… envoyés en juin 2013 et réclamant une telle étude. </p>
 
 
 <div style="text-align: center">
@@ -247,6 +263,13 @@ Les scientifiques sont à nouveau divisés sur la question : en août, une <a hr
 
 <p><blockquote> "Les industries se sont jetées sur ces négociations comme l’occasion parfaite de se débarrasser de la règlementation des perturbateurs endocriniens"</blockquote></p>
 
+
+<div style="text-align: center">
+<img src="17.png" alt="Perturbateurs endocriniens" style="width:600px;height:200px;"/>
+</div>
+
+
+
 <p> En effet, les acteurs industriels de la controverse sont également des acteurs étrangers. En 2012, Croplife America et l’American Chemistry Council (ACC) <a href="https://www.americanchemistry.com/Policy/Chemical-Safety/Endocrine-Disruption/ACC-CropLife-America-Letter.pdf">écrivent</a> à l’Office of Chemical Safety and PP pour lui faire part de leurs inquiétudes concernant la régulation européenne. La position de Croplife America est résumée dans un  <a href="http://www.stephanehorel.fr/wp-content/uploads/2016/11/10-CLA_Letter_US_Trade_Rep2013.pdf">document</a> de mai 2013 envoyé à Douglas Bell, représentant de l’administration américaine pour le commerce (USTR) : </p>
 
 <ul>
@@ -266,6 +289,12 @@ Toutefois, les groupes industriels font face au rejet du TTIP par le grand publi
 <p> En octobre 2013, Anne Glover a réuni les deux camps de scientifiques (les signataires du rapport contre la réglementation prévue et les signataires de la lettre ouverte). Cette <a href="http://ec.europa.eu/archives/commission_2010-2014/president/chief-scientific-adviser/documents/minutes_endocrine_disruptors_meeting_241013_final.pdf">réunion</a> aboutit à la signature d’un consensus. Mais l’étude d’impact était déjà en marche et la Commission n’a pas souhaité l’interrompre. Trois mois plus tard, lors de la publication de la feuille de route qui avait été confiée à la DG SANCO et à la DG ENV, on constate un retour du critère de puissance.<br>
 	Avec le lancement de l’étude d’impact, la date limite imposée par le Parlement à la Commission pour établir une législation est dépassée. Aussi, en juillet 2014, la Suède, rejointe par la France puis l’ensemble du Parlement et du Conseil (21 pays membres s’étant prononcé en faveur de ce mouvement, seul le Royaume-Uni s’est abstenu), dépose un « recours en carence » devant la Cour de justice de l’Union Européenne pour non-respect des délais, aboutissant en décembre 2015 à la condamnation de la Commission par la CJUE.<br>
 	Ce ne sont pas les seules pressions auxquelles fait face la Commission. En janvier 2015, le Parlement adresse une <a href="http://www.endseurope.com/docs/150126a.pdf">lettre critique</a> au Commissaire de la santé Vytenis Andriukaitis, le pressant de travailler en faveur d’une approche horizontale des perturbateurs, en adéquation avec les travaux scientifiques et non pas seulement basé sur les impacts économiques. Les députés l’interpellent à nouveau au cours des questions orales de février 2016, notamment au sujet de l’étude d’impact, que celui-ci présente comme un « outil essentiel » pour guider les décisions de la Commission. <br>
+	
+	
+	
+	
+	
+	
 	L’étude d’impact économique est publiée en juin 2016 par la Commission et de nouvelles propositions naissent au sein de la Commission en se basant sur les conclusions de l’étude. Le <a href="http://publications.jrc.ec.europa.eu/repository/bitstream/JRC101950/jrc screening methodology for ed impact assessment (online).pdf">texte</a> proposé par le Joint Research Center se base certes sur les critères de l’OMS mais prévoit un certain nombre de dérogations. Selon cette dernière <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.html">(voir questionnaire)</a>, « c’est la première fois dans le monde entier que des critères d’identification des perturbateurs endocriniens sont mis en place dans un but législatif ». 
 Mais il faut encore que le projet de loi soit <a href="https://ec.europa.eu/health/endocrine_disruptors/next_steps_en">examiné et accepté</a> par le Parlement. Or, le texte prévoit d’interdire les substances ayant un effet avéré sur l’homme, et non pas celles pouvant avoir un effet néfaste ; la différence réside dans le fait que pour prouver un effet avéré, les données recueillies sur des animaux ne suffisent pas, il faut recueillir des données équivalentes précises et certaines concernant l’homme. Le niveau de preuves à obtenir est donc très difficile à atteindre. Cette définition très restrictive mènerait à ne retenir qu’un petit nombre de substances et donc in fine à n’interdire qu’une infime partie des substances réellement nocives pour l’homme. Aussi, dès sa publication, les Etats membres se retrouvent divisés au sein du Parlement. Le vote initialement prévu pour le 21 décembre 2016 puis pour le 28 février 2017 a ainsi été reporté par la Commission Européenne face à l’impossibilité de réunir une majorité des Etats membres autour de cette définition. Le 7 avril 2017, plusieurs scientifiques ont adressé une <a href="http://www.opnlttr.com/letter/open-letter-eu-ministers-environment-health-and-agriculture-and-eu-health-commissioner">lettre ouverte</a> au Commissaire de la santé. Ils dénoncent l’ajout d’une clause stipulant qu’un biocide qui serait développé afin de perturber le système hormonal d’une espèce ne serait pas classé comme perturbateur endocrinien. Selon Rémy Slama 
   <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/fichesacteurs.html">(lien vers la fiche acteur) </a>, épidémiologiste à l’Institut national de la santé et de la recherche médicale (Inserm) de Grenoble, président du conseil scientifique du Programme national de recherche sur les perturbateurs endocriniens, et l’un de ces signataires, « c’est comme si on demandait aux industriels de développer une substance pour absorber l’énergie dans un réfrigérateur et qu’au cas où elle serait libérée dans l’atmosphère, on ne la classerait pas comme gaz à effet de serre, sous prétexte que cette propriété est voulue. Du point de vue scientifique, ça n’a aucun sens. Un perturbateur endocrinien doit être défini en fonction de son action sur la santé et sur le système hormonal et non pas en fonction de la finalité pour laquelle il a été développé ». <br>
