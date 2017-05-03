@@ -99,20 +99,22 @@
 
 <p>Dans un premier temps, nous retracerons l’établissement du fait scientifique des perturbateurs endocriniens et son émergence dans l’espace public. A la lumière de ces informations, nous analyserons les difficultés rencontrées par l’Union européenne quant à la réglementation de ces substances chimiques. Nous tenterons également de faire l’état de la controverse et de ses acteurs au niveau français. Enfin, nous étudierons comment face aux échecs des institutions réglementaires la société civile s'est ré-approprié la problématique et de quelle manière elle traite la question des perturbateurs endocriniens.</p>
 
+<p style="border:5px; border-style:solid; border-color:rgb(96, 108, 113); padding: 1em;"> <strong>Dans quel cadre s'inscrit notre projet</strong></p>
+
 <h4 align="center">Comparaison de la proportion de recherche entre le mot « endocrine disrupters » (en rouge) et le mot « perturbateurs endocriniens » (en bleu) pour pouvoir comparer l’intérêt en France à l’intérêt dans d’autres pays (en particulier les Etats Unis)</h4>
 
-  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script>
-  <script type="text/javascript">
-    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"perturbateurs endocriniens","geo":"","time":"all"},{"keyword":"endocrine disruptors","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=perturbateurs%20endocriniens,endocrine%20disruptors","guestPath":"https://trends.google.fr:443/trends/embed/"});
-  </script>
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/981_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"endocrine disruptors","geo":"","time":"2007-01-01 2017-05-03"},{"keyword":"perturbateurs endocriniens","geo":"","time":"2007-01-01 2017-05-03"}],"category":0,"property":""}, {"exploreQuery":"date=2007-01-01%202017-05-03&q=endocrine%20disruptors,perturbateurs%20endocriniens","guestPath":"https://trends.google.fr:443/trends/embed/"}); </script> 
 
 <p>On observe depuis décembre 2016 que le nombre de recherches Google sur les perturbateurs endocriniens a très fortement augmenté en France, avec un pic en Février 2017 alors qu’il n’a pas augmenté aux Etats Unis.
-Cette hausse de l’intérêt est certainement dû entre autres à deux événements majeurs : 
+Cette hausse de l’intérêt est certainement dû entre autres à deux événements majeurs :
+
 <ul>
 <li>L’échec de la Commission Européenne en février 2017 à adopter une réglementation définissant les perturbateurs endocriniens.</li>
 <li>La remise d’un rapport de Générations Futures, en Février 2017, sur la présence de perturbateurs endocriniens dans les cheveux de personnalités du monde de l’écologie.</li>
 
 </ul>
+
+</p>
    
 </article>
 </body>
