@@ -74,7 +74,7 @@
 
 <p align="justify"> Face aux scandales ayant éclaté concernant les perturbateurs endocriniens et leurs dangers, le gouvernement français a non seulement pris des mesures au niveau national comme il sera évoqué par la suite, mais presse également les institutions de l’Union Européenne d’établir une réglementation à l’échelle communautaire. </p> 
 
-<p align="justify"> L’idée d’une <a href="https://controverses.github.io/perturbateurs-endocriniens/UE/pressions.html">(réglementation européenne)</a>  a émergé dès la fin des années 1990, ce qui a donné lieu à un certain nombres de mesures telles que l’établissement d’une liste de 533 substances suspectées d’être des perturbateurs endocriniens en 2000. Le prérequis à toute réglementation était l’adoption par la communauté européenne d’une définition précise des perturbateurs endocriniens. La Commission Européenne a finalement proposé un texte concernant la définition des perturbateurs endocriniens en 2016, texte qui a immédiatement été rejeté par un certain nombre d’Etats membres de l’Union Européenne, dont la France.
+<p align="justify"> L’idée d’une <a href="https://controverses.github.io/perturbateurs-endocriniens/UE/pressions.html">réglementation européenne</a>  a émergé dès la fin des années 1990, ce qui a donné lieu à un certain nombres de mesures telles que l’établissement d’une liste de 533 substances suspectées d’être des perturbateurs endocriniens en 2000. Le prérequis à toute réglementation était l’adoption par la communauté européenne d’une définition précise des perturbateurs endocriniens. La Commission Européenne a finalement proposé un texte concernant la définition des perturbateurs endocriniens en 2016, texte qui a immédiatement été rejeté par un certain nombre d’Etats membres de l’Union Européenne, dont la France.
 </p> 
 
 
@@ -86,7 +86,7 @@
 <p align="justify"> Finalement, la Commission Européenne propose un texte en 2016, mais la France a dès le début marqué son opposition. Ségolène Royal, ministre de l’environnement, l’a ainsi qualifié <i>“d'inacceptable”</i>. Elle s’en est d’ailleurs plainte auprès de Jean-Claude Juncker, Président de la Commission Européenne, dans une lettre, où elle écrit que l’adoption de ce texte provoquerait <i> « un recul dans l’action de l’Union Européenne de protection de la Santé de nos concitoyens et de notre environnement ». </i><br/>
 
   <div style="text-align: center">
-  <img src="ségolène royal.jpg" alt="Perturbateurs endocriniens"  style="width:500px;height:500px;">
+  <img src="ségolène royal.jpg" alt="Perturbateurs endocriniens"  style="width:400px;height:400px;">
 </div>
 
 De plus, la France ne se contente pas de critiquer et de rejeter cette proposition de la Commission Européenne, mais formule également des demandes afin de modifier ce texte. La Ministre de l’environnement, soutenue par la communauté scientifique française et européenne, appelle à une classification des perturbateurs endocriniens selon trois critères (avérés, présumés, suspectés), similaire à la classification des substances cancérigènes. Dans cette classification, seraient interdits non seulement les perturbateurs endocriniens avérés, mais également ceux présumés, ce qui permettrait d’avoir une définition plus large. En février 2017, la Commission Européenne n’avait toujours pas tenu compte de ces demandes, ce qui avait donné lieu à une nouvelle déclaration de Ségolène Royal. <br/> 
