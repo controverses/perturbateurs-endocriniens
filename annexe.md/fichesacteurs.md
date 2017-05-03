@@ -233,7 +233,7 @@ Elle dispose de deux groupes d’experts :<br/>
 •La prévention, l’éducation et la promotion de la santé, la réponse aux menaces et crises sanitaires <br/>
      </p> 
      
-     <p><strong>Alliances de recherche :  </strong> coordonner l’analyse stratégique, la programmation scientifique et la mise en œuvre opérationnelle de la recherche dans certains domaines
+     <p><strong>Alliances de recherche :  </strong> coordonner l’analyse stratégique, la programmation scientifique et la mise en œuvre opérationnelle de la recherche dans certains domaines <br/>
 •Allenvi : Alliance nationale de recherche pour l’environnement <br/>
 •Aviesan : Alliance nationale pour les sciences de la vie et de la santé <br/>
 •Athena : Alliance thématique nationale des sciences humaines et sociales <br/>
