@@ -114,13 +114,15 @@ La définition et les critères permettant d’identifier les perturbateurs sont
   
   <h4> Absence de consensus sur la régulation </h4>
   
-  <p> Pourtant, la Commission parle d’une <strong> absence de consensus</strong> à l’intérieur de la communauté scientifique <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.md">(lien vers le questionnaire)</a> </strong> En fait, cette absence de consensus concerne la régulation à adopter pour les perturbateurs, c’est-à-dire lesquels interdire et de quelle manière (en établissant un seuil par exemple), et ces difficultés sont provoquées par la remise en cause des principes toxicologiques de base par les perturbateurs endocriniens.<br> 
+<p>
+Pourtant, la Commission parle d’une <strong> absence de consensus</strong> à l’intérieur de la communauté scientifique <strong> <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.md">(lien vers le questionnaire)</a> </strong> En fait, cette absence de consensus concerne la régulation à adopter pour les perturbateurs, c’est-à-dire lesquels interdire et de quelle manière (en établissant un seuil par exemple), et ces difficultés sont provoquées par la remise en cause des principes toxicologiques de base par les perturbateurs endocriniens.<br> 
 Pour cause, si l’on sait que les molécules catégorisées comme « perturbateurs endocriniens » présentent un danger pour la santé humaine, on ne sait pas à quel niveau. Cela est notamment dû à ce que l’on appelle <strong>l’effet cocktail</strong> : lorsque plusieurs perturbateurs endocriniens sont présents et agissent sur un individu, leur effet sur le système endocrinien peut être démultiplié. 
 
 <div style="text-align: center">
-  <img src="2.png" alt="Perturbateurs endocriniens"  style="width:400px;height:150px;">
+  <img src="2.png" alt="Perturbateurs endocriniens"  style="width:450px;height:150px;">
 </div>
 
+<p>
 De plus, un être humain est confronté à un nombre infini de substances pouvant avoir un impact sur son système hormonal au cours de sa vie et l’émergence de maladies liées à la perturbation du système endocrinien se constate sur le très long terme. Par conséquent, dans son <p> <a href="http://www.who.int/ipcs/publications/en/toc.pdf">rapport de 2002 </a> , l’OMS souligne que : </p>
 
 <p><blockquote>« Il pourrait ne jamais être possible d’avoir la certitude qu’une exposition spécifique cause une maladie ou dysfonction spécifique ».</blockquote></p>
@@ -225,10 +227,11 @@ Cette approche selon le principe de précaution, soutenue par la plupart des org
 <iframe width="640" height="360" src="https://www.youtube.com/embed/9ZsHlyKtZYo" frameborder="0" allowfullscreen></iframe>
 <div/>
 
+<p>
 Sur le site internet de l’ECETOC (une organisation cherchant à aider l'industrie à minimiser les effets négatifs sur la santé humaine et l'environnement pouvant découler de la fabrication et de l'utilisation de produits chimiques), on retrouve un article de Richard W.Lewis, chercheur chez <strong>Syngenta</strong>, une société spécialisée dans la chimie et l’alimentaire et appartenant à l’ECETOC. Intitulé « <a href="http://www.sciencedirect.com/science/article/pii/S0378427413013088">guide pour identifier les perturbateurs endocriniens</a> », il se présente en faveur de l’approche régulatrice liée à <strong>la dose</strong> (a weight-of-evidence approach). Les industries ne sont pas les seules à intervenir en faveur d’une approche risk-based : en mai 2011, <strong>l’Allemagne et l’Angleterre</strong> publient un <a href="http://www.bfr.bund.de/cm/343/regulatory_definition_of_an_endocrine_disrupter_in_relation_to_potential_threat_to_human_health.pdf">document commun</a> dans lequel ils se positionnent en faveur de l’établissement de seuils pour réguler les perturbateurs endocriniens. Selon le critère de puissance donc, seuls les plus dangereux perturbateurs endocriniens seraient retirés du marché, tandis qu’on laisserait aux autres substances le bénéfice du doute.</p>
 
 <div style="text-align: center">
-  <img src="8.png" alt="Perturbateurs endocriniens"  style="width:450px;height:350px;">
+  <img src="8.png" alt="Perturbateurs endocriniens"  style="width:350px;height:200px;">
 </div>
 
 <h4> Le débat du côté du Parlement </h4>
@@ -242,13 +245,13 @@ Cependant, les débats vont bon train dans l’enceinte parlementaire et reflèt
 
 
 <div style="text-align: center">
-  <img src="9.png" alt="Perturbateurs endocriniens"  style="width:350px;height:500px;">
+  <img src="9.png" alt="Perturbateurs endocriniens"  style="width:400px;height:500px;">
 </div>
 
 <p> Girling et les députés qui la soutiennent, entre autres Oreste Rossi (du groupe eurosceptique Europe of Freedom and Democracy - EFD), Pilar Ayuso (du groupe conservateur European People’s Party - EPP), Cristina Gutierrez-Cortines (EPP) et Andres Perello Rodriguez (du groupe socio-démocrate - S&D), souhaitent une modification par <a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-%2F%2FEP%2F%2FNONSGML%2BCOMPARL%2BPE-500.605%2B01%2BDOC%2BPDF%2BV0%2F%2FEN">amendements</a> du rapport Westlund, en remplaçant notamment le principe de précaution par une approche selon le critère de puissance. </p>
 
 <div style="text-align: center">
-  <img src="10.png" alt="Perturbateurs endocriniens"  style="width:400px;height:300px;">
+  <img src="10.png" alt="Perturbateurs endocriniens"  style="width:500px;height:250px;">
 </div>
 
 <p> Toutefois, l’approche hazard-based disposant d’une bonne majorité au Parlement, le rapport Westlund aboutit en mars 2013 à une <a href="http://www.europarl.europa.eu/sides/getDoc.do?type=TA&reference=P7-TA-2013-0091&format=XML&language=EN">résolution</a> précisant que les effets de n’importe quelle combinaison de perturbateurs endocriniens possible doivent être prise en considération et qu’étant donné que l’état actuel des connaissances scientifiques sur le sujet ne fournit pas une base suffisante pour mettre en place une limite en dessous de laquelle des effets indésirables ne se produiraient pas, les perturbateurs endocriniens doivent être considérés comme des substances sans seuil (non-threshold substances). </p>
