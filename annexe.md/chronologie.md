@@ -193,7 +193,7 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 <p><strong>Novembre</strong> : Deuxième réponse à la lettre ouverte par 104 scientifiques de l’Endocrine Society.</p>
 
-<p><strong>Décembre</strong> : Date limite pour l’établissement d’une définition et de critères de régulation manquée par la Commission.</p><br>
+<p><strong>Décembre</strong> : Date limite pour l’établissement d’une définition et de critères de régulation manquée par la Commission.</p>
 
 <h2>2014</h2>
 
@@ -237,7 +237,7 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 <li>Condamnation de la Commission par la Cour de Justice pour ne pas avoir agi dans les dates prévues. La CJUE estime qu’une étude d’impact est inutile pour qu’une prise de décision soit effectuée par la Commission.</li>
 <li>Deuxième publication de l’Endocrine Society préconisant à nouveau une approche hazard-based.</li>
 
-</ul><br>
+</ul>
 
 <h2>2016</h2>
 
@@ -252,7 +252,7 @@ Septembre : Stéphane Horel et Brian Bienkowski publient dans Environmental Hea
 
 </ul>
 
-<p><strong>Décembre</strong> : Rejet de la proposition de la Commission par le Parlement (pas de majorité qualifiée).</p><br>
+<p><strong>Décembre</strong> : Rejet de la proposition de la Commission par le Parlement (pas de majorité qualifiée).</p>
 
 <h2>2017</h2>
 
