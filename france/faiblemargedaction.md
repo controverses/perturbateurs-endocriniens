@@ -152,7 +152,13 @@ Le Ministère de l’Environnement veut également introduire une plateforme pub
 <p align="justify"> Le Gouvernement amplifie la démarche d’évaluation des dangers et risques de substances susceptibles d’être perturbateurs endocriniens. Il confie à l’ANSES, l’expertise d’au moins une quinzaine de substances chimiques sur 3 ans.</p>
 
 <h4>Réglementation et substitution des perturbateurs endocriniens</h4>
-<p align="justify">En fonction des conclusions des expertises, les substances concernées doivent faire l’objet de mesures réglementaires adaptées, portées en priorité au niveau européen. La France veut défendre sa définition des <a href="https://controverses.github.io/perturbateurs-endocriniens/france/franceinterpelleue.html">perturbateurs endocriniens</a> et proposer des mesures jugées nécessaires en vertu de son pouvoir d’initiative au niveau européen. En complément des mesures réglementaires, la France accompagne les industriels dans leurs démarches de substitution de substances dangereuses. Par exemple, un <a href="https://substitution.ineris.fr/fr ">Service national d’assistance</a> pour la substitution des bisphénols est mis en place par l’INERIS à la demande du Ministère en charge de l’Environnement en janvier 2013. </p>
+<p align="justify">En fonction des conclusions des expertises, les substances concernées doivent faire l’objet de mesures réglementaires adaptées, portées en priorité au niveau européen. La France veut défendre sa définition des <a href="https://controverses.github.io/perturbateurs-endocriniens/france/franceinterpelleue.html">perturbateurs endocriniens</a>:</p>
+
+<blockquote>Cette définition doit être fondée sur les propriétés intrinsèques de la substance : la notion
+de « puissance » (potency) ne doit pas être prise en compte car elle est incompatible avec
+le phénomène d’effets à très faible dose et les courbes « dose-réponse non monotone ». <em>Citation du texte final de la Stratégie Nationale sur les Perturbateurs Endocriniens.</em></blockquote>
+
+<p>En complément des mesures réglementaires, la France accompagne les industriels dans leurs démarches de substitution de substances dangereuses. Par exemple, un <a href="https://substitution.ineris.fr/fr ">Service national d’assistance</a> pour la substitution des bisphénols est mis en place par l’INERIS à la demande du Ministère en charge de l’Environnement en janvier 2013. </p>
 
 <h4>Formation et information</h4>
 <p align="justify">Le gouvernement veut développer l’information et la sensibilisation des professionnels et du grand public à la question des perturbateurs endocriniens, pour permettre à chacun d’orienter ses choix et de limiter son exposition. 
@@ -162,10 +168,10 @@ Le Ministère de l’Environnement veut également introduire une plateforme pub
 
 <p align="justify"> <a href="http://www.adebiotech.org/pert/">Colloque</a> sponsorisé par BASF (leader mondial de l’industrie chimique), citation de BASF à la fin du compte-rendu du colloque : </p>
 
-<p align="justify"> <blockquote> «	Cet état de méfiance permanente face à toute innovation entraîne un excès de « précautionnisme » réglementaire, voire parfois une véritable surrèglementation, comme en témoigne la stratégie nationale sur les perturbateurs endocriniens, qui brouille l'horizon et la visibilité des industriels de tous les secteurs, compromettant de fait leur capacité d’investissement et de développement en France. Nous sommes ainsi intimement convaincus que le rapport bénéfices / risques de toute innovation ou solution doit être évalué par une approche rationnelle fondée sur des données scientifiques fiables sans une surexpression du principe de précaution. »</blockquote> </p> 
+<blockquote> «	Cet état de méfiance permanente face à toute innovation entraîne un excès de « précautionnisme » réglementaire, voire parfois une véritable surrèglementation, comme en témoigne la stratégie nationale sur les perturbateurs endocriniens, qui brouille l'horizon et la visibilité des industriels de tous les secteurs, compromettant de fait leur capacité d’investissement et de développement en France. Nous sommes ainsi intimement convaincus que le rapport bénéfices / risques de toute innovation ou solution doit être évalué par une approche rationnelle fondée sur des données scientifiques fiables sans une surexpression du principe de précaution. »</blockquote>
 
 <p align="justify"> Discours de Michel Urtizberea, BASF, toxicologue spécialisé dans les perturbateurs endocriniens : </p>
-<p align="justify"><blockquote> « Malgré sa contribution active à la SPNE, l’industrie qui réclamait la prise en compte de points importants comme la puissance des effets observés et l'approche par le poids de la preuve, n'a pas obtenu que ces demandes soient intégrées dans la version finale de la SNPE portée par le Gouvernement. » </blockquote></p>
+<blockquote> « Malgré sa contribution active à la SPNE, l’industrie qui réclamait la prise en compte de points importants comme la puissance des effets observés et l'approche par le poids de la preuve, n'a pas obtenu que ces demandes soient intégrées dans la version finale de la SNPE portée par le Gouvernement. » </blockquote>
 
 </div>
    
