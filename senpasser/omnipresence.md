@@ -105,28 +105,27 @@ li a.active {
   <h2>Un constat </h2>
   
  <p align="justify"> <strong> Barbara Demeneix, endocrinologue au Muséum national d’histoire naturelle et auteur de l’ouvrage Le Cerveau endommagé (2016) : </strong> 
-<p><blockquote> « Ces substances sont présentes dans ce qu’on boit, ce qu’on mange, ce qu’on respire ou ce qu’on se met sur la peau. En clair, nous sommes tous exposés » </blockquote> 
+<blockquote> « Ces substances sont présentes dans ce qu’on boit, ce qu’on mange, ce qu’on respire ou ce qu’on se met sur la peau. En clair, nous sommes tous exposés » </blockquote> 
  
 <p align="justify"> <strong> Agnès Bee, chercheuse à l’Université Pierre et Marie Curie :</strong>
- <p> <blockquote>“Pour pouvoir éliminer les perturbateurs endocriniens, il faut trouver une solution pour les remplacer, ce qui n’est pas toujours facile. Interdire les Perturbateurs endocriniens n’est pas résoudre le problème.” </blockquote> 
+<blockquote>“Pour pouvoir éliminer les perturbateurs endocriniens, il faut trouver une solution pour les remplacer, ce qui n’est pas toujours facile. Interdire les Perturbateurs endocriniens n’est pas résoudre le problème.” </blockquote> 
 
 <p align="justify"> <strong> Marine Jobert, journaliste, auteur de Les Perturbateurs endocriniens (2015) :</strong> 
-<p> <blockquote>  « Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. »  </blockquote></p> 
+<blockquote>  « Ceux qui tergiversent autour d’hypothétiques produits de substitution montrent qu’ils prennent le problème dans le mauvais sens, puisqu’on découvre aujourd’hui que des produits de substitution sont eux-mêmes des perturbateurs endocriniens ! Ce qu’il faut, c’est se désintoxiquer de la chimie, et ce dans tous les secteurs. »  </blockquote>
 
 <p align="justify"> Nous sommes aujourd’hui entourés au quotidien de produits chimiques qui, selon les recherches scientifiques, nuisent à notre santé et à celles des futures générations. Le nombre de nouvelles substances chimiques, avec des effets potentiels sur notre santé, augmente chaque année. Il apparaît difficile de s’en débarrasser puisque, d’après une étude réalisée par Générations Futures en février 2017 sur les cheveux de certaines personnalités françaises, on retrouve encore aujourd’hui des perturbateurs endocriniens dont la commercialisation est interdite depuis des dizaines d’années. Cela signifie que, même si on arrêtait totalement la production de perturbateurs endocriniens, on ne sait pas pendant combien de temps il sera encore possible d’en trouver partout dans la nature.</p> 
 <p align="justify"> De plus, certains produits fortement suspectés de contenir des perturbateurs endocriniens sont devenus indispensables à notre vie quotidienne, comme le paracétamol. On se retrouve face à un choix difficile : soit se passer d’évolutions majeures de notre société pour éviter de subir des dysfonctionnements endocriniens, soit conserver ces produits mais avec des risques sur la santé sur le long terme qui sont encore très mal connus.</p>
-<p align="justify"> L’effet cocktail, un principe tout à fait nouveau, rajoute encore à la difficulté de mettre en œuvre des solutions concrètes pour se protéger des perturbateurs endocriniens. En effet, Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais, une fois ces substances sont réunies dans un même milieu, leur effet peut être décuplé. Or, les scientifiques n’ont pas les moyens d’étudier les effets de chaque combinaison de différents perturbateurs endocriniens. De plus, les substituts créés par les chimistes sont parfois plus dangereux que le produit de base. Ils peuvent également créer avec le produit qu’ils remplacent un effet cocktail nouveau, encore plus dangereux que l’effet du premier produit. </p> 
+<p align="justify"> L’effet cocktail, un principe tout à fait nouveau, rajoute encore à la difficulté de mettre en œuvre des solutions concrètes pour se protéger des perturbateurs endocriniens. En effet, Les scientifiques ont une idée précise des effets néfastes de ces substances de manière isolée mais, une fois ces substances sont réunies dans un même milieu, leur effet peut être décuplé. Or, les scientifiques n’ont pas les moyens d’étudier les effets de chaque combinaison de différents perturbateurs endocriniens. De plus, les substituts créés par les chimistes sont parfois plus dangereux que le produit de base. Ils peuvent également créer avec le produit qu’ils remplacent un effet cocktail nouveau, encore plus dangereux que l’effet du premier produit. </p><br> 
 
+<p align="justify"> Face à ce constat, on observe plusieurs réactions sur un continuum entre deux attitudes extrêmes :</p>
 
-<br/>
-<p align="justify"> 
-Face à ce constat, on observe plusieurs réactions sur un continuum entre deux attitudes extrêmes :
+<ul>
 <li>Certains considèrent qu’il n’y a plus rien à faire face à un environnement qui est à ce jour tellement pollué qu’on ne peut plus y remédier. Il faudrait alors arrêter les recherches et vivre sans y penser</li>
-<li>D’autres, au contraire, considèrent qu’il est nécessaire de se débarrasser des perturbateurs endocriniens, à cause de leurs effets sur la santé. Ils se mobilisent pour trouver des alternatives. </li> </p> 
+<li>D’autres, au contraire, considèrent qu’il est nécessaire de se débarrasser des perturbateurs endocriniens, à cause de leurs effets sur la santé. Ils se mobilisent pour trouver des alternatives. </li> 
 
-</div>
+</ul>
 
-<div id="acteurs">
+<div id="acteurs"></div>
 
 <p align="justify"> Les recherches que nous avons menées sur le sujet des perturbateurs endocriniens nous ont prouvé la difficulté (à la fois à l’échelle française et européenne) d’établir une législation stricte, protectrice des individus mais également des intérêts économiques.
 Face à ce manque de réglementation des politiques et des gouvernements, de nouveaux acteurs entrent en scène : les individus, la société civile et les médias. Il semble en effet possible d’introduire à l’échelle individuelle ou à l’échelle associative de nouveaux niveaux de lutte contre les effets néfastes des perturbateurs endocriniens. </p> 
@@ -191,16 +190,13 @@ La conférence donnée par le journaliste pour Le Monde, Stéphane Foucart, sur 
 4.	L’expertise sur le sujet est extrêmement fragmentée. Certains scientifiques et experts s’occupent juste de la chaîne alimentaire par exemple. D’autres s’occupent des cosmétiques. Or, les perturbateurs endocriniens sont présents partout. Il devient difficile de faire émerger un message d’ensemble cohérent.<br><br>
 5.	Les perturbateurs endocriniens ne créent pas de victimes, à proprement parler (hormis pour le dystilbène). Ceux qui ont à subir leurs effets sont nombreux, mais, comme le souligne Stephane Foucart, il n’y a pas de « victime pour venir pleurer devant la caméra ». Or, l’émotion est un moyen très puissant pour amener le public à s’intéresser à un sujet. Il est également difficile d’attribuer la faute de l’omniprésence des perturbateurs endocriniens à une seule entité.<br><br>
 6.	Il explique que le journaliste doit faire face à de nombreux obstacles, parmi lesquels le manque de temps et d’argent pour lire les articles scientifiques. Le sujet étant si vaste et complexe, pour beaucoup, les Perturbateurs Endocriniens restent un sujet difficilement traitable dans un article destiné à être lu par le grand public. <br><br>
-7.	Pour finir, le travail de recherche qui est nécessaire est délicat puisque tous les acteurs ont un intérêt dans cette controverse et vont ainsi avoir tendance à la décrire avec un certain point de vue. Par exemple, Stéphane Foucart précise qu’il préfère ne pas travailler avec des associations car ses articles risquent alors d’être critiqués comme étant non objectifs par la communauté scientifique.<br/>
+7.	Pour finir, le travail de recherche qui est nécessaire est délicat puisque tous les acteurs ont un intérêt dans cette controverse et vont ainsi avoir tendance à la décrire avec un certain point de vue. Par exemple, Stéphane Foucart précise qu’il préfère ne pas travailler avec des associations car ses articles risquent alors d’être critiqués comme étant non objectifs par la communauté scientifique.<br>
 
 <div style="text-align: center">
-  <img src="journalendocrine.png" alt="Perturbateurs endocriniens"  style="width:500px;height:auto;">
+  <img src="journalendocrine.png" alt="Perturbateurs endocriniens"  style="width:500px;height:auto;"/>
 </div>
-
 
 </p>
-
-</div>
   
   </article>
   </body>
