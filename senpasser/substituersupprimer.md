@@ -191,7 +191,7 @@ L’épuration de l’eau se termine par la filtration, qui permet de supprimer 
 <p style="border:5px; border-style:solid; border-color:rgb(96, 108, 113); padding: 1em;"> <strong>Explication des magsorbants </strong> <br><br>Les “magsorbants” sont des billes magnétiques de taille millimétrique constituées d’alginate et de chitosane (bio-polymères végétales et de faibles coûts) dans lesquelles sont encapsulées des nanoparticules magnétiques.
 Ces polymères ont des propriétés absorbantes et permettent de capter les différents polluants présents dans l’eau. Les billes étant magnétiques, elles peuvent être retirées du milieu à dépolluer très facilement au moyen d’un gradient de champ magnétique (ou plus simplement d’un aimant).<br><br>
 
-<img src="Billes.png" alt="Perturbateurs endocriniens" usemap="#pertumap" width="300px" height="150px" align="middle" /><br>
+<img ALIGN="middle" src="Billes.png" alt="Perturbateurs endocriniens" usemap="#pertumap" width="300px" height="150px"/><br>
 
 </p>  
  
