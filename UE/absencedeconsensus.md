@@ -115,7 +115,7 @@ La définition et les critères permettant d’identifier les perturbateurs sont
   <h4> Absence de consensus sur la régulation </h4>
   
 <p>
-Pourtant, la <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.html">Commission parle</a>d’une <strong> absence de consensus</strong> à l’intérieur de la communauté scientifique  En fait, cette absence de consensus concerne la régulation à adopter pour les perturbateurs, c’est-à-dire lesquels interdire et de quelle manière (en établissant un seuil par exemple), et ces difficultés sont provoquées par la remise en cause des principes toxicologiques de base par les perturbateurs endocriniens.<br> 
+Pourtant, la <a href="https://controverses.github.io/perturbateurs-endocriniens/annexe.md/commission.html">Commission parle</a> d’une <strong> absence de consensus</strong> à l’intérieur de la communauté scientifique  En fait, cette absence de consensus concerne la régulation à adopter pour les perturbateurs, c’est-à-dire lesquels interdire et de quelle manière (en établissant un seuil par exemple), et ces difficultés sont provoquées par la remise en cause des principes toxicologiques de base par les perturbateurs endocriniens.<br> 
 Pour cause, si l’on sait que les molécules catégorisées comme « perturbateurs endocriniens » présentent un danger pour la santé humaine, on ne sait pas à quel niveau. Cela est notamment dû à ce que l’on appelle <strong>l’effet cocktail</strong> : lorsque plusieurs perturbateurs endocriniens sont présents et agissent sur un individu, leur effet sur le système endocrinien peut être démultiplié. 
 
 <div style="text-align: center">
